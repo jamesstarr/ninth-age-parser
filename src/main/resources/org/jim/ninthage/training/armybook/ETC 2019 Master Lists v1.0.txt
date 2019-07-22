@@ -1,0 +1,2493 @@
+﻿1 1 ETC 2019 Novi Sad Lists Pack The Ninth Age 
+Version: 1.0 
+2 2 Argentina 
+Captain: ??? - Coach: Alfredo Gil 
+<ARMY_BOOK:BH>
+590 – Beast Lord on Razortusk Chariot, General, Hunting Call, Shield, Heavy Armour, Beast Axe, Throwing Weapons, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of Shielding 
+460 – Beast Chieftain on Raiding Chariot, BSB, Greater Totem Bearer, Shield, Heavy Armour, Beast Axe, Dragonfire Gem, Alchemist’s Alloy, Dusk Forged 
+495 – Soothsayer, Master, Druidism, Seed of the Dark Forest, Binding Scroll 
+354 – 33x Mongrel Herd, Spear, M, S, C, Banner of the Wild Herd 
+220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, M 
+220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, S 
+112 – 9x Feral Hounds 
+564 – 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem) 
+185 – 5x Centaurs, Paired Weapons 
+100 – 2x1 Razortusk Herd 
+475 – 2x1 Gortach 
+150 – 5x Gargoyles, Scout 
+4500 
+<ARMY_BOOK:WDG>
+530 – Doomlord, General, Spiked Shield, Great Weapon (Cleansing Light), Basalt Infusion, Dusk Forged
+500 – Sorcerer, Master, Evocation, Paired Weap- ons, Light Armour (Destiny's Call), Binding Scroll 
+445 – Sorcerer on Dark Chariot, Adept, Alchemy, Plate Armour, Paired Weapons (Hero's Heart), Dragonfire Gem, Book of Arcane Mastery 
+641 – 24x Warriors, S, C, Rending Banner 
+260 – 10x Warriors, Favour of Lust, C 
+521 – 2x4 Feldraks, Paired Weapons, M, C 
+573 – 8x Forsworm, Paired Weapons, S, C, Flaming Standard 
+155 – 5x Flayers, Light Lance 
+90 – 5x Warhounds 
+260 – 1x Battleshrine 
+4496
+<ARMY_BOOK:DE>
+505 – Oracle, General, Master, Essence of Free MInd (Divination/Alchemy), Binding Scroll 745 – Cult Priest on Divine Altar, Paired Weapons Crew, BSB, Cult of Yema, Hand Weapon (Moraec's Reaping), Light Armour (Basalt Infusion), Shield, Lucky Charm 
+245 – Oracle, Adept, Cosmology 
+160 – 2x5 Dark Raiders 205 – 15x Dread Legionnaires, M, C 
+325 – 12x Blades of Nabh, C, S, Rending Banner 305 – 12x Blades of Nabh, S, Rending Banner 
+528 – 24x Dancers of Yema, C 440 – 3x1 Hydra 
+4498
+<ARMY_BOOK:SE>
+Jorge “Charming Stelar” Guerrini, Sylvan Elves (c) 
+225 – Dryad Ancient, General, Adept, Divination 
+300 – Thicket Sheperd, BSB 
+490 – Druid on Eagle King, Master, Druidism, Syl- van Blades, Sylvan Longbow, Sceptre Power, Ob- sidian Rock 
+365 – Druid on Eagle King, Adept, Shamanism, Sylvan Blades (Hero's Heart), Sylvan Longbow, Dragonfire Gem, Potion Strength 
+220 – Druid, Adept, Cosmology, Sylvan Longbow 
+265 – 10x Sylvan Archers 
+188 – 9x Dryads, C 
+336 – 2x8 Heath Hunters, M 
+510 – 5x Thickets Beasts, C 
+615 – 6x Thickets Beasts, C 
+325 – 2x5 Wild Huntsmen, Shield 
+4500
+<ARMY_BOOK:VS>
+820 – Vermin Daemon, General 
+725 – Plague Patriarch on Plague Pendulum, Adept,Occultism, Light Armour, Putrid Protection, Plague Flail 
+255 – Magister, Adept, Witchcraft, Binding Scroll 
+511 – 31x Vermin Guard, S, C, Rending Banner 
+370 – 20x Vermin Guard, S, Lightning Rod 
+235 – 21x Plague Brotherhood, C 
+140 – 20x Giant rats 
+295 – 4x Vermin Hulks 
+238 – 12x Plague Disciples 
+305 – 2x1 Dreadmill 
+190 – 5x Jezails 
+110 – 3x Jezails 
+4499
+<ARMY_BOOK:HBE>
+1120 – Mage on Dragon, General, Master, Order of Fiery Heart, Essence Free Mind (Pyromancy/ Alchemy), 
+Paired Weapons,(Hero's Heart), Binding Scroll 805 – Comander on Dragon, BSB, Queen ́s Cava- lier, Paired Weapons, Longbow, Shield Breaker, Lucky Charm, 
+Flaming Standard 290 – Mage on Giant Eagle, Light Armour, Adept, Cosmology, Dragonfire Gem, Alchemists Alloy 320 – 3x15 Sea Guard, M 180 – 5x Elein Reavers 100 – 1x Giant Eagle 135 – 2x1 Giant Eagle 215 – 1x Lion Chariot 110 – 1x Reaver Chariot 245 – 10x White Lions, Baleig Highlanders 340 – 5x Knights of Ryma 4500 
+Luis "Asurnil" Muñoz", Daemonic Legions 
+695 – Sentinel of Nukuja on Throne of the Oracle, General (Greater Dominion), Divination, Mark of Eternal Champion 
+275 – Harbinger of Father Chaos, Adept, Evocation 
+375 – 15x Lemures, S, M 
+375 – 2x15 Myrmidons, Whipcrack Tail, M 
+639 – 6 Clawed Fiends, Mesmerising Plumage, M 
+335 – 1x Hope Harvester, Mark of Eternal Champi- on 334 – 12x Hellhounds, Digestive Vomit 
+235 – 1x Threshing Engine, Horde Thresher 
+205 – 1xTitanslayer Chariot 
+186 – 2x Mageblight Gremlins, Living Shield 
+305 – 4x Veil Serpents 
+160 – 5x Furies 
+4494 
+<ARMY_BOOK:OK>
+545 – Shaman, General, Master, Shamanism, Iron Fist, BInding Scroll, Lygur's Tongue 
+420 – Khan, BSB, Trolleater, Brace of Ogre Pistols, Viper's Curse, Flaming Standard, Potion of Swift- ness 
+355 – Shaman, Adept, Thaumaturgy, Iron Fist, Book of Arcane Mastery, Potion of Strength 
+360 – Mammoth Hunter, Hunting Spear, Iron Fist, Leader of Pack, Wrestler's Belt, Dragonfire Gem, Lucky Charm, 
+Spinesplitter 
+736 – 9x Bruisers, M, S, C, Banner of Discipline 
+234 – 29x Scraplings,Spear, M, Scrapling Foreman 
+155 – 3x Tribesmen 
+585 – 5x Mercenary Veterans, M, Poison, Accu- rate, Brace of Ogre Pistols 
+295 – 2x1 Slave Giant, Great Weapon 
+80 – 2x1 Sabretooth Tiger 
+175 – 2x2 Yetis 
+4500 
+<ARMY_BOOK:OK>
+540 - Shaman, General, Thaumaturgy, Master, Iron Fist, Lygur’s Tongue, Magical Heirloom 
+380 - Khan, Hoardmaster, BSB, Banner of Disci- pline, Mammoth Hide Cloak 
+390 - Mammoth Hunter, Trolleater, Leader of the Pack, Wrestler's Belt, Lucky Charm, Iron Fist 
+360 - Mammoth Hunter, Spinesplitter, Leader of the Pack, Death Cheater, Iron Fist 
+827 - 10x Bruisers, FCG, Pennant of the Great Grass Sky 
+155 - 2x3 Tribesmen 
+205 - 3x Bombardiers, M 
+80 - 2x1 Sabertooth Tiger 
+80 - 5x Scrapling Trappers 
+475 - 2x1 Rock Aurochs, Hunting Spear 
+295 - Slave Giant, Great Weapon 
+4497 
+<ARMY_BOOK:DL>
+655 - Kuulima's Deceiver, General, Greater Domin- ion, Master, Greenfire Eyes, Piercing Spike Domi- nant 
+789 - 29x Myrmidons, Bronze Backbone, C, M 
+340 - 10x Imps, Mark of the Eternal Champion, FCG, Fire Starter 
+569 - 5x Clawed Fiends, Broodmother, M 
+556 - 4x Brazen Beasts, Red Haze, M 
+325 - Hope Harvester, Aura of Despair 
+300 - 4x Mageblight Gremlins, Venom Sacs 
+224 - 7x Hellhounds, Horns of Hubris 
+205 - Threshing Engine, Fly and Light Troops, Divin- ing Snout 
+370 - 3x Veil Serpents, C 
+165 - 5x Furies, Red Haze 
+4498 
+<ARMY_BOOK:VS>
+810 - Magister, General, Thaumaturgy, Master, 3 Dark Shards, Doom Bell, Light Armour, Alchemist's Alloy, Second Awakening 
+745 - Plague Patriarch, Occultism, Adept, Plague Pendulum, Light Armour, Putrid Protection, Plague Flail, Dragonfire Gem 
+165 - Chief, BSB, Shield 
+370 - 20x Vermin Guard, S, Lightning Rod 
+260 - 25x Rat-at-Arms, C, M 
+225 - 20x Plague Brotherhood, C 
+140 - 2x20 Giant rats 
+272 - 2x14 Plague Disciples 
+305 - 2x1 Dreadmill 
+170 - 2x1 Verminous Artillery, Plague Catapult 
+150 - 4x Jezails 
+4499 
+<ARMY_BOOK:WDG>
+730 - Doomlord, Wasteland Behemoth, Burning Portent, Wyrd Stone 
+595 - Doomlord, Wasteland Behemoth, Paired Weapons 
+685 - Feldrak Ancestor, General 
+350 - 24x Barbarians, Spear and Shield, M, S, Ban- ner of the Relentless Company 
+225 - 2x8 Barbarian Horsemen, Shield, M 
+120 - 8x Warhounds 
+290 - 2x1 Marauding Giant, Giant Club 
+300 - Marauding Giant, Tribal Warspear 
+300 - 2x1 Battleshrine, Icon of the Infinite 
+90 - 5x Warhounds 
+4500
+<ARMY_BOOK:VC>
+770 - Vampire Count, General, The Dead Arise, 
+Strigoi, Ghoul Lord, Shamanism, Adept, Paired 
+Weapons (Touch of Greatness), Hypnotic Pendant 
+430 - Vampire Courtier, Strigoi, Bestial Bulk, Sham- 
+anism, Apprentice, Halberd, Talisman of the Void 
+280 - Necromancer, Evocation, Adept, Necroman- 
+tic Staff 
+660 - 40x Ghouls, C 
+200 - 33x Zombies, M 
+133 - 2x8 Dire Wolves, C 
+560 - 7x Ghasts, C 
+350 - Cadaver Wagon 
+490 - 2x1 Shrieking Horror 
+4496 
+<ARMY_BOOK:SA>
+845 - Cuatl Lord, General, BSB, Evocation, Trained 
+from Birth, Grasp of the Immortal, Talisman of the 
+Void, Binding Scroll 
+290 - Skink Priest, Adept, Druidism, Book of Arcane 
+Power, Sun Tablet 
+155 - Skink Captain, Bow (Wildfire Burst) 
+683 - 29x Saurian Warriors, Piranha, FCG, Rending 
+Banner 
+220 - 15x Skink Braves, Poisoned Javelin, M 
+854 - 27x Temple Guard, FCG, Rending Banner 
+290 - 2x4 Caimans 
+130 - 2x5 Chameleons 
+135 - Spearback 
+239 - 2x3 Ramphodon Riders, Shield 
+4500 
+<ARMY_BOOK:KoE>
+670 - Duke, Virtue of Might, Questing Oath, Shield, 
+Lance (Divine Judgement) Pegasus, Fortress Of 
+Faith, Potion Of Speed, Basalt Infusions 
+455 - Paladin, Virtue of Renown, BSB, Paired 
+Weapons (Hero’s Heart), Pegasus, Ghostly Guard 
+420 - Damsel, Master, Druidism, Barded Warhorse, 
+Wafers of Penitence, Potion of Strength 
+235 - Damsel, Adept, Shamanism, Barded War- 
+horse 
+660 - 11x Knights of The Realm, FCG, Banner of 
+the Last Charge 
+404 - 8x Knight Aspirants, FCG 
+250 - 5 Knight Aspirants, C 
+530 - 10 Knights of the Quest, FCG 
+125 - 5 Yeoman Outriders 
+130 - 5 Yeoman Outriders, Light Armour 
+620 - 5x Pegasus Knights, C, S, Banner of Roland 
+4499 
+<ARMY_BOOK:UD>
+305 - Nomarch, General, Skeleton Chariot, Alche- 
+mist's Alloy, Death Mask of Teput, Crown of the 
+Wizard King, Shield, Heavy Armour 
+295 - Death Cult Hierarch, Book of Arcane Mas- 
+tery, Scroll of Desiccation, Hierophant, Adept, 
+Evocation 
+445 - Death Cult Hierarch, Sacred Hourglass, Mas- 
+ter, Divination 
+200 - 2x Tomb Architect, Amuut 
+170 - 20x Skeletons, M 
+130 - 2x5 Skeleton Scouts 
+695 - 7x Legion Skeleton Chariots, C, M 
+410 - 4x Tomb Cataphracts, M 
+760 - 2x4 Tomb Reapers, Paired Weapons 
+4500
+<ARMY_BOOK:ID>
+545 - 1x Prophet, Wizard Master, Pyromancy,
+General, Tablet of Ashuruk, Magical Heirloom 
+330 - 1x Vizier, BSB, Shield, Talisman of the Void, 
+Icon of the Inferno 
+520 - 1x Vizier, Bull of Shamut, Shield, Hero's 
+Heart, Ghostly Guard, Talisman of Shielding 
+120 - 2x1 Hobgoblin Chieftain, Wolf 
+300 - 3x10 Citadel Guard, Flintlock Axe, Shield, 
+Musician 
+233 - 1x16 Infernal Warriors, Shield, Musican 
+216 - 1x6 Taurukhs, Shield, Infernal Weapons 
+150 - 2x1 Gunnery Team, Volley Gun 
+95 - 2x1 Hobgoblin Bolt Thrower 
+450 - 1x Infernal Engine, Shrapnel Guns 
+575 - 1x Kadim Titan 
+Sum: 4499 
+<ARMY_BOOK:SE>
+425 - 1x Driud, Shamanism, Sylvan Longbow, Wiz-
+ard Master, Binding Scroll 
+280 -1x Druid, Cosmology, Wizard Adept, Sacred 
+Seeds 
+305 1x Dryad Ancient, Army General, Druidism, 
+Scarred Bark, Wizard Adept 
+320 1x Thicket Sheperd, Battle Standard Bearer, 
+Oaken Crown 
+440 - 1x23 Dryads, Champion 
+205 - 1x5 Heath Hunters 
+205 - 1x5 Heath Hunters 
+285 - 1x10 Sylvan Archers, Musician 
+250 - 1x7 Blade Dancers, Champion 
+510 - 1x5 Thicket Beasts, Champion 
+325 - 1x5 Wild Huntsmen, Shield, Sylvan Lance 
+325 - 1x5 Wild Huntsmen, Shield, Sylvan Lance 
+335 - 1x10 Sylvan Sentinels 
+289 - 1x8 Sylvan Sentinels, Scout 
+Sum: 4499 
+<ARMY_BOOK:DE>
+465 - Dread Prince, Shield, Heavy Armour, Great
+Weapon, Repeater Crossbow, Death Kiss, Seal of 
+the Republic, Talisman of Shielding, Potion of 
+Swiftness 
+255 - Cult Priest, BSB, Cult of Nabh , Great Weap- 
+on, Repeater Crossbow, Destiny's Call 
+395 - Oracle, Wizard Master, Cosmology 
+200 - 5 Dark Raider, Repeater Crossbows 
+200 - 5 Dark Raider, Repeater Crossbows 
+200 - 5 Dark Raider, Repeater Crossbows 
+200 - 5 Dark Raider, Repeater Crossbows 
+165 - 15 Dread Legionnaires 
+165 - 15 Dread Legionnaires 
+375 - 5 Dark Acolythes, Champion, Cult of Yema 
+770 - 27 Tower Guard, full Command, Banner of 
+Gar Daecos 
+748 - 26 Dread Judges, full Command, Banner of 
+Blood 
+180 - 1 Dread Reaper 
+180 - 1 Dread Reaper 
+Sum: 4498 points 
+<ARMY_BOOK:OnG>
+560 - Common Orc Shaman, General, War Cry!, 
+Shamanism, Wizard Master, Crown of Autocracy, 
+Skull Fetish 
+360 - Forest Goblin Witch Doctor, Thaumaturgy, 
+Wizard Master 
+245 - Common Orc Chief, Battle Standard, Aether 
+Icon, Banner of Discipline, Obsidian Rock 
+120 - 5 x Forest Goblin Chief, Huntsmen Spider 
+235 - 3 x 20 Common Orcs, Spears, Musician 
+215 - 2 x 20 Common Orcs, Spears 
+288 - 3 x 24 Gnasher Herd 
+276 - 23x Gnasher Herd 
+185 - Greenhide Catapult, Git Launcher 
+185 - Greenhide Catapult, Git Launcher 
+90 - Skewerer 
+4500 
+<ARMY_BOOK:HBE>
+565 - Mage, General, Asfad Scholar, Pyromancy,
+Wizard master, Book of Meladys 
+395 - Commander, Master of Canreig Tower, 
+Battle Standard, Book of Arcane Mastery 
+240 - 11 x 20 Citizen Spears 
+225 - 4 x 10 Lion Guard 
+4500
+<ARMY_BOOK:DH>
+485 - King, General, Shield, Pistol, Rune of Destruc-
+tion, Rune of Smashing, 2*Rune of Iron, Rune of 
+Steel 
+335 - Thane, BSB, Shield, Pistol, 2*Rune of Iron, 
+Rune of the Forge, 3*Rune of Lightning 
+730 - 25 Greybeards, Shield, Throwing Weapon, 
+Champion, Musician, Standard Bearer, Runic 
+Standard of Dismay 
+439 - 14 Greybeards, Shield, Throwing Weapon, 
+Champion, Musician, Standard Bearer, Banner of 
+the Relentless Company 
+175 - Attack copter 
+210 - Steam Bomber 
+210 - Steam Bomber 
+180 - Flame Canon, Rune Crafted, flaming shot 
+350 - Grudge Buster 
+350 - Grudge Buster 
+245 - 10 Miners, Throwing Weapon, Paired Weap- 
+on 661 - 6 Hold Guardians, Musician, Standard Bear- 
+er, Runic standard of the Hold 
+130 - Venegance Seeker 
+4500 Points 
+<ARMY_BOOK:VS>
+725 - Plague Patriarch, General, Plague Pendulum,
+Adept, Occultism, Light Armour, Plague Flail, Pu- 
+trid Protection 
+195 - Chief, BSB, Scepter of Vermin Valour 
+305 - Sicarra Assasin, Lethal Strike, Potion of Swift- 
+ness 
+450 - Magister, Master, Thaumaturgy, Magical 
+Heirloom, Talisman of the Void 
+405 - 29 Plague Brotherhood, MSC, Banner of 
+Speed 
+225 - 20 Plague Brotherhood, M 
+120 - 10 Footpads 
+375 - 35 Rat at Arms, MSC, Legion Standard 
+150 - Meat Grinder 
+90 - 2 Rat Swarms 
+170 - 8 Plague Disciples 
+305 - 2x Dreadmill 
+170 - 2x Plague Catapult 
+190 - 5 Jezails 
+150 - 4 Jezails 
+4500 
+<ARMY_BOOK:WDG>
+850 - Exalted Herald, General 
+495 - Sorcerer, Master, Evocation, Plate Armour, 
+Paired Weapons, Binding Scroll, Talisman of the 
+Void 
+135 - 15 Barbarians 
+669 - 19 Warriors of Greed, MSC, Banner of the 
+Relentless Company 
+120 - 8 Warhounds 
+229 - 2x 3 Forsworn, Spiked Shield 
+225 - 2x Warrior Chariot 
+200 - 2x Chimera 
+460 - 2x Feldrak Elder, Paired Weapon 
+4497 
+<ARMY_BOOK:KoE>
+650 - Duke, General, Grail Oath, Lance, Shield, Divine Judgement, Basalt Infusion, 
+Virtue of Might, Fortress of Faith, Pegasus 
+385 - Damsel Master, Wizard Master, The Druid- ism, Barded Warhorse 
+305 - Paladin, Shield, Lance, Virtue of Humility, Ghosty Gard, Barded Warhorse, Wyrmwood Core 
+250 - Paladin, BSB, Shield, Lance, Alchemist’s Al- loy, Barded Warhorse 
+105 - Castellan, Bannerman, Standard, Legion Standard 
+105 - Castellan, Bannerman, Standard, Legion Standard 
+417 - 56x Peasant Levy, S,M,C 
+250 - 5x Knights Aspirant, M 
+464 - 9x Knights of the Realm, S,M,C 
+635 - 5x Pegasus Knights, S,C, Skirmisher, Banner of Roland 
+135 - 5x Yeoman Outriders, Light Armour, Shield 
+135 - 5x Yeoman Outriders, Light Armour, Shield 
+661 - 7x Knights of the Grail, S,M,C, Stalker's Standard 
+<ARMY_BOOK:SE>
+365 - Thicket Shepherd, Toxic Spores, Battle Stand- ard Bearer
+735 - Treefather Ancient, General, Wizard Master, Druidism 
+690 - Avatar of Nature, Entangling Vines 
+476 - 25x Dryads, Champion 
+205 - 5x Heath Hunters 
+205 - 5x Heath Hunters 
+285 - 10x Sylvan Archers, Musician 
+615 - 6x Thicket Beasts, C 
+510 - 5x Thicket Beasts, C 
+100 - Forest Eagle 
+310 - 3x Kestrel Knights 
+<ARMY_BOOK:OK>
+360 - Khan: Battle Standard Bearer, Brace of Ogre Pistols (4+), Cult Leader, Obsidian Rock, Viper's Curse
+660- Shaman: Firebrand, General, Iron Fist, Light Armour, Pyromancy, Wizard Master, Crown of Autocracy, Lygur's Tongue, Yeti Furs 
+185 - 3 x Bruisers 
+185 - 3 x Bruisers 
+786 -11 x Tribesmen: fcg, Iron Fist, Rending Banner 
+824 - 6 x Mercenary Veterans with Ogre Pistols: fcg, Plate Armour, Poison Attacks, Banner of the Gyengget 
+205 - 3 x Bombardiers: m 
+205 - 3 x Bombardiers: m 
+205 - 3 x Bombardiers: m 
+405 - Frost Mammoth: Ogre Crossbow (3+) 
+475 - Rock Aurochs: Ogre Crossbow (3+) 
+<ARMY_BOOK:SA>
+870 - Saurian Warlord; General; Halberd; Obsidian Rock; Starfall Shard; Alpha Carnosaur
+340 - Caiman Ancient; Halberd; Light Armour; BSB; Raptor Spirit 
+590 - Cuatl Lord; Divination; Symbiosis; Jade Staff; Potion of Strength 
+609 - 29 Saurian Warriors; FCG 
+295 - 15 Saurian Warriors; Standard; Musician 
+630 - 8 Caimans; Halberd; Musician 
+239 - 3 Ramphodon Riders; Shield 
+239 - 3 Ramphodon Riders; Shield 
+135 - Spearback 
+135 - Spearback 
+415 - Stygiosaur; Mystic Traveler 
+<ARMY_BOOK:EoS>
+270 - Marshal, General, GW, Imperial Seal 
+405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind 
+260 - Marshal, BSB, Household standard, Death Warrant, Shield 
+310 - Prelate, Plate Armour, Shield, Locket of Sunna, The Black Steel, potion of Strength 
+215 - 5x Electoral Cavalry lance, shield, S 
+90 - 2x5 Imperial Rangers 
+150 - 10x Imperial Rangers 
+290 - 1x Arcane Engine of Arcane Shield 
+200 - 15x Flagellants 
+274 - 18x Crossbowmen C(long rifle) 
+315 - 33x Heavy Infantry M,S 
+330 - 20x Handgunners C(long rifle) , S, Marks- man's pendant 
+570 - 30x Imperial Guard, M, C, S, Rending Banner 
+250- 1x Cannon 
+475 - 1x Steam Tank 
+<ARMY_BOOK:WDG>
+615 - Doomlord, General, Great Weapon, Spiked Shield, Blessed Inscriptions, Dusk Forged, Gladia- tor's Spirit, Wyrd Stone, Trophy Rack 
+600 - Sorcerer, Occultism, Plate Armor, Thrice- forged,Veil Walker, Magical heirloom, Paired Weapons, Wizard Master 
+120 - 8x Warhounds 
+120 -8x Warhounds 
+667 - 19x Warriors, M, C, B, Sloth 
+473 - 3x Chosen Knights, Lust, M 
+654 - 8x Forsworn, M, C, B, Spiked Shield 
+145 - 5x Flayers 
+330 - 5x Warrior Knights, M, C, Greed 
+330 - 5x Warrior Knights, M, C, Greed 
+445 - Hellmaw, 2 Ominous Gateways 
+<ARMY_BOOK:BH>
+560 Beast Lord, General, Razortusk Chariot, Hunting Call, Beast Axe, HA, Shield, Talisman of Shielding, Eye of Dominance, Basalt Infusion, Fatal Folly
+570 Soothsayer, Master, Shamanism, Raiding Char- iot, LA, Ancestral Carvings, Trickster’s Cunning, Binding Scroll 
+285 Soothsayer, Adept, Druidism, Binding Scroll 
+385 Minotaur Chieftain, BSB, Beast Axe, HA, Shield, Wild Form, Obsidian Rock, Willow's Ward 
+95 10 x Mongrel Raiders 
+115 10 x Mongrel Raiders, Ambush, Scout 
+370 35 x Mongrel Herd, FCG, Spear, Banner of the Wild Herd 
+232 16 x Wildhorn Herd, Mus, TW, Ambush 
+135 5 x Gargoyles 
+104 8 x Feral Hounds 
+659 7 x Minotaurs, Std, Champ, Shield, Aether Icon, Black Wing Totem 
+560 6 x Minotaurs, Std, Champ, Shield, Black Wing Totem 
+265 3 x Minotaurs, Paired Weapons 
+165 10 x Longhorn Herd, Ambush 
+<ARMY_BOOK:VC>
+945 - Vampire Count on Skeletal Steed , General, The Dead Arise , Master, Occultism , Great Weap- on , Heavy Armour , Shield , Eternity Gem, Death Cheater , Arcane Knowledge
+410 - Barrow King on Skeletal Steed , BSB, Heavy Armour , Shield , Unliving Shield , Basalt Infusion , Dusk Forged , Hero's Heart 
+470 - Necromancer, Wizard Master; The Evoca- tion; Necromantic Staff, 
+360 - 35 Skeletons CMS 
+120 - 21 Zombies
+115 - 20 Zombies 
+105 - 2 Bat Swarm 
+105 - 2 Bat Swarm 
+113 - 8 Dire Wolves 
+500 - 6 Vampire Spawn, C 
+440 - 5 Vampire Knights, M 
+430 - Dark Coach 
+335 - Varkolak 
+90 - 2 Great Bats 
+10 10 Belgium 
+<ARMY_BOOK:OK>
+585 - Shaman, General, Rottenjaw, Wizard Master, 
+Shamanism, Pyromancy, Light Armour, Iron Fist, 
+Lygur’s Tongue , Essence of a Free Mind 
+390 - Mammoth Hunter, Trolleater, Leader of the 
+Pack, Light Armour, Alchemist's Alloy, Iron Fist, 
+Heart-Ripper (Iron Fist), Hunting Spear, Scout 
+390 - Khan, Cult Leader, Battle Standard, Banner 
+of Discipline, Skull of Qenghet, Light Armour, 
+Paired Weapons, Crown of the Wizard King 
+370 - Mammoth Hunter, Spinesplitter, Leader of 
+the Pack, Light Armour, Basalt Infusion, Iron Fist, 
+Hunting Spear, Talisman of Shielding, Lucky 
+Charm, Scout 
+605 - 8x Tribesmen, Iron Fists, FCG, Pennant of the 
+Great Grass Sky 
+185 - 2x 3x Bruisers 
+155 - 3x Tribesmen 
+175 - 3x 1x Kin--Eater 
+80 - 2x 1x Sabertooth Tiger 
+475 - 2x 1x Rock Aurochs, Ogre Crossbow 
+4500 
+<ARMY_BOOK:UD>
+500 - Death Cult Hierarch, Wizard Master, Divina-
+tion, Sacred Hourglass, Binding Scroll 
+280 - Death Cult Hierarch, Hierophant, Wizard 
+Adept, Evocation, Book of Arcane Mastery 
+245 - Nomarch, General, Skeleton Chariot, Shield, 
+Heavy Armour, Aspen Bow, Death Mask of Teput 
+215 - Tomb Architect, Light Armour, Binding Scroll 
+840 - 8x Skeleton Chariots, Legion Charioteers, 
+FCG, Stalker's Standard 
+210 - 20x Skeletons, Standard Bearer, Banner of 
+the Entombed 
+170 - 20x Skeletons, Musician 
+130 - 5x Skeleton Scouts 
+665 - 6x Tomb Cataphracts, FCG, Flaming Standard 
+160 - 3x 1x Sand Scorpion 
+760 - 4x Tomb Reapers, Paired Weapons 
+4495 
+<ARMY_BOOK:DE>
+655 - Dread Prince on Pegasus, General, Fleet
+Commander, HA, Shield, Lance, Basalt Infusion, 
+Midnight Cloak, Transcendence 
+550 - Captain on Manticore, BSB, Beastmaster, HA, 
+Shield, Lance, Alchemist's Alloy, Talisman of 
+Shielding, Dragonfire Gem 
+300 - 2x 13x Blades of Nabh, Musician, Champion 
+210 - 10x Corsairs, Paired Weapons, Vanguard, 
+Musician 
+160 - 2x 5x Dark Raiders 
+375 - 5x Dark Acolytes, Yema, Champion 
+355 - 5x Dark Acolytes, Champion 
+130 - 1x Medusa, Paired Weapons 
+135 - 1x Medusa, Halberd 
+390 - 3x 1x Kraken 
+4500 
+<ARMY_BOOK:OnG>
+570 - Orc Shaman, General, Feral Orc, War Cry,
+Wizard Master, Shamanism, Pyromancy, Paired 
+Weapons, Crown of Autocracy, Essence of Free 
+Mind 
+315 - Orc Chief, BSB, Iron Orc, Shield, Flaming 
+Standard, Willow's Ward, Talisman of Shielding 
+245 - Goblin Witch Doctor, Forest Goblin, Wizard 
+Adept, Witchcraft, Binding Scroll 
+340 - Goblin King, Forest Goblin, Huntsmen Spider, 
+Heavy Armor, Shield, Alchemist's Alloy, Dragon 
+Staff, Dusk Forged, Hero's Heart 
+167 - 8x Goblin Rider, Common Goblin, Shield 
+704 - 28x Orc Eadbashers, Feral Orc, Paired Weap- 
+ons, Musician, Standard Bearer, Green Tide 
+255 - 20x Orcs, Feral Orc, Musician, Paired Weap- 
+ons 
+288 - 3x 24x Gnasher Herd 
+670 - 25x Iron Orcs, FCG, Green Tide 
+185 - 2x 1x Greenhide Catapults, Git Launcher 
+4500 
+<ARMY_BOOK:VS>
+435 - Tyran, General, Vermin Guard Litter, Heavy 
+Armor, Paired and Tail Weapon, Basalt Infusion, 
+Hero's Heart, Crown of Autocracy 
+480 - Magister, Wizard Master, Thaumaturgy, 3 
+Dark Shards, Second Awakening, Magical Heirloom 
+240 - Chief, BSB, Shield, Sceptre of Vermin Valour, 
+Obsidian Rock, Aether Icon 
+531 - 53x Rat-at-Arms, FCG, Aquila of Ruin 
+315 - 25x Rat-at-Arms, FCG, Banner of Discipline 
+140 - 10x Footpads, Musician 
+140 - 20x Giant Rats 
+150 - 1x Meat Grinder 
+238 - 3x 12x Plague Disciples 
+145 - 5x Gutter Blades 
+90 - 2x 2x Rat Swarms 
+230 - 3x 6x Jezails 
+170 - 2x 1x Verminous Artillery, Plague Catapult 
+4500 
+<ARMY_BOOK:ID>
+465 - Overlord, General, Onyx Core, Destiny's Call,
+Shield 
+280 - Vizier, BSB, Shield, Icon of the Inferno 
+475 - Prophet, Wizard, Wizard Master, Pyromancy, 
+Magical Heirloom 
+360 - Prophet, Engineer, Wizard Adept, Alchemy, 
+Bullhorn of Nezibkesh 
+300 - 2x 10x Citadel Guard, Shield, Flintlock Axe, 
+Musician 
+571 - 23x Citadel Guard, Shield, FCG, Flaming 
+Standard 
+180 - 5x Taurukh, Shield, Musician 
+130 - 5x Hobgoblin Wolf Riders 
+285 - 1x Infernal Artillery, Rocket Battery 
+575 - 1x Kadim Titan 
+575 - 5x Kadim Incarnates 
+4496 
+<ARMY_BOOK:DL>
+630 - Kuulima's Deceiver, General, Greater Domin- 
+ion, Wizard Master, Protean magic, Guiding Ven- 
+om Sacs 
+350 - Harbinger of Father Chaos, Wizard Adept, 
+Divination, Guiding Venom Sacs 
+564 - 2x 21x Succubi, Bronze Backbone, Champion, 
+Musician 
+370 - 3x Veil Serpents, Champion 
+160 - 2x 5x Furies 
+681 - 2x 6x Clawed Fiends, Broodmother, Musician 
+340 - 1x Threshing Engine of Legion, Roaming 
+Hands 
+4500 
+<ARMY_BOOK:HBE>
+485 - High Prince, General, Queen's Companion,
+Moonlight Arrows, Longbow, Spear, Sliver of the 
+Blazing Dawn, Destiny's Call 
+285 - Mage, Wizard Adept, Pyromancy, Book of 
+Arcane Power 
+430 - Commander, BSB, Master of the Canreig 
+Tower, Great Weapon, Shield, Longbow, Elu's 
+Heartwood 
+260 - 2x 20x Spearmen, Musician 
+613 - 28x Sea Guard, Champion, Musician 
+100 - 2x 1x Giant Eagle 
+360 - 5x Knights of Ryma, Musician 
+340 - 5x Knights of Ryma 
+110 - 1x Reaver Chariot 
+615 - 20x Queen's Guard, Musician, Spears 
+180 - 3x 1x Sea Guard Reaper 
+4498
+<ARMY_BOOK:OK>
+265 - Khan, BSB, light armour, Great Weapon 
+485 - Shaman, General, Iron Fist, Wizard Master, Magical Heirloom, Thaumaturgy 
+380 - Mammoth Hunter, Hunting Spear, Iron Fist, Leader of the Pack, Trolleater, Wrestler's Belt 
+711 - 9 x Bruiser, S, Pennant of the Great Grass Sky 
+154 - 22 x Scrapling, Scrapling Foreman, Great Weapon 
+262 - 4 x Tribesmen, Paired Weapons, S, Banner of Discipline 
+851 - 7 x Mercenary Veterans, C, S, Iron Fist, Plate Armor, Vanguard, Banner of Gyengget 
+2x 80 - 2 x 1 Sabertooth Tiger 
+2x 320 - 2 x 1 Thunder Cannon 
+2x 295 - 2 x 1 Slave Giant, Great Weapon 
+4498 
+<ARMY_BOOK:SA>
+750 - Cuatl Lord, General, BSB, Wizard Master, Grasp of the Immortal, Jade Staff, Divination 
+540 - Saurian Warlord, Raptor, Great Weapon, Cleansing Light (GW), Death Cheater, Lucky Charm 
+450 - Saurian Warlord, Shield, Heavy Armour, Spear, Taurosaur Vigor, Glory of the Dawn Age, Potion of Swiftness 
+355 - 15 Saurian Warriors, C, M, S, Banner of the relentless company 
+2x 280 - 2x 20 Skink Braves, M, Poisoned Javelins 
+2x 135 - 2x Weapon Beasts, Spearback 
+165 - Weapon Beasts, Salamander 
+415 - Stygiosaur, Mystic Traveller 
+540 - Taurosaur, Engine of the Ancients 
+450 - Taurosaur, Giant Blowpipes 
+4495 
+<ARMY_BOOK:DH>
+490 - King, General, Shield, Rune of Iron, 2 x Rune of Shielding, Rune of Destruction, Rune of Fury, Rune of Smashing
+360 - Thane, Battle Standard Bearer, Holdstone, Shield, 2 x Rune of Iron, Rune of the Forge, 3 x Rune of Lightning 
+410 - Runic Smith, 3 x Battle Runes, Shield, 2 x Rune of Iron, Rune of Devouring, Rune of Dragon’s Breath 
+185 - Anvil of Power 
+2x 220 - 2x 10 x Clan Marksmen, Shield 
+686 - 28 x Greybeards, Champion, Musician, Stand- ard Bearer, Shield, Flaming Standard 
+493 - 19 x King’s Guard, Champion, Musician, Standard Bearer, Aether Icon 
+265 - 10 x Miners, Musician, Shields, Throwing Weapons 
+2x 175 - 2x Attack Copter 
+265 - Cannon, Flaming Shot 
+255 - Cannon 
+300 - Catapult, Rune Crafted 
+4499 
+<ARMY_BOOK:EoS>
+205 - Marshal, Shield, Battle Standard Bearer, Household Standard 
+285 - Marshal, General, Crown of Autocracy, Bind- ing Scroll 
+380 - Knight Commander, Young Griffon, Hero's Heart, Dusk Forged (Shield), Basalt Infusion, Shield 
+200 - Wizard, Wizard Adept, Alchemy 
+405 - Wizard, Essence of a Free Mind, Wizard Mas- ter, Divination, Pyromancy 
+165 - 20x Heavy Infantry support unit, Musician 
+3x 140 - 3x 10x State Militia 
+150 - 10x State Militia Irregulars 
+2x 195 - 2x 5x Electoral Cavalry, Shield, Musician 
+615 - 5x Knights of the Sun Griffon, Lances, Musi- cian, Standard Bearer, Flaming Standard 
+560 - 5x Knights of the Sun Griffon, Lances, Musi- cian 
+475 - Steam Tank 
+250 - Cannon 
+4500
+<ARMY_BOOK:BH>
+680 - Minotaur Warlord, General, Paired Weap- ons, Aaghor’s Affliction, Potion of Swiftness, Blessed Inscriptions (PW) 475 - Minotaur Chieftain, BSB, Greater Totem Bearer, Death Cheater, Great Weapon, 515 - Soothsayer, Wizard Master, Druidism, Dark Rain, Binding Scroll 2x 200 - 2x 15xWildhorn Herd, Ambush, Throwing Weapons 330 - 3x Raiding Chariots 104 - 8x Feral Hounds 95 - 10x Mongrel Raiders 664 - 7x Minotaurs, C, M, S, Shields, Gnarled Hide Totem 150 - 5x Gargoyles, Scout 135 - 5x Gargoyles 2x 475 - 2x Gortach 4498 
+Hristo Nikolov - Highborn Elves 
+465 - Mage, General, Asfad Scholar, Wizard Mas- ter, Divination 
+415 - Commander, BSB, Master of Canreig Tower, Longbow, Elu’s Heartwood 
+680 - 40 Citizen Spears, C, M, S, War Banner of Ryma 
+260 - 20 Citizen Spears, M 
+190 - 5 Elein Reavers, Bow 
+265 - 10 Lion Guard, Baleig Highlanders, C 
+584 - 23 Sword Masters, M, C 
+2x 340 - 2x 5 Knights of Ryma 
+3x 140 - 3x 5 Queen's Guard 
+3x 180 - 3x Sea Guard Reaper 
+4499 
+<ARMY_BOOK:OnG>
+525 - Feral orc Shaman, General, Warcry, Wizard Master, Shamanism, Crown of Autocracy, Potion of Strength, Paired Weapons
+300 - Feral orc chief, BSB, Banner of the Relentless Company, Essence of Mithril, Great weapon 
+220 - Common goblin witch doctor, Wizard Adept, Pyromancy, Goblin Wolf Chariot 
+770 - 30 Feral orc ‘eadbashers, Paired Weapons, C M S, Green Tide Banner 
+2x 180 - 2x 20 Common goblins, Bows, Shields, M 
+460 - 7 Trolls 
+135 - 5 Forest Goblin Raiders, Throwing weapons, Light Lances 
+2x 90 - 2x Skewerer 
+2x 205 - 2x Git Launcher, Orc Overseer 
+2x 315 - 2x Giant, Giant club 
+510 - Gargantula 
+4500 
+<ARMY_BOOK:VS>
+820 - Vermin Deamon, Divination, General 
+735 - Plague Patriarch, Adept, Occultism, Plague Pendulum, Light Armor, Plague Flail, Lucky Charm, Putrid Protection 
+200 - Chief, BSB, Light Armor, Shield, Sceptre of Vermin Valour 
+395 - 33x Plague Brotherhood, C, M, S 
+730 - 40x Vermin Guard, C, M, S, Lightning Rod 
+2x 272 - 2x 14x Plague Disciples 
+2x 305 - 2x Dreadmilll 
+2x 230 - 2x 6x Jezails 
+4494 
+<ARMY_BOOK:UD>
+590 - Pharaoh, General, Commander of the Terracotta Army, Skeleton Chariot, Heavy Armour, Jackal’s Blessing, Great Weapon, King Slayer (Great Weapon), Death Mask of Teput 
+315 - Tomb Harbinger, Skeleton Chariot, Battle Standard, Shield, Heavy Armour, Aspen Bow 
+200 - Tomb Architect, Obsidian Rock 
+460 - Death Cult Hierarch, Cosmology, Wizard Master, Sacred Hourglass 
+235 - Death Cult Hierarch, Divination, Wizard Adept, hierophant 
+770 - 6x Skeleton Chariots, Legion Chariot- eers, Standard Bearer, Stalker’s Standard, Musician, Champion 
+265 - 20x Skeletons, Standard Bearer, Aether Icon, Musician, Champion 
+215 - 15x Skeleton Archers, Musician 
+705 - 8x Shabti Archers, Standard Bearer, Rending Banner, Musician, Champion 
+210 - 2x 1x Charnel Catapult 
+160 - 2x 1x Sand Scorpion 
+4495 
+<ARMY_BOOK:HBE>
+555 - High Prince, General, High Warden of the Flame, Light Armour, Essence of Mithril, Spear, Sliver of the Blazing Dawn (Spear), Obsidian Rock, Potion of Swiftness 
+670 - Mage, Asfad Scholar, Divination, Wizard Master, Light Armour, Gleaming Robe, Ame- thyst Crystal, Crystal Ball 
+455 - Commander, Master of Canreig Tower, Battle Standard, Banner of Relentless Compa- ny, Heavy Armour, Great Weapon, Book of Arcane Mastery, 
+535 - 10x Highborn Lancers, Standard Bearer, Flaming Standard, Musician, Champion 
+300 - 2 x 20x Citizen Spears, Standard Bearer, Musician, Champion 
+892 - 29x Lion Guard, Standard Bearer, Navi- gator's Banner, Musician, Champion 
+180 - 5x Grey Watchers, Scout, Shield, Paired Weapons, 
+160 - 5x Grey Watchers, Paired Weapons 
+450 - Phoenix, Frost Phoenix, Warden's Bond 
+4497 
+<ARMY_BOOK:SA>
+790 - Cuatl Lord, General, Evocation, Grasp of the Immortal, Trained from Birth, Battle Standard, Talisman of the Void
+485 - Saurian Warlord, Shield, Dusk Forged, Heavy Armour, Basalt Infusion, Spear, Glory of the Dawn Age (Spear), Potion of Strength, Potion of Swiftness 
+350 - Skink Priest, Skink Palanquin, Druidism, Wizard Adept, Book of Arcane Mastery, Sun Tablet 
+903 - 33x Saurian Warriors, Spear, Serpent, Standard Bearer, Rending Banner, Musician, Champion 
+290 - 2 x 4x Caimans, Halberd 
+822 - 26x Temple Guard, Standard Bearer, Rending Banner, Musician Champion 
+190 - 3x Pteradon Sentries, Poisoned Javelin 
+379 - 5x Ramphodon Riders, Shield 
+4499 
+<ARMY_BOOK:EoS>
+400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Impe- rial Seal, Lucky Charm,
+265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel, 
+200 Prelate, Shield, Plate Armour, Alche- mist's Alloy 
+200 Prelate, Shield, Willow's Ward, Plate Ar- mour, 
+400 Wizard, Alchemy, Wizard Master, Magi- cal Heirloom 
+165 - 20x Heavy Infantry, Standard 200 - 15x Light Infantry, Crossbow 
+252 - 19x Light Infantry, Crossbow 
+265 - 2 x 20x Light Infantry, Crossbow 
+772 - 36x Imperial Guard, Great Weapon, Sandard Bearer, Stalker's Standard, Champi- on 550 - 30x Imperial Guard, Standard Bearer, Rending Banner, Champion 
+90 - 5x Imperial Rangers 
+475 - Steam Tank 
+4499 
+<ARMY_BOOK:VS>
+820 - Vermin Daemon, General, Divination, Wizard Master 
+775 - Plague Patriarch, Occultism, Wizard Adept, 3 Dark Shards, Plague Pendulum, Light Armour, Putrid Protection, Plague Flail, Dragonfire Gem, 
+195 - Chief, Battle Standard, Sceptre of Vermin Valour 
+390 - 20x Vermin Guard, Standard Bearer, Light- ning Rod, Musician 
+335 - 22x Plague Brotherhood, Standard Bearer, Banner of Speed, Musician, Champion 
+140 - 2 x 20x Giant Rats 
+130 - 10x Footpads, Paired Weapons 
+295 - 4x Vermin Hulks 
+238 - 12x Plague Disciples 
+90 - 2x Rat Swarms 
+305 - 2 x 1x Dreadmill 
+170 - 2 x 1x Verminous Artillery, Plague Catapult 
+4498 
+<ARMY_BOOK:DL>
+890 - Omen of Savar, General, Greater Dominion, Divination, Wizard Master, Brimstone Secretions, Living Shield, Dextrous Tentacles, Guiding Bronze Backbone
+580 - Harbinger of Father Chaos, Battle Standard, Great Beast of Prophecy,Witchcraft, Wizard Adept, Hammer Hand, Unnatural Roots, Dextrous Tenta- cles, Guiding Bronze Backbone 
+731 - 26x Myrmidons, Piercing Spike, Standard Bearer, Musician, Champion 
+200 - 2 x 10x Lemures 
+290 - 10x Hellhounds, Horns of Hubris 
+444 - 8x Eidolons, Incendiary Ichor, Scout, Champi- on 842 - 6x Brazen Beasts, Red Haze, Standard Bearer, Musician, Champion 
+160 - 2 x 5x Furies 
+4497 
+<ARMY_BOOK:OnG>
+585 - Orc Warlord, General, War Cry, Iron Orc Warlord, War Boar, Shield, Dusk Forged, Omen of the Apocalypse (Hand Weapon), Dragonfire Gem, Potion of Swiftness
+305 - Orc Chief, Feral Orc Chief, Battle Standard, Banner of the Relentless Company, Light Armour, Essence of Mithril, Great Weapon 
+495 - Orc Shaman, Feral Orc Shaman, Shamanism, Wizard Master, War Boar, Paired Weapons, Skull Fetish, Potion of Strength 
+270 - Goblin Witch Doctor, Common Goblin Witch Doctor, Witchcraft, Wizard Adept, Wolf, Book of Arcane Mastery 
+625 - 36x Orcs, Feral Orc, Spear, Standard Bearer, Green Tide, Musician, Champion, Mammoth Stab- ber 
+505 - 15x Orc Boar Riders, Feral Orc Boar Rider, Shield, Standard Bearer, Stalker’s Standard, Musi- cian, Champion 
+125 - 5x Goblin Raiders, Common Goblin Raider, Shield 
+85 - 3x 1x Scrap Wagon 
+90 - 2x 3x Grotlings 
+140 - 2x 1x Gnasher Wrecking Team 
+365 - Great Green Idol 
+510 - Gargantula 
+4500 
+<ARMY_BOOK:BH>
+700 - Minotaur Warlord, General, Light Armour, Aaghor’s Af liction, Paired Weapons, Blessed in- scriptions (Paired Weapons), Eye of Dominance
+440 - Soothsayer, Shamanism, Wizard Master, Seed of the Dark Forest 
+435 - Soothsayer, Evocation, Wizard Master, Pil- lager Icon 
+220 - Beast Chieftain, Battle Standard, Banner of Discipline, Shield, Heavy Armour 
+450 -45x Mongrel Herd, Spear, Standard Bearer, Banner of the Wild Herd, Musician, Champion 
+427- 44x Mongrel Herd, Spear, Standard Bearer, Flaming Standard, Musician, Champion 
+240 - 20x Mongrel Herd, Standard Bearer, Banner of the Relentless Company, Musician, Champion 
+95 - 10x Mongrel Raiders 
+364 - 16x Longhorns, Halberd, Musician, Champi- on, Totem bearer, Blooded Horn Totem 
+377 - 9x Centaurs, Lance, Musician, Champion 
+100 - 3 x 1x Razortusk Herd 
+110 - 2 x 1x Raiding Chariot 
+230 - Razortusk Chariot 
+4498 
+<ARMY_BOOK:OK>  545 – Shaman, General, Shamanism, Pyromancy, Wizard master, Iron Fist, Lygur’s Tongue , Essence of a Free Mind 335 – Khan, Battle Standard, Banner of Discipline, Iron Fist, Crown of the Wizard King 395 – Mammoth Hunter, Trolleater, Wrestler's Belt, Iron Fist, Scout 335 – Mammoth Hunter, Basalt Infusion, Iron Fist, Talisman of Shielding, Lucky Charm, Scout 827 – 10x Bruiser, Standard Bearer, Pennant of the Great Grass Sky, Musician, Champion 302 – 37x Scrapling, Spears, Standard Bearer, Mu- sician, Scrapling Foreman 80 – 2 x 1x Sabertooth Tiger 185 – 2 x 3x Bombardiers 320 – 2 x 1x Thunder Cannon 295 – 2 x 1x Slave Giant, Great Weapon 4499
+<ARMY_BOOK:WDG>  635 – Doomlord, General, Trophy Rack, Spiked Shield, Dusk forged, Gladiator's Spirit, Great Weapon, Blessed Inscrip- tions (Great Weapon), Dragonfire Gem, Wyrd Stone 600 – Sorcerer, Veil Walker, Occultism, Wizard Master, Ledger of Souls, Binding Scroll 280 – Sorcerer, Alchemy, Wizard Adept, Book of Arcane Mastery 720 – 20x Warriors, Greed, Standard Bearer, Zeal- ots' Banner, Musician, Champion 182 – 16x Barbarians, Musician, Champion 165 – 5x Flayers, Shields, Light Lances 634 – 8x Forsworn, Spiked Shields, Musician, Champion 629 – 4x Chosen Knights, Lust, Musician, Champi- on 310 – 5x Warrior Knights, Lances, Musician 345 – Hellmaw, One Ominus Gateway 4500
+<ARMY_BOOK:DH>
+550 – King, General, Ancestral Memory, Shield, 2 Rune of Iron, Rune of Forge, Rune of Destruction (Hand Weapon), 2 Rune of Might (Hand Weapon), Rune of Shielding
+375 – Dragon Seeker, Rune of Might (Paired Weap- ons), Rune of Quickening (Paired Weapons), Rune of Fury (Paired Weapons), Monster Seeker
+360 – Thane, Battle Standard, Banner of the Re- lentless Company, Shield, 2 Rune of Iron, 2 Rune of Lightning (Hand Weap- on), Holdstone
+330 – Runic Smith, Shield, Rune of Iron, Rune of Devouring, 3 Battle Runes 185 – Anvil of Power
+654 – 34x Clan Warriors, Spears and Shields, Standard Bearer, Runic Standard of Swiftness , Musician, Champion
+250 – 2 x 15x Clan Warriors, Spears and Shields, Musician
+597 – 2 x 23x Seekers, Vanguard, Musician, Champion
+175 – 2 x Steam Copters,
+Attack Copter
+4498
+<ARMY_BOOK:UD> 445 – Death Cult Hierarch, General, Divination, Wizard Master, Sacred Hourglass 280 – Death Cult Hierarch, Evocation, Wizard Adept, Book of Arcane Mastery, Hierophant 250 – Nomarch, Skeleton Chariot, Shield, Heavy Armour, Lance, Death Mask of Teput 210 – Tomb Architect, Crown of the Wizard King 760 – 7x Skeleton Chariots, Legion Charioteers, Standard Bearer, Stalker's Standard, Musician, Champion 235 – 21x Skeletons, Standard Bearer, Aether Icon, Musician, Champion 130 – 5x Skeleton Scouts 500 – 5x Tomb Cataphracts, Musician 685 – 2 x 8x Shabti Archers, Standard Bearer, Rending Banner, Musician 160 – 2 x 1x Sand Scorpion 4500
+<ARMY_BOOK:VC>  Lamia 1285 – Vampire Count, General (The Dead Arise), Lamia, Commandment, Witchcraft, Wizard Master, Court of the Damned, Blood ties (Lamia), Reaper’s Harvest (Hand Weapon), Cursed Medal- lion, Dragonfire Gem 485 – Necromancer, Evocation, Wizard Master, Necromantic Staff , Binding Scroll 639 – 54x Skeletons, Spears, Standard Bearer, Flaming Standard, Musician, Champion 135 – 2 x 20x Zombies, Musician 113 – 2 x 8x Dire Wolves 160 – 3x Ghasts 300 – 8x Wraiths 560 – 7x Vampire spawns 335 – Varkolak 240 – 3x Vampire Knights 4500
+<ARMY_BOOK:BH>
+505 – Soothsayer, General, Shamanism, Wizard Master, Crown of Autocracy, Binding Scroll
+255 – Beast Chieftain, Great Totem Bearer, Light Armour, Battle Standard
+295 – Centaur Chieftain, Shield, Heavy Armour, Seed of the Dark Forest
+235 – Centaur Chieftain, Shield, Heavy Armour 235 – Centaur Chieftain, Shield, Heavy Armour
+230 – Soothsayer, Raiding Chariot, Evocation, Wiz- ard Apprentice, Light Armour, Ancestral Carvings (Hand Weapon)
+330 – 2 x 3x Raiding Chariots 240 – 16x Wildhorn Herd, Shields, Standard bear- er, Banner of the Relentless Company, Musician
+525 – 3 x 6x Minotaurs, Shields, Musician
+135 – 2 x 5x Gargoyles 4500
+<ARMY_BOOK:EoS>  330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown of the Wizard King 235 - Marshal, Battle Standard, Banner of Disci- pline, Household Standard 445 - Wizard, Divination, Wizard master, Binding Scroll, Sceptre of Power 260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery 175 - 2 x 21x Heavy Infantry, Musician 259 - 3 x 18x Light Infantry, Musician 175 - 3 x 5x Reiters, Repeater Guns 102 - 6x Imperial Rangers 200 - 2 x 1x Artillery, Volley Gun 475 - Steam Tank 200 - 3 x 15x Flagellants 4499
+<ARMY_BOOK:VS>  820 – Vermin Daemon, General 255 – Magister, Witchcraft, Wizard Adept, Binding Scroll 235 – Rakachit Machinist, Ratlock Pistols (3+), Binding Scroll 210 – Chief, Battle Standard, Crown of the Wizard King 502 – 27x Vermin Guard, Standard Bearer, Light- ning Rod, Musician 188 – 12x Footpads, Musician, Vanguard 158 – 12x Footpads, Musician 149 – 11x Footpads, Musician 140 – 20x Giant rats 272 – 2 x 14x Plague Disciples 255 – 13x Plague Disciples 90 – 2x Rat Swarms 305 – 2 x 1x Dreadmill 170 – 2 x 1x Verminous Artillery, Plague Catapult 4496
+<ARMY_BOOK:VC>
+Lamia 870 – Vampire Courtier, General, Witchcraft, Court of the Damned (Blood Ties: Lamia), Paired Weapons, Light Armour, King Slayer (Paired Weap- ons), Basalt Infusion, Wizard Adept, Lamia, The Dead Arise
+470 – Vampire Courtier, Battle Standard Bearer, Witchcraft, Paired Weapons, Light Armour, Desti- ny's Call, Legion Standard, Wizard Adept, Lamia 
+450 – Necromancer, Evocation, Magical Heirloom, Talisman of the Void, Wizard Master 
+115 – 2 x 20x Zombies 
+325 – 29x Skeletons, Handweapon, Shield, M, S, C, Legion Standard 
+575 – 35x Ghouls, C 
+90 – 2 x 2x Great Bats 
+380 – 2 x 10x Wraiths 
+640 – 8x Vampire Spawn 
+Total Army cost: 4500 
+<ARMY_BOOK:UD>
+225 – Nomarch, General, Crown of the Pharaohs
+280 – Death Cult Hierarch, Evocation, Hierophant, Book of Arcane Mastery, Adept 
+445 – Death Cult Hierarch, Divination, Sacred Hourglass, Master 
+160 – Tomb Architect 
+180 – 21x Skeletons, spear, M 
+130 – 5x Skeleton Scouts 
+820 – 8x Skeleton Chariots, Legion Charioteers, M, S, Stalkers Standard 
+620 – 8x Shapti Archers, M 
+200 – 3x Shapti Archers 
+480 – 3 x 1x Battle Sphinx 
+Total Army Cost: 4500
+<ARMY_BOOK:OnG>
+645 – Iron Orc Warlord, General, Boar Chariot, Shield, Dragonfire Gem, Talisman of Shielding, Omen of the Apocalypse (Hand Weapon), War Cry! 
+355 – Common Orc Chief, Battle Standard Bearer, Boar Chariot, Shield, Alchemist’s Alloy, Aether Icon, Stalker’s Standard, Obsidian Rock 
+315 – Common Orc Shaman, Shamanism, Orc Boar Chariot, Paired Weapons, Binding Scroll, Wizard Adept 
+260 – Common Orc Shaman, Thaumaturgy, Orc Boar Chariot, Paired Weapons, Wizard Adept 
+220 – Common Goblin Witch Doctor, Pyromancy, Goblin Wolf Chariot, Wizard Adept 
+635 – 45x Cave Goblin, Shield, Nets, 3x Mad Gits, M, S, Banner of the Relentless Company 
+350 – 30x Cave Goblin, Shield, 2x Mad Gits, M, S 140 – 5x Common Orc Boar Rider 
+225 – 2x Goblin Wolf Chariot 
+125 – 1x Goblin Wolf Chariot 
+90 – 3x Grotlings 
+205 – 2 x 1x Greenhide Catapults, Git Launcher, Orc Overseer 
+365 – 2 x 1x Great Green Idol 
+Total Army Cost: 4500 
+<ARMY_BOOK:DE>
+445 – Oracle, General, Divination, Wandering Fa- miliar, Wizard Master
+305 – Oracle, Alchemy, Book of Arcane Mastery, Wizard Adept 
+695 – Cult Priest, Battle Standard Bearer, Divine Altar (Light Lance), Paired Weapons, Shield Break- er (Paired Weapons), Obsidian Rock, Nabh 
+185 – 15x Dread Legionnaires, M 
+215 – 15x Dread Legionnaires, M, Spear 
+725 – 44x Dread Legionnaires, Spear M, S, C, Flam- ing Standard 
+135 – 2 x 5x Harpies 
+195 – 4 x 1x Raptor Chariot 
+440 – 2 x 1x Hydra 
+Total Army Cost: 4500 
+<ARMY_BOOK:VS>
+820 – Vermin Daemon, General, Divination, Wiz- ard Master
+725 – Plague Patriarch, Occultism, Plague Pendu- lum, Light Armour, Plague Flail, Putrid Protection, Wizard Adept 
+195 – Chief, Battle Standard Bearer, Light Armour, Sceptre of Vermin Valour 
+390 – 20x Vermin Guard, M, S, Lightning Rod 
+140 – 2 x 20x Giant rats 
+265 – 20x Plague Brotherhood, M, S, C 
+225 – 20x Plague Brotherhood, M 
+305 – 2 x 1x Dreadmill 
+170 – 2 x 1x Verminous Artillery, Plague Catapult 
+150 – Weapon Team, Rotary Gun 
+204 – 10x Plague Disciples 
+295 – 4x Vermin Hulks 
+Total Army Costs: 4499 
+<ARMY_BOOK:EoS>
+385 – Prelate, General, Plate armour, Great Weap- on, Locket of Sunna, Imperial Seal, Obsidian Rock
+265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon) 
+465 – Wizard, Divination, Exemplar’s Flame, Bind- ing Scroll, Wizard Master 
+300 – Wizard, Alchemy, Book of Arcane Mastery, Scepter of Power, Wizard Adept 
+380 – Knight commander, Young Griffon, Shield, Dusk Forged, Basalt Infusion, Hero’s Heart (Hand Weapon) 
+295 – 20x Light infantry, Crossbows, S, Marks- man’s Pennant 
+529 – 44x Heavy Infantry, M, S, C, Halberds, Ban- ner of unity 
+165 – 20x Heavy infantry, M 
+140 – 10x State militia 
+90 – 2 x 5x Imperial Ranger 
+667 – 6x Knights of the Sun Griffon, Lance, Shield, M 475 – Steam Tank 
+250 – Artillery, Cannon 
+Total Army Cost: 4496 
+<ARMY_BOOK:OK>
+525 – Shaman, General, Thaumaturgy, Iron Fist, Magical Heirloom, Scepter of power, Wizard Mas- ter
+390 – Khan, Battle Standard Bearer, Lygur's Tongue, Obsidian Rock, Aether Icon, Hoardmaster 
+410 – Mammoth Hunter, Leader of the Pack, Iron Fist, Hunting Spear, Heart-Ripper, Mammoth-hide Cloak, Trolleater 
+185 – 2 x 3x Bruisers 
+155 – 3x Tribesmen 
+605 – 8x Tribesmen, Iron Fist, M, S, C, Pennant of the Great Grass Sky 
+80 – 2 x 1x Sabretooth Tiger 
+320 – 2 x 1x Thunder Cannon 
+475 – 2 x 1x Rock Aurochs, Hunting Spear 
+295 – Slave Giant, Great weapon 
+Total Army Cost: 4500 
+<ARMY_BOOK:BH>
+190 – Beast Chieftain, General, Shield, Throwing Weapons, Crown of Horns, Hunting Call, Ambush
+325 – Centaur Chieftain, Battle Standard Bearer, Paired Weapons, Throwing Weapons, Dragon Staff, Ambush 
+295 – Centaur Chieftain, Paired Weapons, Throw- ing Weapons, Dragonfire Gem, Eye of Dominance, Ambush 
+245 – Centaur Chieftain, Paired Weapons, Throw- ing Weapons, Ambush 
+300 – Centaur Chieftain, Paired Weapons, Throw- ing Weapons, Binding Scroll, Ambush 
+435 – Soothsayer, Shamanism, Binding Scroll, Master Wizard 
+220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, M 
+350 – 30x Mongrel Herd, Ambush, Spears, M, S, C, Banner of the Wild Herd 
+330 – 30x Mongrel Herd, Ambush, Spears, M, S, Banner of the Wild Herd 
+220 – 5x Centaurs, Ambush, Lance 
+205 – 5x Centaurs, Lance 
+185 – 5x Centaurs, Paired Weapons 
+100 – 1x Razortusk Herd 
+150 – 5x Gargoyles, Scout 
+475 – 2 x 1x Gortach 
+Total Army Cost: 4500 
+<ARMY_BOOK:DH>
+405 - Runic Smith, General, Ancestral Memory, 
+Shield, Rune of Devouring, Rune of Dragon’s 
+Breath, 3 Battle Runes 
+265 - Thane, Battle Standard, Shield, Rune of Drag- 
+on’s Breath, Holdstone 
+185 - Anvil of Power 
+135 - Engineer, Shield, Guild-Crafted Handgun 
+755 - 30x Greybeards, Shields, Standard Bearer, 
+Runic Standard of Swiftness , Musician, Champion 
+195 - 10x Greybeards, Shields 
+180 - 10x Clan Warriors, Throwing Weapons, Van- 
+guard, Musician 
+606 - 2 x 6 Hold Guardians, Musician 
+305 - 2 x 2 Steam Copters, Attack Copter 
+300 - Field Artillery, Catapult, Rune Crafted 
+255 - Field Artillery, Cannon 
+4497 
+<ARMY_BOOK:VC>
+825 - Vampire Count, General, Occultism, Light
+Armour, Paired Weapons, Destiny's Call, Hypnotic 
+Pendant, Wizard Master, The Dead Arise, Arcane 
+Knowledge, 
+410 - Barrow King, Battle Standard, Skeletal Steed, 
+Dusk forged, Basalt Infusion, Hero's Heart 
+260 - Necromancer, Evocation, Book of Arcane 
+Mastery, Wizard Adept 
+250 - Necromancer, Alchemy, Magical Heir- 
+loom, Wizard Adept 
+626 - 38x Ghouls, Champion 
+140 - 21x Zombies, Musician 
+135 - 20x Zombies, Musician 
+655 - 8x Ghasts, Champion 
+90 - 3x 2x Great Bats 
+342 - 9x Spectral Hunters 
+585 - 6x Vampire Knights, Standard Bearer, Musi- 
+cian, Champion, Aether Icon 
+4498 
+<ARMY_BOOK:EOS>
+360 - Prelate, General, Great Weapon, Plate Ar-
+mour, Imperial Seal, Locket of Sunna 
+265 - Marshal, BSB, Shield, Death Warrant, Black- 
+steel 
+350 - Wizard, Divination, Wizard Master 
+260 - Wizard, Cosmology, Wizard Adept, Book of 
+Arcane Mastery 
+515 - Marshal, Great Griffon, Shield, Shield of 
+Volund, Hero's Heart, Ghostly Guard, Winter Cloak 
+452 - 37 Heavy Infantry, Halberds, C, M, SB, House- 
+hold Standard 
+289 - 18 Light Infantry, Handguns, M, SB, Marks- 
+man’s Pennant 
+259 - 18 Light Infantry, Crossbows, M 
+140 - 10 State Militia 
+453 - 4 Knights of the Sun Griffon, Lances, M 
+391 - 24 Imperial Guard, C, M 
+290 - Arcane Engine, Arcane Shield 
+475 - Steam Tank 
+4499 
+<ARMY_BOOK:UD>
+495 - Death Cult Hierarch, Divination, Wizard Mas-
+ter, Sacred Hourglass, Talisman of the Void 
+280 - Death Cult Hierarch Evocation, Wizard 
+Adept, Book of Arcane Mastery, Hierophant 
+225 - Nomarch, General, Crown of the Pharaohs 
+210 - Tomb Architect, Crown of the Wizard King 
+840 - 8x Skeleton Chariots, Legion Charioteers, 
+Standard Bearer, Stalker's Standard, Musician, 
+Champion 
+170 - 20x Skeletons, Musician 
+130 2x 5 Skeleton Scouts 
+756 - 8x Shabtis, Paired Weapons, Standard Bear- 
+er, Flaming Standard, Musician 
+500 - 5x Tomb Cataphracts, Musician 
+760 - 4x Tomb Reapers, Paired Weapons 
+4496 
+<ARMY_BOOK:OK>
+475 - Shaman, Path of Thaumaturgy, Magical Heir- 
+loom, Wizard Master 
+430 - Mammoth Hunter, BSB, Iron Fist, Wrestler's 
+Belt, Trolleater, Leader of the Pack 
+370 - Mammoth Hunter, General, Iron Fist, Mam- 
+moth Hide Cloak, Lygur's Tongue, Wildheart, Lead- 
+er of the Pack 
+315 - Mammoth Hunter, Iron Fist, Karkadan’s Re- 
+silience, Dragon Staff, Scout 
+210 - Mammoth Hunter, Leader of the Pack 
+255 - 2x 8 Sabertooth Tigers 
+195 - 3x Tribesmen, Standard Bearer, Musician 
+175 - 2x 3Tribesmen, Standard Bearer 
+80 - Sabertooth Tiger 
+245 - 2x Scratapult 
+475 - Rock Auroch 
+295 - 2x Slave Giant, Great Weapon 
+4490 
+<ARMY_BOOK:WDG> 575 - Sorcerer, General, Evocation, Binding Scroll,
+Magical Heirloom, Wizard Master, Veil Walker 
+300 - Sorcerer, Alchemy, Dark Chariot, Plate Ar- 
+mour, Wizard Adept 
+240 - 2 x Barbarian Chief, Dark Chariot, Shield, 
+Light Lance 
+260 - 3 x 10 Warriors, Lust, C 
+120 - 8x Warhounds 
+626 - 2 x 9 Warrior Knights, Wrath, Great Weap- 
+ons, M, S, C, Flaming Banner 
+300 - 3 x 5 Chosen, Halberds, Lust 
+90 - 5x Warhounds 
+4497 
+<ARMY_BOOK:KoE> 635 – Duke on Pegasus, Questing Oath and Bas-
+tard Sword, Lance (Divine Judgement), Shield 
+(Fortress of Faith), Potion of Swiftness, Might 
+350 – Duke, General, Barded Warhorse, Questing 
+Oath and Bastard Sword, Shield, Basalt Infusion, 
+Lucky Charm 
+280 – Paladin, BSB, Barded Warhorse, Questing 
+Oath and Bastard Sword, Shield, Alchemist’s Alloy 
+465 – Damsel, Path of Druidism, Barded Warhorse, 
+Storm Clarion, Wizard Master 
+708 – 12x Knights of the Realm, Standard Bearer, 
+Musician, Champion, Banner of the Last Charge 
+250 – 2x 5x Knights Aspirant, Standard Bearer 
+135 – 2x 5x Yeomen Outriders, Shields, Light Ar- 
+mour 
+125 – 5x Yeomen Outriders 
+580 – 11x Knights of the Quest, Standard Bearer, 
+Musician, Champion 
+585 – 5x Pegasus Knights, Standard Bearer, Cham- 
+pion, Loose Formation 
+4498 
+<ARMY_BOOK:SA>
+745 - Cuatl Lord, General, Alchemy, Pyromancy,
+Breaker of Spells, Battle Standard, Essence of a 
+Free Mind, Talisman of the Void 
+565 - Saurian Warlord, Raptor, Light Armour, Tau- 
+rosaur's Vigour, Great Weapon, Talisman of 
+Shielding, Egg of the Quetzal 
+465 - Saurian Warlord, Shield, Dusk forged, Heavy 
+Armour, Basalt Infusion, Spear, Glory of the Dawn 
+Age (Spear) 
+355 - 15x Saurian Warriors, Standard Bearer, Ban- 
+ner of the Relentless Company, Musician, Champi- 
+on 275 - 2x 15 Saurian Warriors, Musician 
+325 - 2x 2 Weapon Beasts, Salamander 
+190 - 3x Pteradon Sentries, Poisoned Javelins 
+135 - Weapon Beast(s), Spearback 
+540 - Taurosaur, Engine of the Ancients 
+305 - Stygiosaur 
+4500 
+<ARMY_BOOK:DH>
+730 - King, General, War Throne, Shield, Rune of 
+Destruction (Hand Weapon), 2 Rune of Might 
+(Hand Weapon), Rune of Dragon’s Breath, Rune of 
+Shielding 
+340 - Runic Smith, Shield, Rune of Dragon’s 
+Breath, Rune of Grounding, 3 Battle Runes 
+330 - Thane, Battle Standard, Banner of the Re- 
+lentless Company, Shield, Rune of Courage, Rune 
+of Dragon’s Breath 
+185 - Anvil of Power 
+797 - 27x Greybeards, Shields, Throwing Weapons, 
+Standard Bearer, Runic Standard of Swiftness , 
+Musician, Champion 
+170 - 10x Clan Warriors, Spears and Shields, Musi- 
+cian 
+160 - 10x Clan Warriors, Shields, Vanguard 
+601 - 24x Seekers, Vanguard, Musician 
+577 - 23x Seekers, Vanguard, Musician 
+305 - 2 x 2x Steam Copters, Attack Copter 
+4500 
+<ARMY_BOOK:EoS>
+380 - Knight Commander, Young Griffon, Shield,
+Dusk forged, Hero's Heart (Hand Weapon), Basalt 
+Infusion 
+370 - Prelate, General, Great weapon, Plate Ar- 
+mour, Imperial Seal, Locket of Sunna, Lucky Charm 
+350 - Wizard, Divination, Wizard master 
+325 - Marshal, Great Tactician, Battle Standard, 
+Shield, Death Warrant (Hand Weapon), Blacksteel 
+260 - Wizard, Cosmology, Wizard adept, Book of 
+Arcane Mastery 
+315 - 35x Heavy Infantry, Parent Unit, Standard 
+bearer 
+239 - 2 x 18x Light Infantry, Crossbows 
+195 - 5x Electoral Cavalry, Shields, Standard bearer 
+140 - 10x State Militia 
+494 - 26x Imperial Guard, Standard bearer, Rend- 
+ing Banner, Musician, Champion 
+290 - Arcane Engine, Arcane Shield 
+175 - 5x Reiters, Braces of Pistols 
+250 - Artillery, Cannon 
+475 - Steam Tank 
+4497 
+<ARMY_BOOK:VC>
+860 - Vampire Count, General (The Dead Arise),
+Nosferatu, Blood Magic, Cosmology, Wizard Mas- 
+ter, Light Armour, Destiny's Call, Paired Weapons, 
+Shield Breaker (Paired Weapons), Necromantic 
+Staff 
+440 - Necromancer, Evocation, Wizard Master, 
+Talisman of the Void, Sceptre of Power 
+410 - Barrow King, Skeletal Steed, Battle Standard, 
+Dusk forged, Basalt Infusion, Hero's Heart (Hand 
+Weapon) 
+235 - 3 x 20x Skeletons, Standard Bearer, Legion 
+Standard, Musician, Champion 
+155 - 20x Zombies, Standard Bearer, Musician 
+133 - 2 x 8x Dire Wolves, Champion 
+430 - Dark Coach 
+740 - 4x Winged Reapers, Paired Weapons 
+490 - Shrieking Horror 
+4496 
+<ARMY_BOOK:UD>
+520 - Death Cult Hierarch, Divination, Wizard Mas-
+ter, Sacred Hourglass, Talisman of the Void, Soul 
+Conduit 
+280 - Death Cult Hierarch, Evocation, Wizard 
+Adept, Book of Arcane Mastery, Hierophant 
+240 - Nomarch, General, Crown of the Pharaohs, 
+Scroll of Desiccation 
+210 - Tomb Architect, Crown of the Wizard King 
+615 - 8x Skeleton Chariots 
+250 - 20x Skeletons, Standard Bearer, Banner of 
+the Relentless Company, Musician, Champion 
+130 - 2 x 5x Skeleton Scouts 
+776 - 8x Shabtis, Paired Weapons, Standard Bear- 
+er, Flaming Standard, Musician, Champion 
+685 - 8x Shabti Archers, Standard Bearer, Rending 
+Banner, Musician 
+500 - 5x Tomb Cataphracts, Musician 
+160 - Sand Scorpion 
+4496 
+<ARMY_BOOK:ID>
+520 - Overlord, General, Shield, Willow's Ward, 
+Death Cheater, Onyx Core (Hand Weapon), Potion 
+of Swiftness 
+465 - Prophet, Wizard, Wizard, Alchemy, Wizard 
+Master, Shield, Alchemist's Alloy, Blunderbuss 
+360 - Vizier, Battle Standard, Banner of the Relent- 
+less Company, Shield, Blunderbuss, Basalt Infu- 
+sion, Infernal Weapon, Mask of the Furnace 
+95 - Hobgoblin Chieftain, Backstabber Boss 
+653 - 28x Infernal Warriors, Shields, Blunderbuss, 
+Standard Bearer, Musician, Champion 
+280 - 26x Hobgoblins, Backstabbers, Musician, 
+Champion 
+198 - 22x Hobgoblins, Bows, Musician 
+454 - 17x Immortals, Shields, Infernal Weapons, 
+Musician, Champion 
+135 - 5x Hobgoblin Wolf Riders, Shields 
+95 - 2 x Hobgoblin Bolt Thrower 
+575 - 5x Kadim Incarnates 
+575 - Kadim Titan 
+4500 
+<ARMY_BOOK:VS>
+820 - Vermin Daemon, General
+670 - Plague Patriarch, Occultism, Wizard Appren- 
+tice, Plague Pendulum, Light Armour, Putrid Pro- 
+tection, Plague Flail, Dragonfire Gem 
+215 - Chief, Battle Standard, Light Armour, Binding 
+Scroll 
+390 - 20x Vermin Guard, Standard Bearer, Light- 
+ning Rod, Musician 
+315 - 27x Plague Brotherhood, Musician, Champi- 
+on 140 - 20x Giant rats 
+140 - 2 x 10x Footpads, Musician 
+295 - 2 x 4x Vermin Hulks 
+170 - 8x Plague Disciples 
+80 - 10x Giant rats 
+305 - 2 x Dreadmill 
+110 - 2 x 3x Jezails 
+4500 
+<ARMY_BOOK:DL>
+855 - Maw of Akaan, General (Greater Dominion),
+Evocation, Wizard Adept, Iron Husk, Unhinging Jaw 
+335 - Harbinger of Father Chaos, Divination, Wiz- 
+ard Adept, Guiding Digestive Vomit 
+330 - Harbinger of Father Chaos, Witchcraft, Wiz- 
+ard Adept, Guiding Unhinging Jaw 
+607 - 22x Myrmidons, Bronze Backbone, Musician, 
+Champion 
+535 - 19x Succubi, Smothering Coils, Musician, 
+Champion 
+591 - 2 x 6x Clawed Fiends, Musician 
+300 - 4x Mageblight Gremlins, Venom Sacs 
+196 - 2x Mageblight Gremlins, Venom Sacs 
+160 - 5x Furies 
+4500 
+<ARMY_BOOK:WDG>
+640- Chosen Lord: General, Favour of Envy, Dark
+Prelate, War Dais, Burning Portent, Talisman of 
+Shielding, Dragonfire Gem 
+580 - Doomlord: Trophy Rack, Spiked Shield, Great 
+Weapon, Gladiators Spirit, Dusk Forged, Immortal 
+Gauntlets 
+560 - Sorcerer on Dark Chariot: Wizard Master, 
+Plate Armor, Paired Weapons, Hero's Heart, Basalt 
+Infusion, Lucky Charm 
+310 - 2 x 10x Warriors: Champion, Favour of Greed 
+150 - 2 x 5x Fallen 
+488 - 6x Forsworn: Champion, Musician, Spiked 
+Shields 
+223 - 3x Forsworn: Damnation, Paired Weapons 
+409 - 6x Chosen: Champion, Favour of Envy, Paired 
+Weapons 
+335 - 5x Chosen: Favour of Envy, Halberds 
+345 - Hellmaw: One Ominous Gateway 
+4500
+<ARMY_BOOK:VC>
+1100 – Vampire Count, General, Witchcraft, Court 
+of the Damned, Blood Ties (Lamia), Reaper’s Har- 
+vest, Cursed Medallion, Potion of Swiftness, Wiz- 
+ard Adept, Lamia, Mask of Innocence, The Dead 
+Arise 
+405 – Necromancer, Evocation, Binding Scroll, 
+Wizard Master 
+295 – Barrow King, Battle Standard Bearer, Flam- 
+ing Standard, Alchemist's Alloy, Dragonfire Gem 
+626 – 38x Ghouls, Champion 
+140 – 21x Zombies, Musician 
+135 – 20x Zombies, Musician 
+113 – 2 x 8x Dire Wolves 
+90 – 2x Great Bats 
+340 – 9x Wraiths 
+580 – 7x Vampire Spawns, Champion 
+560 – 7x Vampire Spawns 
+4497 
+<ARMY_BOOK:WDG>
+630 – Chosen Lord, General, War Dais, Dusk
+forged, Burning Portent, Potion of Swiftness, Envy, 
+Idol of Spite 
+500 – Sorcerer, Occultism, Ledger of Souls, Binding 
+Scroll, Wizard Master 
+290 – Sorcerer, Alchemy, Binding Scroll, Veilgate 
+Orb, Wizard Adept 
+465 – 34x Barbarians, Spears and Shields, Standard 
+Bearer, Musician, Champion, Flaming Standard 
+170 – 15x Barbarians, Shields, Musician 
+150 – 5x Fallen 
+120 – 8x Warhounds 
+799 – 9x Chosen, Wrath, Great Weapons, Standard 
+Bearer, Musician, Champion, Flaming Standard 
+751 – 9x Chosen, Envy, Halberds, Standard Bearer, 
+Musician, Champion, Banner of Speed 
+279 – 3x Forsworn, Spiked Shields, Champion, 
+Damnation 
+345 – Hellmaw, One Ominus Gateway 
+4499 
+<ARMY_BOOK:UD>
+500 – Death Cult Hierarch, Divination, Binding 
+Scroll, Sacred Hourglass, Wizard Master 
+260 – Death Cult Hierarch, Cosmology, Book of 
+Arcane Mastery, Wizard Adept 
+220 – Death Cult Hierarch, Hierophant, Evocation, 
+Wizard Adept 
+160 – Tomb Architect, General 
+170 – Tomb Architect, , Potion of Strength 
+130 – 3 x 5x Skeleton Scouts 
+170 – 20x Skeletons, Musician 
+290 – 2 x 3x Skeleton Chariots 
+645 – 2 x 6x Tomb Cataphracts, Standard Bearer, 
+Musician, Flaming standard 
+756 – 8x Shabtis, Paired weapons, Standard Bear- 
+er, Musician, Flaming standard 
+4496 
+<ARMY_BOOK:SE>
+805 – Treefather Ancient, General, Divination,
+Crown of Autocracy, Wizard Master 
+690 – Avatar of Nature, Entangling Vines 
+300 – Druid, Druidism, Binding Scroll, Sylvain long- 
+bow, Obsidian Rock, Wizard Adept 
+150 – 3 x 8x Dryads 
+225 – 5x Heath Hunters, Champion 
+285 – 2 x 10x Sylvan Archers, musicien 
+100 – 2 x 1x Forest Eagle 
+450 – Treefather 
+300 – 2 x 9x Sylvan Sentinels 
+210 – 5x Pathfinders 
+4500 
+<ARMY_BOOK:BH>
+700 - Minotaur Warlord, General, Light Armour, 
+Aaghor's Affliction, Paired Weapons, Blessed In- 
+scriptions (Paired Weapons), Eye of Dominance 
+495 - Soothsayer, Shamanism, Wizard Master, 
+Seed of the Dark Forest, Binding Scroll 
+445 - Minotaur Chieftain, Great Totem Bearer, 
+Battle Standard, Shield, Obscuring Fog, Light Ar- 
+mour, Trickster's Cunning 
+330 - 2 x 3x Raiding Chariots 
+140 - 2 x 20x Mongrel Herd 
+88 - 2 x 6x Feral Hounds 
+694 - 7x Minotaurs, Shields, Standard bearer, Ban- 
+ner of Speed, Champion, Totem Bearer, Black 
+Wing 
+410 - 2 x 6x Razortusk Herd 
+230 - Razortusk Chariot 
+4500 
+<ARMY_BOOK:DH>
+160 – Engineer, General, Wyrm-Slayer Rocket, 
+Shield 
+160 – Engineer, Wyrm-Slayer Rocket, Shield 
+295 – 10x Greybeards, Throwing Weapons, 
+Shields, Standard Bearer, Musician, Vanguard 
+275 – 2 x 10x Greybeards, Throwing Weapons, 
+Shields, Standard Bearer, Musician 
+160 – 10x Clan Warriors, Shields, Musician 
+120 – 10x Clan Warriors 
+350 – 2 x Grudge Buster 
+320 – 2 x 3x Hold Guardians, Musician, Standard 
+Bearer 
+285 – 10x Miners, Musician, Standard Bearer, 
+Throwing Weapons, Paired Weapons 
+210 – 2 x Steam Bomber 
+175 – Attack Copter 
+130 – 2 x Vengeance Seeker 
+320 – Organ Gun, Rune Crafted 
+255 – Cannon 
+4500 
+<ARMY_BOOK:EoS>
+210 – Marshal, General, Crown of the Wizard King
+570 – Prelate, Altar of Battle, Plate Armour, Shield, 
+Alchemist alloy 
+265 – Marshal, Battle Standard Bearer, Shield, 
+Death warrant, Blacksteel 
+200 – Wizard, Alchemy, Wizard Adept 
+405 – Wizard, Divination, Binding Scroll, Wizard 
+Master 
+135 - Artificier, Long Riffle 
+447 – 37x Heavy Infantry, Spears, Standard Bearer, 
+Musician, Champion, Flaming Standard 
+235 – 21x Heavy Infantry, Standard Bearer, Musi- 
+cian, Household Standard 
+174 – 13x light Infantry, Crossbows 
+135 – 2 x 10x Light Infantry, Crossbows 
+532 – 28x Imperial Guards, Standard Bearer, Musi- 
+cian, Champion, Rending Banner 
+250 – Canon 
+475 – Steam Tank 
+150 – 5x Reiters 
+90 – 2 x 5x Imperial Rangers 
+4498 
+<ARMY_BOOK:OnG>
+565 – Feral Orc Shaman, General, Shamanism,
+Binding Scroll, Crown of Autocracy, Wizard Mas- 
+ter, War Cry 
+290 – Feral Orc Chief, Battle Standard Bearer, Light 
+Armour, Essence of Mithril, Flaming standard 
+270 - Common Goblin King, Wolf, Heavy Armour, 
+Shield, Dusk Forged, Ghostly guard, Dragonfire 
+Gem 
+670 - Forest Goblin King, Gargantula, Paired 
+Weapons, Hero's Heart, Binding Scroll 
+795 – 30x Feral Orc 'Eadbasher, Paired weapons, 
+Mammoth Stabber, Standard Bearer, Musician, 
+Champion, GreenTide 
+330 – 30x Cave Goblins, 2 Mad Gits, Shield, Musi- 
+cian 
+642 – 8x Cave Trolls 
+105 – 4x Grotlings 
+120 – 10x Gnashers Herd 
+348 – 29x Gnashers Herd 
+365 - Great Green Idol 
+4500
+<ARMY_BOOK:OK>
+540 - Shaman, General, Thaumaturgy, Iron Fist, 
+Lygur’s Tongue, Magical Heirloom, Wizard Master 
+365 - Khan, BSB, Plate Armour, Paired Weapons, 
+Iron Fist, Halberd, Great Weapon, Basalt Infusion, 
+Banner of Discipline, Hoardmaster 
+380 - Mammoth Hunter, Leader of the Pack, Light 
+Armour, Iron Fist, Hunting Spear, Wrestler's Belt, 
+Trolleater 
+360 - Mammoth Hunter, Leader of the Pack, Light 
+Armour, Iron Fist, Hunting Spear, Death Cheater, 
+Spinesplitter 
+605 - 8x Tribesmen, Iron Fists, M, S, C, Pennant of 
+the Great Grass Sky 
+185 - 2 x 3x Bruisers 
+155 - 3x Tribesmen 
+80 - 2 x 1x Sabretooth Tiger 
+320 - Thunder Cannon 
+475 - 2x Rock Aurochs, Ogre Crossbow 
+295 - Slave Giant, Great Weapon 
+4500 
+<ARMY_BOOK:UD>
+515 - Death Cult Hierarch, Divination, Soul Con- 
+duit, Sacred Hourglass, Ankh of Naptesh 
+(Hierophant), Wizard Master 
+230 - Nomarch, General, Paired Weapons, Crown 
+of the Pharaohs 
+160 - Tomb Architect 
+125 - Death Cult Hierarch, Evocation, Wizard Ap- 
+prentice 
+820 - 8x Skeleton Chariots, Legion Charioteers, M, 
+S, Stalker's Standard 
+130 - 5x Skeleton Scouts 
+180 - 21x Skeletons, M 
+500 - 5x Tomb Cataphracts, M 
+760 - 2 x 4x Tomb Reapers, Paired Weapons 
+160 - 2x Sand Scorpion 
+Total 4500 
+<ARMY_BOOK:DE>
+995 - Oracle, General, Occultism, Dragon,
+Moraec’s Reaping (Hand Weapon), Wandering 
+Familiar, Obsidian Rock, Wizard Master, Cult of 
+Yema 
+745 - Cult Priest, BSB, Divine Altar with Paired 
+Weapons, Shield, Repeater Crossbow, Basalt Infu- 
+sion (Light Armour), Hero's Heart (Hand Weapon), 
+Cult of Yema 
+565 - 23x Blades of Nabh, M, S, C, Rending Banner 
+255 - 2 x 15x Dread Legionnaires, Spears, M, S, C 
+180 - 5x Dark Raiders, Shields 
+135 - 5x Harpies 
+195 - 2 x Raptor Chariot 
+180 - 3 x Dread Reaper 
+440 - Hydra 
+4500 
+<ARMY_BOOK:DL>
+700 - Kuulima's Deceiver, General (Greater Domin-
+ion of Envy), Mark of the Eternal Champion, 
+Greenfire Eyes, Guiding Piercing Spike, Wizard 
+Master 
+635 - 23x Succubi, Smothering Coils, M, C 
+503 - 18x Myrmidons, Bronze Backbone, M, C 
+669 - 6x Clawed Fiends, Unhinging Jaw, M 
+559 - 5x Clawed Fiends, Unhinging Jaw, M 
+363 - 13x Hellhounds, Hot Blood, C 
+195 - 5x Sirens 
+170 - 2x Mageblight Gremlins 
+176 - 2x Mageblight Gremlins, Greenfire Eyes 
+370 - 3x Veil Serpents, C 
+160 - 5x Furies 
+4500 
+<ARMY_BOOK:SE>
+575 - Forest Prince, Great Elk, Light Armour, Syl- 
+van Longbow, Sylvan Blades, Titanic Might (Sylvan 
+Blades), Dragonfire Gem, Destiny's Call, Wild 
+Hunter 
+420 - Druid, Shamanism, Binding Scroll, Wizard 
+Master 
+290 - Dryad Ancient, General, Divination, Toxic 
+Spores, Wizard Adept 
+280 - Chieftain, BSB, Sylvan Longbow, Great Weap- 
+on, Hail Shot 
+525 - 20x Sylvan Archers, M 
+386 - 20x Dryads, C 
+220 - 5x Heath Riders, Shields, M, C 
+555 - 2 x 5x Kestrel Knights, Hard Target and 
+Shields, S, C, Rending Banner 
+100 - Forest Eagle 
+230 - 7x Sylvan Sentinels 
+200 - 5x Briar Maidens 
+160 - 5x Sylvan Sentinels 
+4496 
+<ARMY_BOOK:VS>
+880 - Magister, General, Thaumaturgy, Doom Bell, 
+Light Armour, 3 Dark Shards, Alchemist's Alloy, 
+Second Awakening, Crown of Autocracy, Wizard 
+Master 
+725 - Plague Patriarch, Occultism, Plague Pendu- 
+lum, Light Armour, Plague Flail, Putrid Protection, 
+Wizard Adept 
+195 - Chief, BSB, Sceptre of Vermin Valour 
+140 - 10x Footpads, M 
+330 - 24x Plague Brotherhood, M, S, C, Legion 
+Standard 
+340 - 30x Rats-at-Arms, M, S, C, Legion Standard 
+390 - 20x Vermin Guard, M, S, Lightning Rod 
+90 - 2 x 2x Rat Swarms 
+305 - 2x Dreadmill 
+110 - 2 x 3x Jezails 
+150 - 4x Jezails 
+170 - 2x Verminous Artillery, Plague Catapult 
+4500 
+<ARMY_BOOK:BH>
+585 - Beast Lord, General, Razortusk Chariot, Beast 
+Axe, Shield, Heavy Armour, Fatal Folly (Beast Axe), 
+Basalt Infusion, Binding Scroll, Talisman of Shield- 
+ing, Hunting Call 
+460 - Beast Chieftain, BSB, Raiding Chariot, Shield, 
+Heavy Armour, Beast Axe, Dragonfire Gem, Alche- 
+mist's Alloy, Dusk Forged, Greater Totem Bearer 
+495 - Soothsayer, Druidism, Seed of the Dark For- 
+est, Binding Scroll, Wizard Master 
+346 - 32x Mongrel Herd, Spear, M, S, C, Banner of 
+the Wild Herd 
+232 - 16x Wildhorn Herd, Ambush, Throwing 
+Weapons, M 
+220 - 15x Wildhorn Herd, Ambush, Throwing 
+Weapons, M 
+104 - 8x Feral Hounds 
+615 - 6x Minotaurs, Totem Bearer (Black Wing 
+Totem), Shield, M, S, C, Flaming Standard 
+205 - 5x Centaurs, Paired Weapons, M 
+150 - 5x Gargoyles, Scout 
+135 - 5x Gargoyles 
+475 - 2x Gortach 
+4497 
+<ARMY_BOOK:KoE>
+670 - Duke, General, Pegasus, Shield, Lance, Bas- 
+tard Sword, Divine Judgement(Lance), Basalt Infu- 
+sion, Potion of Swiftness, Fortress of Faith, Might, 
+Questing Oath 
+280 - Paladin, BSB, Barded Warhorse , Shield, Bas- 
+tard Sword, Alchemist's Alloy, Questing Oath 
+525 - Damsel, Druidism, Equitan Unicorn, Storm 
+Clarion, Wizard Master 
+852 - 15x Knights of the Realm, M, S, C, Banner of 
+the Last Charge 
+280 - 6x Knights of the Realm, M 
+715 - 13x Knights of the Quest, M, S, C , Flaming 
+Standard 
+270 - 6x Knights of the Quest 
+135 – 2 x 5 Yeoman Outriders, Light Armour, 
+Shields 
+635 - 5x Pegasus Knights, Loose Formation, S, C, 
+Banner Of RolEquitaine
+<ARMY_BOOK:ID>
+495 - Prophet, General, Wizard, Master, Alchemy, 
+Tablet of Ashuruk. 
+335 - Prophet, Wizard, Adept, Pyromancy, Book of 
+Arcane Mastery. 
+315 - Vizier, Battle Standard Bearer, Shield, Kadim 
+Bindings, Mask of the Furnace. 
+300 - 3x 10x Citadel Guard, Flintlock Axes, Musi- 
+cian, Shields. 
+240 - 15x Infernal Warriors, Champion, Musician, 
+Shields. 
+130 - 2x 5x Hobgoblin Wolf Riders. 
+670 - 20x Immortals, Full Command Group, Infer- 
+nal Weapons, Shields, Icon of Inferno. 
+450 - Infernal Engine, Shrapnel Guns. 
+130 - 2 x Gunnery Team, Flame Thrower. 
+575 - 5x Kadim Incarnates 
+4500 
+<ARMY_BOOK:KoE>
+670 - Duke, General, Virtue of Might, Pegasus, 
+Shield, Lance, Basalt Infusion, Potion of Swiftness, 
+Fortress of Faith, Divine Judgment, Questing Oath 
+330 - Paladin, BSB, Virtue of Piety, Barded War- 
+horse, Shield, Lucky Charm, Questing Oath 
+440 - Damsel, Barded Warhorse, Binding Scroll, 
+Master, Druidism 
+660 - 11x Knights of the Realm, Musician, Champi- 
+on, Standard, Banner of the Last Charge 
+250 - 2 x 5x Knights Aspirant, Musician 
+580 - 11x Knights of the Quest, Musician, Champi- 
+on, Standard 
+175 - 10x Brigands 
+120 - 2x Scorpion 
+135 - 2 x 5x Yeomen Outriders, Shields, Light Ar- 
+mour 
+635 - 5x Pegasus Knights, Champion, Standard, 
+Banner of Roland, Loose Formation 
+4500 
+<ARMY_BOOK:HBE>
+405 - Commander, Battle Standard Bearer, Great 
+Weapon, Light Armour, Master of Canreig Tower, 
+Book of Arcane Mastery 
+485 - High Prince, General, Light Armour, Long- 
+bow, Spear, Queen's Companion, Moonlight Ar- 
+rows, Destiny's Call, Sliver of the Blazing Dawn 
+910 - Mage, Cosmology, Wizard Master, Dragon, 
+Obsidian Rock, Talisman of the Void 
+280- 20x Citizen Spears, Musician, Champion 
+180 - 5x Elein Reavers 
+627 - 27x Sea Guard, Champion, Standard, Musi- 
+cian, War Banner of Ryma 
+100 - Giant Eagle 
+380 - 5x Knights of Ryma, Champion, Musician 
+423 - 16x Sword Masters, Champion, Musician 
+485 - 12x Queen's Guard, Spear, Champion, Stand- 
+ard, Musician, Banner of Becalming 
+180 - Sea Guard Reaper 
+4500 
+<ARMY_BOOK:DL>
+665 - Kuulima’s Deceiver, General, Dominion of 
+Envy, Venom Sacs, Piercing Spike, Unnatural 
+Roots, Brimstone Secretions (Guiding), Wizard 
+Master 
+860 - Omen of Savar, Divination, Living Shield, 
+Dextrous Tentacles, Hammer Hand, Bronze Back- 
+bone, Brimstone Secretions (Guiding), Wizard 
+Master 
+583 - 22x Myrmidons, Champion, Standard, Musi- 
+cian, Whipcrack Tail 
+543 - 23x Succubi, Standard, Musician, Mesmeris- 
+ing Plumage 
+280 - 2 x 10x Hellhounds, Grasping Proboscis 
+554 - 2 x 5x Clawed Fiends, Standard, Musician, 
+Mesmerising Plumage 
+176 - 2x Mageblight Gremlins, Greenfire Eyes 
+4495 
+<ARMY_BOOK:BH>
+680 - Minotaur Warlord, General, paired weapons 
+with Blessed Inscription, Aagor's Affliction, Potion 
+of Swiftness 
+170 - Beast Chieftain, BSB 
+440- Soothsayer, Druidism, Master, Seed of the 
+Dark Forest, 
+255 - Soothsayer, Shamanism, Adept, Raiding 
+Chariot, Light armor 
+255 - Soothsayer, Evocation, Adept, Raiding Chari- 
+ot, Light armor 
+490 - 50x Mongrel Herd, Champion, Standard, 
+Musician, spears, Banner of the Wild Herd 
+95 - Mongrel Raiders 
+335 - 20x Wildhorn Herd, Standard, Musician, 
+banner of Discipline, ambush, throwing weapons 
+935 - 40x Longhorn Herd, Great weapons, Champi- 
+on, Standard, Musician,Gnarled hide Totem, Ae- 
+ther icon 
+230 - Razortusk Chariot 
+615 - 6x Minotaurs, Shield, Champion, Standard, 
+Musician,Black Wing Totem, Flaming Standard 
+4500 
+<ARMY_BOOK:UD>
+280 - Nomarch, skeleton chariot, heavy armour, 
+shield, death mask of teput, ghostly guard 
+545 - Death cult hierarch, evocation, talisman of 
+the void, ark of ages, wizard master 
+515 - Death cult hierarch, general, divination, ankh 
+of naptesh, sacred hourglass, wizard master, soul 
+conduit 
+160 - Tomb architect 
+760 - 7x skeleton chariots, legion charioteers, Mu- 
+sician, Standard, Champion, stalker’s standard 
+170 - 20x skeletons, Musician 
+130 - 2 x 5 skeleton scout 
+500 - 5x tomb cataphracts, Musician 
+605 - 7x shabti archers, Musician, Standard, rend- 
+ing banner 
+350 - 2 x 3x sand stalkers, underground ambush 
+4495 
+<ARMY_BOOK:SA>
+795 - Cuatl Lord, General, BSB, Breaker of Spells, 
+Trained from Birth, Essence of a Free Mind, Talis- 
+man of the Void, (Pyromancy/Alchemy) 
+385 - Saurian Veteran, Raptor, Dragonfire Gem, 
+Dusk Forged, Lance, Shield 
+275 - 15x Saurian Warriors, Musician 
+140 - 3x 15x Skink Braves 
+220 - 15x Skink Braves, Poisoned Javelins, Musician 
+130 - 2x 2x Snake Swarms 
+210 - 9x Chameleons 
+170 - 7x Chameleons 
+220 - 10x Skink Hunters, Blowpipes, Vanguard 
+265 - 2x 2x Weapon Beasts: Spearback 
+540 - Taurosaur, Engine of the Ancients 
+470 - Taurosaur, Giant Bow 
+4495 
+<ARMY_BOOK:VS>
+820 - Vermin Daemon: General, master, Divination 
+160 - Chief: BSB 
+605 - Plague Patriarch on Plague Pendulum, ap- 
+prentice, Occultism, Plague flail, Light armor, al- 
+chemist armor 
+200 - Magister - Adept (witchcraft) 
+130 - 3 x 10x Footpads, paired weapons 
+370 - 20x Vermin Guard, Standard, Lightning Rod 
+245 - 20x Plague Brotherhood: Musician,Standard 
+140 - 20x Giant rats 
+170 - 2 x Catapult: 
+305 - 2 x dreadmills 
+309 - 2 x 15x disciples, Champion 
+4498 
+<ARMY_BOOK:OnG>
+550 - Orc Shaman, General, Common Orc, War Cry, Binding Scroll, Crown of Autocracy, Wizard Master, Shamanism 
+540 - Orc Warlord, Iron Orc, War Boar, Shield, Dragonfire Gem, Dusk Forged, Omen of the Apoc- alypse, Potion of Swiftness 
+315 - Orc Chief, BSB, Iron Orc, Shield, Aether Icon, Green Tide, Alchemist’s Alloy, Lucky Charm, Wil- low’s Ward 
+250 - Goblin Witch Doctor, Common Goblin, Book of Arcane Mastery, Wizard Adept, Witchcraft 
+135 - Goblin Witch Doctor, Common Goblin, Wolf, Wizard Apprentice, Thaumaturgy 
+296 - 9x Orc Boar Riders, Common Orc, Shield, M, C 650 - 40x Orcs, Feral Orc, Spear, M, S, C, Flaming Standard 
+195 - 20x Orcs, Common Orc, M 
+125 - 5x Goblin Raiders, Common Goblin, Shield 
+801 - 28x Iron Orcs, Iron Orc, M, S, C, Mikinok’s Totem 
+185 - 2x1 Greenhide Catapults, Git Launcher 
+90 - 3x1 Skewerer 
+4497 
+<ARMY_BOOK:OK>
+545 - Shaman, General, Iron Fist, Light Armour, Lygur's Tongue, Magical Heirloom, Wizard Master, Thaumaturgy 
+345 - Khan, bsb, Hoardmaster, Alchemist's Alloy, Banner of Discipline 
+390 - Mammoth Hunter, Trolleater, Leader of the Pack, Iron Fist, Hunting Spear, Lucky Charm, Wres- tler's Belt 
+310 - Mammoth Hunter, Leader of the Pack, Iron Fist, Hunting Spear, Basalt Infusion, Talisman of Shielding 
+155 - 2x3 Tribesmen 
+827 - 10 Bruisers, M, C, S, Pennant of the Green Grass Sky 
+80 - 2x1 Sabretooth Tigers 
+660 - 4 Tusker Cavalry, Great Weapon, Standard, Flaming Standard 
+475 - 2x1 Rock Aurochs, Ogre Crossbow 
+4497 
+<ARMY_BOOK:KoE>
+670 - Duke, Pegasus, General, Lance, shield, Might, Questing Oath and Bastard Sword, Basalt Infusion, Divine Judgement, Potion of Swiftness, Fortress of Faith 
+335 - Paladin, Barded Warhorse, Battle Standard Bearer, Piety, Shield, Questing Oath and Bastard Sword, Alchemist's Alloy 
+525 - Damsel, Druidism, Wizard Master, Equitan Unicorn, Storm Clarion 
+852 - 15x Knight of the Realm, C, M, S, Banner of the Last Charge 
+280 - 6x Knight of the Realm, M 
+680 - 13x Knight of the Quest, M, S, C 
+270 - 6x Knight of the Quest 
+125 - 2x5 Yeoman Outriders 
+635 - 5x Pegasus Knights, C,S, Loose formation, Banner of Roland 
+4497 
+<ARMY_BOOK:UD>
+490 - Death Cult Hierarch, Wizard Master, Ankh of Naptesh, Sacred Hourglass, Evocation 
+485 - Death Cult Hierarch, Wizard Master, Soul Conduit, Binding Scroll, Binding Scroll, Cosmology 
+225 - Nomarch, General, Crown of the Pharaohs 
+160 - Tomb Architect 
+160 - Tomb Architect 
+810 - 8x Skeleton Chariots, Legion Charioteers, M, S, Flaming Standard 
+170 - 20x Skeletons, M 
+130 - 2x5 Skeleton Scouts 
+620 - 2x8 Shabti Archers, M 
+500 - 5x Tomb Cataphracts, M 
+4500 
+<ARMY_BOOK:VS>
+820 - Vermin Daemon, General 
+745 - Plague Patriarch, Plague Pendulum, Plague Flail, Light Armour, Putrid Protection, Dragonfire Gem, Wizard Adept, Occultism 
+220 - Chief, BSB, Shield, Binding Scroll 
+120 - 10 Footpads 
+140 - 2x20 Giant Rats 
+310 - 20x Plague Brotherhood, MSC, Stalker's Standard 
+426 - 21x Vermin Guard, MSC, Lightning Rod 
+390 - 5x Vermin Hulks, C 
+238 - 12x Plague Disciples 
+170 - 2x1 Verminous Artillery - Plague Catapult 
+305 - 2x1 Dreadmill 
+4499 
+<ARMY_BOOK:EoS>
+320 - Prelate, General, Plate Armour, Shield, Impe- rial Seal, Lucky Charm, Obsidian Rock 
+325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel 
+465 - Wizard, Wizard Master, Divination, Exem- plar's Flame, Binding Scroll 
+260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane Mastery 
+300 - Inquisitor, Shield, Horse, Hammer of Witch- es, Dusk Forged 
+130 - Artificer, Handgun 
+562 - 47x Heavy Infantry, Halberd, M, C, S, House- hold Standard 
+185 - 2x20 Heavy Infantry, M, Halberd 
+207 - 14x Light Infantry, M 
+200 - 1x Artillery, Volley Gun 
+160 - 2x1 Artillery, Imperial Rocketeer 
+250 - 1x Artillery, Cannon 
+346 - 3x Knights of the Sun Griffon, Replace Hal- berd with Lance, M 
+175 - 2x5 Reiters, Repeater Gun 
+90 - 5x Imperial Rangers 
+4495 
+<ARMY_BOOK:DH>
+730 - King, General, War Throne, Shield, Rune of Destruction, Rune of Might x 2, Rune of Re- sistance, Rune of Shielding 
+360 - Dragon Seeker, Monster Seeker, Rune of Fire, Rune of Might, Rune of Quickening 
+375 - Dragon Seeker, Monster Seeker, Rune of Fire, Rune of Smashing, Rune of Quickening 
+325 - Thane, BSB, Shield, Aether Icon, Banner of the Relentless Company, Rune of Denial 
+506 - 26x Clan Warriors, C, S, Spear and Shield,Runic Standard of Swiftness 
+290 - 20x Clan Warriors, Paired Weapons, Van- guard 
+120 - 3x10 Clan Warriors, Paired Weapons 
+415 - 15x Seekers, C, Brothers of Vengeance, Van- guard 
+625 - 25x Seekers, C, Vanguard 
+255 - 2x1 Field Artillery, Cannon 
+4496 
+<ARMY_BOOK:SA>
+935 - Cuatl Lord, General, Battle Standard Bearer, Grasp of the Immortal, Symbiosis, Binding Scroll, Essence of a Free Mind, Rending Banner, Banner of the Relentless Company, Wizard Master, Pyro- mancy/ Alchemy 
+410 - Saurian Veteran, Raptor, Great Weapon, Basalt Infusion, Talisman of Shielding 
+350 - Skink Priest, Skink Palanquin, Book of Arcane Mastery, Sun Tablet, Wizard Adept, Druidism 
+760 – 30x Saurian Warriors, Piranha (Totem Ani- mals), Spears, C, M, S, Banner of the Relentless Company 
+140 – 15x Skink Braves, Hand Weapon & Shield 
+510 – 9x Raptor Riders, C, M 
+661 – 23x Temple Guard, C, M 
+379 – 5x Ramphodon Riders, Shields 
+215 – 3x Ramphodon Riders 
+140 – 5x Skink Hunters, Blowpipe, Vanguard 
+4500 
+<ARMY_BOOK:UD>
+485 - Death Cult Hierarch, General, Divination, Sandstorm Cloak, Sacred Hourglass, Wizard Mas- ter 
+280 - Death Cult Hierarch, Cosmology, Book of Arcane Mastery, Wizard Adept, Hierophant 
+260 - Nomarch, Skeleton Chariot, Aspen Bow, Shield, Heavy Armour, Death Mask of Teput, Al- chemist's Alloy 
+210 - Tomb Architect, Light Armour, Crown of the Wizard King 
+760 - 7x Skeleton Chariots, Legion Charioteers, Standard Bearer, Musician, Champion, Stalker's Standard 
+150 - 20x Skeletons 
+130 - 5x Skeleton Scouts 
+130 - 5x Skeleton Scouts 
+130 - 5x Skeleton Scouts 
+120 - 10 Skeleton Archers 
+665 - 6x Tomb Cataphracts, Musician, Champion, Standard Bearer, Flaming Standard 
+570 - 6x Tomb Cataphracts 
+605 - 7x Shabti Archers, Standard Bearer, Musi- cian, Rending Banner 
+4500 
+<ARMY_BOOK:SE>
+570 - Forest Prince; General; Wild Hunter; Sylvan Blades, Light Armour, Titanic Might, Destiny's Call, Dragonfire Gem, Great Elk 
+865 - Druid Master; Wizard Master; The Druidism; Sylvan Blades, Dragon Staff, Obsidian Rock, Dragon 
+365 - Thicket Shepherd; Battle Standard, Toxic Spores 
+615 - 6x Thicket Beasts, Champion 
+510 - 5x Thicket Beasts, Champion 
+450 - Treefather 
+440 - 23x Dryads, Champion 
+205 - 5x Heath Hunters; Sylvan Longbow 
+205 - 5x Heath Hunters; Sylvan Longbow 
+275 - 5x Heath Riders; Standard, Flaming Standard, Musician, Champion 
+4500 
+<ARMY_BOOK:SA>
+905 - Saurian Warlord, General, Alpha Carnosaur, Light Armour, Paired Weapons, Starfall Shard, Spirit of the Stampede 
+675 - Cuatl Lord, Evocation, Symbiosis, Battle Standard, Binding Scroll 
+345 - 15x Saurian Warriors, Spears, Standard Bear- er, Musician, Champion 
+345 - 15x Saurian Warriors, Spears, Standard Bear- er, Musician, Champion 
+210 - 15x Skink Braves, Replace Shields with Bows, Musician, Champion 
+399 - 5x Rhamphodon Riders, Shields, Champion 
+399 - 5x Rhamphodon Riders, Shields, Champion 
+130 - 5x Chameleons 
+130 - 5x Chameleons 
+540 - Taurosaur, Engine of the Ancients 
+415 - Stygiosaur, Mystic Traveller 
+4493 
+<ARMY_BOOK:OK>
+545 - Shaman, General, Shamanism, Pyromancy, Wizard master, Great Weapon, Essence of a Free Mind, Talisman of Shielding 
+395 - Mammoth Hunter, Trolleater, Light Armour, Wrestler's Belt, Iron Fist, Hunting Spear, Scout 
+370 - Mammoth Hunter, Spinespitter, Light Ar- mour, Death Cheater, Paired Weapons, Hunting Spear, Scout 
+385 - Khan, Hoardmaster, Battle Standard, Banner of Discipline, Plate Armour, Paired Weapons, Iron Fist, Halberd, Great Weapon, Lygur’s Tongue 
+751 - 9x Bruisers, Standard Bearer, Pennant of the Great Grass Sky, Musician, Champion 
+205 - 3x Bruisers, Musician 
+175 - 3x Tribesmen, Musician 
+80 - Sabertooth Tiger(s) 
+320 - Thunder Canon 
+320 - Thunder Canon 
+475 - Rock Aurochs, Ogre Crossbow 
+475 - Rock Aurochs, Ogre Crossbow 
+4496 
+<ARMY_BOOK:OnG>
+560 - Orc Shaman, General (War Cry!), Common Orc Shaman, Shamanism, Wizard Master, Crown of Autocracy, Skull Fetish 
+360 - Goblin King, Forest Goblin King, Huntsmen Spider, Shield, Dusk forged, Heavy Armour, Basalt Infusion, Hero's Heart (Hand Weapon), Troll Ale Flask 
+120 - Goblin Chief, Forest Goblin, Huntsmen Spi- der, Shield 
+245 - Goblin Witch Doctor, Common Goblin Witch Doctor, Thaumaturgy, Wizard Adept, Binding Scroll 
+165 - Goblin Chief, Common Goblin Chief, Battle Standard, Rod of Battle 
+565 - 35x Orcs, Feral Orcs, Spears, Standard Bear- er, Green Tide, Champion 
+215 - 20x Orcs, Common Orcs, Musician, Champi- on 180 - 5x Orc Board Riders, Feral Orcs, Shields, Musician 
+167 - 8x Goblin Raiders, Common Goblin, Shields 
+523 - 7x Trolls, Bridge Troll 
+170 - 5x Mounted 'Eadbashers, Feral Orcs, Paired Weapons 
+185 - Greenhide Catapult, Git Launcher 
+170 - Greenhide Catapult, Splatterer 
+510 - Gargantula 
+365 - Great Green Idol 
+4500 
+<ARMY_BOOK:DL>
+745 - Sentinel of Nukuja, General, Greater Domin- ion, Throne of the Oracle, Wizard Master, Aura of Despair, Eternal Champion, Thaumaturgy 
+420 - Harbringer of Father Chaos, Wizard Adept, Eternal Champion, Chilling Yawn, Living Shield, Witchcraft 
+633 - 23x Myrmidons, Musician, Champion, Bronze Blackbone 
+220 - 10x Lemures, Musician 
+290 - 10x Succubis, Musician, Champion, Chilling Yawn 
+180 - 5x Hellhounds, Horns of Hubris 
+390 - 3x Brazen Beasts, Musician, Champion 
+390 - 3x Brazen Beasts, Musician, Champion 
+170 - 2x Magebblight Gremlins 
+170 - 5x Furies, Kaleidoscopic flesh 
+445 - Hope Harvester, Engine of Damnation, Aura of Despair 
+445 - Hope Harvester, Engine of Damnation, Aura of Despair 
+TOTAL : 4498 Pts 
+<ARMY_BOOK:VC>
+960 - Vampire Count, General, Occultism, Spectral steed, Heavy Armour, Shield, True Trist (HW), Leg- end of the Black King, Lucky Charm, Wizard Mas- ter, Dead Arise, Arcane Knowledge 
+675 - Vampire Cound, Evocation, Light Armour, Destiny's Call, Reaper's Harvest (HW), Potion of Swiftness, Wizard Adept, Eternal Duelist 
+165 - Banshee 
+105 - 2x Bat Swarm 
+660 - 40x Ghouls, Champion 
+135 - 20x Zombies, Musician 
+310 - Court of the Damned 
+258 - 6x Barrow Knights, Champion, Musician 
+490 - Shrieking Horror 
+740 - 4x Winged Reapers, Paired Weapons 
+4498 
+<ARMY_BOOK:WDG>
+585 - Sorcerer, Alchemy, War Dais, Paired Weap- ons, Plate Armour, Hero's Heart (PW), Gladiator's Spirit, Magical Heirloom, Wizard Master 
+550 - Doomlord, Spiked Shield, Great Weapon, Trophy Rack, Dusk Forged, Basalt Infusion, Aether Icon 
+635 - Chosen Lord, General, War Dias, Greed, Burning Portent (HW), Idol of Spite, Talisman of Shielding, Lucky Charm 
+661 - 24x Warrior, Champion, Musician, Standard, Stalkers Banner 
+120 - 8x Warhounds 
+120 - 8x Warhounds 
+543 - 6x Forsworn, Spiked Shield, Champion, Musi- cian, Standard, Flaming Standard 
+840 - 5x Chosen Knights, Sloth, Champion, Stand- ard, Musician, Wasteland Torch 
+439 - 6x Warrior Knights, Greed, Champion, Musi- cian, Standard, Icon of the Infinitive 
+4493 
+<ARMY_BOOK:EoS>
+235 - Marshal, Battle Standard Bearer, Shield, 
+Aether Icon, Blacksteel, Lucky charm 
+405 - Marshal, Army General, Great Tactician, 
+Shield, Binding Scroll, Imperial Seal, Obsidian Rock 
+465 - Wizard, Divination, Wizard Master, Binding 
+Scroll, Exemplar’s Flame 
+260 - Wizard, Alchemy, Wizard Adept, Book of 
+Arcane Mastery 
+165 - 5 électoral cavalry, Great Weapon 
+502 - 42 Heavy Infantry, Musician, Standard Bear- 
+er, Champion, Halberd Flaming Standard 
+161 -12 Light Infantry, crossbow 
+150 - 2x10 State Militia, skirmisher 
+290 - Arcane Shield 
+641 - 34 Imperial Guard, Musician, Standard Bear- 
+er, Champion,Household Standard 
+175 - 2x5 Reiter, Brace of Pistols 
+250 - Cannon 
+475 - Steam Tank 
+Total: 4499 
+<ARMY_BOOK:HBE>
+420 - Commander, Battle Standard Bearer, Master 
+of Canreig Tower, Great Weapon, Obsidian Rock, 
+Flaming Banner, Aether Icon 
+425 - High Prince, Army General, Spear, Sliver of 
+the Blazing Dawn, Destiny's Call 
+515 - Mage Master, Asfad Scholar, Master, Divina- 
+tion, Magical Heirloom 
+190 - 2x5 Elein Reavers, Bows 
+472 - 27 Citizen Spears, Champion, Musician, 
+Standard Bearer, War Banner of Ryma 
+280 - 20 Citizen Spears, Champion, Musician 
+360 - 2x5 Knights of Ryma, Musician 
+747 - 24 Lion Guard, Champion, Musician, Stand- 
+ard Bearer, Banner of Becalming 
+180 - 3x1 Sea Guard Reaper 
+Total: 4 499 
+<ARMY_BOOK:BH>
+705- Minotaur Warlord, General, Paired Weapons, 
+Blessed Inscriptions, potion of swftness, crown of 
+horn, Aagor's Affliction 
+495- Minotaur Chieftain, BSB, Greater Totem Bear- 
+er, Heavy Armour, Shield, Beast Axe, Willow’s 
+Ward, Basalt Infusion, Talisman of Shielding 
+495-Soothsayer, Wizard Master, paired weapon, 
+DRUIDISM, binding scroll, binding scroll 
+450 - 45 mongrel Herd, Spears, M, S, C, banner of 
+the wild herd 
+160- 20 Mongrel Herd , Ambush 
+160- 20 Mongrel Herd, M 
+200 - 15 wildhorn herd, throwing weapon, Ambush 
+135- 2x 5 Gargoyles 
+615 - 6 minos, shield, MSC, black wing totem, flam- 
+ing standard 
+475 - 2x1 Gortach 
+Total: 4500 
+<ARMY_BOOK:DH>
+730 - King, General, War Throne, Shield, Rune of 
+Destruction, Rune of Might x2, Rune of Dragon's 
+Breath, Rune of Shielding 
+340 - Runic Smith, 3x Battle Runes, Shield, Rune of 
+Grounding, Rune of Dragon's Breath 
+350 - Thane, Battle Standard Bearer, Shield, Rune 
+of Dragon's Breath, Banner of Relentless Compa- 
+ny, Stalker’s Standard, Holdstone 
+185 - Anvil of Power 
+849 - 29 Greybeards, Shield, Throwing Weapons, 
+Musician, Standard Bearer, Champion, Runic 
+Standard of Swiftness 
+140 - 2x 10 Clan Warriors, Shield 
+577 - 2x23 Seekers, Musician, Vanguard 
+305 - 2x2 Steam Copters, Attack Copters 
+Total: 4498 
+<ARMY_BOOK:VS>
+820 - Vermin Deamon, Master, Divination, Gen- 
+eral 
+215 - Chief , Battle Standard Bearer, Binding Scroll 
+745 - Plague Patriarch, Adetpt, Occultism, Light 
+Armour, Plague Fail, Putrid Protection, Dragonfire 
+Gem, Plague Pendulum 
+120 - 10 Footpads 
+320 - 21 Plague Brotherhood, Musican, Champion, 
+Standard Bearer, Stalker's Standard 
+250 - 20 Vermin Guard 
+406 - 21 Vermin Guard, Champion, Standard Bear- 
+er, Lightning Rod 
+140 - 2x20 Giant Rats 
+390 - 5 Vermin Hulks, Champion 
+305 - 2x1 Dreadmill 
+170 - 2x1 Plague Catapult 
+Total: 4496 
+<ARMY_BOOK:SA>
+870 - Saurian warlord, general, Alpha Carnosaur, 
+Halberd, Starfall Shard, Obsidian Rock 
+640 - Skink Captain, Battle standard Bearer, Light 
+Lance,Taurosaur, Jade Staff, Lucky Charm 
+290 - Skink Priest, Wizard Adept, Druidism, Skink 
+Palanquin, Sun tablet 
+633 - 23 Saurian Warriors, Musician, Standard 
+Bearer, Champion, Spear, Serpent, Flaming Banner 
+140 - 2x15 Skink Braves 
+330 - 4 Caimans Musician, Champion 
+190 - 2x3 Pteradon Sentries 
+329 - 2x4 Rhamphodon Riders, Champion, Shield 
+415 - Stygiosaur, Mystic Traveller 
+Total: 4496 
+<ARMY_BOOK:OK>
+360 - Khan, Battle Standard Bearer, Cult Leader, 
+Viper's Curse, Alchemist's Alloy, Heavy Armour, 
+Brace of Ogre Pistols 
+490 - Shaman, General, Wizard Master, Thauma- 
+turgy, Magical Heirloom, Light Armour, Iron Fist 
+415 - Mammoth Hunter, Trolleater, Heart-Ripper, 
+Yeti Furs, Hunting Spear, Iron Fist, Vanguard 
+205 - 3 Bruisers, Musician 
+751 - 9 Bruisers, Champion, Musician, Standard 
+Bearer, Pennant of the Great Grass Sky 
+175 - 20 Scraplings, bow, Musician 
+390 - 5 Yetis, Champion 
+80 - 2x1 Sabretooth Tigers 
+175 - Kin-Eater 
+320 - 2x1 Thunder Cannon 
+369 - 2x5 Bombardiers, Musician 
+Total: 4 499 
+<ARMY_BOOK:UD>
+470 - Death Cult Hierarch, Wizard Master, Evoca- 
+tion, Soul Conduit, Ankh of Naptesh, Talisman of 
+the Void 
+510 - Death Cult Hierarch, General, Wizard Mas- 
+ter, Divination, Ark of Ages, Scroll of Desiccation 
+160 - 2x1 Tomb Architect 
+304 - 22 Skeleton Archers, Champion, Musician 
+272 - 21 Skeleton Archers, Musician 
+130 - 5 Skeleton Scouts 
+210 - 2x20 Skeletons, Standard Bearer, Banner of 
+the Entombed 
+776 - 2x8 Shabtis, Champion, Musician, Standard 
+Bearer, Flaming Standard, Paired Weapons 
+520 - 5 Tomb Cataphracts, Champion, Musician 
+Total: 4498 
+<ARMY_BOOK:OnG>
+460 - Iron Orc Warlord, General, Paired Weapons, Destiny's Call, Touch of Greatness 
+235 - Forest Goblin Chief, BSB, Bow, Maza's Zap- pin, Banner of Discipline 
+465 - Forest Goblin Witch Doctor, Pyromancy, Wizard Master, Binding Scroll, Magical Heirloom - Dominant 
+625 - Forest Goblin King, Gargantula, Paired Weapons, Dragon Staff, Shield Breaker 
+180 - 20 x Common Goblins, Bows, Shields, Musi- cian 
+260 - 20 x Forest Goblins, Skirmishers, Bows, Throwing Weapons,Standard Bearer, Banner of Relentless Company 
+726 - 27x Feral Orc Eadbashers, Mammoth Stab- ber, Paired Weapons, Champion, Musician, Stand- ard Bearer, Green Tide Banner 
+276 - 23 x Gnasher Herd 
+120 - 5x Goblin Raiders, Common Goblin 
+325 - 3x Goblin Wolf Chariots 
+646 - 23x Iron Orcs, Champion, Standard Bearer, Mikinok's Totem 
+90 - Skewerer 
+90 - Skewerer 
+4498 
+<ARMY_BOOK:BH>
+560 - Beastlord, General, Razortusk Chariot, Heavy Armour, Shield, Lance, Blessed Inscriptions, Basalt Infusions, Talisman of Shielding, Eye of Dominance 
+440 - Soothsayer,Evocation, Wizard Master, Seed of the Dark Forest 
+380 - Soothsayer, Shamanism, Wizard Master 
+365 - Beast chieftan, BSB, Greater Totem Bearer, Obsidian Rock, Beast Axe, Destiny's Call 
+200 - 15x Wildhorns, Ambush, Throwing Weapons 
+370- 35x Mongrels, Spear, MSC, Banner of the Wild Herd 
+330- 3x Raiding chariots 
+529- 23x Longhorns, Halberds, MSC, Aether Icon 
+560- 6x Minotaurs, Shields, Musician, Champion, Black Wing Totem 
+480 - 10x Centaurs, Lances, MSC, Flaming Stand- ard, Black Wing Totem 
+150 - 5x Gargoyles, scout 
+135- 5x Gargoyles 
+4499 
+<ARMY_BOOK:OK>
+595 - Shaman, General, Thaumaturgy, Pyromancy, Wizard Master, Great Weapon, Gut Roarer, Es- sence of the Freemind- Dominant, Binding Scroll 
+425 - Mammoth Hunter, Hunting Spear, Iron Fist, Trolleater, Vanguard, Dragon Staff , Wrestler's Belt 
+375 - Mammoth Hunter, Hunting Spear, Iron Fist , Spinesplitter, Vanguard, Death Cheater 
+185 - 3x Bruisers 
+185 - 3x Bruisers 
+185 - 3x Bruisers 
+590 - 8x Tribesmen, Iron Fist, CMS, Banner of Dis- cipline 
+105 - 2x Sabretooth Tigers 
+105 - 2x Sabretooth Tigers 
+80 - 5x Scrapling Trappers 
+80 - 5x Scrapling Trappers 
+320 - Thunder Cannon 
+320 - Thunder Cannon 
+475 - Rock Aurochs 
+475 - Rock Aurochs 
+4500 
+<ARMY_BOOK:ID>
+825 - Overlord, General, Great Bull of Shamut , Hand Weapon, Obsidian Rock, Onyx Core 
+535 - Prophet, Alchemy, Pyromancy, Master, Binding Scroll, Essence of a Free Mind 
+280 - Vizier: BSB, Shield, Icon of the inferno 
+650 - 20 x Citadel Guard, Shield, Flintlock Axe, C,M,S 
+240 - 24x Hobgoblins, bows, Shield, Musician 
+240 - 24x Hobgoblins, bows,Shield Musician 
+705 - 5x Taurukh Anointed: Infernal Weapon, Shields, Musician 
+450 - Infernal Engine: Shrapnel Guns 
+575 - Kadim Titan 
+4500 pts 
+<ARMY_BOOK:DE>
+505pts - Oracle, General, Alchemy, Wizard Master, Light Armour, Binding scroll, Magical heirloom 750 - Cult Priest, BSB, Divine Altar, Shield *on BSB+ , Repeater Crossbow, Paired Weapons *On Altar crew+, Cult of yema, Basalt Infusion, Lucky Charm, Moraec's Reaping 
+160 - 5x Dark Raiders 
+160 - 5x Dark Raiders 
+160 - 5x Dark Raiders 215 -15x Dread Legionnaires, Spears, Musician 
+215 - 15x Dread Legionnaires, Spears, Musician 
+235 - 15x Dread Legionnaires, Spears, Musician, Champion 195 - Raptor Chariot 
+195 - Raptor Chariot 
+195 - Raptor Chariot 
+195 - Raptor Chariot 440 - Hydra 
+440 - Hydra 
+440 - Hydra 4500 
+<ARMY_BOOK:VS>
+835 - Magister. General, Doom Bell ,Thaumaturgy, Wizard Master, Light Armour, 3 Dark Shards, Second Awakening, Sceptre of Pow- er 260 - Magister, Wizard Adept, Path of Witchcraft, Book of Arcane Mastery 
+390 – 20x Vermin Guard, Musician, Standard Bear- er, Lightning Rod 
+140 - 20x Giant Rats 
+140 - 20x Giant Rats 
+140 - 20x Giant Rats 
+140 - 20x Giant Rats 
+180 - 10x Footpads, Musician; Vanguard; Paired Weapons 
+485 - 4x Thunder Hulks, C, Champion Equiped with Globe Launcher 
+485 - 4x Thunder Hulks, C, Champion Equiped with Globe Launcher 
+305 -1x Dreadmill 
+305 -1x Dreadmill 
+110 - 3x Jezzails 
+150 – 1x Weapon team, Globe Launcher Team 
+265 – 1x Lightning Cannon 
+170 - 1x Plague Catapult 
+4500 
+<ARMY_BOOK:SE>
+820 - Tree father Ancient, General, Entangling Vines, Wizard Master (Divination), Aether Icon 
+500 - Chieftain, BSB,Great Elk, Elven Blades, Shield, Elven Cloak, Light Armor,Wild Hunter, Basalt infu- sion, Spirit of the whirlwind, lucky charm 
+205 - Dryad Ancient, Druidism, Wizard Apprentice, Toxic Spores 
+440 - 23x Dryads, Champion 
+400 - 10x Heath Riders, C,S,M 
+285 - 10 x Sylvan Archers, Musician 
+100 - Forest Eagle 
+100 - Forest Eagle 
+300 - 5x Wild Huntsmen 
+320 -5x Briar Maidens, Champion=320 
+460 - 10x Pathfinders 
+410 - 9x Pathfinders 
+160 - 5x Sylvan Sentinels 
+4500 
+<ARMY_BOOK:WDG>
+850 - exalted herald 
+555 - doomlord, general, great weapon, trophy rack, spiked shield, dusk forged, gladiators spirit, dragonfire gem 
+400 - sorcerer adept, alchemy, Adept, plate ar- mour, paired weapons, dark chariot, hero's heart, basalt infusion 
+150 - 5x fallen 
+120 - 8x dogs 
+635 - 15x warriors of vanadra, great weapon, M, S, C, banner of relentless company 
+370 - 5x chosen of vanadra, great weapon 
+335 - 5x chosen of kuulima, halberds 
+508 - 6x forsworn, spiked shields, M, S, C 
+232 - 3x forsworn, great weapon, damnation 
+345 - Hellmaw, 1 ominous gateway 
+4500 
+<ARMY_BOOK:BH>
+705 - Minotaur Warlord, General, Great Weapon, Blessed Inscriptions, Trickster’s Cunning, Crown of Horns, Talisman of Shielding 
+475 - Minotaur Chieftain, Battle Standard, Great Weapon, Aaghor’s Affliction, Greater Totem Bear- er 440 - Soothsayer, The Druidism, Seed of the Dark Forest, Wizard Master 
+165 - Soothsayer, The Shamanism, Potion of Strength, Wizard Apprentice 
+150 - 2x 15x Wildhorn Herd 
+220 - 2x 15x Wildhorn Herd, Throwing Weapons, Musician, Ambush 
+170 - 17x Wildhorn Herd 
+783 - 8x Minotaurs, Shield, Standard bearer, Musi- cian, Champion, Totem Bearer, Black Wing Totem, Flaming Standard 
+748 - 8x Minotaurs, Shield, Standard bearer, Musi- cian, Champion, Totem Bearer, Black Wing Totem 
+135 – 2x 5x Gargoyles 
+4496 
+<ARMY_BOOK:SE>
+775 - Treefather Ancient, General, Druidism, Scep- tre of Power, Wizard master 
+300 - Thicket Shepherd, Battle Standard 
+440 - 23x Dryads, Champion 
+386 - 20x Dryads, Champion 
+150 – 2x 8x Dryads 
+615 – 3x 6x Thicket Beasts, Champion 
+450 - Treefather 
+4496 
+<ARMY_BOOK:VS>
+820 - Vermin Daemon, General 
+745 - Plague Patriarch, Occultism, Plague Pendu- lum, Light Armour, Plague Flail, Putrid Protection, Dragonfire Gem, Wizard Adept 
+230 - Chief, Battle Standard, Light Armour, Great Weapon, Essence of Mithril 
+370 - 20x Vermin Guard, Standard Bearer, Light- ning Rod 
+310 - 20x Plague Brotherhood, Standard Bearer, Musician, Champion, Stalker's Standard 
+150 - 3 x 10x Footpads, Vanguard 
+309 - 2 x 15x Plague Disciples, Champion 
+305 - 2 x Dreadmill 
+230 - 6x Jezails 
+110 - 3x Jezails 
+4493 
+<ARMY_BOOK:SA>
+910 - Saurian Warlord, Alpha Carnosaur, Halberd, Blessed Inscriptions, Starfall Shard 
+620 - Cuatl Lord, General, Battle Standard, Divina- tion, Symbiosis 
+235 - Skink Priest, Druidism, Skink Palanquin, Book of Arcane Mastery, Wizard Apprentice 
+591 - 26x Saurian Warriors, Standard Bearer, Mu- sician, Champion, Rending Banner 
+335 - 15x Saurian Warriors, Standard Bearer, Champion, Banner of the Relentless Company 
+630 - 8x Caimans, Halberds, Musician 
+239 - 3x Rhamphodon Riders, Shields 
+135 – 2x 1x Weapon Beasts, Spearback 
+130 - 5x Chameleons 
+540 - Taurosaur, Engine of the Ancients 
+4500 
+<ARMY_BOOK:ID>
+525 – Overlord, General, Shield, Onix Core, Wil- lows Ward, Talisman of Shielding, Mask of Furnace 
+495 - Taurukh Subjugator, Battle Standard, Shield, Infernal Weapon, Kadim Bindings, Guntlets of Madzhab 
+480 – Prophet, Occultism/Pyromancy, Essence of Free Mind, Master Wizard 
+275 - Prophet - Alchemy, Adept 
+590 – 18x Citadel Guard, Standard Bearer, Cham- pion, Flintlock Axe, Banner of Relentless Company 
+270 – 2x 10x Citadel Guard, Flintlock Axe 
+365 - 3x Taurukh Anointed, Shield 
+390 – 2x 1x Titan Mortar, Bound Daemon 
+450 - Infernal Engine, Steam Hammers 
+4500 
+<ARMY_BOOK:DL>
+360 - Harbinger of Father Chaos, General, Evoca- tion, Mark of the Eternal Champion, Sorcerous Antennae, Wizard Adept 
+583 - 22x Myrmidons, Whipcrack Tail, Standard Bearer, Musician, Champion 
+559 - 21x Myrmidons, Whipcrack Tail, Standard Bearer, Musician, Champion 
+669 - 6x Clawed Fiends, Unhinging Jaw, Musician 
+554 - 5x Clawed Fiends, Piercing Spike, Musician 
+300 - 2x 4x Mageblight Gremlins, Venom Sacs 
+535 - 6x Veil Serpents, Champion 
+480 - 5x Veil Serpents, Champion 
+160 - 5x Furies 
+4500 
+<ARMY_BOOK:VC>
+610 - Vampire Count, General, Evocation, Light Armor, Shield, Reapers Harvest, Destiny's Call, Potion of Swiftness, Flying Horror, The Dead Arise, Wizard Apprentice 
+280 - Necromancer, Wizard Adept, Evocation, Necromantic Staff 
+165 - 3 x Banshee 
+410 - Barrow King, Battle Standard Bearer, Skeletal Steed, Hero's Heart, Basalt Infusion, Dusk Forged 
+230 - 2 x 20x Skeletons, Standard bearer, Champi- on, Banner of Relentless Company 
+260 - 20x Skeletons, Standard bearer, Musician, Champion, Banner of Speed 
+225 - 20x Skeletons, Standard bearer, Champion, Flaming Banner 
+430 - Dark Coach 
+90 - 2x Great Bats 
+660 - 8x Vampire Spawn, Champion 
+580 - 7x Vampire Spawn, Champion 
+4500 
+<ARMY_BOOK:UD>
+210 - Tomb Architect, Crown of the Wizard King 
+225 - Nomarch, General, Crown of the Pharaohs 
+260 - Death Cult Hierarch, The Evocation, Book of Arcane Mastery, Wizard Adept 
+495 - Death Cult Hierarch, The Divination, Sacred Hourglass, Hierophant, Wizard Master 
+820 - 8x Skeleton Chariots, Standard Bearer, Musi- cian, Legion Charioteers, Stalker's Standard 
+130 - 5x Skeleton Scouts 
+250 - 20x Skeletons, Standard Bearer, Musician, Banner of Relentless Company 
+520 - 2x 5x Tomb Cataphracts, Standard Bearer, Musician 
+155 - 2x 3x Great Vultures 
+760 - 4x Tomb Reapers, Paired Weapons 
+4500 
+<ARMY_BOOK:SA>
+870 – Saurian Warlord, General, Alpha Carnosaur, Light Armour, Halberd, Starfall Shard, Obsidian Rock 700 – Cuatl Lord, Divination, Symbiosis, Battle Standard, Aether Icon, Binding Scroll, Potion of Strength 
+230 – Skin Priest, Shamanism, Wizard Adept, Sun Tablet 
+590 – 25x Saurian Warriors, Piranha, Standard Bearer, Banner of the Relentless Company, Musi- cian, Champion 160 – 15x Skink Braves, Musician 
+160 – 15x Skink Braves, Musician 
+259 – 3x Rhamphodon Riders, Shields, Champion 214 – 3x Pteradon Sentries, Shields, Poisoned Javelins 
+165 – Weapon Beast(s), Salamander 
+135 – Weapon Beast(s), Spearback 
+540 – Taurosaur, Engine of the Ancients 470 – Taurosaur, Great Bow 
+4493 
+<ARMY_BOOK:UD>
+260– Nomarch, General, Skeleton Chariot, Shield, Heavy Armour, Aspen Bow, Death Mask of Teput, scroll of dessication. 
+550 – Death Cult Hierarch, Divination, Wizard Mas- ter,hierophant, Sacred Hourglass, Binding Scroll 
+260 – Death Cult Hierarch, Evocation, Wizard Adept, Book of Arcane Mastery, 
+215 – Tomb Architect, Light Armour, Binding Scroll 
+760 – 7x Skeleton Chariots, FCG, Legion Chariot- eers, Stalker's Standard 
+230 – 20x Skeletons, Standard Bearer, mus Banner of the Entombed 
+190 – 20x Skeletons, Musician, champ 
+130 – 5x Skeleton Scouts 
+665 – 6x Tomb Cataphracts, FCG, Flaming Standard 
+160 – 3x1 Sand Scorpion 
+760 – 4 Tomb Reapers, Paired Weapons 
+4500 
+<ARMY_BOOK:OK>
+535 – Shaman, General, Wizardmaster, Pyromancy/ Thaumaturgy, Gutroarer, Ironfist,Essence of a free mind
+350 – Khan, BSB, Cult Lead- er, Ironfist,Light Armour, Lygurs Tongue 
+736 – 9x Bruisers, M, C, S, Banner of Discipline 
+205 – 3x Bruisers, M 
+185 – 3x Bruisers 
+80 – 1x Sabretooth Tiger 
+80 – 5x Scrapling Trappers 
+369 – 2x5 Bombadiers, M 
+320 – 2x1 Thunder Cannon 
+475 – 2x1 Rock Auroch, Ogre Crossbow 
+4499 
+<ARMY_BOOK:DH>
+260 – 1x Engineer: General, Wyrm slayer rocket (3+), shield, rune of the forge, rune of denial 
+240 – 10x Marksmen: musician, shield 
+240 – 10x Marksmen: musician, shield 
+240 – 10x Marksmen: musician, shield 
+235 – 10x Greybeards: Throwing weapons (5+), shield 
+235 – 10x Greybeards: Throwing weapons (5+), shield 
+340 – 14x Rangers, musician, Crossbow (3+), shield 
+529 – 24x Seekers: musician 
+529 – 24x Seekers: musician 
+529 – 24x Seekers: musician 
+305 – 2x Attack copter 
+175 – 1x Attack copter 
+320 – 1x Organ Gun: Runecrafted 
+320 – 1x Organ Gun: Runecrafted 
+4497 
+<ARMY_BOOK:VC>
+No Blood-line
+835 – Vampire Count, Arcane Knowledge, Army 
+General, Light Armour, Paired Weapons, Oc- 
+cultism, Wizard Master, Destiny's Call, Night's 
+Crown, Touch of Greatness 
+410 – Barrow King, Battle Standard Bearer, Skele- 
+tal Steed, Basalt Infusion, Dusk Forged, Hero's 
+Heart 
+200 – Necromancer, Evocation, Wizard Adept 
+250 – Necromancer, Alchemy, Wizard Adept, , 
+Magical Heirloom 
+330 – 2x32 Skeletons, Champion, Musician, Stand- 
+ard Bearer 
+140 – 21x Zombies, Musician 
+113 – 8x Dire Wolves 
+481 – 24x Barrow Guard, Champion, Musician, 
+Shield, Standard Bearer 
+90 – 1x2 Great Bat 
+660 – 2x8 Vampire Spawn, Champion 
+4499 
+<ARMY_BOOK:DL>
+905 – Omen of Savar, general, greater dominion, 
+Sorcerous Antennae, Iron Husk, wizard master, 
+divination 
+865 – Omen of Savar, Sorcerous Antennae, Iron 
+husk, wizard master, thaumaturgy 
+240 – 2 x 10 Lemures, unnatural roots, S 
+220 – 3 x 10 Lemures, unnatural roots, 
+322 – 2 x 12 Hellhounds, Hot blood 
+343 – 13 Hellhounds, Hot blood 
+300 – 2 x 4 Mageblight Gremlins, venom sacs 
+4497 
+<ARMY_BOOK:WDG>
+540 – Sorcerer, General, Master, evocation, 
+Scythed Skywheel. Paired Weapons. Plate Armour, 
+Thriceforged, Dragonfire Gem. 
+850 – Exalted Herald 
+640 – 18x Warriors, FCG, Halberds, Zealots Banner. 
+150 – 2x5 Fallen 
+90 – 2x5 Warhounds 
+810 – 2x5 Chosen Knights, Sloth, FCG. 
+367 – 3x felldrakes, Paired weapons. 
+4497 
+<ARMY_BOOK:OnG>
+105 - Forest Goblin Chief, Scuttler Spider 
+265 - Iron Orc Chief, BSB, GW, Shield, Pan of 
+Protection Pinchin’. 
+345 - Common Orc Shaman, Army General, Sham- 
+anism, Adept, Destiny's Call. 
+450 - Feral Orc Shaman, PW, Thaumaturgy, Mas- 
+ter, Talisman of the Void 
+410 - 30 Cave Goblins, Bow, 2x Mad Git, Mu, St 
+160 - 5 Common Orc Boar Riders, Shield 
+555 - 33 Feral Orcs, FC, Green Tide, spears 
+140 - 2x1 Gnasher Wrecking Team 
+225 - 2x2 Goblin Wolf Chariot 
+510 - 2x1 Gargantula 
+185 - 2x1 Git Launcher 
+90 - Skewerer 
+4500 
+<ARMY_BOOK:VS>
+820 - Vermin Daemon, General 
+195 - Chief, Battle Standard Bearer, Sceptre of Vermin Valour 
+735 - Plague Patriarch, Occultism, Wizard Adept, Plague Pendulum, Plague Flail, Light Armour, Pu- trid Protection, Lucky Charm 
+390 - 20x Vermin Guard, Standard Bearer, Musi- cian, Lightning Rod 
+315 - 25x Plague Brotherhood, Standard Bearer, Musician, Champion 
+140 - 3x 10x Footpads, Musician 
+292 - 2x 14x Plague Disciples, Champion 
+90 - 2x Rat Swarms 
+305 - 2x Dreadmill 
+170 – 2x Verminous Artillery, Plague Catapult 
+4499 
+<ARMY_BOOK:OnG>
+550 - Orc Shaman, General (War Cry!), Feral Orc Shaman, Shamanism, Wizard Master, Paired Weapons, Skull Fetish, Crystal Ball 
+210 - Goblin Chief, Common Goblin Chief, Battle Standard Bearer, Crown of the Cavern King 
+250 - Goblin Witch Doctor, Common Goblin Witch Doctor, Witchcraft, Wizard Adept, Book of Arcane Mastery 
+320 -2x 20x Orcs, Feral Orcs, Paired Weapons, Mammoth Stabber, Standard Bearer, Banner of the Relentless Company 
+280 - 20x Orcs, Feral Orcs, Paired Weapons, Mam- moth Stabber, Standard Bearer 
+255 - 20x Orcs, Feral Orcs, Paired Weapons, Musi- cian 
+295 - 4x 15x Iron Orcs 
+120 - 4x 10x Gnasher Herd 
+384 - 32x Gnasher Herd 
+90 – 3x Skewerer 
+4499 
+<ARMY_BOOK:DL>
+490 - Kuulima's Deceiver, General, Greater Domin- ion, Wizard Adept, Guiding Piercing Spike 
+420 - Harbinger of Father Chaos, Burning Wheel, Evocation, Wizard Adept, Guiding Piercing Spike 
+350 - Harbinger of Father Chaos, Divination, Wiz- ard Adept, Guiding Venom Sacs 
+609 - 23x Succubi, Chilling Yawn, Standard Bearer, Musician, Champion 
+260 - 2x 10x Lemures, Unnatural Roots, Standard Bearer, Musician 
+356 - 13x Hellhounds, Digestive Vomit 
+343 - 13x Hellhounds, Hot Blood 
+300 - 4x Mageblight Gremlins, Venom Sacs 
+535 - 6x Veil Serpents, Champion 
+415 - 6x Veil Serpents 
+160 - 5x Furies 
+4498 
+<ARMY_BOOK:VC>
+855 - Vampire Count, General (The Dead Arise), Arcane Knowledge, Occultism, Wizard Master, Halberd, Light Armour, Destiny's Call, Hypnotic Pendant, Dragonfire Gem 
+410 - Barrow King, Battle Standard Bearer, Skeletal Steed, Dusk forged, Basalt Infusion, Hero's Heart (Hand Weapon) 
+430 - Necromancer, Evocation, Wizard Master, Necromantic Staff 
+524 - 32x Ghouls, Champion 
+245 - 21x Skeletons, Standard Bearer, Musician, Champion, Legion Standard 
+135 - 20x Zombies, Musician 
+859 - 32x Barrow Guards, Great Weapons, Stand- ard Bearer, Musician, Champion, Black Standard of Zagvozd 
+402 - 9x Barrow Knights, Musician, Champion 
+90 – 2x 2x Great Bats 
+460 - 5x Vampire Knights, Musician, Champion 
+4500 
+<ARMY_BOOK:UD>
+465 - Death Cult Hierarch, General, Divination, Wizard Master, Talisman of the Void, Sceptre of Power, Soul Conduit 
+310 - Nomarch, Skeleton Chariot, Shield, Heavy Armour, Aspen Bow, Alchemist's Alloy, Talisman of Shielding, Death Mask of Teput 
+280 - Death Cult Hierarch, Evocation, Wizard Adept, Book of Arcane Mastery, Hierophant 
+210 - Tomb Architect, Crown of the Wizard King 
+760 - 7x Skeleton Chariots, Legion Charioteers, Standard Bearer, Musician, Champion, Stalker's Standard 
+210 - 20x Skeletons, Standard Bearer, Banner of the Entombed 
+170 - 20x Skeletons, Musician 
+500 - 5x Tomb Cataphracts, Musician 
+155 - 3x Great Vultures 
+685 - 8x Shabti Archers, Standard Bearer, Musi- cian, Rending Banner 
+595 - 7x Shabti Archers, Standard Bearer, Musi- cian, Flaming Standard 
+160 - Sand Scorpion 
+4500 
+<ARMY_BOOK:DH>
+415 - Runic Smith, General, Ancestral Memory, Shield, 2x Runes of Iron, Rune of Dragon’s Breath, 2 Rune of Mastery, 2 Battle Runes 
+345 - Runic Smith, Shield, Rune of Iron, Rune of the Forge, Rune of Devouring, Rune of Mastery, 2 Battle Runes 
+340 - Thane, Battle Standard Bearer, Shield, 2x Legion Standards, Rune of Iron, Rune of Dragon’s Breath, Holdstone 
+185 - Anvil of Power 
+690 - 40x Clan Warriors, Shields, Standard Bearer, Musician, Champion, Banner of the Relentless Company 
+220 – 2x 10x Clan Marksmen, Shields 
+885 - 2x 8x Hold Guardians, Standard Bearer, Mu- sician, Champion, Runic Standard of the Hold 
+105 – 3x 1x Field Artillery, Dwarf Ballista 
+4500 
+<ARMY_BOOK:OK>
+605 - Shaman, General, Gut Roarer, Shamanism, Wizard Master, Light Armour, Iron Fist, Ritual Bloodletter (Iron Fist), Lygur’s Tongue, Rod of Battle 
+370 - Khan, Battle Standard Bearer, Hoardmaster, Banner of the Gyengget 
+395 - Mammoth Hunter, Trolleater, Iron Fist, Wrestler's Belt, Scout 
+736 - 9x Bruisers, Standard Bearer, Musician, Champion, Banner of Discipline 
+155 - 3x 3x Tribesmen 
+175 - Kin-Eater 
+80 – 2x 1x Sabretooth Tiger 
+320 – 2x 1x Thunder Canon 
+475 – 2x 1x Rock Aurochs 
+4496 
+<ARMY_BOOK:WDG>
+695 - Chosen Lord, General, Gluttony, Black Steed, Burning Portent (Hand Weapon), Immortal Gaunt- lets, Dragonfire Gem, Idol of Spite 
+685 - Chosen Lord, Gluttony, Black Steed, Paired Weapons, Aether Icon, Basalt Infusion, Touch of Greatness (Paired Weapons), Talisman of Shield- ing, Trophy Rack, Dark Prelate 
+500 - Sorcerer, Alchemy, Wizard Master, Plate Armour, Thrice-Forged, Binding Scroll 
+760 - 20x Warriors, Halberds, Gluttony, Standard Bearer, Musician, Champion, Zealots' Banner 
+142 - 16x Barbarians 
+592 - 8x Warrior Knights, Lances, Gluttony, Stand- ard Bearer, Musician, Champion, Aether Icon 
+315 - 3x 5x Chosen, Greed 
+90 - 2x 5x Warhounds 
+4499 
+<ARMY_BOOK:UD>
+240 - Nomarch, General, Crown of the Pharaos, 
+Scroll of Dessication 
+280 - Death Cult Hierarch, Hierophant, Path of 
+Cosmology, Book of Arcane Mastery, Wizard 
+Adept 
+350 - Death Cult Hierarch, Path of Evocation, Wiz- 
+ard Master 
+215 - Tomb Architect, Binding Scroll 
+170 - 20x Skeletons, Musician 
+485 - 2x 6x Skeleton Chariots 
+615 - 8x Skeleton Chariots 
+590 - 2x 6x Tomb Cataphracts, Musician 
+160 - 3x 1x Sand Scorpion 
+4500 
+<ARMY_BOOK:WDG>
+640 - Chosen Lord, Favour of Envy, General, War 
+Dais, Burning Potent (Hand Weapon), Dusk Forged 
+(Shield), Dragonfire Gem, Idol of Spite 
+615 - Sorcerer, Path of Occultism, Plate Armour, 
+Ledger of Souls, Binding Scroll, Wizard Master, Veil 
+Walker 
+445- Sorcerer, Path of Alchemy, Dark Chariot, 
+Paired Weapons, Plate Armour, Hero's Heart 
+(Paired Weapons), Basalt Infusion (Plate Armour), 
+Rod of Battle, Wizard Adept 
+450 - 31x Barbarians, Spear and Shield, Champion, 
+Musician, Standard, Banner of Speed 
+210 - 20x Barbarians, Shields, Musician 
+120 - 2x 8x Warhounds 
+837 - 2x 6x Feldraks, Halberds, Champion, Musi- 
+cian, Standard, Banner of Speed 
+225 - Warrior Chariot 
+4499
