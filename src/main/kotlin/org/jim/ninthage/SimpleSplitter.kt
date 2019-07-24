@@ -11,11 +11,11 @@ import org.jim.ninthage.opennlp.SimpleObjectStream
 import org.jim.ninthage.utils.ResourceUtils
 
 
-class TeamDetector(val tokenizer: SentenceDetectorME) {
+class SimpleSplitter(val tokenizer: SentenceDetectorME) {
     companion object {
-        fun build(model: SentenceModel):TeamDetector {
+        fun build(model: SentenceModel):SimpleSplitter {
             val tokenizer = SentenceDetectorME(model)
-            return TeamDetector(tokenizer)
+            return SimpleSplitter(tokenizer)
         }
 
         fun train(trainFiles:List<String>): SentenceModel {

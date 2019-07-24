@@ -11,7 +11,7 @@ import org.jim.ninthage.opennlp.JoinObjectStreams
 import org.jim.ninthage.opennlp.SimpleObjectStream
 import org.jim.ninthage.utils.ResourceUtils
 
-class ArmyBookDetector(model:LanguageDetectorModel) {
+class SimpleClassifer(model:LanguageDetectorModel) {
     companion object {
         fun train(trainingFiles:List<String>): LanguageDetectorModel {
             val sampleStream = JoinObjectStreams(
@@ -26,7 +26,7 @@ class ArmyBookDetector(model:LanguageDetectorModel) {
             params.put(TrainingParameters.ALGORITHM_PARAM, PerceptronTrainer.PERCEPTRON_VALUE)
             params.put(TrainingParameters.CUTOFF_PARAM, 0)
 
-            return LanguageDetectorME.train(sampleStream, params, LanguageDetectorFactory());
+            return LanguageDetectorME.train(sampleStream, params, LanguageDetectorFactory())
         }
     }
     val languageDetectorME = LanguageDetectorME(model)

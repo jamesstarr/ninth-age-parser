@@ -1,0 +1,168 @@
+, FC, Great Weapon
+205 - 3 Bombardiers , M
+175 - Kin-Eater
+Dik-Jan Meijvogel – Dwarven Holds
+280 - King , General , Great Weapon , Rune of Storms
+180 - Thane , BsB, shield
+320 - Rune Smith; 3x Battle Runes (Revocation, Reckoning, Oaths), Talismanic Rune of Denial
+470 - 25 Clan Warriors : shield , FC, Rune of dismay
+447 - 16 Greybeards : shield , FC, Rune of Swiftness
+311 - 12 Clan Marksmen : Guild-Crafted Handgun , shield , M
+282 - 12 Clan Marksmen ; Crossbow , shield , M
+639 - 22 King ’s Guard, FC, Rune of Shielding
+467 - 17 Seekers ; Vanguard , FC
+145 - 2 x 1 Ballista; Rune Crafted
+300 - Catapult ; Rune Crafted
+Sem Janssen – Dread Elves
+620 - Dread Prince , General , Yema , Raptor chariot , lance , shield , heavy armor, Midnight Cloak ,
+Dusk Forged , basalt infusion , cleansing light
+970 - Oracle , Wizard master , Occultism , Dragon , Moraec’s Reaping, wandering familiar , Yema
+405 - 25 Dread Legionnaires, Spears, Full command, Yema
+240 - 3 x 10 Corsairs , musician , Paired Weapons , repeater handbow , Yema
+355 - 5 Dread Knights, Full command, banner of blood
+375 - 5 Dark Acolytes , champion , Yema
+195 - Raptor Chariot
+180 - 2 x 1 Dread Reaper
+Lars Frencken Dwarven Holds
+705 - King , General , Pistol (3+), Shield , War Throne , R.o. Destruction, R.o. Dragon 's Breath, 2 x
+R.o. Might
+380 - Runic Smith , 3x Battle Runes , Shield , R.o. Devouring, R.o. Grounding, R.o. Iron
+325 - Thane , Battle Standard Bearer , Pistol (3+), Shield , 2 x R.o. Iron, R.o. Lightning, R.o.
+Shielding
+406 - 16 Clan Marksmen , FC, Shield
+598 - 24 Greybeards , FC, Shield , Standard of Wisdom
+451 - 18 Deep Watch , FC
+525 - 20 Seekers , Musician , Standard Bearer , Vanguard
+130 - 2 x 1 Vengeance Seeker
+175 - 2 x 1 Steam Copters, Attack Copter
+Floris van den Berg - Dark Elves
+580 - oracle , general , wizard master , ( cosmology ), ring of shadows , light armour , death cheater ,
+potion of strength
+405 - assasin , paired weapons , path of bloody murder, bloodroot , midnight cloak
+260 - cult priest , BSB , banner of car daecos, nabh, paired weapons , repeater crossbow
+440 - 2 x 5 dark raiders , repeater crossbows, shields
+565 - 23 blades of Nabh, full command, rending banner
+395 - 15 towerguard, full command
+545 - 10 dread knights, full command
+420 - 2 x 1 hunting chariot
+390 - 2 x 1 raptor chariot
+Bart 'Ehakir' Saes - Vampire Covenant
+280 - Necromancer , General , Wizard Adept, Evocation , Magical Heirloom
+820 - Vampire Count on Spectral Steed , Wizard Apprentice ( Occultism ), Plate Armour , Shield ,
+Great Weapon , Paired Weapons , Brotherhood of the Dragon , Crimson Rage , Cursed Medallion,
+Lucky Charm , Legend of the Black King
+405 - 25 Ghouls , Champion
+235 - 2 x 15 Ghouls , Champion
+135 - 20 Zombies , Musician
+310 - Court of the Damned
+430 - Dark Coach
+90 - 2 Great Bats
+160 - 2 x 2 Phantom Hosts
+740 - 4 Winged Reapers , Paired Weapons
+Roel Alferink - Warriors of the Dark God
+850 - Exalted Herald General
+460 - 15 Warriors, Standard Bearer and Musician , Halberds
+425 - 30 Barbarians, Spear and Shield , Throwing Weapons , Standard Bearer and Musician
+654 - 4 Chosen Knights, Favour of lust, Standard Bearer , Banner of Speed
+523 - 3 Chosen Knights, Favour of Lust, Standard Bearer , Banner of Speed
+170 - 2 x 5 Flayers, Shield , Light Lance , Bow
+345 - Chosen Chariot
+400 - Forsaken One
+Koen Smeele - Warriors of the Dark Gods
+745 - Chosen lord, Mark of wrath , Luck of dark God, Winged Chimera , Burning portent,
+Talisman of Shielding
+660 - 15 Warriors, FC, Halberds, Mark of wrath , Zealoth banner
+660 - 15 Warriors, FC, Paired Weapons , Mark of wrath , Zealoth banner
+647 - 4 x Chosen knights, Full command, Mark of wrath , Stalkers standard
+345 - Chosen chariot
+578 - 4 Feldraks, Halberd , Champion , Standard, Stalkers standard
+100 - 6 Warhounds
+325 - Marauding giant
+JosseBusschman The wild hunt
+610 - Orion, king in the woods, avatar of Kurnous, lord of the hunt: Prince , general , Wild hunter ,
+Great Elk , Sylvan blades , Titanic might , light armour , Curse of the black stag , Sylvan cloak,
+shield , horn of the wild hunt , lucky charm , Sylvan longbow
+335 - Chieftain , bsb, bladedancer, sylvan blades , heroes heart, 2x aether icon .
+345 - 20 forest guard , M,C,S, standard of discipline
+365 - 20 forest guard , M,C,S, standard of discipline, sb/ec
+296 - 8 heath riders , M, shields ,
+475 - 6 wild hunters, banner, champ, banner of speed , shields ,
+330 - 3 kestrels, shields , champion
+310 - 3 kestrels, shields
+210 - 2 x 5 pathfinders
+411 - 10 bladedancers, S,C, rending banner
+100 - eagle
+Nick Kuysten - Saurian Ancients
+410 - Saurian Veteran , General , Paired Weapons , Raptor , Shield , Talisman of Shielding , Touch
+of Greatness
+465 - Saurian Veteran , BSB , Great Weapon , Raptor , Cleansing Light , Lucky Charm ,
+Taurosaur 's Vigor
+275 - 2 x 15 Saurian Warriors , Standard Bearer
+255 - 15 Saurian Warriors
+320 - 2 x 6 Raptor Riders
+215 - 3 Ramphodon Riders
+110 - 2 x 5 Skink Hunters
+135 - Weapon Beasts [135pts]: Spearback
+165 - Weapon Beasts [165pts]: Salamander
+470 - 2 x 1 Taurosaur [470pts]: Giant Bow
+Joris van Soest - Orcs and Goblins
+555 - Feral Orc Shaman , General , Paired W., Shamanism , Master, Crown of Autocracy , Pan of
+Protection Pinchin’
+230 - Forest Goblin King , Heavy Armour , Lance , Scuttler Spider , Shield , Basalt Infusion
+290 - Forest Goblin King , Heavy Armour , Paired Weapons , Scuttler Spider , Shield , Ghostly
+Guard , Hero's Heart
+135 - Forest Goblin Witch Doctor , Thaumaturgy , Scuttler Spider , Apprentice
+865 - 35 Feral Orc 'Eadbashers, Champion , Paired W., Standard Bearer , Green Tide
+255 - 20 Ferals Orcs , Spear
+535 - 15 x Mounted Feral ‘Eadbashers, Champion , Paired W., Standard Bearer , Stalker's
+Standard
+140 - 2 x 1 Gnasher Wrecking Team [140pts]
+465 - Great Green Idol [465pts]: Battle Standard Bearer
+205 - Greenhide Catapults [205pts]: Git Launcher (4+), Orc Overseer
+185 - Greenhide Catapults [185pts]: Git Launcher (4+)
+Sebastiaan Knetsch - Kingdom of Equitaine
+635 - Duke , General , Virtue of Might, Pegasus , Divine Judgement, Fortress of Faith, Potion of
+Swiftness , Questing Oath , Bastard Sword, Shield , Lance
+385 - Damsel , barded warhorse , wizard master ( druidism )
+325 - Paladin , BSB , Pegasus , Questing vow, shield
+708 - 12 Knights of the Realm , full command, Banner of the last charge
+464 - 9 Knights of the realm , full command
+680 - 8 Knights of the Grail , musician , standard
+130 - 2 x 5 yeoman outriders , shields - 130pts
+537 - 4 Pegasus Knights , Loose Formation, Champion , Standard Bearer ,Banner of Roland
+Teun Verhagen - Saurian Ancients
+570 - Cuatl Lord [570pts]: Battle Standard Bearer , Divination
+390 - Saurian Warlord [390pts]: Army General , Paired Weapons , Destiny's Call, Potion of
+Swiftness , Shield Breaker
+688 - 28 Saurian Warriors , Serpent, Spears, Standard Bearer
+200 - 15 Skink Braves with Poisoned Javelins
+590 - 20 Temple Guard , Standard Bearer , Rending Banner
+130 - 5 Chameleons
+239 - 3 Ramphodon Riders, Shield
+165 - Weapon Beasts , Salamander
+135 - Weapon Beasts , Spearback
+415 – Stygiosaur , Mystic Traveller
+470 – Taurosaur , Giant Bow
+Daniel Scheper - Dwarven Holds
+385 - Dragon Seeker , Monster Seeker, R.o. Might, R.o. Precision, R.o. Quickening
+585 - King , General , Shield Bearers , R.o. Craftsmanship, R.o. Destruction, R.o. Fury, R.o. Iron,
+2x R.o. Shielding, R.o. the Forge
+330 - Thane , BSB , Shield , R.o. Dragon 's Breath, 2x R.o. Lightning, R.o. Storms
+260 - 10 Clan Marksmen , Guild-Crafted Handgun (4+), Shield
+140 - 140 Clan Warriors , Shield
+600 - 25 Greybeards , FC, Shield , Aether Icon
+681 - 6 Hold Guardians , FC, Runic Standard of the Hold
+321 - 12 Seekers , Brothers of Vengeance, Champion , Standard Bearer
+130 - Vengeance Seeker
+310 - Field Artillery , Flaming Shot , Catapult (4+), Rune Crafted
+255 - Field Artillery , Cannon (4+)
+Mario Scheper - Kingdom of Equitaine
+435 - Damsel , Barded Warhorse , Divination , Wizard Master , Magical Heirloom
+630 - Duke , General , Grail Oath , Hippogriff , Renown , Shield , Potion of Swiftness , Tristan's
+Resolve, Uther's Conviction
+320 - Paladin , Barded Warhorse , BSB , Piety , Questing Oath , Shield
+770 - 15 Knights Aspirant , FC, Banner of the Last Charge
+300 - 6 Knights of the Realm , Champion , Standard Bearer
+814 - 9 Knights of the Grail , Champion , Standard Bearer , Banner of Roland
+445 - 8 Knights of the Quest , Champion , Standard Bearer , Flaming Standard
+280 - Siege War Machine , Trebuchet (4+)

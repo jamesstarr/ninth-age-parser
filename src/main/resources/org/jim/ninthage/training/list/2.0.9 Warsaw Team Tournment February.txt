@@ -135,7 +135,7 @@ Withering Vapour, Centipede Legs - Guiding
 400 - 3 x Veil Serpents - CH
 155 - 5 x Hellhounds
 Total Army Cost: 4500
-Piotr Kuczyñski, DH, id 1463
+<SPLIT>BPiotr Kuczyñski, DH, id 1463
 130 - Engineer; General; Shield
 255 - 3x10 Greybeards; Throwing Weapons; Shield; Musician
 180 - 2x10 Clan Warriors; Throwing Weapons; Shield; Musician

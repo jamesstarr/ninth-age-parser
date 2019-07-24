@@ -1,0 +1,227 @@
+﻿<SPLIT>Beast Lord, General, Hunting call, Beast axe, heavy armor, Shield, Willows Ward, Crown of Autocracy, Pillager Icon, Wild Form  460
+<SPLIT>Soothsayer, Master, Druidism, Tricksters Cunning, Obsidian Rock, Talisman of the Void, ancestral carvings 570
+<SPLIT>Beast Chieftain, BSB, Beast Axe, Heavy Armor, Shield, Ghostly Guard, Dusk Forged, Potion of strength 310
+<SPLIT>Soothsayer, Apprentice, Shamanism, Ancestral carvings 215
+<SPLIT>23 Wildhorn herd, PW, Throwing Weapons, FC,  Banner of Wild Heard, ambush 452
+<SPLIT>23 Wildhorn herd, PW, Throwing Weapons, FC Banner of the Wild Heard, Ambush 452
+<SPLIT>28 Longhorns, GW, FC, Banner of relentless Company 649
+<SPLIT>16 Longhorns, GW, FC, Ambush, Banner of discipline 428
+<SPLIT>18 Longhorns, GW, FC, Ambush,  417
+<SPLIT>3x1 Razortusk 100
+<SPLIT>4500
+<SPLIT>Beast Lord, General, Hunting Call, PW, Light armor, Touch of Greatness, Aaghors Affliction, Potion of Swiftness, Crown of Horns, Razortusk Chariot 560
+<SPLIT>Minotaur Chieftain, BSB, Heavy armor, PW, Supernatural Dexterity, Wild Form 355
+<SPLIT>Soothsayer, Master, Druidism, Light armor, Tricksters Cunning, Ancestral Carvings, Dark Rain, Raiding Chariot 595
+<SPLIT>2x 15 Wildhorns PW, S, M, Ambush 240
+<SPLIT>2x3 Raiding Chariots 330
+<SPLIT>7 Minotaurs, PW, FC, Banner of Speed, Black Wing Totem 742
+<SPLIT>7 Minotaurs, PW, M 637
+<SPLIT>5 Minotaurs, PW 441
+<SPLIT>2x5 Gargoyles 135
+<SPLIT>Minotaur Warlord, General, PW, Light armor, Blessed Inscriptions, Aaghors Affliction, Eye of Dominance 700
+<SPLIT>Beast Chieftain, BSB, Greater Totem bearer, Shield, Heavy Armor, Basalt Infusion, Dusk Forged, Potion of Strength, Raiding Chariot 475
+<SPLIT>Soothsayer, Master, Durisdism, Seed of Dark Forest, Dark Rain 520
+<SPLIT>37 Mongrel Herd, FC, Spear, Banner of WIld Herd 386
+<SPLIT>10 Mongrel Raiders 95
+<SPLIT>2x15 Wildhorn Herd Throwing weapons, Ambush 220
+<SPLIT>2x5 Centaurs, Throwing Weapons, Light armor, shield 185
+<SPLIT>10 Centaurs, Lance, light armor, shield, FC, Aether Icon, Black Wing Totem 493
+<SPLIT>5 Gargoyles 150
+<SPLIT>1 Razortusk 100
+<SPLIT>1 Razortusk Chariot 230
+<SPLIT>Minotaur Warlord General, PW, Light armor, Blessed Inscriptions, Aaghors Affliction, Potion of Swiftness 680
+<SPLIT>Soothsayer Master Druidism Pillager Icon, Binding Scroll 490
+<SPLIT>39 mongrel Herd, Spear, shield, S,C 332
+<SPLIT>2x15 Wildhorn Herd PW, Throwing Weapons, Ambush 250
+<SPLIT>10 Mongrel Raiders 95
+<SPLIT>2x1 Raiding Chariot 110
+<SPLIT>2x1 Razortusk Heard 100
+<SPLIT>9 Razortusk Herd 596
+<SPLIT>5 Gargoyles 135
+<SPLIT>2x1 Gortach 475
+<SPLIT>1 Beast Giant, Drunkard 300
+<SPLIT>Minotaur Warlord General, PW, Light armor, Blessed Inscriptions, Aaghors affliction, Eye of Dominance 700
+<SPLIT>Beast Chieftain, BSB, Greater Totem Bearer, HEavy armor, Shield, Beast Ax, Throwing Weapons Basalt Infusion, Talisman of Shielding, Potion of Strength, Raiding Chariot 475
+<SPLIT>Soothsayer Master, Druidism, Dark Rain, Seed of Dark Forest 520
+<SPLIT>47 Montrel heard, Spear, Shield, FC, Banner of Wild Herd 466
+<SPLIT>2x15 Wildhorns, PW, TW, M, Ambush 220
+<SPLIT>10 Centaurs Lance, Shield, FC, Blackwing totem 478
+<SPLIT>2x5 Centaurs, Throwing weapon, Shield, Light armor 185
+<SPLIT>5 Gargoyles 135
+<SPLIT>10 Minotaurs, Light armor, Shield, FC, Black Wing totem 916
+<SPLIT>Beast Chieftain, General, Hunting Call, Beast ax, throwing weapons, Light armor, Destiny's Calls, Crown of Horns 260
+<SPLIT>Beast Chieftain, BSB, beast ax, light armor, essence of mithril, lucky charm 255
+<SPLIT>Minotaur Warlord, Heavy armor, PW, Blessed Inscriptions, Binding Scroll, Talisman of Shielding 685
+<SPLIT>Soothsayer Apprentice, Shamanism, PW, light armor, Rod of Battle, Raiding Chariot 230
+<SPLIT>31 Wildhorn Herd, PW, S,C, Banner of the Wild Herd 462
+<SPLIT>25 Wildhorn Herd, PW, TW, Ambush, S, Banner of the Wild Herd 440
+<SPLIT>40 Mongrel Herd, Spear, Shield, S, Banner of the Wild Herd 370
+<SPLIT>7 Minotaurs PW, S,C, Black Wing Totem, 672
+<SPLIT>28 Longhorns GW, S,C, Gnarled hide Totem 624
+<SPLIT>1 Razortusk Chariot 230
+<SPLIT>2x5 Gargoyles 135
+<SPLIT>Beast Lord, General, Beast Axe, Heavy Armor, Shield, Fatal Folly, Basalt Infusion, Talisman of Shielding, Eye of Dominance, Razortusk Chariot 535
+<SPLIT>Soothsayer, Master, Shamanism, Binding Scroll, Seed of Dark Forest, 495
+<SPLIT>Soothsayer, Master, Evocation, 380
+<SPLIT>Beast Chieftain, BSB, Heavy Armor, Shield, Beast Ax, Alchemist Alloy, Dusk Forged, Dragonfire Gem, Aether Icon, Raiding Chariot 390
+<SPLIT>10 Mongrel Raiders 95
+<SPLIT>2x15 Wildhorn Herd TW, S,M, Ambush, Banner of Discipline 275
+<SPLIT>3 Raiding Chariot
+<SPLIT>2x5 Gargoyles 135
+<SPLIT>5 Feral hounds 80
+<SPLIT>2x7 Minotaurs, Shield, FC, Banner of Speed, Black Wing Totem 714
+<SPLIT>Minotaur Warlord, General, PW, heavy armor, Twin Hungers, basalt Infusion, Crown of Horns, Talisman of Shielding 665
+<SPLIT>Minotaur Chieftan, BSB, Greater Totem Bearer, Heavy armor, Shield, Willows Ward, Alcehmist Alloy, Dragonfire Gem, Dragonstaff 475
+<SPLIT>Soothsayer, Master, Druidism, hawthorn Curse, Wild Form, Dark Rain 570
+<SPLIT>10 Mongrel raiders, Bow, M, Ambush/Scout 135
+<SPLIT>10 Mongrel raiders, bow, M, 115
+<SPLIT>25 Wildhorn Herd, PW, Ambush 320
+<SPLIT>3 Raiding Chariot 330
+<SPLIT>Razortusk Chariot 230
+<SPLIT>3 Minotaurs, Shield, C,S, Banner of Speed, Gnarled Hide totem, 358
+<SPLIT>3 Minotaurs, PW, C,S Banner of Speed, Blooded Horn Totem 370
+<SPLIT>4 Minotaurs, GW, C,S, Stalker Standard, Black Wing Totem 453
+<SPLIT>1 Gortach 475
+<SPLIT>Dread Prince, Fleet Commander, Heavy Armor, Lance, Krakens hide, Shield, Transcendence, Terrifying Visage, Midnight Cloak, Elven Horse 610
+<SPLIT>Oracle, Master, Alchemy Obsidian Rock, Ring of Shadows 495
+<SPLIT>Cult Priest of Cadaron, BSB, Repeater Xbow, Aether Icon, Aether Icon 210
+<SPLIT>10 Corsairs, M, Vanguard 190
+<SPLIT>10 Corsairs, M, 180
+<SPLIT>15 Dread legionnaires, Spear, 215
+<SPLIT>3x5 Dark Raiders, repeater xbow 200
+<SPLIT>2x10 Raven Cloaks, PW 365
+<SPLIT>5 Dark Acolytes of Yema, C, 375
+<SPLIT>5 Dark Acolytes, C, 355
+<SPLIT>3x1 Dread Reaper 180
+<SPLIT>King, General, Holdstone, Plate armor, Shield, Rune of Iron, Rune of Destruction, Rune of Fury, Rune of Smashing, Run of Shielding X2, 525
+<SPLIT>Thane, BSB, Shield, Rune of Lightning x 3, Rune of Dragon Breath, Shield Bearers 420
+<SPLIT>Runic Smith, 3x Battle runes, Rune of Devouring, Rune of Grounding, Rune of Harnessing 410
+<SPLIT>Anvil of Power 185
+<SPLIT>Engineer, Guid Crafted Handgun, Plate armor, Shield, 135
+<SPLIT>28 Greybeards, Shield,FC,  Flaming Standard 686
+<SPLIT>20 Clan Marksmen, Xbow, M, Shield 450
+<SPLIT>19 Rangers, Shield, M 250
+<SPLIT>10 Miners, TW, Shield, M 265
+<SPLIT>2x1 Steam Copters 175
+<SPLIT>1 Organ Gun, Rune Crafted 320
+<SPLIT>1 Catapult, Rune Crafted 300
+<SPLIT>Engineer, General, Plate armor, shield, Guild crafted Handgun 280
+<SPLIT>Dragon Seeker, Grim resolve, 2x Rune of Quickening, Rune of Destruction 440
+<SPLIT>Dragon Seeker, Monster Seeker, Rune of Fury, Rune of Quickening, Rune of Smashing 390
+<SPLIT>Dragon Seeker, 210
+<SPLIT>11 Clan Marksmen, GCH, Shield 285
+<SPLIT>10 Clan marksmen, GCH, Shield 260
+<SPLIT>10 Clan warriors, TW, Shield, 160
+<SPLIT>10 Clan warriors, Vanguard, Shield 160
+<SPLIT>1 Organ Gun, rune crafted 320
+<SPLIT>2x1 Steam Copter 210
+<SPLIT>1 Vengeance Seeker 130
+<SPLIT>10 Miners, PW 205
+<SPLIT>9 Seekers, C 259
+<SPLIT>21 Seekers, C 466
+<SPLIT>1 Cannon 255
+<SPLIT>King, General, Holdstone, GW, Plate, Shield Bearers, Ruen of Iron, Rune of Forge, Shield Bearers 430
+<SPLIT>Thane, GW, Plate, BSB, Runic Standard of Shielding, Rune of Forge, 275
+<SPLIT>Runic Smith, 3 Battle Runes, Plate, Shield, Rune of Lightning 265
+<SPLIT>24 Clan Warriors, Shield, FC 410
+<SPLIT>24 Greybeards, Shield, FC, 563
+<SPLIT>10 Clan Marksmen, GCH, Shield 280
+<SPLIT>20 DeepWatch, FC 505
+<SPLIT>20 KingsGuard FC 505
+<SPLIT>20 Seekers, C 485
+<SPLIT>2x1 Cannon 255
+<SPLIT>1 Organ Gun 270
+<SPLIT>Kuulimas Deceiver, Adept, Thaum/Evo, General, Greater Dominion, Venom Sacs, Hammer Hand, Dexterous Tentacles, Piercing Spike (Guiding) 570
+<SPLIT>Harbinger Adept Divination Venom Sacs (Guiding) 360
+<SPLIT>Harbinger Adept Witchcraft Venom Sacs (Guiding) 360
+<SPLIT>25 Myrmidons FC, Unhinging Jaw 655
+<SPLIT>2x10 Lemurs Venom Sacs 240
+<SPLIT>2x9 Eidolons Aura of Despair 353
+<SPLIT>5 Hoarders, Kaleidoscopic Flesh 591
+<SPLIT>2 Mageblight Gremlins, Venom Sacs 196
+<SPLIT>2x1 Titanslayer Chariot 205
+<SPLIT>5 Furies, kaleidoscopic flesh 170
+<SPLIT>Maw Of Akaan, General, Greater Dominion, Master, Evocation, Iron Husk, Hammerhand 1005
+<SPLIT>Harbinger BSB, Apprentice, Divination, Mark of Eternal Champion, Living Shield, Broodmother (Guiding) 250
+<SPLIT>24 Lemures, FC, Venom Sacs 686
+<SPLIT>15 Succubi, FC, Smothering Coils 455
+<SPLIT>2x1 Horde Thresher, Roaming Hands, 275
+<SPLIT>3 Hoarders, Unnatural Roots, Smothering Coils, C,M 395
+<SPLIT>3 Brazen Beasts, Red haze, Musician 433
+<SPLIT>6 Bloat Flies, Broodmother, M 729
+<SPLIT>Maw Of Akaan, General, Greater Dominion, Master, Evocation, Living Shield, Iron Husk 990
+<SPLIT>Courtesan of Cibaresh, Adept, Witchcraft Iron Husk, Mesmerizing Plumage 800
+<SPLIT>25 Succubi, FC, Smothering Coils 705
+<SPLIT>2x10 Myrmidons, Whipcrack Tail 235
+<SPLIT>2x5 Hellhounds, Incendiary Ichor 170
+<SPLIT>2x3 Brazen Beasts, Red Haze, 433
+<SPLIT>2x5 Furies
+<SPLIT>Kuulima Deceiver, General, Greater Dominion, Master, Venom Sacs (Guiding) 630
+<SPLIT>Harbinger, Adept, Evocation 275
+<SPLIT>20 Succubi, FC, Bronze Backbone 560
+<SPLIT>20 Myrmidons FC, Bronze Backbone 560
+<SPLIT>5 Furies, Red haze, 165
+<SPLIT>3 veil Serpents, C
+<SPLIT>5 Bloat Flies, Broodmother, C 605
+<SPLIT>3 Clawed Fiends, M, Mesmerizing Plumage 324
+<SPLIT>5 Clawed Fiends, M, Broodmother 569
+<SPLIT>2 Mageblight Gremlins, Venom Sacs 196
+<SPLIT>1 Titanslayer Chariot 225
+<SPLIT>Sentinal of Nukuja, General, Greater Dominion, Master, Divination, Withering Vapour, Mirrored Scales (guiding), Throne of the Oracle 765
+<SPLIT>Kuulima’s Deceiver, Master, Protean. Venom Sacs (guiding) 600
+<SPLIT>Harbinger, BSB, Brimstone secretions, Iron Husk 355
+<SPLIT>20 Imps, M Incendiary Ichor 405
+<SPLIT>10 Succubi 210
+<SPLIT>20 myrmidons, Piercing Spike 515
+<SPLIT>2x5 Eidolons, Kaleidoscopic Flesh 210
+<SPLIT>3 Veil Serpents 250
+<SPLIT>Hope harvester, Aura of Despair 325
+<SPLIT>Blazing Glories, Stiff Upper Lip 340
+<SPLIT>3 Hoarders, Grasping Proboscis 304
+<SPLIT>Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
+<SPLIT>Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
+<SPLIT>Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
+<SPLIT>Wizard Adept, Divination, Book of Arcane Power 260
+<SPLIT>10 Knights, Lance, Shield, FC 530
+<SPLIT>2x15 Hnadgunners, M 220
+<SPLIT>2x10 Militia 140
+<SPLIT>25 Imperial Guard, FC, Shield, Banner of Unity 470
+<SPLIT>1 Arcane engine, Shield, 290
+<SPLIT>2x5 Reiter's Brace of Pistols 175
+<SPLIT>1 Cannon 225
+<SPLIT>1 Steam Tank 475
+<SPLIT>Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
+<SPLIT>Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
+<SPLIT>Wizard master,Cosmo 350
+<SPLIT>Wizard Adept, Pyromancy, Book of Arcane Power 260
+<SPLIT>Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
+<SPLIT>2x20 Light infantry, Xbow
+<SPLIT>3x10 Militia 140
+<SPLIT>5 electoral Cavalry, shield 175
+<SPLIT>23 Imperial Guard, FC, Shield, Household Standard 432
+<SPLIT>2x5 Reiter's brace of pistols 175
+<SPLIT>2x1 Imperial Rocketeers 160
+<SPLIT>1 Steam Tank 475
+<SPLIT>4500
+<SPLIT>Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
+<SPLIT>Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
+<SPLIT>Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
+<SPLIT>Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670
+<SPLIT>15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
+<SPLIT>20 Light Infantry, handguns, S, M, Marksman Pennant 315
+<SPLIT>2x3 Knights of Sun Griffon, Lance, M 346
+<SPLIT>5 Reiters, Brace of Pistols 175
+<SPLIT>7 reiters, Repeater gun, 243
+<SPLIT>Steam Tank 475
+<SPLIT>4500
+<SPLIT>Hetes
+<SPLIT>High Prince, General, Master of Canreig Tower, Adept, Spear, heavy Armor, Shield, Death Cheater, Spear of Blazing Dawn 690
+<SPLIT>Commander, BSB, Queens COmpanion, Spear, Longbow, Moonlight Arrows, Banner of Becalming 335
+<SPLIT>Mage, Master, Pyromancy, Binding Scroll, Binding Scroll, 485
+<SPLIT>14 Archers, M 262
+<SPLIT>2x24 Citizen Spears, FC, M,C 344
+<SPLIT>5 Elein Reavers 180
+<SPLIT>19 Flame Wardens, FC, Rending Banner, 577
+<SPLIT>5 Knights of Ryma, M, 360
+<SPLIT>13 Queensguard, M 392
+<SPLIT>2x Sky Sloop 265
