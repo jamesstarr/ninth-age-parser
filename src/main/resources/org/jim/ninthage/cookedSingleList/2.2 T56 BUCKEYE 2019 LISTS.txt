@@ -1305,7 +1305,7 @@ Sorcerer, Adept, Alchemy, Plate armor, PW, Hero’s Heart, Basalt infusion, Dark
 HellMaw, 1 portal 345
 
 
- Shaw 
+Shaw
 
 
 Chosen Lord of Pride, General, Trophy Rack, King Slayer, Talisman of Shielding, Icon of the infinite, Luck of the Dark Gods, War Dias 630

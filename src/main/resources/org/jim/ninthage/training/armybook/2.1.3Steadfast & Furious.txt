@@ -1,7 +1,4 @@
-Empire of Sonnstahl 
-Olli Mikkanen 
- 
-405 - Wizard, Alchemy, Pyromancy, Wizard master, Essence of a Free Mind 
+<ARMY_BOOK:EoS>405 - Wizard, Alchemy, Pyromancy, Wizard master, Essence of a Free Mind
 360 - Prelate, General, Plate Armour, Imperial Seal, Crown of Autocracy, Lucky Charm 
 345 - Wizard, Arcane Engine, Arcane Shield, Alchemy, Wizard Apprentice, Light Armour, 
 Alchemist's Alloy 
@@ -19,10 +16,9 @@ Champion
 90 - 5x Imperial Rangers 
 250 - Artillery, Canon 
 475 - Steam Tank 
-310 - 20x Flagellants, Champion 
- 
-Lasse Lindström 
-Dwarven Holds 
+310 - 20x Flagellants, Champion
+
+<ARMY_BOOK:DH>Dwarven Holds
  
 King - General, War Throne, Shield, Rune of Destruction, 2 x Rune of  
 Might, Rune of Dragon`s Breath, Rune of Shielding 730 
@@ -37,8 +33,7 @@ Anvil of Power - 185
 2 x Steam Copters, Attack Copter 310 
 2 x Steam Copters, Attack Copter 310 
 
-Vilhelm Metsalo
-Warriors of the Dark Gods
+<ARMY_BOOK:WDG>Warriors of the Dark Gods
 
 625 - Chosen Lord, General, Greed, Warband Standard, Thrice Forged, Icon of Relentless Company,
 Talisman of Shielding, Immortal Gauntlets, Dark Prelate
@@ -51,8 +46,8 @@ Talisman of Shielding, Immortal Gauntlets, Dark Prelate
 667 - 4 Chosen Knights, Greed, Full Command, Wasteland Torch
 400 - Forsaken One
 
-Ville Oinio
-Dwarven Holds
+
+<ARMY_BOOK:DH>Dwarven Holds
 
 King (615) Shieldbearers, Crossbow, Great Weapon, Steel, Iron, Resistance, Courage, Dragon's Breath
 Thane, BSB (340) Shield, Crossbow, 2 Iron, Dragon's Breath, Runic Standard of Dismay
@@ -68,8 +63,7 @@ Cannon (255)
 Ballista, Crafted (145)
 Ballista, Crafted (145)
 
-Max Salomaa
-Vermin Swarm
+<ARMY_BOOK:VS>Vermin Swarm
 
 650 - Plague Patriarch, Occultism, Wizard Apprentice, Plague Pendulum, Light Armour, Putrid Protection,
 Plague Flail
@@ -87,8 +81,7 @@ Armour
 305 - Dreadmill
 
 
-Julius Castren
-Vampire Covenant
+<ARMY_BOOK:VC>Vampire Covenant
 
 820 - Vampire Count, General (The Dead Arise), Nosferatu, Blood Magic, Cosmology, Wizard Master,
 Light Armour, Destiny's Call, Halberd, Sceptre of Power, Dragon Staff
@@ -105,8 +98,7 @@ Weapon)
 740 - 4x Winged Reapers, Halberds
 490 - Shrieking Horror
 
-Juhani Kukkanen
-Saurian Ancients
+<ARMY_BOOK:SA>Saurian Ancients
 
 675 - Skink Captain, Taurosaur, Great Bow, Battle Standard, Light Armour, Blowpipe, Paired Weapons,
 Hero's Heart (Paired Weapons), Obsidian Rock
@@ -124,8 +116,7 @@ Musician, Champion
 415 - Stygiosaur, Mystic Traveller
 
 
-Herman Mäenalanen
-Vermin Swarm
+<ARMY_BOOK:VS>Vermin Swarm
 
 820 - Vermin Daemon, General
 725 - Plague Patriarch, Occultism, Wizard Adept, Plague Pendulum, Light Armour, Putrid Protection,
@@ -145,8 +136,7 @@ Plague Flail
 150 - Weapon Team, Rotary Gun
 
 
-Olli Katila
-Dread Elves
+<ARMY_BOOK:DE>Dread Elves
 
 995 - Oracle, General, Cult of Yema, Occultism, Wizard master, Dragon, Moraec’s Reaping (Hand
 Weapon), Wandering Familiar, Obsidian Rock
@@ -166,8 +156,7 @@ Crossbow, Lance
 440 - Hydra
 
 
-Jesse Meuronen
-Beast Herds
+<ARMY_BOOK:BH>Beast Herds
 
 720 - Minotaur Warlord, General, Shield, Willow's Ward, Heavy Armour, Death Cheater, Beast Axe, Fatal
 Folly (Beast Axe), Eye of Dominance
@@ -186,8 +175,7 @@ Black Wing
 355 - Cyclop
 
 
-Antti Häkli
-Daemonic Legion
+<ARMY_BOOK:DL>Daemonic Legion
 
 Sentinel of Nukuja Strixian Spirit, Divination, Kaleidoskopic Flesh 685
 Vanadra's Scourge General, Dominion of Wrath, Wizard Master, Incendiary Ichor880
@@ -200,8 +188,7 @@ Blazing Glories Bronze Backbone 315
 5 Hoarders Musician, Kaleidoscopic Flesh, Dextreous Tentacles 586
 
 
-Jere Jukka
-Warriors of the Dark Gods
+<ARMY_BOOK:WDG>Warriors of the Dark Gods
 
 Chosen Lord on Wasteland Dragon: General, Warband Standard, Favor of Envy, Dark Prelate, Burning
 Portent, Banner of Speed 975
@@ -215,8 +202,7 @@ Sorcerer: Wizard Adept, Evocation, Plate Armour, Binding Scroll Alchemist's Allo
 2x1 Feldrak Elder, Paired Weapons 460
 
 
-Olli "Aco" Kanninen
-Undying Dynasties
+<ARMY_BOOK:UD>Undying Dynasties
 
 485 - Death Cult Hierarch, General, Soul Conduit, Sacred Hourglass, Scroll of Desiccation, Wizard
 Master, Divination
@@ -233,8 +219,7 @@ Strength, Death Mask of Teput
 605 - 7 Shabti Archers, M, S, Rending Banner
 760 - 4 Tomb Reapers, Paired Weapons
 
-Pyry Peitso
-Infernal Dwarves
+<ARMY_BOOK:ID>Infernal Dwarves
 
 Overlord, general, shield, Willow's Ward, Death Cheater, Onyx Core 510
 Prophet, Wizard, Alchemy, Pyromancy, Wizard Master, shield, Essence of a Free Mind 490

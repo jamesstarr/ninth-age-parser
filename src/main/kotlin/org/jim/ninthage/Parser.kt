@@ -1,6 +1,13 @@
 package org.jim.ninthage
 
+import org.jim.ninthage.data.Tournament
+import org.jim.ninthage.data.TrainingData
+import org.jim.ninthage.models.PdFParserConfiguration
+import org.jim.ninthage.models.TournamentConfiguration
+import org.jim.ninthage.pdf.PdfToText
 import org.jim.ninthage.utils.YamlUtils
+import java.lang.Exception
+import java.lang.RuntimeException
 
 
 fun main(args: Array<String>) {
@@ -9,28 +16,7 @@ fun main(args: Array<String>) {
 
 class Parser {
 
-
-    val Etc2018 = "/org/jim/ninthage/rawTeamList/ETC 2018 - T9A v.1.1.txt"
-    val Etc2019 = "/org/jim/ninthage/rawTeamList/ETC 2019 Master Lists v1.0.txt"
-    //this formatting is problematic
-    val AranjuezTeam = "/org/jim/ninthage/rawTeamList/2.2 T55 Listas Torneo de 4 2-1 Aranjuez Team Event.txt"
-    val WarsawTeamTourneyFeb = "/org/jim/ninthage/rawTeamList/2.0.9 Warsaw Team Tournment February.txt"
-
-    val TeamList = listOf(
-        Etc2018,
-        Etc2019,
-        AranjuezTeam,
-        WarsawTeamTourneyFeb
-    )
-
-    val BuckEye2019 = "/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt"
-    val Tec2019 = "/org/jim/ninthage/cookedSingleList/2.1.2 TEC 2019 lists.txt"
-
-    val SinglesList = listOf(
-        Tec2019,
-        BuckEye2019
-    )
-
+    val pdfToText = PdfToText()
     val listFileReader = ListFileReader()
 
     fun readAllList() {
@@ -39,15 +25,46 @@ class Parser {
         val armyBookDetector = SimpleClassifer(SimpleClassifer.train(TrainingData.ArmyBookClassifing))
 
         ArmyBookWriter.build(App.HomeDirectory.resolve("armyBook")).use { armyBookWriter ->
-            SinglesList.forEach { tourney ->
-                listSplitter.splitTeamsFormResource(tourney).forEach { armyList ->
-                    val armyBook = armyBookDetector.detectArmyBook((armyList))
-                    armyBookWriter.write(armyBook, armyList)
-                    println(YamlUtils.YamlObjectMapper.writeValueAsString(ArmyList(armyBook, armyList)))
+            Tournament.ALL.stream()
+                .map { preprocess(it) }
+                .map { (pathString:String, tournamentString) ->
+                    try {
+                    Tournment(
+                        pathString,
+                        listSplitter.split(tournamentString).map { armyList ->
+                            val armyBook = armyBookDetector.detectArmyBook((armyList))
+                            ArmyList(armyBook, armyList)
+                        }.toList()
+                    ) } catch (ex:Exception) {
+                        throw RuntimeException(pathString,ex)
+                    }
                 }
-            }
+                .forEach { tournment ->
+                    println("-------------------------------")
+                    println(tournment.fileName)
+                    println("-------------------------------")
+                    tournment.armyList
+                        .forEach { armyList ->
+                            armyBookWriter.write(armyList.armyBook, armyList.raw)
+                            println(YamlUtils.YamlObjectMapper.writeValueAsString(armyList))
+                        }
+                }
         }
     }
+
+    fun preprocess(configuration: TournamentConfiguration):TournamentPathAndString {
+        val tournmentString = when (configuration.parser) {
+            is PdFParserConfiguration -> pdfToText.convert(configuration.fileName, configuration.parser.flags)
+        }
+        return TournamentPathAndString(configuration.fileName, tournmentString)
+    }
+
+    data class TournamentPathAndString(val pathString:String, val tournamentString:String)
 }
 
-data class ArmyList(val armyBook:String, val raw:String)
+
+
+
+data class Tournment(val fileName: String, val armyList: List<ArmyList>)
+
+data class ArmyList(val armyBook: String, val raw: String)

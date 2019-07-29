@@ -1,43 +1,43 @@
-Empire of Sonnstahl 
-Olli Mikkanen 
- 
-405 - Wizard, Alchemy, Pyromancy, Wizard master, Essence of a Free Mind 
-360 - Prelate, General, Plate Armour, Imperial Seal, Crown of Autocracy, Lucky Charm 
-345 - Wizard, Arcane Engine, Arcane Shield, Alchemy, Wizard Apprentice, Light Armour, 
-Alchemist's Alloy 
-325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), 
-Blacksteel (Hand Weapon) 
-135 - Artificer, Repeater Gun 
-275 - 27x Heavy Infantry, Parent Unit, Standard bearer, Musician, Champion 
-226 - 17x Light Infantry, Crossbows 
-226 - 17x Light Infantry, Crossbows 
-213 - 16x Light Infantry, Crossbows 
-185 - 20x Heavy Infantry, Support Unit, Standard bearer, Musician 
-589 - 27x Imperial Guard, Great Weapons, Standard bearer, Household Standard, Musician, 
-Champion 
-90 - 5x Imperial Rangers 
-90 - 5x Imperial Rangers 
-250 - Artillery, Canon 
-475 - Steam Tank 
-310 - 20x Flagellants, Champion 
- 
-Lasse Lindström 
-Dwarven Holds 
- 
-King - General, War Throne, Shield, Rune of Destruction, 2 x Rune of  
-Might, Rune of Dragon`s Breath, Rune of Shielding 730 
-Thane - BSB, Banner of Relentless Company, Shield, Rune of Courage, Rune  
-of Dragon`s Breath 
-Runic Smith - Shield, Rune of Dragon`s Breath, 3 Battle Runes 
-Anvil of Power - 185 
-24 x Greybeards, Shields, TW`s, FCG, Relentless Company - 719 
-24 x Clan Warriors, Shields, Vanguard, Standard, Musician, Relentless Company - 478 
-23 x Seekers. Musician, Vanguard 577 
-23 x Seekers, Musician, Vanguard 577 
-2 x Steam Copters, Attack Copter 310 
-2 x Steam Copters, Attack Copter 310 
+Empire of Sonnstahl
+Olli Mikkanen
 
-Vilhelm Metsalo
+405 - Wizard, Alchemy, Pyromancy, Wizard master, Essence of a Free Mind
+360 - Prelate, General, Plate Armour, Imperial Seal, Crown of Autocracy, Lucky Charm
+345 - Wizard, Arcane Engine, Arcane Shield, Alchemy, Wizard Apprentice, Light Armour,
+Alchemist's Alloy
+325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon),
+Blacksteel (Hand Weapon)
+135 - Artificer, Repeater Gun
+275 - 27x Heavy Infantry, Parent Unit, Standard bearer, Musician, Champion
+226 - 17x Light Infantry, Crossbows
+226 - 17x Light Infantry, Crossbows
+213 - 16x Light Infantry, Crossbows
+185 - 20x Heavy Infantry, Support Unit, Standard bearer, Musician
+589 - 27x Imperial Guard, Great Weapons, Standard bearer, Household Standard, Musician,
+Champion
+90 - 5x Imperial Rangers
+90 - 5x Imperial Rangers
+250 - Artillery, Canon
+475 - Steam Tank
+310 - 20x Flagellants, Champion
+
+<SPLIT>Lasse Lindström
+Dwarven Holds
+
+King - General, War Throne, Shield, Rune of Destruction, 2 x Rune of
+Might, Rune of Dragon`s Breath, Rune of Shielding 730
+Thane - BSB, Banner of Relentless Company, Shield, Rune of Courage, Rune
+of Dragon`s Breath
+Runic Smith - Shield, Rune of Dragon`s Breath, 3 Battle Runes
+Anvil of Power - 185
+24 x Greybeards, Shields, TW`s, FCG, Relentless Company - 719
+24 x Clan Warriors, Shields, Vanguard, Standard, Musician, Relentless Company - 478
+23 x Seekers. Musician, Vanguard 577
+23 x Seekers, Musician, Vanguard 577
+2 x Steam Copters, Attack Copter 310
+2 x Steam Copters, Attack Copter 310
+
+<SPLIT>Vilhelm Metsalo
 Warriors of the Dark Gods
 
 625 - Chosen Lord, General, Greed, Warband Standard, Thrice Forged, Icon of Relentless Company,
@@ -51,7 +51,7 @@ Talisman of Shielding, Immortal Gauntlets, Dark Prelate
 667 - 4 Chosen Knights, Greed, Full Command, Wasteland Torch
 400 - Forsaken One
 
-Ville Oinio
+<SPLIT>Ville Oinio
 Dwarven Holds
 
 King (615) Shieldbearers, Crossbow, Great Weapon, Steel, Iron, Resistance, Courage, Dragon's Breath
@@ -68,7 +68,7 @@ Cannon (255)
 Ballista, Crafted (145)
 Ballista, Crafted (145)
 
-Max Salomaa
+<SPLIT>Max Salomaa
 Vermin Swarm
 
 650 - Plague Patriarch, Occultism, Wizard Apprentice, Plague Pendulum, Light Armour, Putrid Protection,
@@ -87,7 +87,7 @@ Armour
 305 - Dreadmill
 
 
-Julius Castren
+<SPLIT>Julius Castren
 Vampire Covenant
 
 820 - Vampire Count, General (The Dead Arise), Nosferatu, Blood Magic, Cosmology, Wizard Master,
@@ -105,7 +105,7 @@ Weapon)
 740 - 4x Winged Reapers, Halberds
 490 - Shrieking Horror
 
-Juhani Kukkanen
+<SPLIT>Juhani Kukkanen
 Saurian Ancients
 
 675 - Skink Captain, Taurosaur, Great Bow, Battle Standard, Light Armour, Blowpipe, Paired Weapons,
@@ -124,7 +124,7 @@ Musician, Champion
 415 - Stygiosaur, Mystic Traveller
 
 
-Herman Mäenalanen
+<SPLIT>Herman Mäenalanen
 Vermin Swarm
 
 820 - Vermin Daemon, General
@@ -145,7 +145,7 @@ Plague Flail
 150 - Weapon Team, Rotary Gun
 
 
-Olli Katila
+<SPLIT>Olli Katila
 Dread Elves
 
 995 - Oracle, General, Cult of Yema, Occultism, Wizard master, Dragon, Moraec’s Reaping (Hand
@@ -166,7 +166,7 @@ Crossbow, Lance
 440 - Hydra
 
 
-Jesse Meuronen
+<SPLIT>Jesse Meuronen
 Beast Herds
 
 720 - Minotaur Warlord, General, Shield, Willow's Ward, Heavy Armour, Death Cheater, Beast Axe, Fatal
@@ -186,7 +186,7 @@ Black Wing
 355 - Cyclop
 
 
-Antti Häkli
+<SPLIT>Antti Häkli
 Daemonic Legion
 
 Sentinel of Nukuja Strixian Spirit, Divination, Kaleidoskopic Flesh 685
@@ -200,7 +200,7 @@ Blazing Glories Bronze Backbone 315
 5 Hoarders Musician, Kaleidoscopic Flesh, Dextreous Tentacles 586
 
 
-Jere Jukka
+<SPLIT>Jere Jukka
 Warriors of the Dark Gods
 
 Chosen Lord on Wasteland Dragon: General, Warband Standard, Favor of Envy, Dark Prelate, Burning
@@ -215,7 +215,7 @@ Sorcerer: Wizard Adept, Evocation, Plate Armour, Binding Scroll Alchemist's Allo
 2x1 Feldrak Elder, Paired Weapons 460
 
 
-Olli "Aco" Kanninen
+<SPLIT>Olli "Aco" Kanninen
 Undying Dynasties
 
 485 - Death Cult Hierarch, General, Soul Conduit, Sacred Hourglass, Scroll of Desiccation, Wizard
@@ -233,7 +233,7 @@ Strength, Death Mask of Teput
 605 - 7 Shabti Archers, M, S, Rending Banner
 760 - 4 Tomb Reapers, Paired Weapons
 
-Pyry Peitso
+<SPLIT>Pyry Peitso
 Infernal Dwarves
 
 Overlord, general, shield, Willow's Ward, Death Cheater, Onyx Core 510

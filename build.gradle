@@ -13,10 +13,13 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
     compile 'com.google.guava:guava:28.0-jre'
     compile 'org.apache.opennlp:opennlp-tools:1.9.1'
+    compile 'org.apache.pdfbox:pdfbox:2.0.13'
     compile 'com.fasterxml.jackson.core:jackson-annotations:2.9.8'
     compile 'com.fasterxml.jackson.core:jackson-core:2.9.8'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.9.8'
     compile 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.8'
+    compile group: 'net.sf.trove4j', name: 'trove4j', version: '3.0.3'
+
 }
 
     compileKotlin {

@@ -1,4 +1,4 @@
-package org.jim.ninthage
+package org.jim.ninthage.data
 
 object TrainingData {
     val TeamSplitting = listOf(
@@ -11,11 +11,14 @@ object TrainingData {
         "/org/jim/ninthage/training/list/2.0.9 Warsaw Team Tournment February.txt",
         "/org/jim/ninthage/training/list/2.2 T56 BUCKEYE 2019 LISTS.txt",
         "/org/jim/ninthage/training/list/ETC 2019 Master Lists v1.0.txt",
-        "/org/jim/ninthage/training/list/2.1.2 TEC 2019 lists.txt"
+        "/org/jim/ninthage/training/list/2.1.2 TEC 2019 lists.txt",
+        "/org/jim/ninthage/training/list/2.1.3Steadfast & Furious.txt"
     )
 
     val ArmyBookClassifing = listOf(
         "/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt",
-        "/org/jim/ninthage/training/armybook/ETC 2019 Master Lists v1.0.txt"
+        "/org/jim/ninthage/training/armybook/ETC 2019 Master Lists v1.0.txt",
+        "/org/jim/ninthage/training/armybook/2.1.3Steadfast & Furious.txt",
+        "/org/jim/ninthage/training/armybook/2.1.2 TEC 2019 lists.txt"
     )
 }

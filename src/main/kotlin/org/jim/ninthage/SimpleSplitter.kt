@@ -8,13 +8,16 @@ import opennlp.tools.util.TrainingParameters
 import org.jim.ninthage.opennlp.JoinObjectStreams
 import org.jim.ninthage.opennlp.NoWhiteSpaceSplitTokenizer
 import org.jim.ninthage.opennlp.SimpleObjectStream
+import org.jim.ninthage.opennlp.Splitter
 import org.jim.ninthage.utils.ResourceUtils
 
 
-class SimpleSplitter(val tokenizer: SentenceDetectorME) {
+class SimpleSplitter(
+    private val tokenizer: Splitter
+) {
     companion object {
         fun build(model: SentenceModel):SimpleSplitter {
-            val tokenizer = SentenceDetectorME(model)
+            val tokenizer = Splitter(model)
             return SimpleSplitter(tokenizer)
         }
 
@@ -41,14 +44,14 @@ class SimpleSplitter(val tokenizer: SentenceDetectorME) {
         }
     }
 
-    fun splitTeamsFormResource(resource:String) : Sequence<String> {
+    fun splitFormResource(resource:String) : Sequence<String> {
         val value = ResourceUtils.readResourceAsUtf8String(resource)
-        return splitTeams(value)
+        return split(value)
     }
 
-    fun splitTeams(listOfTeams:String): Sequence<String>  {
+    fun split(listOfTeams:String): Sequence<String>  {
         return sequence {
-            val tokens: Array<out String> = tokenizer.sentDetect(listOfTeams)
+            val tokens = tokenizer.sentDetect(listOfTeams)
             for (token in tokens) {
                 yield(token)
             }

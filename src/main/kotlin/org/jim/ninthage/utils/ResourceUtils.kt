@@ -1,5 +1,6 @@
 package org.jim.ninthage.utils
 
+import java.io.InputStream
 import java.io.InputStreamReader
 
 object ResourceUtils {
@@ -10,5 +11,9 @@ object ResourceUtils {
             }
             return InputStreamReader(it, Charsets.UTF_8).readText()
         }
+    }
+
+    fun resourceAsInputStream(resourceName:String):InputStream {
+        return javaClass.getResourceAsStream(resourceName)
     }
 }
