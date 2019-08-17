@@ -2,79 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1aa1b64-76c1-448e-8db7-7bd47b3381c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/Tournament.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/PdfParserFlags.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournamentConfiguration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/pdf/PdfToText.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 1 ZIMA 2019_ARMY LISTS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 10 War Head.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 11 UK 9th Age Masters Open Lists 2018_19.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 12 Torneo 9th Age 20_01_2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 12 UK 9th Age Masters Lists 2018_19.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 13 The Goblin Moors.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 14 The deepest Lore.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 15 Scottish Champs Player Pack.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 15 Talvisota-19 9th Age rosters.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 16 Resumen_listas_Polish_masters_2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 18 NA Masters.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 2 BalticCup2019Rosters.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 20 Masters Grail Quest.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 21 BeLaMa Reader eng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 23 MAPM 3 Spieler Teamturnier 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 24 listes LBM.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 25 Lister T9A NM 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 26 Liste Nazionale Singolo 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 27 Listas Toe Fuengirola Corregidas 1.1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 30 Armeelisten Bode Bashen 12.5 v1.1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 6 Ylva endagars vår 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 7 Winter War 23-24.2 Helsinkie.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 8 WettCon Vinter-2019 .pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.0 9 Warsaw Team Tournament february.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1 13 Gift of Foresight.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1 13 The scoring of the north.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1 14 GT Amsterdam.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1 15 TNQ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.10 Listas final Zaragoza 2019-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.11 Liste Interregionale 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.12 CTW 2019 Lists v1.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.2 TEC 2019 lists.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.3Steadfast &amp; Furious.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.4 Prince Regent NL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.5 II Torneo Distrito Zero.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.7 BC2019Lists_Final.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.1.8 3rd Crippled Ride 9.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T50 ÖMS 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T51 Listen T9A Masters Germany II.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T52 Copy of BBQ CUP 2019 - T9A Lists.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T53 1. Franken Cup.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T54 LISTAS 2 JUNIO Torneo Leon Singles.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T55 Listas Torneo de 4 2-1 Aranjuez Team Event.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/2.2 T56 BUCKEYE 2019 LISTS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 1 Ростеры Moscow Open 2018.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 2 xmas army lists.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 3 ÖTT - 2019 Lists.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 4 Liste Nazionale Singolo 2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 5 dz corregidas (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 6 Crippling Rides 9.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist/205 7 3rd Paris Tavern Masters.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.1.2 TEC 2019 lists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.1.3Steadfast &amp; Furious.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.1.3Steadfast &amp; Furious.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Runner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ArmyList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/Tournment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookReporter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/TournamentReporter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ArmyBookWriter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ArmyBookWriter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleSplitter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleSplitter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TrainingData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/ResourceUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/ResourceUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.3Steadfast &amp; Furious.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.3Steadfast &amp; Furious.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleClassifer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/SimpleClassifer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleSplitter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/SimpleSplitter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/Tournament.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/Tournaments.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/NoWhiteSpaceSplitTokenizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/NoWhiteSpaceSplitTokenizer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/pdf/PdfToText.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/pdf/PdfToText.kt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +32,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -118,42 +65,13 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="documentation" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="help" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="verification" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="ninth-age-parser" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
               </path>
             </expand>
             <select />
@@ -162,216 +80,18 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="e#26#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/data/armyBook/ASK.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/data/armyBook/DE.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/data/armyBook/OnG.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="197" column="31" selection-start-line="197" selection-start-column="31" selection-end-line="197" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/data/armyBook/BH.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleSplitter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/sentdetect/SentenceDetectorME.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#10988#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1300">
-              <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#12891#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#9690#9691#0" expanded="true" />
-                <element signature="e#9717#9718#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/ClassiferTokenizer.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>^(\d+ \d+ \w+\s*)$</find>
-      <find>SPLIT</find>
-      <find>SPLIT&gt;</find>
-      <find>&lt;SPLIT&gt;</find>
-      <find>Stephen “Slatch” Slatcher - Undying Dynastie</find>
-      <find>^(\w|\s)+ - \w{2,3}</find>
-      <find>wdg</find>
-      <find>^(\w+\s\w+) - (\w{2,3})\s$</find>
-      <find>ALGORITHM_PARAM</find>
-      <find>BH</find>
-      <find>HE</find>
-      <find>DH</find>
-      <find>(4\d\d\d)</find>
-      <find>Ro Nev</find>
-      <find>EoS</find>
-      <find>Reboludos</find>
-      <find>^</find>
-      <find>Chris b</find>
-      <find>Marcus Lake</find>
-      <find>Marcus</find>
-      <find>Marc</find>
-      <find>addMoreFormatting</find>
-      <find>BBB</find>
-      <find>Adam Jon</find>
-      <find>Warriors</find>
-      <find>Radek</find>
-      <find>Radek Tarasiewicz</find>
-      <find>Schmid</find>
-      <find>Kingdom</find>
-      <find>________________\n(\w| )+\n</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>&lt;SPLIT&gt;$1</replace>
-      <replace>&lt;ARMY_BOOK:$1&gt;</replace>
-      <replace>&lt;ARMY_BOOK:$2&gt;</replace>
-      <replace>$1&lt;SPLIT&gt;</replace>
-      <replace>&lt;SPLIT&gt;</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawTeamList/2.0.9 Warsaw Team Tournment February.txt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/LanguageTokenizer.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/IntegerUtils.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/DocumentToTokenStream.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ArmyBookDetector.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/ClassiferTokenizer.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/App.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ArmyBookWriter.kt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.2 T56 BUCKEYE 2019 LISTS.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/ETC 2019 Master Lists v1.0.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/ETC 2019 Master Lists v1.0.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.2 T56 BUCKEYE 2019 LISTS.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/team/2.2 T55 Listas Torneo de 4 2-1 Aranjuez Team Event.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt" />
-        <option value="$PROJECT_DIR$/.git_ignore" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawTeamList/2.2 T55 Listas Torneo de 4 2-1 Aranjuez Team Event.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/entrySplit/2.2 T56 BUCKEYE 2019 LISTS.txt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ArmyBookClassifer.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TeamDetector.kt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.0.9 Warsaw Team Tournment February.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.4 Prince Regent NL.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.2 TEC 2019 lists.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.1.2 TEC 2019 lists.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedSingleList/2.1.2 TEC 2019 lists.txt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/YamlUtils.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/ResourceUtils.kt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.3Steadfast &amp; Furious.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.1.3Steadfast &amp; Furious.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.1.3Steadfast &amp; Furious.txt" />
-        <option value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.1.2 TEC 2019 lists.txt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TrainingData.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TournmentRawConfigurations.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserFlags.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/PdfParserFlags.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournmentRawConfigurations.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleClassifer.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournmentParserConfiguration.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/Tournments.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/Tournament.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/pdf/PdfToText.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournmentConfigurations.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournmentConfiguration.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournamentConfiguration.kt" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleSplitter.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
@@ -379,70 +99,26 @@
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectId" id="1P41kn78ofFtmkHcCrUGlfuGstV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ninth-age-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ninth-age-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="ninth-age-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ninth-age-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ninth-age-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ninth-age-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ninth-age-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ninth-age-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ninth-age-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawlist" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\training" />
-      <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\rawTeamList" />
-    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="org.jim.ninthage.opennlp" />
       <recent name="org.jim.ninthage.data" />
       <recent name="org.jim.ninthage.models" />
       <recent name="org.jim.ninthage.utils" />
-    </key>
-    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
-      <recent name="org.jim.ninthage.opennlp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\rawlist" />
@@ -450,6 +126,13 @@
       <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\training\list" />
       <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\cookedSingleList" />
       <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\training\entrySplit" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="org.jim.ninthage.opennlp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\training" />
+      <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\rawTeamList" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -464,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.org.jim.ninthage.ParserKt">
+  <component name="RunManager" selected="Gradle.ninth-age-parser [run]">
     <configuration name="ninth-age-parser [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -477,6 +160,44 @@
         <option name="taskNames">
           <list>
             <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ninth-age-parser [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ninth-age-parser [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -510,106 +231,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.jim.ninthage.parser.org.jim.ninthage.ParserKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ninth-age-parser.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="org.jim.ninthage.parser.org.jim.ninthage.ParserKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.jim.ninthage.pdf.PdfToTextKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="ninth-age-parser.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="org.jim.ninthage.pdf.PdfToTextKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.org.jim.ninthage.ParserKt" />
         <item itemvalue="Gradle.ninth-age-parser [build]" />
+        <item itemvalue="Gradle.ninth-age-parser [clean]" />
+        <item itemvalue="Gradle.ninth-age-parser [run]" />
+        <item itemvalue="Kotlin.org.jim.ninthage.ParserKt" />
         <item itemvalue="Kotlin.org.jim.ninthage.data.TournamentKt" />
-        <item itemvalue="Kotlin.org.jim.ninthage.pdf.PdfToTextKt" />
-        <item itemvalue="Kotlin.org.jim.ninthage.parser.org.jim.ninthage.ParserKt" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581876" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32967034" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3289166" />
-      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4660951" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990647" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.12798092" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.44003242" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32967034" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.3289166" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" weight="0.589141" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1aa1b64-76c1-448e-8db7-7bd47b3381c3" name="Default Changelist" comment="" />
+      <created>1565118699703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565118699703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding initial work" />
@@ -622,560 +278,43 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/sentdetect/SentenceDetectorME.java</url>
           <line>307</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java</url>
-          <line>225</line>
-          <properties />
-          <option name="timeStamp" value="25" />
+          <line>153</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <condition expression="value.startsWith(&quot;Shaw&quot;)" language="kotlin" />
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleClassifer.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/SimpleClassifer.kt</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt</url>
-          <line>38</line>
-          <properties />
+          <line>49</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/SimpleSplitter.kt</url>
+          <line>49</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JetRunConfigurationType">
-        <watch expression="languageDetectorME.predictLanguages(value + &quot; warrior&quot;)" language="kotlin" />
-        <watch expression="languageDetectorME.predictLanguages(value.toLowerCase())" language="kotlin" />
+        <watch expression="model.eval(cgen.getContext(sb, 0))" language="JAVA" />
+        <watch expression="model.eval(cgen.getContext(sb, 1))" language="JAVA" />
+        <watch expression="probOfSplit.reverse();" language="JAVA" />
+        <watch expression="probOfSplit" language="JAVA" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>spans[i] == null</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>value.startsWith(&quot;Shaw&quot;)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="watch">
-      <expression>
-        <expression-string>languageDetectorME.predictLanguages(value.toLowerCase())</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>languageDetectorME.predictLanguages(value + &quot; warrior&quot;)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>languageDetectorME.predictLanguages(value)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>textStripper.getText(doc)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>value.substring(sample.end, nextSample.start)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tokenizer.sentenceProbabilities</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tokenizer.sentPosDetect(listOfTeams)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>listOfTeams</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tokenizer.sentDetect(listOfTeams)</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>value.length</expression-string>
-        <language-id>kotlin</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/ETC 2019 Master Lists v1.0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="825" selection-start-line="825" selection-end-line="825" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ArmyBookWriter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/entrySplit/2.2 T56 BUCKEYE 2019 LISTS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3859">
-          <caret line="227" selection-start-line="227" selection-end-line="227" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.2 T56 BUCKEYE 2019 LISTS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/ETC 2019 Master Lists v1.0.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6395">
-          <caret line="4260" column="4" selection-start-line="4260" selection-start-column="4" selection-end-line="4260" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.4 Prince Regent NL.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="167" column="40" selection-start-line="167" selection-start-column="40" selection-end-line="167" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.1.2 TEC 2019 lists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="120" column="18" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedSingleList/2.1.2 TEC 2019 lists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/ResourceUtils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#32#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox/2.0.13/add205341758bc9a1ae1fcd3bd670a0acab02e2/pdfbox-2.0.13-sources.jar!/org/apache/pdfbox/pdmodel/PDDocument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="1463" selection-start-line="1463" selection-end-line="1463" />
-          <folding>
-            <element signature="e#55780#55781#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox/2.0.13/add205341758bc9a1ae1fcd3bd670a0acab02e2/pdfbox-2.0.13-sources.jar!/org/apache/pdfbox/text/LegacyPDFStreamEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="138" selection-start-line="138" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox/2.0.13/add205341758bc9a1ae1fcd3bd670a0acab02e2/pdfbox-2.0.13-sources.jar!/org/apache/pdfbox/contentstream/PDFStreamEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="474" selection-start-line="474" selection-end-line="474" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.21/224a3bcfa1c088dd5d7c4a3958a68427b44c65dc/kotlin-stdlib-common-1.3.21-sources.jar!/generated/_Sequences.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="717" column="27" selection-start-line="717" selection-start-column="27" selection-end-line="717" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawTeamList/2.0.9 Warsaw Team Tournment February.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="556" column="49" selection-start-line="556" selection-start-column="49" selection-end-line="556" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.3Steadfast &amp; Furious.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="250" column="34" selection-start-line="250" selection-start-column="34" selection-end-line="250" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.1.3Steadfast &amp; Furious.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="235" column="7" selection-start-line="235" selection-start-column="7" selection-end-line="235" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/list/2.0.9 Warsaw Team Tournment February.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3572">
-          <caret line="542" column="24" selection-start-line="542" selection-start-column="7" selection-end-line="542" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.8/5333e788a93d55bc87628e16f799ce0d03ad7a59/jackson-dataformat-yaml-2.9.8-sources.jar!/com/fasterxml/jackson/dataformat/yaml/YAMLFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/utils/YamlUtils.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="e#32#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="1307" selection-start-line="1307" selection-end-line="1307" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.2 T56 BUCKEYE 2019 LISTS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="1262" column="15" selection-start-line="1262" selection-end-line="1262" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/rawSingleList/2.1.2 TEC 2019 lists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.1.3Steadfast &amp; Furious.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3757">
-          <caret line="221" column="13" selection-start-line="221" selection-start-column="13" selection-end-line="221" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/armybook/2.1.2 TEC 2019 lists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="1636" selection-start-line="1636" selection-end-line="1637" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/Tournament.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="149" column="14" selection-start-line="149" selection-start-column="14" selection-end-line="149" selection-end-column="14" />
-          <folding>
-            <element signature="e#31#182#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/PdfParserFlags.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/pdf/PdfToText.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournamentConfiguration.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.21/b8815e48fb45e94821287365bd9ce8623f459ac7/kotlin-stdlib-1.3.21-sources.jar!/kotlin/coroutines/jvm/internal/ContinuationImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.pdfbox/pdfbox/2.0.13/add205341758bc9a1ae1fcd3bd670a0acab02e2/pdfbox-2.0.13-sources.jar!/org/apache/pdfbox/text/PDFTextStripper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="318" selection-start-line="318" selection-end-line="318" />
-          <folding>
-            <element signature="e#43945#43946#0" expanded="true" />
-            <element signature="e#43985#43986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/util/Span.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-          <folding>
-            <element signature="e#3284#3285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleClassifer.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" selection-start-line="14" selection-end-line="15" />
-          <folding>
-            <element signature="e#26#522#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/sentdetect/SDContextGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/sentdetect/EndOfSentenceScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/sentdetect/SentenceDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="42" column="59" lean-forward="true" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/sentdetect/SentenceDetectorME.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#10988#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.opennlp/opennlp-tools/1.9.1/61c6993ed21942d9ca5c6edb8b876663c37cb590/opennlp-tools-1.9.1-sources.jar!/opennlp/tools/tokenize/TokenizerME.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="121" column="22" lean-forward="true" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/opennlp/ClassiferTokenizer.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.trove4j/trove4j/3.0.3/109c5be93362e6e651e417c51d1863477a22969c/trove4j-3.0.3-sources.jar!/gnu/trove/list/array/TDoubleArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/jim/ninthage/opennlp/Splitter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1300">
-          <caret line="106" column="19" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#12891#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#9690#9691#0" expanded="true" />
-            <element signature="e#9717#9718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/SimpleSplitter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/data/armyBook/VS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="135" column="15" lean-forward="true" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#26#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/data/armyBook/BH.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/data/armyBook/ASK.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/data/armyBook/DE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/data/armyBook/OnG.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="197" column="31" selection-start-line="197" selection-start-column="31" selection-end-line="197" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Gradle: com.google.code.findbugs:jsr305:3.0.2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

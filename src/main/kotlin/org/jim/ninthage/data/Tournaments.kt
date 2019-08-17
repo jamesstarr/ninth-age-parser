@@ -4,13 +4,13 @@ import org.jim.ninthage.models.ParserConfiguration
 import org.jim.ninthage.models.TournamentConfiguration
 
 
-object Tournament {
+object Tournaments {
 
     val ALL: List<TournamentConfiguration> =
         listOf(
             TournamentConfiguration(
                 "/org/jim/ninthage/rawlist/2.0 1 ZIMA 2019_ARMY LISTS.pdf",
-                ParserConfiguration.Pdf
+                ParserConfiguration.PdfNewLineOnPage
             ),
 
             TournamentConfiguration(

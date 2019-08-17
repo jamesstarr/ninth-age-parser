@@ -32,6 +32,7 @@ class NoWhiteSpaceSplitTokenizer(
             builder.append(subString)
             Span(x, builder.length)
         }
+
         return SentenceSample(
             builder,
             *spans

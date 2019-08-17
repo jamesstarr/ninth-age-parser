@@ -17,7 +17,10 @@
  */
 package org.jim.ninthage.opennlp;
 
+import com.google.common.collect.Lists;
+import gnu.trove.iterator.TIntIterator;
 import gnu.trove.list.array.TDoubleArrayList;
+import gnu.trove.list.array.TIntArrayList;
 import opennlp.tools.dictionary.Dictionary;
 import opennlp.tools.ml.EventTrainer;
 import opennlp.tools.ml.TrainerFactory;
@@ -98,18 +101,27 @@ public class Splitter {
     /**
      * Detect sentences in a String.
      *
-     * @param s The string to be processed.
+     * @param sb The string to be processed.
      * @return A string array containing individual sentences as elements.
      */
-    public List<String> sentDetect(String s) {
-        List<Span> spans = sentPosDetect(s);
-        if (spans.size() != 0) {
-            return spans.stream()
-                    .map(span -> span.getCoveredText(s).toString())
-                    .collect(Collectors.toList());
-        } else {
-            return Collections.emptyList();
+    public List<String> sentDetect(String sb) {
+        TIntArrayList ender2 = new TIntArrayList();
+        TDoubleArrayList probOfSplit = new TDoubleArrayList();
+        ender2.add(0);
+
+        for (int i = 1; i < sb.length(); i++) {
+            double[] probs = model.eval(cgen.getContext(sb, i));
+            probOfSplit.add(probs[1]);
         }
+
+        for (int i = 0; i < probOfSplit.size(); i++) {
+            double prob = probOfSplit.get(i);
+            if(prob > 0.65) {
+                ender2.add(i);
+            }
+        }
+
+        return sub(sb, ender2);
     }
 
     private int getFirstWS(String s, int pos) {
@@ -132,10 +144,12 @@ public class Splitter {
      * every sentence
      */
     public List<Span> sentPosDetect(String s) {
-        StringBuffer sb = new StringBuffer(s);
+        StringBuilder sb = new StringBuilder(s);
         List<Integer> enders = scanner.getPositions(s);
         List<Integer> positions = new ArrayList<>(enders.size());
         TDoubleArrayList sentProbs = new TDoubleArrayList(enders.size());
+
+
 
         for (int i = 0, end = enders.size(), index = 0; i < end; i++) {
             int cint = enders.get(i);
@@ -231,6 +245,33 @@ public class Splitter {
         return spans;
     }
 
+    public List<String> sub(String sb, TIntArrayList ender){
+
+        TIntIterator iterator = ender.iterator();
+        List<String> splits = Lists.newArrayList();
+        int start = 0;
+        int previous = 0;
+        while(iterator.hasNext()){
+            int nextIndex = iterator.next();
+            if(nextIndex - previous < 50) {
+                previous = nextIndex;
+                continue;
+            } else if(previous - start < 100) {
+                previous = nextIndex;
+                continue;
+            } else {
+                splits.add(sb.substring(start, previous));
+                start = previous;
+                previous = nextIndex;
+            }
+        }
+        splits.add(sb.substring(start));
+        return splits.stream()
+                .filter((token) -> !token.isBlank())
+                .map(String::trim)
+                .collect(Collectors.toList());
+    }
+
     /**
      * Allows subclasses to check an overzealous (read: poorly
      * trained) model from flagging obvious non-breaks as breaks based
@@ -248,22 +289,11 @@ public class Splitter {
         return true;
     }
 
-    /**
-     * @deprecated Use
-     * {@link #train(String, ObjectStream, SentenceDetectorFactory, TrainingParameters)}
-     * and pass in af {@link SentenceDetectorFactory}.
-     */
-    public static SentenceModel train(String languageCode,
-                                      ObjectStream<SentenceSample> samples, boolean useTokenEnd,
-                                      Dictionary abbreviations, TrainingParameters mlParams) throws IOException {
-        SentenceDetectorFactory sdFactory = new SentenceDetectorFactory(
-                languageCode, useTokenEnd, abbreviations, null);
-        return train(languageCode, samples, sdFactory, mlParams);
-    }
-
-    public static SentenceModel train(String languageCode,
-                                      ObjectStream<SentenceSample> samples, SentenceDetectorFactory sdFactory,
-                                      TrainingParameters mlParams) throws IOException {
+    public static SentenceModel train(
+            ObjectStream<SentenceSample> samples,
+            SentenceDetectorFactory sdFactory,
+            TrainingParameters mlParams
+    ) throws IOException {
 
         Map<String, String> manifestInfoEntries = new HashMap<>();
 
@@ -275,18 +305,7 @@ public class Splitter {
 
         MaxentModel sentModel = trainer.train(eventStream);
 
-        return new SentenceModel(languageCode, sentModel, manifestInfoEntries, sdFactory);
+        return new SentenceModel("en", sentModel, manifestInfoEntries, sdFactory);
     }
 
-    /**
-     * @deprecated Use
-     * {@link #train(String, ObjectStream, SentenceDetectorFactory, TrainingParameters)}
-     * and pass in af {@link SentenceDetectorFactory}.
-     */
-    @Deprecated
-    public static SentenceModel train(String languageCode, ObjectStream<SentenceSample> samples,
-                                      boolean useTokenEnd, Dictionary abbreviations) throws IOException {
-        return train(languageCode, samples, useTokenEnd, abbreviations,
-                ModelUtil.createDefaultTrainingParameters());
-    }
 }

@@ -1,0 +1,7 @@
+To build and run on windows:
+1. You need java installed and configured
+2. Download the project to a local folder such as /home/my_user/ninthageparser
+3. Open a terminal
+  1. Change direectory to the folder contains this README, ie: cd /home/my_user/ninthageparser
+  2. Execute the following command: `gradle.bat build run`
+4. Examine ./build/reports for the results of the parser

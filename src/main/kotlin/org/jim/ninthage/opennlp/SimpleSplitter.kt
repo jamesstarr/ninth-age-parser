@@ -1,14 +1,10 @@
-package org.jim.ninthage
+package org.jim.ninthage.opennlp
 
 import opennlp.tools.dictionary.Dictionary
 import opennlp.tools.sentdetect.SentenceDetectorFactory
 import opennlp.tools.sentdetect.SentenceDetectorME
 import opennlp.tools.sentdetect.SentenceModel
 import opennlp.tools.util.TrainingParameters
-import org.jim.ninthage.opennlp.JoinObjectStreams
-import org.jim.ninthage.opennlp.NoWhiteSpaceSplitTokenizer
-import org.jim.ninthage.opennlp.SimpleObjectStream
-import org.jim.ninthage.opennlp.Splitter
 import org.jim.ninthage.utils.ResourceUtils
 
 
@@ -16,7 +12,7 @@ class SimpleSplitter(
     private val tokenizer: Splitter
 ) {
     companion object {
-        fun build(model: SentenceModel):SimpleSplitter {
+        fun build(model: SentenceModel): SimpleSplitter {
             val tokenizer = Splitter(model)
             return SimpleSplitter(tokenizer)
         }
@@ -32,8 +28,7 @@ class SimpleSplitter(
 
 
             try {
-                return SentenceDetectorME.train(
-                    "Team",
+                return Splitter.train(
                             sampleStream,
                     SentenceDetectorFactory("Team", false, Dictionary(), charArrayOf('\n')),
                     TrainingParameters.defaultParams()

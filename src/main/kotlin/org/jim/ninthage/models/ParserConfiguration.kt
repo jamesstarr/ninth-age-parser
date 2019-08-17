@@ -4,7 +4,12 @@ import java.util.*
 
 sealed class ParserConfiguration{
     companion object {
-        val Pdf = PdFParserConfiguration(EnumSet.noneOf(PdfParserFlags::class.java))
+        val Pdf =
+            PdFParserConfiguration(
+                EnumSet.noneOf(PdfParserFlags::class.java)
+            )
+        val PdfNewLineOnPage = PdFParserConfiguration(
+            EnumSet.of(PdfParserFlags.NewLineOnPages))
     }
 }
 

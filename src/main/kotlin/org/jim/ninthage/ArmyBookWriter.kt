@@ -19,7 +19,7 @@ class ArmyBookWriter(val dir: Path): Closeable {
     fun write(armyBook: String, payload:String) {
         val writer = getWriter(armyBook)
         writer.write(payload)
-        writer.write("\n")
+        writer.write("\n<ARMY_BOOK>\n")
     }
 
     private fun getWriter(armyBook:String):Writer {

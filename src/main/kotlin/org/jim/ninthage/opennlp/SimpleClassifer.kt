@@ -1,4 +1,4 @@
-package org.jim.ninthage
+package org.jim.ninthage.opennlp
 
 import opennlp.tools.langdetect.LanguageDetectorFactory
 import opennlp.tools.langdetect.LanguageDetectorME
@@ -6,9 +6,6 @@ import opennlp.tools.langdetect.LanguageDetectorModel
 import opennlp.tools.ml.perceptron.PerceptronTrainer
 import opennlp.tools.util.TrainingParameters
 import opennlp.tools.util.model.ModelUtil
-import org.jim.ninthage.opennlp.ClassiferTokenizer
-import org.jim.ninthage.opennlp.JoinObjectStreams
-import org.jim.ninthage.opennlp.SimpleObjectStream
 import org.jim.ninthage.utils.ResourceUtils
 
 class SimpleClassifer(model:LanguageDetectorModel) {

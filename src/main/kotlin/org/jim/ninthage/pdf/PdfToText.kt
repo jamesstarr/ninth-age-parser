@@ -34,15 +34,19 @@ class PdfToText {
 
     fun convert(pathString:String, flags:EnumSet<PdfParserFlags>): String {
         ResourceUtils.resourceAsInputStream(pathString).use { inputStream ->
-            val doc = PDDocument.load(inputStream)
-            val textStripper = textConverter(flags)
-            return textStripper.getText(doc)
+            PDDocument.load(inputStream).use { doc ->
+                val textStripper = textConverter(flags)
+                return textStripper.getText(doc)
+            }
         }
     }
 
 
     private fun textConverter(flags:Set<PdfParserFlags>): PDFTextStripper {
         val textStripper = PDFTextStripper()
+        if (flags.contains(PdfParserFlags.NewLineOnPages)) {
+            textStripper.pageEnd = "\n";
+        }
         return textStripper
     }
 }
