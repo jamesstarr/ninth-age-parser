@@ -1,4 +1,4 @@
-package org.jim.ninthage.utils
+package org.jim.utils
 
 object IntegerUtils {
     fun isEven(v:Int) : Boolean {

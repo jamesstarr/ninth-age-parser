@@ -1,20 +1,19 @@
-package org.jim.ninthage.opennlp
+package org.jim.opennlp
 
 import opennlp.tools.dictionary.Dictionary
 import opennlp.tools.sentdetect.SentenceDetectorFactory
-import opennlp.tools.sentdetect.SentenceDetectorME
 import opennlp.tools.sentdetect.SentenceModel
 import opennlp.tools.util.TrainingParameters
-import org.jim.ninthage.utils.ResourceUtils
+import org.jim.utils.ResourceUtils
 
 
-class SimpleSplitter(
+class OpenNLPSplitter(
     private val tokenizer: Splitter
 ) {
     companion object {
-        fun build(model: SentenceModel): SimpleSplitter {
+        fun build(model: SentenceModel): OpenNLPSplitter {
             val tokenizer = Splitter(model)
-            return SimpleSplitter(tokenizer)
+            return OpenNLPSplitter(tokenizer)
         }
 
         fun train(trainFiles:List<String>): SentenceModel {

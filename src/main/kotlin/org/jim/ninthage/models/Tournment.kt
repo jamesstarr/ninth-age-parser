@@ -1,4 +1,8 @@
 package org.jim.ninthage.models
 
 
-data class Tournament(val fileName: String, val armyList: List<ArmyList>)
+data class Tournament(
+    val tournamentConfiguration: TournamentConfiguration,
+    val rawString:String,
+    val armyList: List<ArmyList>
+)

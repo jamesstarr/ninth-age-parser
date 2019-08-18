@@ -1,4 +1,4 @@
-package org.jim.ninthage.opennlp
+package org.jim.opennlp
 
 import opennlp.tools.util.ObjectStream
 

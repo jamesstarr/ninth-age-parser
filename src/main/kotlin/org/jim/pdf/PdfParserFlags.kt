@@ -1,4 +1,4 @@
-package org.jim.ninthage.models
+package org.jim.pdf
 
 enum class PdfParserFlags {
     NewLineOnPages,

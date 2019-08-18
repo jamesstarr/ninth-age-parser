@@ -1,6 +1,7 @@
 package org.jim.ninthage.data
 
 import org.jim.ninthage.models.ParserConfiguration
+import org.jim.ninthage.models.TextFile
 import org.jim.ninthage.models.TournamentConfiguration
 
 
@@ -186,8 +187,14 @@ object Tournaments {
                 ParserConfiguration.Pdf
             ),
             TournamentConfiguration(
-                "/org/jim/ninthage/rawlist/2.2 T56 BUCKEYE 2019 LISTS.pdf",
-                ParserConfiguration.Pdf
+                "/org/jim/ninthage/rawlist/2.2 T56 BUCKEYE 2019 LISTS.docx",
+                TextFile("/org/jim/ninthage/cookedList/2.2 T56 BUCKEYE 2019 LISTS.txt"),
+                isWellFormed = true
+            ),
+            TournamentConfiguration(
+                "/org/jim/ninthage/rawlist/2.2 T57 ETC 2019 Master Lists v2.2.pdf",
+                TextFile("/org/jim/ninthage/cookedList/2.2 T57 ETC 2019 Master Lists v2.2.txt"),
+                isWellFormed = true
             ),
             TournamentConfiguration(
                 "/org/jim/ninthage/rawlist/205 1 Ростеры Moscow Open 2018.pdf",

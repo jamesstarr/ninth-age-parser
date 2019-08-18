@@ -1,10 +1,4 @@
-﻿BUCKEYE 2019 LISTS
-
-(Please note these are hand transcribed from the posted lists and are not guaranteed to be 100% accurate, please consult the official lists to avoid transcription errors)
-
-
-Beast Herds
-<ARMY_BOOK:BH>
+﻿Duncan
 Beast Lord, General, Hunting call, Beast axe, heavy armor, Shield, Willows Ward, Crown of Autocracy, Pillager Icon, Wild Form  460
 Soothsayer, Master, Druidism, Tricksters Cunning, Obsidian Rock, Talisman of the Void,                                 ancestral carvings 570
 Beast Chieftain, BSB, Beast Axe, Heavy Armor, Shield, Ghostly Guard, Dusk Forged, Potion of strength 310
@@ -15,7 +9,10 @@ Soothsayer, Apprentice, Shamanism, Ancestral carvings 215
 16 Longhorns, GW, FC, Ambush, Banner of discipline 428
 18 Longhorns, GW, FC, Ambush,  417
 3x1 Razortusk 100
-<ARMY_BOOK:BH>
+4500
+
+
+Gurin
 Beast Lord, General, Hunting Call, PW, Light armor, Touch of Greatness, Aaghors Affliction, Potion of Swiftness, Crown of Horns, Razortusk Chariot 560
 Minotaur Chieftain, BSB, Heavy armor, PW, Supernatural Dexterity, Wild Form 355
 Soothsayer, Master, Druidism, Light armor, Tricksters Cunning, Ancestral Carvings, Dark Rain, Raiding Chariot 595
@@ -25,7 +22,10 @@ Soothsayer, Master, Druidism, Light armor, Tricksters Cunning, Ancestral Carving
 7 Minotaurs, PW, M 637
 5 Minotaurs, PW 441
 2x5 Gargoyles 135
-<ARMY_BOOK:BH>
+4500
+
+
+Hamilton
 Minotaur Warlord, General, PW, Light armor, Blessed Inscriptions, Aaghors Affliction, Eye of Dominance 700
 Beast Chieftain, BSB, Greater Totem bearer, Shield, Heavy Armor, Basalt Infusion, Dusk Forged, Potion of Strength, Raiding Chariot 475
 Soothsayer, Master, Durisdism, Seed of Dark Forest, Dark Rain 520
@@ -37,7 +37,10 @@ Soothsayer, Master, Durisdism, Seed of Dark Forest, Dark Rain 520
 5 Gargoyles 150
 1 Razortusk 100
 1 Razortusk Chariot 230
-<ARMY_BOOK:BH>
+4500
+
+
+Lamb
 Minotaur Warlord General, PW, Light armor, Blessed Inscriptions, Aaghors Affliction, Potion of Swiftness 680
 Soothsayer Master Druidism Pillager Icon, Binding Scroll 490
 39 mongrel Herd, Spear, shield, S,C 332
@@ -49,7 +52,10 @@ Soothsayer Master Druidism Pillager Icon, Binding Scroll 490
 5 Gargoyles 135
 2x1 Gortach 475
 1 Beast Giant, Drunkard 300
-<ARMY_BOOK:BH>
+4500
+
+
+Meyer
 Minotaur Warlord General, PW, Light armor, Blessed Inscriptions, Aaghors affliction, Eye of Dominance 700
 Beast Chieftain, BSB, Greater Totem Bearer, HEavy armor, Shield, Beast Ax, Throwing Weapons Basalt Infusion, Talisman of Shielding, Potion of Strength, Raiding Chariot 475
 Soothsayer Master, Druidism, Dark Rain, Seed of Dark Forest 520
@@ -59,7 +65,10 @@ Soothsayer Master, Druidism, Dark Rain, Seed of Dark Forest 520
 2x5 Centaurs, Throwing weapon, Shield, Light armor 185
 5 Gargoyles 135
 10 Minotaurs, Light armor, Shield, FC, Black Wing totem 916
-<ARMY_BOOK:BH>
+4500
+
+
+Ro Nevarez
 Beast Chieftain, General, Hunting Call, Beast ax, throwing weapons, Light armor, Destiny's Calls, Crown of Horns 260
 Beast Chieftain, BSB, beast ax, light armor, essence of mithril, lucky charm 255
 Minotaur Warlord, Heavy armor, PW, Blessed Inscriptions, Binding Scroll, Talisman of Shielding 685
@@ -71,7 +80,10 @@ Soothsayer Apprentice, Shamanism, PW, light armor, Rod of Battle, Raiding Chario
 28 Longhorns GW, S,C, Gnarled hide Totem 624
 1 Razortusk Chariot 230
 2x5 Gargoyles 135
-<ARMY_BOOK:BH>
+4500
+
+
+Szatkowski
 Beast Lord, General, Beast Axe, Heavy Armor, Shield, Fatal Folly, Basalt Infusion, Talisman of Shielding, Eye of Dominance, Razortusk Chariot 535
 Soothsayer, Master, Shamanism, Binding Scroll, Seed of Dark Forest, 495
 Soothsayer, Master, Evocation, 380
@@ -82,7 +94,10 @@ Beast Chieftain, BSB, Heavy Armor, Shield, Beast Ax, Alchemist Alloy, Dusk Forge
 2x5 Gargoyles 135
 5 Feral hounds 80
 2x7 Minotaurs, Shield, FC, Banner of Speed, Black Wing Totem 714
-<ARMY_BOOK:BH>
+4500
+
+
+Rapmund
 Minotaur Warlord, General, PW, heavy armor, Twin Hungers, basalt Infusion, Crown of Horns, Talisman of Shielding 665
 Minotaur Chieftan, BSB, Greater Totem Bearer, Heavy armor, Shield, Willows Ward, Alcehmist Alloy, Dragonfire Gem, Dragonstaff 475
 Soothsayer, Master, Druidism, hawthorn Curse, Wild Form, Dark Rain 570
@@ -95,7 +110,10 @@ Razortusk Chariot 230
 3 Minotaurs, PW, C,S Banner of Speed, Blooded Horn Totem 370
 4 Minotaurs, GW, C,S, Stalker Standard, Black Wing Totem 453
 1 Gortach 475
-<ARMY_BOOK:DE>
+4500
+
+
+Nelson
 Dread Prince, Fleet Commander, Heavy Armor, Lance, Krakens hide, Shield, Transcendence, Terrifying Visage, Midnight Cloak, Elven Horse 610
 Oracle, Master, Alchemy Obsidian Rock, Ring of Shadows 495
 Cult Priest of Cadaron, BSB, Repeater Xbow, Aether Icon, Aether Icon 210
@@ -107,7 +125,9 @@ Cult Priest of Cadaron, BSB, Repeater Xbow, Aether Icon, Aether Icon 210
 5 Dark Acolytes of Yema, C, 375
 5 Dark Acolytes, C, 355
 3x1 Dread Reaper 180
-<ARMY_BOOK:DH>
+
+
+LeRoy
 King, General, Holdstone, Plate armor, Shield, Rune of Iron, Rune of Destruction, Rune of Fury, Rune of Smashing, Run of Shielding X2, 525
 Thane, BSB, Shield, Rune of Lightning x 3, Rune of Dragon Breath, Shield Bearers 420
 Runic Smith, 3x Battle runes, Rune of Devouring, Rune of Grounding, Rune of Harnessing 410
@@ -120,7 +140,9 @@ Engineer, Guid Crafted Handgun, Plate armor, Shield, 135
 2x1 Steam Copters 175
 1 Organ Gun, Rune Crafted 320
 1 Catapult, Rune Crafted 300
-<ARMY_BOOK:DH>
+
+
+Reese
 Engineer, General, Plate armor, shield, Guild crafted Handgun 280
 Dragon Seeker, Grim resolve, 2x Rune of Quickening, Rune of Destruction 440
 Dragon Seeker, Monster Seeker, Rune of Fury, Rune of Quickening, Rune of Smashing 390
@@ -136,7 +158,9 @@ Dragon Seeker, 210
 9 Seekers, C 259
 21 Seekers, C 466
 1 Cannon 255
-<ARMY_BOOK:DH>
+
+
+Wehener
 King, General, Holdstone, GW, Plate, Shield Bearers, Ruen of Iron, Rune of Forge, Shield Bearers 430
 Thane, GW, Plate, BSB, Runic Standard of Shielding, Rune of Forge, 275
 Runic Smith, 3 Battle Runes, Plate, Shield, Rune of Lightning 265
@@ -148,7 +172,9 @@ Runic Smith, 3 Battle Runes, Plate, Shield, Rune of Lightning 265
 20 Seekers, C 485
 2x1 Cannon 255
 1 Organ Gun 270
-<ARMY_BOOK:DL>
+
+
+Mike Smith
 Kuulimas Deceiver, Adept, Thaum/Evo, General, Greater Dominion, Venom Sacs, Hammer Hand, Dexterous Tentacles, Piercing Spike (Guiding) 570
 Harbinger Adept Divination Venom Sacs (Guiding) 360
 Harbinger Adept Witchcraft Venom Sacs (Guiding) 360
@@ -159,9 +185,9 @@ Harbinger Adept Witchcraft Venom Sacs (Guiding) 360
 2 Mageblight Gremlins, Venom Sacs 196
 2x1 Titanslayer Chariot 205
 5 Furies, kaleidoscopic flesh 170
-<ARMY_BOOK:DL>
 
 
+Doug Mooney
 Maw Of Akaan, General, Greater Dominion, Master, Evocation, Iron Husk, Hammerhand 1005
 Harbinger BSB, Apprentice, Divination, Mark of Eternal Champion, Living Shield, Broodmother (Guiding) 250
 24 Lemures, FC, Venom Sacs 686
@@ -172,10 +198,8 @@ Harbinger BSB, Apprentice, Divination, Mark of Eternal Champion, Living Shield, 
 6 Bloat Flies, Broodmother, M 729
 
 
-<ARMY_BOOK:DL>Sprauge
-
-
- Maw Of Akaan, General, Greater Dominion, Master, Evocation, Living Shield, Iron Husk 990
+Sprauge
+Maw Of Akaan, General, Greater Dominion, Master, Evocation, Living Shield, Iron Husk 990
 Courtesan of Cibaresh, Adept, Witchcraft Iron Husk, Mesmerizing Plumage 800
 25 Succubi, FC, Smothering Coils 705
 2x10 Myrmidons, Whipcrack Tail 235
@@ -184,9 +208,7 @@ Courtesan of Cibaresh, Adept, Witchcraft Iron Husk, Mesmerizing Plumage 800
 2x5 Furies
 
 
-
-
-<ARMY_BOOK:DL>Toporowych
+Toporowych
 Kuulima Deceiver, General, Greater Dominion, Master, Venom Sacs (Guiding) 630
 Harbinger, Adept, Evocation 275
 20 Succubi, FC, Bronze Backbone 560
@@ -200,9 +222,7 @@ Harbinger, Adept, Evocation 275
 1 Titanslayer Chariot 225
 
 
-<ARMY_BOOK:DL>Baker
-
-
+Baker
 Sentinal of Nukuja, General, Greater Dominion, Master, Divination, Withering Vapour, Mirrored Scales (guiding), Throne of the Oracle 765
 Kuulima’s Deceiver, Master, Protean. Venom Sacs (guiding) 600
 Harbinger, BSB, Brimstone secretions, Iron Husk 355
@@ -216,10 +236,7 @@ Blazing Glories, Stiff Upper Lip 340
 3 Hoarders, Grasping Proboscis 304
 
 
-EOS
-
-
-<ARMY_BOOK:EoS>Flint
+Flint
 Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
 Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
 Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
@@ -234,7 +251,7 @@ Wizard Adept, Divination, Book of Arcane Power 260
 1 Steam Tank 475
 
 
-<ARMY_BOOK:EoS>Murphy
+Murphy
 Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
 Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
 Wizard master,Cosmo 350
@@ -249,9 +266,7 @@ Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Gr
 1 Steam Tank 475
 
 
-<ARMY_BOOK:EoS>Sadler
-
-
+Sadler
 Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
 Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
 Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
@@ -263,7 +278,8 @@ Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, M
 7 reiters, Repeater gun, 243
 Steam Tank 475
 
-<ARMY_BOOK:HBE>Hetes
+
+Hetes
 High Prince, General, Master of Canreig Tower, Adept, Spear, heavy Armor, Shield, Death Cheater, Spear of Blazing Dawn 690
 Commander, BSB, Queens COmpanion, Spear, Longbow, Moonlight Arrows, Banner of Becalming 335
 Mage, Master, Pyromancy, Binding Scroll, Binding Scroll, 485
@@ -276,9 +292,7 @@ Mage, Master, Pyromancy, Binding Scroll, Binding Scroll, 485
 2x Sky Sloop 265
 
 
-<ARMY_BOOK:HBE>Loughman
-
-
+Loughman
 High Prince, General, GW, Light Armor, Lion Fur, Destiny's Call, Ring of the Pearl Throne, Rolaay Huntsman 485
 Commander, BSB, Adept, GW, Heavy Armor, Death Cheater, MoCT, 455
 Commander, Heavy Armor, Shield, Lance, Dragon Staff, Giant Eagle 265
@@ -291,9 +305,7 @@ Fire Phoenix 420
 2x1 Reaper Bolt thrower 180
 
 
-<ARMY_BOOK:HBE>Sczypta
-
-
+Sczypta
 High Prince, General, Royal Huntsman, GW, Dragonforged Armor, Shield, Blessed Inscriptions, Basalt Infusion, Lucky Charm, Diadem of Protection, Lion Chariot 670
 Commander, BSB, MoCT, adept, GW, Light armor, Essence of Mithril, Flaming Standard 440
 Mage Master, order of fiery heart, Essence of Free Mind (Pyro/Alchemy), Gleaming Robe 560
@@ -305,7 +317,6 @@ Lion Chariot 215
 3x1 Sea Guard Reaper 180
 
 
-<ARMY_BOOK:HBE>
 Szymanski
 Mage, General, Master, Pyromancy, Light armor, Destiny's Call, Potion of Strength, Book of Meladys 560
 Commander, BSB, MoCT, Adept, GW, Longbow, Drangonforged, Elus Heartwood, Obsidian Rock 470
@@ -318,9 +329,7 @@ Commander, Queens Companion, Spear, Longbow, Dragonforged armor, Shield, Sliver 
 3x1 Sea Guard Reapers 180
 
 
-<ARMY_BOOK:HBE>Weyforth
-
-
+Weyforth
 High Prince, General, Queens COmpanion, Spear, Longbow, Light armor, Destiny's Call, Sliver of the Blazing Dawn 485
 High prince, GW, Obsidian Rock, Dragon 750
 Mage, Master, Divination, Book of Meladys 565
@@ -331,14 +340,7 @@ Mage, Master, Divination, Book of Meladys 565
 3x1 Reaper Bolt Thrower 180
 
 
-
-
-Infernal Dwarves
-
-
-<ARMY_BOOK:ID>Burgy
-
-
+Burgy
 Prophet, General, Master, Alchemy, Tablet of Ashuruk, Shield 505
 Prophet, Adept, Pyromancy, Book of Arcane Mastery, Shield 345
 Vizier, BSB, Shield, Icon of the Inferno, 280
@@ -353,9 +355,7 @@ Volcano Cannon 150
 Infernal engine, Shrapnel Guns 450
 
 
-<ARMY_BOOK:ID>CashDollar
-
-
+CashDollar
 Overlord, General, Infernal Armor, Shield, Onyx Core, Potion of Swiftness, Gauntlets of Madzhab, Great Bull of Shamut 840
 Prophet, Master, Alchemy Binding Scroll, Binding Scroll 535
 Vizier, BSB, Shield, Crown of Wizard King, Icon of Inferno 330
@@ -365,11 +365,7 @@ Kadim Titan 575
 2x3 Taurukh Anointed, Infernal weapon, FC, Shield 529
 
 
-
-
-<ARMY_BOOK:ID>Mathes
-
-
+Mathes
 Prophet, General, Master, Essence of a Free mind Pyro/Alchemy, Shield, Tablet of Ashuruk 560
 Vizier, BSB, GW, Destiny's call, Crystal Ball 295
 Hobgoblin Chieftain, Shield 140
@@ -383,14 +379,7 @@ Infernal Engine with Shrapnel Guns 450
 Kadim Titan 575
 
 
-
-
-Kingdom of Equitaine
-
-
-<ARMY_BOOK:KoE>Bond
-
-
+Bond
 Duke, General, Shield, Tristan's Resolve, Death Cheater, Virtue of Valor, Barded Warhorse 460
 Damsel, Master, Druidism, Wafers of Penitence Barded Warhorse 410
 Paladin BSB, lance, Shield, Crusaders Salvation, Barded Warhorse 335
@@ -403,9 +392,7 @@ Paladin, Grail Oath, Lance, Touch of Greatness, Lucky Charm, Barded Warhorse 265
 2x1 Trebuchet 280
 
 
-<ARMY_BOOK:KoE>Coskun
-
-
+Coskun
 Duke, General, Questing, Bastard Sword, Heavy Armor, Shield, Hippogriff, Blessed Inscriptions, Dragonfire Gem, Crusaders Salvation, Virtue of Renown 705
 Duke, Questing, Bastard Sword, Heavy armor, Shield, Virtue of Might, Basalt infusion, Lucky Charm, Fortress of Faith, Pegasus 590
 Damsel, Master, Druidism, Talisman of the Void, Barded Warhorse 435
@@ -417,9 +404,7 @@ Damsel, Master, Druidism, Talisman of the Void, Barded Warhorse 435
 10 Brigands 175
 
 
-<ARMY_BOOK:KoE>Paff
-
-
+Paff
 Duke, General, Grail Oath, Lance, Shield, Divine Judgement, Virtue of Might, Basalt Infusion, Black Knights Tabard, Pegasus 675
 Paladin, BSB, Questing Oath, Bastard Sword, Shield, Banner of Discipline, Virtue of Valor, Tristan's Resolve, Barded Warhorse. 425
 Damsel Master, Master, Divination, Wafers of Penitence, Talisman of the Void, Barded Warhorse, 460
@@ -432,14 +417,7 @@ Green Knight 375
 2x1 Trebuchet 280
 
 
-
-
-Orcs & Goblins
-
-
-<ARMY_BOOK:OnG>Phelps
-
-
+Phelps
 Feral Orc Warlord, General, PW, Shady Shanking, Essence of Mithril, Troll Ale Flask, War Boar 490
 Feral Orc Chief, PW, Shield, BSB, Basalt Infusion, Hero’s Heart, War Boar 330
 Feral Orc Shaman Master, Shamanism, PW, War Boar 420
@@ -452,9 +430,7 @@ Goblin Witch Doctor, Witchcraft, Adept, Goblin Wolf Chariot 220
 2x1 Gargantula 510
 
 
-<ARMY_BOOK:OnG>Allison
-
-
+Allison
 Feral Orc Shaman, General, Master, Shamanism, PW, Crown of Autocracy 515
 Feral Orc Chief, BSB, GW, Shield Breaker, Essence of Mithril 305
 Goblin With Doctor, Witchcraft, Adept 190
@@ -467,16 +443,12 @@ Forest Goblin King, Great Weapon, Bow, Blessed inscriptions, Gargantula 630
 Gargantua 510
 
 
-<ARMY_BOOK:OnG>Reisch
-
-
+Reisch
 Cave Goblin King, General, Lance, Heavy Armor, Shield, Alchemist Alloy, Crown of the Cavern King, Crown of Autocracy 430
 Feral Orc Chief, BSB, GW, Essence of Mithril, Obsidian Rock, Aether Icon 305
 Orc Shaman Adept, Thaumaturgy, PW, Skull Fetish, Orc Boar Chariot, 325
 Orc Shaman, Apprentice, Pyromancy, PW, Orc Boar Chariot 185
 Orc Shaman, Apprentice, Shamanism, PW, Orc Boar Chariot 185
-
-
 Orc Shaman, Apprentice, Thaumaturgy, PW, Orc Boar Chariot 185
 Orc Shaman, Apprentice, Thaumaturgy, PW, Orc Boar Chariot 185
 2x40 Forest Goblins, Shield, 280
@@ -487,9 +459,7 @@ Orc Shaman, Apprentice, Thaumaturgy, PW, Orc Boar Chariot 185
 2x1 Scrap Wagon 85
 
 
-<ARMY_BOOK:OnG>Sanchez
-
-
+Sanchez
 Iron Orc Warlord, General, Shield, Omen of Apocalypse, Dusk Forged, Potion of swiftness, Dragonfire Gem, War Boar. 585
 Feral Orc Shaman, Master, Shamanism, PW, Obsidian Rock 425
 Goblin Witch Doctor, Adept, Witchcraft 190
@@ -504,9 +474,7 @@ Great Green Idol, BSB,  465
 Gargantua 510
 
 
-<ARMY_BOOK:OnG>Silva
-
-
+Silva
 Iron Orc Warlord, General, Shield, Touch of Greatness, Crown of Autocracy, Talisman of Shielding, Wyvern 725
 Forest Goblin Chief, BSB, Shield, Bow, Maza Zappin Bow 200
 Goblin Witch Doctor, Master, Essence of a free mind Thuam/Pyro, Goblin Wolf Chariot 445
@@ -520,8 +488,7 @@ FOrrest Goblin WItch Doctor, Master, Witchcraft, Skull Fetish 425
 2x1 Git Launcher 205
 
 
-Ogre Kingdoms
-<ARMY_BOOK:OK>Phelps
+Phelps
 Mammoth Hunter, General, Wildheart, Leader of the Pack, Ironfist, Hunting Spear, Heart Ripper, Alchemists Alloy, Lucky Charm, Talisman of Shielding, 390
 Mammoth Hunter, BSB, Ironfist, Leader of the Pack, Ironfist, Hunting Spear, Wrestlers Belt, Potion of swiftness, Trolleater 440
 Mammoth Hunter, Ironfist, Hunting spear, Mammoth Hide Cloak, Spinesplitter 310
@@ -535,9 +502,7 @@ Scratapult 245
 2x1 Rock Auroch 475
 
 
-<ARMY_BOOK:OK>Capps
-
-
+Capps
 Mammoth Hunter, General, Wildheart, Ironfist, Hunting Spear, Leader of the pack, Death Cheater, Crown of the Wizard King 415
 Shaman, Master, Shamanism, Ironfist, Lygurs Tongue, Magical Heirloom 540
 Mammoth Hunter, BSB, Ironfist, Hunting Spear, Leader of the Pack, Wrestlers Belt, Trolleater 430
@@ -552,7 +517,7 @@ Giant Ironfist 280
 Rock Auroch 475
 
 
-<ARMY_BOOK:OK>Cheah
+Cheah
 Mammoth Hunter, General, WIldheart, Ironfist, Hunting Spear, Death Cheater, Dragon Staff 410
 Shaman, Master, Essence of a Free Mind, Thaum/Pyro, Gut Roarer, Talisman of the Void 585
 Mammoth Hunter, BSB, Lance, Banner of Gyengget, Obsidian Rock, Headhunter, Rock Auroch 780
@@ -566,9 +531,7 @@ Rock Auroch 475
 Frost Mammoth 405
 
 
-
-
-<ARMY_BOOK:OK>McKeen
+McKeen 
 Great Khan, General, Ogre Xbow, Heavy Armor, GW, Khagadai’s Legacy, Mammoth Hide Cloak, Aurochs Charm, Trolleater 620
 Shaman, Ironfist, Master, Thaumaturgy, Ritual Bloodletter, Wrestlers Belt, Lygurs Tongue, Rod of battle, Gut roarer 675
 Kahn BSB Ironfist, Ogre xbow, Heavy armor, Alchemist alloy, Talisman of shielding, Rottenjaw 365
@@ -580,9 +543,7 @@ Kahn BSB Ironfist, Ogre xbow, Heavy armor, Alchemist alloy, Talisman of shieldin
 2x3 Bombadiers 185
 
 
-<ARMY_BOOK:OK>Mitchell
-
-
+Mitchell
 Shaman, General, Master, Thaumaturgy, PW, Heirloom 480
 Mammoth Hunter, PW, Ogre Xbow, Rock Auroch 580
 Mammoth Hunter, Ironfist, Hunting Spear, Leader of the Pack, Wrestlers Belt, Lucky Charm, Trolleater 390
@@ -596,9 +557,7 @@ Khan, BSB, Ironfist, Lygurs Tongue, Cult Leader 350
 3x1 Slave GIant, GW, Big Brother 330
 
 
-<ARMY_BOOK:OK>Powell
-
-
+Powell
 Mammoth Hunter, General, lance, Ogre xbow, Wildheart, Obsidian Rock, Rock Auroch 650
 Mammoth Hunter, BSB, Ironfist, Hunting Spear, Leader of the Pack, Wrestlers Belt, Trolleater 430
 Shaman, Master, Thuam, Gut Roarer, Magical Heirloom, Ironfist 530
@@ -610,9 +569,7 @@ Shaman, Master, Thuam, Gut Roarer, Magical Heirloom, Ironfist 530
 3x1 Slave giant GW 295
 
 
-<ARMY_BOOK:OK>Rodman
-
-
+Rodman
 Shaman, General, Master, Shamanism, Ironfist, Trolleater, Wrestlers Belt, Rampagers Chain, Ritual Bloodletter, Lucky Charm 660
 Khan, BSB, Cult Leader, Heavy armor, Ironfist, Death Cheater 405
 Mammoth Hunter, Ironfist, Hunting Spear, Leader of the Pack, Yeti Furs, Lygurs Tongue, Spinesplitter 355
@@ -625,10 +582,7 @@ Frost Mammoth 405
 Slave Giant 330
 
 
-Saurian Ancients 
-
-
-<ARMY_BOOK:SA>Bonneau
+Bonneau
 Saurian Warlord, General, PW, Touch of Greatness, Taurosaurs Vigour, Dragonfire Gem, Talisman of shielding, Raptor 570
 Saurian Veteran, BSB, Shield, Shield Breaker, Dusk Forged, Raptor 445
 Suarian Veteran, Great Weapon, Death Cheater, Raptor 425
@@ -641,7 +595,7 @@ Skink Priest, Adept, Druidism, Palanquin, Magical Heirloom, Sun Tablet 340
 Taurosaur, Engine of the Ancients 540
 
 
-<ARMY_BOOK:SA>Brand
+Brand
 Cuatl Lord, General, Master of Reality, Trained From Birth, Ancient Plaque, Binding Scroll 790
 Saurian Veteran, BSB, Heavy armor, shield, BSB, Taurosaurs Vigour 305
 Saurian Veteran, Heavy armor, shield, Dusk Forged 245
@@ -650,15 +604,7 @@ Saurian Veteran, Heavy armor, shield, Dusk Forged 245
 3x1 Tuarosaur, Giant Blowpipes 450
 
 
-
-
-
-
-
-
-<ARMY_BOOK:SA>DeGalen
-
-
+DeGalen
 Cuatl General, BSB, Master, Essence of a Free Mind (Alch/Pyro), Grasp of the Immortal, Trained from Birth 795
 Saurian Warlord, Halberd, Light armor, Supernatural dexterity, STarfall Shard, Lucky Charm, Alpha Carnosaur 885
 27 Saurus Warriors, Serpent Warriors, Spear, Shield, , FC, Flaming Standard 737
@@ -672,10 +618,7 @@ Saurian Warlord, Halberd, Light armor, Supernatural dexterity, STarfall Shard, L
 1 Taurosaur, Engine of the Ancients 540
 
 
-Sylvan Elves
-
-
-<ARMY_BOOK:SE>Borden
+Borden
 Forest Prince, General, Sylvan Blades, Elven Cloak, Light armor, shield, Titanic Might, Curse of the Black Stag, Talisman of Shielding, Eagle King 525
 Dryad Ancient, Adept, Druidism, Scarred Bark 305
 Dryad Ancient, Adept, Divination, 225
@@ -688,9 +631,7 @@ Thicket Shepherd, BSB, Entangling Vines 360
 2x1 Treefather 450
 
 
-<ARMY_BOOK:SE>SE Hyryk
-
-
+SE Hyryk
 Avatar of Nature, Entangling Vines 690
 Thicket Shepherd, BSB 300
 Treefather Ancient, Master, Druidism, Potion of Swiftness 745
@@ -699,15 +640,7 @@ Treefather Ancient, Master, Druidism, Potion of Swiftness 745
 2x5 Wild Huntsmen, shield, FC 385
 
 
-
-
-
-
-
-
-<ARMY_BOOK:SE>Karl
-
-
+Karl
 Avatar of Nature 630
 Treefather Ancient, Master, Druidism, Talisman of the Void 785
 Thicket Shepherd, BSB 300
@@ -719,9 +652,7 @@ Thicket Shepherd, BSB 300
 Treefather 450
 
 
-<ARMY_BOOK:SE>Lau
-
-
+Lau
 Forest Prince, General, Wild Hunter, Lance, Longbow, Elven Cloak, Light armor, Shield, Basalt Infusion, Dusk Forged, Blessed Inscriptions, Great Elk 595
 Druid, Master, Druidism, Longbow, 370
 Druid, Adept, Druidism, Longbow 220
@@ -736,9 +667,7 @@ Thicket Shepherd, BSB 300
 2x7 Pathfinders 310
 
 
-<ARMY_BOOK:SE>Oakes
-
-
+Oakes
 Forest Prince, General, Sylvan Blades, Titanic Might, Dragon, 725
 Chieftain, Bladedancer, BSB, Spear, Hunters Honor, Aether Icon, Potion of Strength 345
 Druid, Master, Druidism, Binding Scroll 420
@@ -755,9 +684,7 @@ Treefather 450
 
 
 
-<ARMY_BOOK:SE>Phillips
-
-
+Phillips
 Treefather Ancient, General, Master, Druidism, Binding Scroll 790
 Avatar of Nature, Entangling Vines 690
 Thicket Shepherd, Oaken Crown, BSB 320
@@ -771,9 +698,7 @@ Forrest Eagle 100
 Treefather 450
 
 
-<ARMY_BOOK:SE>Rob Nevarez
-
-
+Rob Nevarez
 Forest Prince, General, Wildhunter, Sylvan Blades, Sylvan Longbow, Elven Cloak, Light armor, Spirit of Whirlwind, Curse of the Black Stag, Binding Scroll, Talisman of Shielding, Great Elk 630
 Forest Prince, Sylvan Blades, Titanic Might, Binding Scroll, Dragon 780
 Thicket Shepherd, BSB 300
@@ -785,10 +710,7 @@ Thicket Shepherd, BSB 300
 5 Wild Huntsmen, Shields 325
 
 
-Undying Dynasties
-
-
-<ARMY_BOOK:UD>Kopp
+Kopp
 TERRACOTTA ARMY
 Commander, General, Great Aspen Bow, Light armor, Shield, Kingslayer, Destiny’s Call 460
 Death Cult Hierarch, Master, Evocation, Hierophant, Death Cheater, Lightning Vambraces, Ark Of Ages 710
@@ -801,9 +723,8 @@ Casket of Phatep 255
 2x1 Catapults 210
 Colossus, Giant aspen Bow 440
 Battle Sphinx 480
-<ARMY_BOOK:UD>Blake
 
-
+Blake
 Tomb Architect, General, Crown of Wizard King 210
 Tomb Architect 160
 Death Cult Hierarch, Adept, Hierophant, Evocation 220
@@ -816,9 +737,7 @@ Death Cult Hierarch, Master, Divination, Sacred Hourglass, Soul Conduit 470
 2x3 Tomb Reapers PW 565
 
 
-<ARMY_BOOK:UD>Detlor
-
-
+Detlor
 Pharaoh, General, GW, Heavy armor, Shield, Godslayers, Jackal’s Blessing, Skeleton Chariot 560
 Death Cult Hierarch, Adept, Evocation, Hierophant, Book of Arcane Mastery 280
 Death Cult Hierarch, Master, Divination, Soul Conduit, Sacred Hourglass, Talisman of the Void 525
@@ -833,9 +752,7 @@ Tomb Architect, Crown of the Wizard King, 210
 Sand Scorpion 160
 
 
-<ARMY_BOOK:UD>Gehlhausen
-
-
+Gehlhausen
 Tomb Architect, General, PW, Talisman of the Void 215
 Death Cult Hierarch, Master, Cosmology, Soul Conduit, Sandstorm Cloak, Sacred Hourglass 565
 Casket of Phatep 240
@@ -847,11 +764,7 @@ Casket of Phatep 240
 2x1 Battle Sphinx 480
 
 
-
-
-<ARMY_BOOK:UD>Heugel
-
-
+Heugel
 Tomb Architect, General, Talisman of the Void, Crown of Wizard King 260
 Death Cult Hierarch, Hierophant, Master, Divination, Ank of Naptesh, Binding Scroll 450
 Death Cult Hierarch, Master, Evocation, Soul Conduit, Sacred Hourglass, Binding Scroll, Ark of Ages 675
@@ -863,10 +776,7 @@ Nomarch, Heavy Armor, Shield, Alchemist Alloy, Lucky Charm, Death Mask of Teput,
 2x1 Sand Scorpion 160
 
 
-Vampire Counts
-
-
-<ARMY_BOOK:VC>Amburn
+Amburn
 Vampire Count, General, Lamia, Adept, Witchcraft, Reapers Harvest, Cursed Medallion, Mask of innocence, Court of the Damned 1095
 Necromancer, Master, Evocation, Necromantic Staff, 430
 32 Ghouls, C 524
@@ -879,9 +789,7 @@ Necromancer, Master, Evocation, Necromantic Staff, 430
 10 Wraiths 380
 
 
-<ARMY_BOOK:VC>Colander
-
-
+Colander
 Necromancer, General, Master, Evocation, Destiny's Call, Binding Scroll 510
 Vampire Count, Brotherhood of the Dragon, Shield, Legend of the Black King, Eternal Duelist, Great Monstrous Revenant 600
 2x30 Zombies 165
@@ -894,9 +802,7 @@ Dark Coach 445
 6 Ghasts, C 465
 
 
-<ARMY_BOOK:VC>Faught
-
-
+Faught
 Vampire Count, Master, Occultism, Heavy Armor, Shield, Halberd, Arcane Knowledge, Death Cheater, Eternity Gem, Great Monstrous Revenant 1035
 Necromancer, Master, Evocation, Binding Scroll, Binding Scroll, Skeletal Steed 485
 Necromancer, Adept, Alchemy, Magical heirloom, Skeletal Steed, 275
@@ -910,9 +816,7 @@ Necromancer, Adept, Alchemy, Magical heirloom, Skeletal Steed, 275
 4 Winged Reapers, PW 740
 
 
-<ARMY_BOOK:VC>Jennings
-
-
+Jennings
 Vampire Count, General, Brotherhood of the Dragon, Apprentice, Occultism, Eternal Duelist, Plate Armor Shield Breaker, Legend of the Black King, Dragon Staff, Skeletal Steed 730
 Vampire Courtier, Apprentice, Occultism, Brotherhood of the dragon, Lance, Plate, Shield, Eternal Duelist, Skeletal Steed 395
 2 bat Swarms 105
@@ -926,9 +830,7 @@ Dark Coach, Extended Chassis 445
 2x1 Varkolak 335
 
 
-<ARMY_BOOK:VC>McGee
-
-
+McGee
 Vampire Count, General, Nosferatu, Adept, Occultism, True Thrist, Destiny's Call, Nights Crown, Skeletal Steed 690
 Vampire Count, Nosferatu, Adept, Occultism, Lance, Supernatural Dexterity, necromantic Staff, Cursed Medallion, Colossal Zombie Dragon 1055
 30 Skeletons, FC, Shield, Halberd, Legion Standard 365
@@ -942,9 +844,7 @@ Vampire Count, Nosferatu, Adept, Occultism, Lance, Supernatural Dexterity, necro
 1 Varkolak 335
 
 
-<ARMY_BOOK:VC>Mince
-
-
+Mince
 Vampire Count, General, Master, Occultism, Halberd, Arcane Knowledge, Blessed Inscriptions, Destiny’s Call, Night’s Crown, 860
 Necromancer, Master, Evocation, Necromantic Staff, Binding Scroll 485
 Barrow King, BSB, Heavy armor, shield, Hero’s Heart, Basalt Infusion, Dusk Forged 410
@@ -959,9 +859,7 @@ Dark Coach 430
 6 Vampire Spawn, C 500
 
 
-<ARMY_BOOK:VC>Miner
-
-
+Miner
 Vampire Count, General, Lamia, Master, Witchcraft, Essence of Mithril, Obsidian Rock, Talisman of Shielding, Commandment, True Thirst, 895
 Vampire Courtier, BSB, Lamia, Apprentice, Witchcraft, Halberd, Mesmerizing Gaze, Aether Icon, Aether Icon, Destiny's Call 445
 7 Bat Swarm 255
@@ -972,7 +870,7 @@ Dark Coach 430
 5 Phantom Host 385
 
 
-<ARMY_BOOK:VC>Starr
+Starr
 
 
 Vampire Count, General, Master, Occultism, Heavy Armor, Shield, True Thrist, Willows Ward, Legend of the Black King 780
@@ -984,11 +882,7 @@ Vampire Courtier, BSB, Adept, occultism, GW, Heavy Armor, Shield, Death Cheater,
 Varkolak 335
 
 
-
-
-<ARMY_BOOK:VC>Waganek
-
-
+Waganek
 Vampire Count, General, Strigoi, Adept, Shamanism, Ghoul Lord, Nights Crown, Talisman of Shielding 720
 Vampire Count, Strigoi, Adept, Shamanism, Eternity Gem, Magical heirloom, Bestial Bulk 730
 40 Ghouls, 640
@@ -999,9 +893,7 @@ Altar of undeath 365
 2x1 Varkolak 335
 
 
-<ARMY_BOOK:VC>Whelen
-
-
+Whelen
 Vampire Count, General, Von Karnstein, Master, Occultism, Lance, Heavy Armor, Shield, hour of the Wolf, Eternity Gem, Death Cheater, Monstrous Revenant 1055
 Vampire Courtier, BSB, Von Karnstein, PW, Essence of Mithril, Potion of Strength, Legion Standard, Unbreakable Will 395
 Vampire Courtier, Von Karnstein, Apprentice, Evocation, Heavy Armor, Shield, True thrist, Hour of the wolf. 350
@@ -1014,11 +906,7 @@ Dark Coach 445
 2x3 Great Bats 105
 
 
-Vermin Swarm
-
-<ARMY_BOOK:VS>Chaney
-
-
+Chaney
 Vermin Demon, General 820
 Plague Patriarch, Adept, Occultism, Plague Flail, Putrid Protection, Plague Pendulum, 725
 Chief, BSB, GW, Scepter of Verminous Valour 205
@@ -1033,9 +921,7 @@ Chief, BSB, GW, Scepter of Verminous Valour 205
 2x1 Plague Catapult 170
 
 
-<ARMY_BOOK:VS>Finlayson
-
-
+Finlayson
 Vermin Demon, General 820
 Plague Patriarch, Adept, Occultism, Plague Flail, Basalt Infusion, Book of Arcane Mastery, Plague Pendulum, 760
 Chief, BSB, Talisman of the Void 210
@@ -1049,9 +935,7 @@ Chief, BSB, Talisman of the Void 210
 2x1 Plague Catapult 170
 
 
-<ARMY_BOOK:VS>Graham
-
-
+Graham
 Magister, General, Master, Thaumaturgy, Doom Bell 710
 Sicarra Assassin, PW, Tail Weapon,  295
 Chief, BSB, Shield, Death Cheater 265
@@ -1065,9 +949,7 @@ Dreadmill 305
 Plague Catapult 170
 
 
-<ARMY_BOOK:VS>Hines
-
-
+Hines
 Magister, General, 3x Dark Shards, Master, Thaumaturgy, Crown of Autocracy, Second Awakening, 500
 Chief, BSB,  160
 Plague Patriarch, Adept, Occultism, Plague Flail, Putrid Protection, Plague Pendulum, 725
@@ -1082,9 +964,7 @@ Plague Patriarch, Adept, Occultism, Plague Flail, Putrid Protection, Plague Pend
 2x1 Plague Catapult 170
 
 
-<ARMY_BOOK:VS>Lepora
-
-
+Lepora
 Vermin Demon, General 820
 Plague Patriarch, Adept, Occultism, Plague Flail, Putrid Protection, Plague Pendulum, 725
 Chief, BSB, heavy armor, Scepter of Verminous Valour, Talisman of the Void 255
@@ -1099,9 +979,7 @@ Weapon Team, naptha Thrower 175
 2x1 Plague Catapult 170
 
 
-<ARMY_BOOK:VS>Schweitzer
-
-
+Schweitzer
 Vermin Demon, General 820
 Plague Patriarch, apprentice, Occultism, Plague Flail, Plague Pendulum, 585
 Tyrant, Heavy Armor, Shield, Secrets of the Doom Blade, 380
@@ -1116,16 +994,7 @@ Tyrant, Heavy Armor, Shield, Secrets of the Doom Blade, 380
 2x1 Plague Catapult 170
 
 
-
-
-
-
-Warriors of the Dark Gods
-
-
-<ARMY_BOOK:WDG>Brenner
-
-
+Brenner
 Chosen Lord of Sloth, General, Destiny's Call, Titanic Might, Dragon Staff 505
 Exalted Herald 850
 Sorcerer, Master, Evocation, Veil Walker, Ledger of Souls, Veilgate Orb, 575
@@ -1136,9 +1005,7 @@ Sorcerer, Master, Evocation, Veil Walker, Ledger of Souls, Veilgate Orb, 575
 2x5 Knights of Sloth, Lance, FC, Stalker Standard 450
 
 
-<ARMY_BOOK:WDG>Davis
-
-
+Davis
 Chosen Lord of Wrath, General, Burning Portent, Willows Ward 460
 Chosen Lord of Wrath, Trophy Rack, Icon of the infinite, Gladiators spirit 415
 Sorcerer, Master, Alchemy, PW, Thrice Forged, 450
@@ -1150,9 +1017,7 @@ Hell Maw 270
 2x1 Marauding Giant, Big Brother, Club 325  
 
 
-<ARMY_BOOK:WDG>Durham
-
-
+Durham
 Chosen Lord of Envy, General, Trophy Rack, Burning Portent, Dusk Forged, Dragonfire Gem, Dark Prelate, War Dias 640
 Sorcerer, Master, Evocation, Destiny’s Call 440
 Sorcerer, Adept, Occultism, Plate, PW, Book of Arcane Mastery, Dark Chariot 365
@@ -1163,7 +1028,7 @@ Sorcerer, Adept, Occultism, Plate, PW, Book of Arcane Mastery, Dark Chariot 365
 2x1 Warriors Chariot 225
 
 
-<ARMY_BOOK:WDG>
+Francis
 Chosen Lord of Envy, General, Trophy Rack, War Dias, Aether Icon, Shield Breaker, Dusk Forged, Immortal Gauntlets, Talisman of the Void, Dark Prelate 665
 Sorcerer Adept, Alchemist Alloy, Rod of Battle, Veil gate Orb, 310
 2x5 Fallen 150
@@ -1174,7 +1039,13 @@ Chosen Chariot of Pride 360
 8 Chosen of Envy, Halberd, FC Banner of Speed 677
 2x7 Warrior Knights of Envy, Lance, 484
 Marauding Giant, Apprentice 310
-<ARMY_BOOK:WDG>
+
+
+
+
+
+
+Gottschalk
 Choen Lord of Envy, General, PW, Trophy Rack, Shield breaker, Immortal Gauntlets, Banner of Speed, Dark Prelate, Wasteland Dragon 940
 Exalted herald 850
 Sorcerer Adept, Evocation, Plate 235
@@ -1185,7 +1056,7 @@ Sorcerer Adept, Evocation, Plate 235
 Hellmaw, 2 Gateways 445
 
 
-<ARMY_BOOK:WDG>
+G Williams
 Sorcerer, General, Master, Alchemy, Plate Armor, Death Cheater, Obsidian Rock, Black Steed 560
 20 Warriors of Wrath, GW, S,C, Zealots Banner 820
 8 Barbarian Horsemen, shield, Heavy, 225
@@ -1196,7 +1067,7 @@ Sorcerer, General, Master, Alchemy, Plate Armor, Death Cheater, Obsidian Rock, B
 Hellmaw, 2 Gateways 445
 
 
-<ARMY_BOOK:WDG>
+Harrison
 Doomlord, General, Halberd, Supernatural Dexterity, Willows Ward, Talisman of Shielding, Immortal Gauntlets, Trophy Rack, Icon of the infinite 620
 Sorcerer, Master, Alchemy, Plate Armor, Ledger of Souls, Veilgate Orb, Battleshrine 790
 2x5 Fallen 150
@@ -1212,9 +1083,7 @@ Battle Shrine, Trophy Rack, 260
 Marauding Giant, Club 290
 
 
-<ARMY_BOOK:WDG>J Nelson
-
-
+J Nelson
 Doomlord, General, Trophy Rack, Symbol of Slaughter, Basalt Infusion, Dusk Forged, Immortal Gauntlets, Obsidian Rock 600
 Sorcerer, Master, Evocation, Plate Armor, PW, Gladiator Spirit, Binding Scroll, Ranger Boots 525
 20 Warriors of Envy, PW, FC, Banner of Speed 650
@@ -1228,8 +1097,7 @@ Chimera 200
 Forsaken one 400
 
 
-<ARMY_BOOK:WDG>Mattox
-
+Mattox
 Exalted Herald, General 850
 Sorcerer Adept, Alchemy, Plate Armor, Talisman of the Void 285
 2x18 Warriors, Spiked Shield, M, C 472
@@ -1240,9 +1108,7 @@ Sorcerer Adept, Alchemy, Plate Armor, Talisman of the Void 285
 2x1 Feldrak Elder 460
 
 
-<ARMY_BOOK:WDG>Schmid
-
-
+Schmid
 Chosen Lord of Envy, General, Trophy Rack, Burning Portent, Dusk Forged, Idol of Spite, War Dias, 645
 Exalted herald 850
 Sorcerer, Adept, Alchemy, Plate armor, PW, Hero’s Heart, Basalt infusion, Dark Chariot 400
@@ -1255,9 +1121,7 @@ Sorcerer, Adept, Alchemy, Plate armor, PW, Hero’s Heart, Basalt infusion, Dark
 HellMaw, 1 portal 345
 
 
-<ARMY_BOOK:WDG>Shaw
-
-
+Shaw
 Chosen Lord of Pride, General, Trophy Rack, King Slayer, Talisman of Shielding, Icon of the infinite, Luck of the Dark Gods, War Dias 630
 Chosen Lord of Pride, Touch of Greatness, Death Cheater, Dark Prelate, War Dias 605
 25 Warriors, Spiked shield, M,S, Zealots Banner 670

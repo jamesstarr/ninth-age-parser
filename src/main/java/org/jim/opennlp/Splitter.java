@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package org.jim.ninthage.opennlp;
+package org.jim.opennlp;
 
 import com.google.common.collect.Lists;
 import gnu.trove.iterator.TIntIterator;
@@ -32,7 +32,6 @@ import opennlp.tools.util.ObjectStream;
 import opennlp.tools.util.Span;
 import opennlp.tools.util.StringUtil;
 import opennlp.tools.util.TrainingParameters;
-import opennlp.tools.util.model.ModelUtil;
 
 import java.io.IOException;
 import java.util.*;

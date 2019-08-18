@@ -1,17 +1,11 @@
-package org.jim.ninthage.opennlp
+package org.jim.opennlp
 
-import com.google.common.base.Preconditions
-import com.google.common.base.Splitter
 import opennlp.tools.langdetect.Language
 import opennlp.tools.langdetect.LanguageSample
-import opennlp.tools.sentdetect.SentenceSample
-import opennlp.tools.util.FilterObjectStream
 import opennlp.tools.util.ObjectStream
-import opennlp.tools.util.Span
-import org.jim.ninthage.utils.IntegerUtils
 import java.util.regex.Pattern
 
-class ClassiferTokenizer {
+class ClassifierTokenizer {
     companion object {
         val separatorChars: String = """<ARMY_BOOK:(\w{2,3})>"""
 

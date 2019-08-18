@@ -395,8 +395,7 @@ Arcane Engine, Arcane Shield - 290
 25 Imperial Guard, C, M - 410
 4 Knights of the Sun Griffon, Lances, M - 453
 Steam Tank - 475
-Highborn Elves
-<ARMY_BOOK:HE>
+<ARMY_BOOK:HBE>
 Mage (Master Pyromancy): General; Order of the
 Fiery Heart: Gleaming Robe; Hero's Heart; Magical
 Heirloom; Light Armour; Paired Weapons 615
@@ -416,7 +415,7 @@ Bearer (Navigators Banner) 752
 Sky Sloop 265
 Sky Sloop 265
 4,487 points
-<ARMY_BOOK:HE>
+<ARMY_BOOK:HBE>
 Mage, General, Asfad Scholar, Scepter of Power,
 Wizard Master, Divination, 420
 Commander, BSB, Master of Canreig Tower, GW,
@@ -430,7 +429,7 @@ Mage, Wizard Adept, Cosmology, 225
 3x 5 Queen's Guard, 3x 140
 3x Sea Guard Reaper, 3x 180
 Total: 4500
-<ARMY_BOOK:HE>
+<ARMY_BOOK:HBE>
 Commander, bsb, MoCT, banner of becalming, great weapon = 415
 Mage, wizard master, divination, talisman of the void = 425
 High prince, general, spear, sliver of the blazing dawn, high warden
@@ -445,7 +444,7 @@ of strenghth = 555
 3x bolt throwers = 555
 Total = 4494
 Highborn Elves
-<ARMY_BOOK:HE>
+<ARMY_BOOK:HBE>
 Mage, Wizard Master, Asfad Scholar, General,
 Divination, Talisman of the Void, 515
 Mage, Wizard Master, Order of the Fiery Heart,
@@ -466,7 +465,7 @@ Banner, 605
 Relentless Company, 598
 Lion Chariot, 215
 Total: 4499
-<ARMY_BOOK:HE>
+<ARMY_BOOK:HBE>
 High prince, general, heavy armour, spear, shield, longbow, protection of dorac,
 sliver of the blazing dawn, willows ward. 460pts
 Commander, bsb, master of caenrig tower, heavy armour, shield, longbow, spear,

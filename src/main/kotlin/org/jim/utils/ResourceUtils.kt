@@ -1,4 +1,4 @@
-package org.jim.ninthage.utils
+package org.jim.utils
 
 import java.io.InputStream
 import java.io.InputStreamReader

@@ -1,11 +1,8 @@
-package org.jim.ninthage.pdf
+package org.jim.pdf
 
 import org.apache.pdfbox.pdmodel.PDDocument
 import org.apache.pdfbox.text.PDFTextStripper
-import org.jim.ninthage.models.PdFParserConfiguration
-import org.jim.ninthage.models.PdfParserFlags
-import org.jim.ninthage.utils.ResourceUtils
-import java.io.InputStream
+import org.jim.utils.ResourceUtils
 import java.util.*
 
 
@@ -45,7 +42,8 @@ class PdfToText {
     private fun textConverter(flags:Set<PdfParserFlags>): PDFTextStripper {
         val textStripper = PDFTextStripper()
         if (flags.contains(PdfParserFlags.NewLineOnPages)) {
-            textStripper.pageEnd = "\n";
+            textStripper.pageEnd = "\n\n"
+            textStripper.articleEnd = "\n\n"
         }
         return textStripper
     }

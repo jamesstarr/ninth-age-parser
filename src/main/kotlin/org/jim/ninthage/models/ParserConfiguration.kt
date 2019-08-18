@@ -1,5 +1,6 @@
 package org.jim.ninthage.models
 
+import org.jim.pdf.PdfParserFlags
 import java.util.*
 
 sealed class ParserConfiguration{
@@ -15,4 +16,8 @@ sealed class ParserConfiguration{
 
 data class PdFParserConfiguration (
     val flags : EnumSet<PdfParserFlags>
+): ParserConfiguration()
+
+data class TextFile (
+    val textFile: String
 ): ParserConfiguration()

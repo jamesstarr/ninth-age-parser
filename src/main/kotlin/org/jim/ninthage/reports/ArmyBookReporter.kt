@@ -1,20 +1,21 @@
 package org.jim.ninthage.reports
 
 import org.jim.ninthage.models.Tournament
-import java.io.Closeable
+import java.nio.file.Files
+import java.nio.file.Path
 
 class ArmyBookReporter {
 
-    val overall: MutableMap<String, Int> = HashMap()
-    val tournaments: MutableList<TournamentArmyBookCount> = ArrayList()
+    val overall: MutableMap<String, Int> = LinkedHashMap()
+    val tournaments: MutableList<ArmyBookCount> = ArrayList()
 
     fun processTournament(tournament:Tournament) {
         processTournament(tournament, overall )
-        val tournamentCount:MutableMap<String, Int> = HashMap()
+        val tournamentCount:MutableMap<String, Int> = LinkedHashMap()
         processTournament(tournament, tournamentCount)
         tournaments +=
-            TournamentArmyBookCount(
-                tournament.fileName,
+            ArmyBookCount(
+                tournament.tournamentConfiguration.name,
                 tournamentCount
             )
 
@@ -33,12 +34,18 @@ class ArmyBookReporter {
             tournaments.toList()
         )
     }
-
 }
 
-data class TournamentArmyBookCount(val name:String ,val counts:Map<String, Int>)
+class ArmyBookReportPrinter {
+    fun print(armyBookReport: ArmyBookReport, directory: Path) {
+        Files.createDirectories(directory)
+
+    }
+}
+
+data class ArmyBookCount(val name:String, val counts:Map<String, Int>)
 
 data class ArmyBookReport(
     val overall:Map<String, Int>,
-    val tournaments: List<TournamentArmyBookCount>
+    val tournaments: List<ArmyBookCount>
 )

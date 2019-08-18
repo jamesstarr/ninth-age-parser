@@ -1,4 +1,4 @@
-package org.jim.ninthage.opennlp
+package org.jim.opennlp
 
 import com.google.common.base.Splitter
 import opennlp.tools.sentdetect.SentenceSample
