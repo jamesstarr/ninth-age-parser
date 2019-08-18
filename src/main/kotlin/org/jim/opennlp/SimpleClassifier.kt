@@ -20,7 +20,7 @@ import org.jim.utils.ResourceUtils
 import java.nio.file.Files
 import java.nio.file.Path
 
-class SimpleClassifier(model:LanguageDetectorModel) {
+open class SimpleClassifier(model:LanguageDetectorModel) {
     companion object {
         fun debugTraining(trainingFiles:List<String>, path: Path){
             Files.createDirectories(path)
@@ -68,7 +68,7 @@ class SimpleClassifier(model:LanguageDetectorModel) {
     }
     val languageDetectorME = LanguageDetectorME(model)
 
-    fun detectArmyBook(value:String):String {
+    open fun detectArmyBook(value:String):String {
         languageDetectorME
         return languageDetectorME.predictLanguage(value).lang
     }

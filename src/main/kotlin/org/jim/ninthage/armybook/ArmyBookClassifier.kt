@@ -21,11 +21,19 @@ object ArmyBookClassifier {
     }
 
     fun build(model:LanguageDetectorModel):SimpleClassifier {
-        return SimpleClassifier(model)
+        return object: SimpleClassifier(model){
+            override fun detectArmyBook(value: String): String {
+                if(value.trim().toLowerCase().startsWith("team")){
+                    return "Team"
+                } else {
+                    return super.detectArmyBook(value)
+                }
+            }
+        }
     }
 
     fun build():SimpleClassifier {
-        return SimpleClassifier(train())
+        return build(train())
     }
 
     class ArmyBookLanguageDetectorFactory: LanguageDetectorFactory(){

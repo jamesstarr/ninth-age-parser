@@ -969,7 +969,7 @@ loom, Wizard Adept
 585 - 6x Vampire Knights, Standard Bearer, Musi- 
 cian, Champion, Aether Icon 
 4498 
-<ARMY_BOOK:EOS>
+<ARMY_BOOK:EoS>
 360 - Prelate, General, Great Weapon, Plate Ar-
 mour, Imperial Seal, Locket of Sunna 
 265 - Marshal, BSB, Shield, Death Warrant, Black- 

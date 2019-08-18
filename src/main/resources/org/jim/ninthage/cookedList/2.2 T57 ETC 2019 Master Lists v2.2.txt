@@ -88,6 +88,8 @@ Dragonfire Gem, Potion Strength
 
 Team Argentina
 Captain: Jorge Guerrini - Coach: Alfredo Gil 
+
+
 Fernando “Nando” Arcos, Vermin Swarm 
 820 – Vermin Daemon, General 
 725 – Plague Patriarch on Plague Pendulum, 
@@ -174,6 +176,8 @@ rate,  Brace of Ogre Pistols
 
 Team Australia 
 Captain: Akhter Khan 
+
+
 Daniel Schaefer - OK 
 540 - Shaman, General, Thaumaturgy, Master, 
 Iron Fist, Lygur’s Tongue, Magical Heirloom 
@@ -252,6 +256,8 @@ ner of the Relentless Company
 
 Team Australia 
 Captain: Akhter Khan 
+
+
 Akhter Khan - VC 
 770 - Vampire Count, General, The Dead Arise, 
 Strigoi, Ghoul Lord, Shamanism, Adept, Paired 
@@ -329,6 +335,7 @@ ter, Divination
 
 Team Austria 
 Captain—Patrick '' Patheo'' Toman
+
 
 Fabian "Kathal" Gollmann - Infernal Dwarfs
 545 - 1x Prophet, Wizard Master, Pyromancy, 
@@ -422,7 +429,9 @@ Icon, Banner of Discipline, Obsidian Rock
 
 
 Team Austria 
-Captain—Patrick '' Patheo'' Toman  
+Captain—Patrick '' Patheo'' Toman
+
+
 Hallvard "Fairhair" Haugen - Highborn Elves 
  
 565 - Mage, General, Asfad Scholar, Pyromancy, 
@@ -688,6 +697,8 @@ tion; Necromantic Staff,
 
 Team Belgium 
 Captain: Francois Girard 
+
+
 Nico "PrinceCharming" Hermans - Ogre Khans 
  
 585 - Shaman, General, Rottenjaw, Wizard Master, 
@@ -779,6 +790,8 @@ ons
 
 Team Belgium 
 Captain: Francois Girard 
+
+
 François "Valmir" Vandersande - Vermin Swarm 
  
 435 - Tyran, General, Vermin Guard Litter, Heavy 
@@ -864,6 +877,8 @@ Heartwood
 
 Team Bulgaria 
 Captain: Anton Nikolov  
+
+
 Anton Nikolov - OK (c) 
 265 - Khan, BSB, light armour, Great Weapon 
 485 - Shaman, General,  Iron Fist, Wizard Master, 
@@ -954,6 +969,8 @@ cian
 
 Team Bulgaria 
 Captain: Anton Nikolov  
+
+
 Kristyian Dimitrov - Beast Herds 
  
 680 - Minotaur Warlord, General, Paired Weap-
@@ -1032,7 +1049,9 @@ Vermin Valour
 
 
 Team Croatia 
-Captain– Marko "Gliadis" Lukic  
+Captain– Marko "Gliadis" Lukic
+
+
 Marko “Giladis” Lukic - Undying Dynasties - 
 Terracotta Army -  
 590 - Pharaoh, General, Commander of the 
@@ -1137,7 +1156,9 @@ Rending Banner, Champion
 
 
 Team Croatia 
-Captain - Marko "Gliadis" Lukic  
+Captain - Marko "Gliadis" Lukic
+
+
 Filip Najman - Vermin Swarm -  
 820 - Vermin Daemon, General, Divination, Wizard 
 Master  
@@ -1240,6 +1261,8 @@ on, Totem bearer, Blooded Horn Totem, Ambush
 
 Team Czech Republic 
 Captain: Petr "Ampy" Ambrož  - Coach: Tomáš "Tomlin" Trapl  
+
+
 Tobiáš "DrAnthrax" Veska – Ogre Khans 
 545 – Shaman, General, Shamanism, Pyromancy, 
 Wizard master, Iron Fist,  
@@ -1345,6 +1368,8 @@ Rending Banner, Musician
 
 Team Czech Republic 
 Captain: Petr "Ampy" Ambrož  - Coach: Tomáš "Tomlin" Trapl  
+
+
 Michal "Houba" Malý - Vampire Covenant - Lamia 
 1285 – Vampire Count, General (The Dead Arise), 
 Lamia, Commandment,  
@@ -1435,6 +1460,8 @@ ning Rod, Musician
 
 Team Denmark 
 Captain: Kaare Siesing  
+
+
 Kaare Siesing - Vampire Covenant - Lamia  
 870 – Vampire Courtier, General, Witchcraft, 
 Court of the Damned (Blood Ties: Lamia), Paired 
@@ -1523,6 +1550,8 @@ Total Army Cost: 4500
 
 Team Denmark 
 Captain: Kaare Siesing  
+
+
 Michael Vedel –  The Vermin Swarm  
 820 – Vermin Daemon, General, Divination, Wiz-
 ard Master  
@@ -1622,6 +1651,8 @@ Total Army Cost: 4500
 
 Team England 
 Captain: Mike Newman 
+
+
 Mike Newman(c) - Dwarven Holds 
  
 405 - Runic Smith, General, Ancestral Memory, 
@@ -1712,6 +1743,8 @@ er, Flaming Standard, Musician
 
 Team England 
 Captain: Mike Newman 
+
+
 Craig Johnson - Ogre Khans 
 475 - Shaman, Path of Thaumaturgy, Magical Heir-
 loom, Wizard Master 
@@ -1799,6 +1832,8 @@ on
 
 Team Finland 
 Captain: Julius Castren  
+
+
 Olli Katila - Dwarven Holds 
  
 730 - King, General, War Throne, Shield, Rune of 
@@ -1897,6 +1932,8 @@ Banner, Musician
 
 Team Finland 
 Captain: Julius Castren  
+
+
 Pyry Peitso - Infernal Dwarves 
  
 520 - Overlord, General, Shield, Willow's Ward, 
@@ -1989,6 +2026,8 @@ Weapons
 
 Team France 
 Captain: Benji Nardelli 
+
+
 Benjamin Nardelli - Vampire Covenant  
  
 1100 – Vampire Count, General, Witchcraft, Court 
@@ -2075,6 +2114,8 @@ bow, Obsidian Rock, Wizard Adept
 
 Team France 
 Captain: Benji Nardelli 
+
+
 Lionel “wingaal” PALUDETTO – Beast Herds 
  
 700 - Minotaur Warlord, General, Light Armour, 
@@ -2175,7 +2216,9 @@ cian
 
 Team Germany 
 Captain: Peter Folle—Coach: Michael Grametzki 
-Thomas “Scrub” Ahlich - Ogre Khans (C) 
+
+
+Thomas “Scrub” Ahlich - Ogre Khans (C)
  
 540 - Shaman, General, Thaumaturgy, Iron Fist, 
 Lygur’s Tongue, Magical Heirloom, Wizard Master 
@@ -2261,7 +2304,9 @@ Master
 
 Team Germany 
 Captain: Peter Folle—Coach: Michael Grametzki 
-Anthony “Blacky” Thompson - Sylvan Elves 
+
+
+Anthony “Blacky” Thompson - Sylvan Elves
  
 575 - Forest Prince, Great Elk, Light Armour, Syl-
 van Longbow, Sylvan Blades, Titanic Might (Sylvan 
@@ -2357,7 +2402,9 @@ Banner Of RolEquitaine
 
 Team Ireland 
 Captain: Colin Power 
-James McDonnell - Infernal Dwarves 
+
+
+James McDonnell - Infernal Dwarves
 495 - Prophet, General, Wizard, Master, Alchemy, 
 Tablet of Ashuruk. 
 335 - Prophet, Wizard, Adept, Pyromancy, Book of 
@@ -2446,7 +2493,9 @@ Mesmerising Plumage
 
 Team Ireland 
 Captain: Colin Power 
-Sune van der Loo - Beast Herds 
+
+
+Sune van der Loo - Beast Herds
 680 - Minotaur Warlord, General, paired weapons 
 with Blessed Inscription, Aagor's Affliction, Potion 
 of Swiftness 
@@ -2530,7 +2579,9 @@ chemist armor
 
 Team Italy 
 Captain: Lorenzo "Unzul" Martinelli  - Coach: Lorenzo "Unzul" Martinelli  - Coach: Claudio "Napo" Napolitano  
-Alberto “Kelly” Petrosino - Orcs and Goblins 
+
+
+Alberto “Kelly” Petrosino - Orcs and Goblins
 550 - Orc Shaman, General, Common Orc, War 
 Cry, Binding Scroll, Crown of Autocracy, Wizard 
 Master, Shamanism 
@@ -2621,7 +2672,9 @@ S, Flaming Standard
 
 Team Italy 
 Captain: Lorenzo "Unzul" Martinelli  - Coach: Lorenzo "Unzul" Martinelli  - Coach: Claudio "Napo" Napolitano  
-Alberto “Negrolas” Rupoli - Vermin Swarm 
+
+
+Alberto “Negrolas” Rupoli - Vermin Swarm
 820 - Vermin Daemon, General 
 745 - Plague Patriarch, Plague Pendulum, Plague 
 Flail, Light Armour, Putrid Protection, Dragonfire 
@@ -2712,7 +2765,9 @@ Company
 
 Team Latvia 
 Team Captain: Sergey "Conjurer" Visnyakov  
-Sergey "Conjurer" Visnyakov - Undying Dynasties 
+
+
+Sergey "Conjurer" Visnyakov - Undying Dynasties
 485 - Death Cult Hierarch, General, Divination, 
 Sandstorm Cloak, Sacred Hourglass, Wizard Mas-
 ter 
@@ -2806,6 +2861,8 @@ Great Grass Sky, Musician, Champion
 
 Team Latvia 
 Team Captain: Sergey "Conjurer" Visnyakov  
+
+
 Alexey "Allor" Poltavsky - Orcs and Goblins 
 560 - Orc Shaman, General (War Cry!), Common 
 Orc Shaman, Shamanism, Wizard Master, Crown 
@@ -2992,6 +3049,8 @@ Total: 4498
 
 Team Luxembourg 
 Captain: Charles Oiknine 
+
+
 Moreno "Moro" Favini - Vermin Swarm 
  
 820 - Vermin Deamon, Master, Divination, Gen-
@@ -3073,6 +3132,8 @@ Total: 4498
 
 Team Mexico 
 Captain: James Silva 
+
+
 James "ChiHammer" Silva - Orcs and Goblins  
 460 - Iron Orc Warlord, General (War Cry), Paired 
 Weapons, Destiny's Call, Touch of Greatness 
@@ -3181,6 +3242,8 @@ Shields, Musician
 
 Team Mexico 
 Captain: James Silva 
+
+
 Charly Romero - Dread Elves 
 505pts - Oracle, General, Alchemy, Wizard Master, 
 Light Armour, Binding scroll, Magical heirloom 
@@ -3280,6 +3343,8 @@ C, banner of relentless company
 
 Team Montenegro 
 Captain: Aleksandar "Kirgan" Vilotid  
+
+
 Aleksandar "Kirgan" Vilotid - Beast Herds Army 
 (Captain)  
 705 - Minotaur Warlord, General, Great Weapon, 
@@ -3358,6 +3423,8 @@ Champion, Banner of the Relentless Company
 
 Team Montenegro 
 Captain: Aleksandar "Kirgan" Vilotid  
+
+
 Miljan “Ota” Otovid – Infernal Dwarves  
 525 – Overlord, General, Shield, Onix Core, Wil-
 lows Ward, Talisman of Shielding, Mask of Furnace 
@@ -3439,6 +3506,8 @@ Musician
 
 Team Netherlands 
 Captain: Paul Hasselt 
+
+
 Reinier – Saurian Ancients 
 870 – Saurian Warlord, General, Alpha Carnosaur, 
 Light Armour, Halberd, Starfall Shard, Obsidian 
@@ -3527,6 +3596,8 @@ shield
 
 Team Netherlands 
 Captain: Paul Hasselt 
+
+
 Denny Harsono –  Vampire Covenant – No Blood-
 line 
 835 – Vampire Count, Arcane Knowledge, Army 
@@ -3600,6 +3671,8 @@ ter, Talisman of the Void
 
 Team New Zealand 
 Captain: James Brown 
+
+
 James ‘’Rain Man’’ Brown (C), Vermin Swarm 
 820 - Vermin Daemon, General 
 195 - Chief, Battle Standard Bearer, Sceptre of 
@@ -3688,6 +3761,8 @@ Zagvozd
 
 Team New Zealand 
 Captain: James Brown 
+
+
 Luke Williams, Undying Dynasties 
 465 - Death Cult Hierarch, General, Divination, 
 Wizard Master, Talisman of the Void, Sceptre of 
@@ -3777,6 +3852,8 @@ ard Bearer, Musician, Champion, Aether Icon
 
 Team Norway 
 Captain: Hans “Evisor” Blom  
+
+
 Hans “Evisor” Blom (c) - Undying Dynasties 
 240 - Nomarch, General, Crown of the Pharaos, 
 Scroll of Dessication 
@@ -3860,6 +3937,8 @@ Book of Arcane Mastery, Wizard Adept
 
 Team Norway 
 Captain: Hans “Evisor” Blom  
+
+
 Karl-Erik “Kalerith” Hansen - Infernal Dwarves 
 575 - Prophet, General, Engineer, Path of Pyro-
 mancy, Path of Alchemy, Flintlock Axe, Bullhorn of 
@@ -3956,6 +4035,8 @@ Throwing Weapons
 
 Team Poland 
 Captain: Stanisław "Crusader" Scheiner  - Coach: Jakub "Mojżesz" Borkowsk—Media: Tomasz "Handełek" Domagalski  
+
+
 Marcin "Kali" Szlasa-Rokicki - DL 
 615 - Kuulima's Deceiver, General, Wizard Master, 
 Piercing Spike - Guiding , Dominion 
@@ -4036,6 +4117,8 @@ man
 
 Team Poland 
 Captain: Stanisław "Crusader" Scheiner  - Coach: Jakub "Mojżesz" Borkowsk—Media: Tomasz "Handełek" Domagalski  
+
+
 Tomasz Tutaj - SE 
 600 - Forest Prince on Great Elk, General, Wild 
 Hunter, Sylvan Blades, Titanic Might, Light Ar-
@@ -4123,6 +4206,8 @@ Handbow, M
 
 Team Portugal 
 Captain: Renato Rodrigues 
+
+
 Renato « Kermit » Rodrigues – Undying Dynasties  
 755 - Pharaoh, General, Great Weapon, Godslayer, 
 Sha Guardian,  
@@ -4224,6 +4309,8 @@ ard
 
 Team Portugal 
 Captain: Renato Rodrigues 
+
+
 Antoine "O Magnifico" – Beast Herds 
  
 705 - Minotaur Warlord, General, Paired Weap-
@@ -4322,6 +4409,8 @@ ons, Hero's Heart (Paired Weapons), Binding Scroll
 
 Team Russia 
 Captain: Pavel "Pax" Krol  
+
+
 KonstantinN - Saurian Ancients 
 855 - Cuatl Lord, General, BSB, Grasp of the Im-
 mortal, Protean Potentate, Binding Scroll, Banner 
@@ -4426,6 +4515,8 @@ cian
 
 Team Russia 
 Captain: Pavel "Pax" Krol  
+
+
 Sergey "Tror" Klimenko - Empire of Sonnstahl 
 425 - Knight Commander, Young Griffon, Shield, 
 Shield of Volund, Hero's Heart (Hand Weapon), 
@@ -4524,6 +4615,8 @@ Hammer Hand
 
 Team Scotland 
 Captain: Ed Murdoch 
+
+
 Edward “Scottish Knight” Murdoch (C) - Orcs and 
 Goblins 
  
@@ -4627,6 +4720,8 @@ Standard
 
 Team Scotland 
 Captain: Ed Murdoch 
+
+
 Guillermo “Quetzal” Bardera - The Vermin Swarm 
 810 - Magister, General, Thaumaturgy, Doom Bell, 
 Light Armour, 3 Dark Shards, Alchemist's Alloy, 
@@ -4712,6 +4807,8 @@ Musician, Champion, Banner of the Wild Herd
 
 Team Serbia 
 Captain: Mladen Jovic 
+
+
 Mladen “Ljubo” Jovid (c)  – Undying Dynasties  
  
 250 - Nomarch, General, Skeleton Chariot, Heavy 
@@ -4790,6 +4887,8 @@ Stalker's Standard
 
 Team Serbia 
 Captain: Mladen Jovic 
+
+
 Petar “Run, you fools!” Durčid - Saurian Ancients 
  
 675 - Cuatl Lord, General, BSB, Rending Banner, 
@@ -4871,6 +4970,8 @@ M, C
 
 Team Slovenia 
 Captain: Rok Martinc 
+
+
 Rok "Krokz" Martinc - Warriors of the Dark Gods 
 655 - Chosen Lord, General, Trophy Rack, War 
 Dias, Burning Portent, Potion of Swiftness, Talis-
@@ -4973,6 +5074,8 @@ Standard Bearer, Household Standard
 
 Team Slovenia 
 Captain: Rok Martinc 
+
+
 Aleš Krelj - Ogre Kingdoms 
 635 - Shaman, General, Gut Roarer, Light Armor, 
 Iron Fist, Wizard Master, Thaumaturgy, Kardakan's 
@@ -5079,6 +5182,8 @@ Champion
 
 Team Spain 
 Team Captain: Alberto "CACHORRO" Carrillo López—Coach Borja "BARROSO" Barroso Rey  
+
+
 Jorge "Orombi" García - Dread elves 
 500 - Oracle, General, 4 spells, Binding Scroll, 
 Wandering Familiar, Wizard Master, Alchemy 
@@ -5172,6 +5277,8 @@ Champion
 
 Team Spain 
 Team Captain: Alberto "CACHORRO" Carrillo López—Coach Borja "BARROSO" Barroso Rey  
+
+
 Pablo "Turtle" Vega - Vampire Covenant 
 940 - Vampire Count, General, Wizzard Master, 5 
 spells, The dead Arise, Skeletal Steed, Great 
@@ -5276,6 +5383,8 @@ guard, paired weapons
 
 Team Sweden 
 Captain: Peter Edvardsson—Coach: John Lagmo 
+
+
 Marcus Östling - Undead Dynasties 
 230 - Nomarch, General, Aspen Bow, Crown of the 
 Pharaohs 
@@ -5365,6 +5474,8 @@ Weapon), Throwing Weapons
 
 Team Sweden 
 Captain: Peter Edvardsson—Coach: John Lagmo 
+
+
 Mattias Lagerlöf - Vermin Swarm 
 820 - Vermin Daemon, General, Divina-
 tion, Wizard Master 
@@ -5459,6 +5570,8 @@ Champion, Mikinok’s Totem
 
 Team Switzerland 
 Captain: Xavier Panchard—Coach: Maxime "Lichemeister" Buchs  
+
+
 Andy “Argor” Geiser - Daemonic Legions 
 820 - Maw of Akaan, General (Greater Dominion), 
 Evocation, Wizard Adept, Mirrored Scales, Centi-
@@ -5549,6 +5662,8 @@ cian
 
 Team Switzerland 
 Captain: Xavier Panchard—Coach: Maxime "Lichemeister" Buchs  
+
+
 Xavier Panchard - The Vermin Swarm 
 480 - Magister, General, Thaumaturgy, Wizard 
 Master, Second Awakening, Magical Heirloom, 3 
@@ -5642,6 +5757,8 @@ Musician, Champion, Flaming Standard
 
 Team Turkey 
 Captain: Riza Eraslan 
+
+
 Batı Safel - Empire of Sonnstahl 
  
 235 - Marshall , General, Shield, Crown of Au-
@@ -5731,6 +5848,8 @@ Rending Banner
 
 Team Turkey 
 Captain: Riza Eraslan 
+
+
 Eyüp Mustafa Erdoğan - WodG 
  
 535 - Doomlord , General, GW, Spiked Shield, 
@@ -5826,6 +5945,8 @@ Whipcrack Tail
 
 Team Ukraine 
 Captain: Kostiantyn Volokhin  
+
+
 Kostiantyn Volokhin - Beast Herds, Captain 
 585 Beast Lord, Razortusk Chariot, General, Heavy 
 Armour, Shield, Beast Axe, Fatal Folly, Basalt Infu-
@@ -5935,6 +6056,8 @@ Total: 4498
 
 Team Ukraine 
 Captain: Kostiantyn Volokhin  
+
+
 Sviatoslav “Mr.Pink” Malanov – Vermin Swarm 
 780 - Magister, General, Doom Bell, Wizard Mas-
 ter, Thaumaturgy, Light Armour, Second Awaken-
@@ -6033,6 +6156,8 @@ Total : 4500
 
 Team USA 
 Captain: Ryan ‘Freedom’ Capps—Coach: Jeremy Schweitzer—Coach: Hugo Pila 
+
+
 Keith "Kbonn" Bonneau - Vermin Swarm 
  
 820 - Vermin Demon, General, Master, Divination 
@@ -6114,6 +6239,8 @@ C, S
 
 Team USA 
 Captain: Ryan ‘Freedom’ Capps—Coach: Jeremy Schweitzer—Coach: Hugo Pila 
+
+
 Phil "Mr." Blake - Undying Dynasties 
  
 210 - Tomb Architect, General, Wizard Crown 
@@ -6198,6 +6325,8 @@ Discipline
 
 Team United Nations 
 Captain: Frederic Delbruyere 
+
+
 Captain Frédéric “Genosuko” Delbruyère - Vermin 
 Swarm 
  
@@ -6295,6 +6424,8 @@ Relentless Company
 
 Team United Nations 
 Captain: Frederic Delbruyere 
+
+
 Diego Albert - Beast Herd 
 585 - Beast Lord, General, Razortusk Chariot, 
 Heavy armour, shield, beast axe, Basalt infusion, 
@@ -6394,6 +6525,8 @@ of Becalming, Musician
 
 Team Wales 
 Captain: Steve Slatcher 
+
+
 Oli Mather - Infernal Dwarves 
  
 560 - Prophet, General, Alchemy/Pyromancy, 
@@ -6481,6 +6614,8 @@ Musician, Champion, Legion Standard
 
 Team Wales 
 Captain: Steve Slatcher 
+
+
 Marcus ‘The Spiciest Man Alive’ Lake - Daemon 
 Legions 
  
