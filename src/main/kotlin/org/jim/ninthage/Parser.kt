@@ -1,5 +1,6 @@
 package org.jim.ninthage
 
+import com.google.common.base.Strings
 import org.jim.ninthage.armybook.ArmyBookClassifier
 import org.jim.ninthage.data.Tournaments
 import org.jim.ninthage.data.TrainingData
@@ -11,6 +12,7 @@ import org.jim.ninthage.models.TournamentConfiguration
 import org.jim.opennlp.SimpleClassifier
 import org.jim.pdf.PdfToText
 import org.jim.ninthage.reports.ArmyBookReporter
+import org.jim.ninthage.team.TeamGrouper
 import org.jim.utils.ResourceUtils
 import org.jim.utils.YamlUtils
 import java.lang.Exception
@@ -22,6 +24,7 @@ class Parser {
     val pdfToText = PdfToText()
     val listSplitter = ListSplitter.simpleSplitter()
     val armyBookDetector = ArmyBookClassifier.build()
+    val teamGrouper = TeamGrouper()
 
     val tournamentDirectory = App.HomeDirectory.resolve("tournament")
 
@@ -41,25 +44,29 @@ class Parser {
             Tournaments.ALL.stream()
                 .filter{it.isWellFormed}
                 .map { preprocess(it) }
-                .map { (config, tournamentString) ->
+                .map { tournament ->
                     try {
-                        Tournament(
-                            config,
-                            tournamentString,
-                            listSplitter.split(tournamentString).map { armyList ->
-                                val armyBook = armyBookDetector.detectArmyBook((armyList))
+                        val armyLists =
+                            listSplitter.split(tournament.rawString)
+                            .map { armyList ->
+                                val armyBook =
+                                    armyBookDetector.detectArmyBook((armyList))
                                 ArmyList(armyBook, armyList)
                             }.toList()
+
+                        tournament.copy(
+                            armyList = armyLists
                         )
                     } catch (ex: Exception) {
-                        throw RuntimeException(config.name, ex)
+                        throw RuntimeException(tournament.name, ex)
                     }
                 }
+                .map { teamGrouper.groupTeams(it) }
                 .forEach { tournament ->
                     println("-------------------------------")
                     println(tournament.tournamentConfiguration.name)
                     println("-------------------------------")
-                    tournament.armyList
+                    tournament.armyList!!
                         .forEach { armyList ->
                             armyBookWriter.write(armyList.armyBook, armyList.raw)
                             println(YamlUtils.YamlObjectMapper.writeValueAsString(armyList))
@@ -76,7 +83,7 @@ class Parser {
         println(YamlUtils.YamlObjectMapper.writeValueAsString(armyBookReporter.buildReport()))
     }
 
-    fun preprocess(configuration: TournamentConfiguration): TournamentConfigurationAndString {
+    fun preprocess(configuration: TournamentConfiguration): Tournament {
         val tournamentString =
             when (configuration.parser) {
                 is PdFParserConfiguration ->
@@ -84,10 +91,8 @@ class Parser {
                 is TextFile ->
                     ResourceUtils.readResourceAsUtf8String(configuration.parser.textFile)
             }
-        return TournamentConfigurationAndString(configuration, tournamentString)
+        return Tournament(configuration, tournamentString)
     }
-
-    data class TournamentConfigurationAndString(val configuration: TournamentConfiguration, val tournamentString: String)
 }
 
 

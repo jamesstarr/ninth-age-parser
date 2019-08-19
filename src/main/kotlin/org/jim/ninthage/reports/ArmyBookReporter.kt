@@ -21,7 +21,7 @@ class ArmyBookReporter {
 
     }
 
-    private fun processTournament(tournament:Tournament, bookAndCount:MutableMap<String, Int>){
+    fun processTournament(tournament:Tournament, bookAndCount:MutableMap<String, Int>){
         tournament.armyList.forEach { armyBook ->
             val count = bookAndCount.getOrDefault(armyBook.armyBook, 0)
             bookAndCount[armyBook.armyBook] = count + 1

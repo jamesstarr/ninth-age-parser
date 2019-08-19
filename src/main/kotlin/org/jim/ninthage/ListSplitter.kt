@@ -23,6 +23,7 @@ object ListSplitter {
                     com.google.common.base.Splitter.on("\n\n\n")
                         .omitEmptyStrings()
                         .split(value)
+                        .filter { it.isNotBlank() }
                 return Sequence{ splitValue.iterator()}
             }
         }
