@@ -8,7 +8,7 @@ import org.jim.utils.ResourceUtils
 
 
 class OpenNLPSplitter(
-    private val tokenizer: Splitter
+    val tokenizer: Splitter
 ) {
     companion object {
         fun build(model: SentenceModel): OpenNLPSplitter {

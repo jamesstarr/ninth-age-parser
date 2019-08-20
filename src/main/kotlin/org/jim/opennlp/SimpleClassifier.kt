@@ -19,17 +19,22 @@ import opennlp.tools.util.normalizer.UrlCharSequenceNormalizer
 import org.jim.utils.ResourceUtils
 import java.nio.file.Files
 import java.nio.file.Path
+import java.util.regex.Pattern
 
 open class SimpleClassifier(model:LanguageDetectorModel) {
     companion object {
-        fun debugTraining(trainingFiles:List<String>, path: Path){
+        fun debugTraining(
+            trainingFiles:List<String>,
+            pattern: Pattern,
+            path: Path
+        ){
             Files.createDirectories(path)
 
             val tokenStream =JoinObjectStreams(
                 trainingFiles
                     .map { ResourceUtils.readResourceAsUtf8String(it) }
                     .map { SimpleObjectStream(it) }
-                    .map { ClassifierTokenizer.build(it) }
+                    .map { ClassifierTokenizer.build(it, pattern) }
             )
             val map =
                 ArrayListMultimap.create<String,CharSequence>()
@@ -46,13 +51,14 @@ open class SimpleClassifier(model:LanguageDetectorModel) {
 
         fun train(
             trainingFiles:List<String>,
+            pattern: Pattern,
             languageDetectorFactory: LanguageDetectorFactory = LanguageDetectorFactory()
         ): LanguageDetectorModel {
             val sampleStream = JoinObjectStreams(
                 trainingFiles
                     .map { ResourceUtils.readResourceAsUtf8String(it) }
                     .map { SimpleObjectStream(it) }
-                    .map { ClassifierTokenizer.build(it) }
+                    .map { ClassifierTokenizer.build(it,pattern) }
             )
 
             val params = ModelUtil.createDefaultTrainingParameters()
@@ -68,7 +74,7 @@ open class SimpleClassifier(model:LanguageDetectorModel) {
     }
     val languageDetectorME = LanguageDetectorME(model)
 
-    open fun detectArmyBook(value:String):String {
+    open fun classify(value:String):String {
         languageDetectorME
         return languageDetectorME.predictLanguage(value).lang
     }

@@ -652,6 +652,7 @@ Thicket Shepherd, BSB 300
 Treefather 450
 
 
+
 Lau
 Forest Prince, General, Wild Hunter, Lance, Longbow, Elven Cloak, Light armor, Shield, Basalt Infusion, Dusk Forged, Blessed Inscriptions, Great Elk 595
 Druid, Master, Druidism, Longbow, 370
@@ -665,6 +666,7 @@ Thicket Shepherd, BSB 300
 4 Thicket Beasts, C 405
 6 Wild Hunters, Shield, S, C, Flaming Standard 460
 2x7 Pathfinders 310
+
 
 
 Oakes

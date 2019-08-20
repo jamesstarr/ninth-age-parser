@@ -1,10 +1,8 @@
 package org.jim.ninthage
 
-import com.google.common.base.Strings
 import org.jim.ninthage.armybook.ArmyBookClassifier
 import org.jim.ninthage.data.Tournaments
 import org.jim.ninthage.data.TrainingData
-import org.jim.ninthage.models.ArmyList
 import org.jim.ninthage.models.PdFParserConfiguration
 import org.jim.ninthage.models.TextFile
 import org.jim.ninthage.models.Tournament
@@ -12,7 +10,9 @@ import org.jim.ninthage.models.TournamentConfiguration
 import org.jim.opennlp.SimpleClassifier
 import org.jim.pdf.PdfToText
 import org.jim.ninthage.reports.ArmyBookReporter
+import org.jim.ninthage.reports.TournamentReportPrinter
 import org.jim.ninthage.team.TeamGrouper
+import org.jim.ninthage.units.UnitEntrySplitter
 import org.jim.utils.ResourceUtils
 import org.jim.utils.YamlUtils
 import java.lang.Exception
@@ -25,17 +25,19 @@ class Parser {
     val listSplitter = ListSplitter.simpleSplitter()
     val armyBookDetector = ArmyBookClassifier.build()
     val teamGrouper = TeamGrouper()
+    val unitSplitter = UnitEntrySplitter()
 
     val tournamentDirectory = App.HomeDirectory.resolve("tournament")
 
     fun readAllList() {
         SimpleClassifier.debugTraining(
             TrainingData.ArmyBookClassifier,
+            ArmyBookClassifier.pattern,
             App.HomeDirectory
                 .resolve("training")
                 .resolve("army_book")
         )
-
+        val tournamentReportPrinter = TournamentReportPrinter()
         val armyBookReporter = ArmyBookReporter()
 
         Files.createDirectories(tournamentDirectory)
@@ -50,8 +52,8 @@ class Parser {
                             listSplitter.split(tournament.rawString)
                             .map { armyList ->
                                 val armyBook =
-                                    armyBookDetector.detectArmyBook((armyList))
-                                ArmyList(armyBook, armyList)
+                                    armyBookDetector.classify((armyList))
+                                unitSplitter.parseArmyList(armyList, armyBook)
                             }.toList()
 
                         tournament.copy(
@@ -63,6 +65,7 @@ class Parser {
                 }
                 .map { teamGrouper.groupTeams(it) }
                 .forEach { tournament ->
+                    tournamentReportPrinter.printTournament(tournament)
                     println("-------------------------------")
                     println(tournament.tournamentConfiguration.name)
                     println("-------------------------------")

@@ -1068,7 +1068,8 @@ Wilhelm Grøfte - Undying Dynasties
 820 – 8x Skeleton Chariots, Legion Charioteers, M, S, Stalkers Standard  
 620 – 8x Shapti Archers, M  
 200 – 3x Shapti Archers  
-480 – 3 x 1x  Battle Sphinx  Total Army Cost: 4500
+480 – 3 x 1x  Battle Sphinx
+Total Army Cost: 4500
 
 
 Søren Haaning – Orcs & Goblins 
@@ -1083,7 +1084,8 @@ Søren Haaning – Orcs & Goblins
 225 – 2x Goblin Wolf Chariot   
 125 – 1x Goblin Wolf Chariot      90 – 3x Grotlings  
 205 – 2 x 1x Greenhide Catapults, Git Launcher, Orc Overseer                          
-365 – 2 x 1x Great Green Idol          Total Army Cost: 4500
+365 – 2 x 1x Great Green Idol
+Total Army Cost: 4500
 
 
 Jakob Nygren - Dread Elves  
@@ -1095,7 +1097,8 @@ Jakob Nygren - Dread Elves
 725 – 44x Dread Legionnaires, Spear M, S, C, Flaming Standard  
 135 – 2 x 5x Harpies  
 195 – 4 x 1x Raptor Chariot  
-440 – 2 x 1x Hydra  Total Army Cost: 4500 
+440 – 2 x 1x Hydra
+Total Army Cost: 4500
 
 
 
@@ -1127,10 +1130,12 @@ Rasmus Koldby – Empire of Sohnstall
 295 – 20x Light infantry, Crossbows, S, Marksman’s Pennant  
 529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity  
 165 – 20x Heavy infantry, M  
-140 – 10x State militia   90 – 2 x 5x Imperial Ranger  
+140 – 10x State militia
+90 – 2 x 5x Imperial Ranger
 667 – 6x Knights of the Sun Griffon, Lance, Shield, M  
 475 – Steam Tank  
-250 – Artillery, Cannon  Total Army Cost: 4496
+250 – Artillery, Cannon
+Total Army Cost: 4496
 
 
 Oliver Fagerholt – Ogre Khans 
@@ -1142,7 +1147,8 @@ Oliver Fagerholt – Ogre Khans
 605 – 8x Tribesmen, Iron Fist, M, S, C, Pennant of the Great Grass Sky    80 – 2 x 1x Sabretooth Tiger  
 320 – 2 x 1x Thunder Cannon  
 475 – 2 x 1x  Rock Aurochs, Hunting Spear  
-295 – Slave Giant, Great weapon   Total Army Cost: 4500
+295 – Slave Giant, Great weapon
+Total Army Cost: 4500
 
 
 Troels Hugo Cederholm - Beast Herds 
@@ -1160,7 +1166,8 @@ Troels Hugo Cederholm - Beast Herds
 185 – 5x Centaurs, Paired Weapons 
 100 – 1x Razortusk Herd 
 150 – 5x Gargoyles, Scout 
-475 – 2 x 1x Gortach Total Army Cost: 4500 
+475 – 2 x 1x Gortach
+Total Army Cost: 4500
 
 
 
@@ -2103,7 +2110,8 @@ Charles "Kiri" Oiknine - Empire of Sonnstahl
 641 - 34 Imperial Guard, Musician, Standard Bearer, Champion, Household Standard 
 175 - 2x5 Reiter, Brace of Pistols 
 250 - Cannon 
-475 - Steam Tank Total: 4499
+475 - Steam Tank
+Total: 4499
 
 
 Giulio "Falanor" Gatti - Highborn Elves
@@ -4520,8 +4528,11 @@ Thibaud « Bolard » Bovy - Saurian Ancients
 610 – 20 Temple Guard: Musician, Standard Bearer, Rending Banner 
 190 – 2x3 Pteradon Sentries 
 379 - 5 Ramphodon Riders, Shield 
-540 – Taurosaur, Engine of the Ancients  
-4,498 Gregory « Gregus » Mandelaire - Empire of Sonnstahl 
+540 – Taurosaur, Engine of the Ancients
+4,498
+
+
+Gregory « Gregus » Mandelaire - Empire of Sonnstahl
 380 – Prelate, general, great weapon, plate armour, Imperial Seal, Locket of Sunna, Dragonfire Gem  
 270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant  
 185 – Artificer, repeater gun, Crown of the Wizzard King 

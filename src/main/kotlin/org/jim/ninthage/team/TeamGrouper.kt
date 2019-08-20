@@ -35,8 +35,11 @@ class TeamGrouper {
 
             for (i in 1 until list.size) {
                 val armyList = list[i]
-                if (armyList.isTeam) {
-                    yield(Team(team, currentList))
+                if (armyList.isTeam  && armyList.raw != team) {
+                    yield(Team(team,
+                        team.trim().split("\n")[0].removePrefix("Team "),
+                        currentList)
+                    )
                     currentList.clear()
                     team = armyList.raw
                 } else {

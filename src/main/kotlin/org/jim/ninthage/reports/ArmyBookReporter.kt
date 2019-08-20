@@ -1,5 +1,6 @@
 package org.jim.ninthage.reports
 
+import com.google.common.collect.Ordering
 import org.jim.ninthage.models.Tournament
 import java.nio.file.Files
 import java.nio.file.Path
@@ -19,6 +20,13 @@ class ArmyBookReporter {
                 tournamentCount
             )
 
+    }
+
+    fun tournamentToCount(tournament: Tournament):Map<String, Int> {
+        val tournamentCount:MutableMap<String, Int> = LinkedHashMap()
+        processTournament(tournament, tournamentCount)
+        tournamentCount.toSortedMap(Ordering.natural())
+        return tournamentCount
     }
 
     fun processTournament(tournament:Tournament, bookAndCount:MutableMap<String, Int>){

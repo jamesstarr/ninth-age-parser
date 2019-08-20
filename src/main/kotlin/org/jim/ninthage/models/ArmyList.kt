@@ -1,3 +1,7 @@
 package org.jim.ninthage.models
 
-data class ArmyList(val armyBook: String, val raw: String)
+data class ArmyList(
+    val raw: String,
+    val armyBook: String,
+    val unitEntries: List<UnitEntry> = ArrayList()
+)

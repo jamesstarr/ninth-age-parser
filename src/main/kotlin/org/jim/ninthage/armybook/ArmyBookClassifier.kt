@@ -4,6 +4,7 @@ import opennlp.tools.langdetect.DefaultLanguageDetectorContextGenerator
 import opennlp.tools.langdetect.LanguageDetectorContextGenerator
 import opennlp.tools.langdetect.LanguageDetectorFactory
 import opennlp.tools.langdetect.LanguageDetectorModel
+import opennlp.tools.util.normalizer.CharSequenceNormalizer
 import opennlp.tools.util.normalizer.EmojiCharSequenceNormalizer
 import opennlp.tools.util.normalizer.NumberCharSequenceNormalizer
 import opennlp.tools.util.normalizer.ShrinkCharSequenceNormalizer
@@ -11,22 +12,29 @@ import opennlp.tools.util.normalizer.TwitterCharSequenceNormalizer
 import opennlp.tools.util.normalizer.UrlCharSequenceNormalizer
 import org.jim.ninthage.data.TrainingData
 import org.jim.opennlp.SimpleClassifier
+import java.util.regex.Pattern
 
 object ArmyBookClassifier {
+
+    val separatorChars: String = """<ARMY_BOOK:(\w{2,3})>"""
+
+    val pattern = Pattern.compile(separatorChars)
+
     fun train(): LanguageDetectorModel {
         return SimpleClassifier.train(
             TrainingData.ArmyBookClassifier,
+            pattern,
             LanguageDetectorFactory()
         )
     }
 
     fun build(model:LanguageDetectorModel):SimpleClassifier {
         return object: SimpleClassifier(model){
-            override fun detectArmyBook(value: String): String {
+            override fun classify(value: String): String {
                 if(value.trim().toLowerCase().startsWith("team")){
                     return "Team"
                 } else {
-                    return super.detectArmyBook(value)
+                    return super.classify(value)
                 }
             }
         }
@@ -39,12 +47,19 @@ object ArmyBookClassifier {
     class ArmyBookLanguageDetectorFactory: LanguageDetectorFactory(){
         override fun getContextGenerator(): LanguageDetectorContextGenerator {
             return DefaultLanguageDetectorContextGenerator(
-                4, 6,
+                3, 5,
+
                 EmojiCharSequenceNormalizer.getInstance(),
                 UrlCharSequenceNormalizer.getInstance(),
                 TwitterCharSequenceNormalizer.getInstance(),
                 NumberCharSequenceNormalizer.getInstance(),//strip numbers
-                ShrinkCharSequenceNormalizer.getInstance()//removed repeated characters
+                ShrinkCharSequenceNormalizer.getInstance(),
+                object : CharSequenceNormalizer{
+                    override fun normalize(text: CharSequence?): CharSequence {
+                        return text.toString().toLowerCase()
+                    }
+
+                }//removed repeated characters
             )
         }
 

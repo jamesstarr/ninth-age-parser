@@ -197,6 +197,11 @@ object Tournaments {
                 isWellFormed = true
             ),
             TournamentConfiguration(
+                "/org/jim/ninthage/rawlist/2.2 T68 torneo bakio 29-06-19.pdf",
+                TextFile("/org/jim/ninthage/cookedList/2.2 T68 torneo bakio 29-06-19.txt"),
+                isWellFormed = true
+            ),
+            TournamentConfiguration(
                 "/org/jim/ninthage/rawlist/205 1 Ростеры Moscow Open 2018.pdf",
                 ParserConfiguration.Pdf
             ),

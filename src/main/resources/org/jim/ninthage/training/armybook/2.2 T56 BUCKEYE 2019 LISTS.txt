@@ -751,10 +751,6 @@ Druid Adept, Shamanism, Binding Scroll 270
 Treefather 450
 
 
-
-
-
-
 <ARMY_BOOK:SE>Phillips
 
 

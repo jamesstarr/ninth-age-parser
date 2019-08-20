@@ -5,16 +5,16 @@ import opennlp.tools.langdetect.LanguageSample
 import opennlp.tools.util.ObjectStream
 import java.util.regex.Pattern
 
-class ClassifierTokenizer {
+class ClassifierTokenizer(val pattern: Pattern) {
     companion object {
-        val separatorChars: String = """<ARMY_BOOK:(\w{2,3})>"""
-
-        val p = Pattern.compile(separatorChars)
 
         fun build(
-            documentStream: ObjectStream<String>
+            documentStream: ObjectStream<String>,
+            pattern:Pattern
             ):ObjectStream<LanguageSample> {
-            return DocumentToTokenStream(documentStream) {toLanguageTags(it)}
+            return DocumentToTokenStream(documentStream) {
+                toLanguageTags(it, pattern)
+            }
 
         }
 
@@ -22,9 +22,9 @@ class ClassifierTokenizer {
 
         data class ArmyBookTag(val armyBook: String, val start: Int, val end: Int)
 
-        fun splitToArmyBookTags(value: String): Sequence<ArmyBookTag> {
+        fun splitToArmyBookTags(value: String, pattern:Pattern): Sequence<ArmyBookTag> {
 
-            val m = p.matcher(value)
+            val m = pattern.matcher(value)
             return sequence {
                 while (m.find()) {
                     val armyBook = m.group(1)
@@ -35,8 +35,8 @@ class ClassifierTokenizer {
             }
         }
 
-        fun toLanguageTags(value: String): Sequence<LanguageSample> {
-            val tags = splitToArmyBookTags(value).toList()
+        fun toLanguageTags(value: String, pattern:Pattern): Sequence<LanguageSample> {
+            val tags = splitToArmyBookTags(value,pattern).toList()
             if (tags.isEmpty()) {
                 return sequence {}
             }

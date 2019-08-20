@@ -18,8 +18,13 @@ object TrainingData {
     val ArmyBookClassifier = listOf(
         "/org/jim/ninthage/training/armybook/2.1.2 TEC 2019 lists.txt",
         "/org/jim/ninthage/training/armybook/2.1.3Steadfast & Furious.txt",
-        "/org/jim/ninthage/cookedSingleList/2.2 T56 BUCKEYE 2019 LISTS.txt",
+        "/org/jim/ninthage/training/armybook//2.2 T56 BUCKEYE 2019 LISTS.txt",
         "/org/jim/ninthage/training/armybook/ETC 2019 Master Lists v1.0.txt"
 
+    )
+
+    val UnitFClassifer = mapOf<String,String>(
+        Pair("BH", "/org/jim/ninthage/training/unit/BH/BH.txt"),
+        Pair("EoS", "/org/jim/ninthage/training/unit/EoS/EoS.txt")
     )
 }
