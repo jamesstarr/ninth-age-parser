@@ -1,39 +1,38 @@
 package org.jim.ninthage.units
 
-import opennlp.tools.langdetect.LanguageDetectorModel
-import org.jim.ninthage.data.TrainingData
-import org.jim.opennlp.SimpleClassifier
+import opennlp.tools.util.InsufficientTrainingDataException
+import org.jim.opennlp.SequenceObjectStream
+import org.jim.opennlp.classifier.SimpleClassifier
+import org.jim.opennlp.classifier.SimpleClassifierModel
+import org.jim.opennlp.classifier.SimpleToken
 import java.util.regex.Pattern
 
-object UnitEntryClassifier {
-
-    val separatorChars: String = """<Unit\s+name="([^"]+)"\s*>"""
-
-    val pattern = Pattern.compile(separatorChars)
-
-    fun train(): Map<String,LanguageDetectorModel> {
-        return TrainingData.UnitFClassifer.mapValues{(armyBook, path)->
-            SimpleClassifier.train(listOf(path), pattern, UnitEntryLanguageDetectorFactory())
-        }
-    }
-
-    fun build(model: LanguageDetectorModel): SimpleClassifier {
-        return object: SimpleClassifier(model){
-            val numberPattern = Pattern.compile("\\d[ ,._]?\\d\\d\\d")
-            override fun classify(value:String): String {
-                return if(numberPattern.matcher(value.trim()).matches()){
-                    "Footer"
-                } else {
-                    super.classify(value)
-                }
+class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model) {
+    val numberMatcher = numberPattern.matcher("")
+    companion object {
+        val numberPattern = Pattern.compile("\\d[ ,._]?\\d\\d\\d")
+        fun train(tokens: List<UnitToken>): SimpleClassifierModel {
+            try {
+                return train(
+                    tokens
+                        .map { SimpleToken(it.name, it.rawBody) }
+                        .let { SequenceObjectStream<SimpleToken>(it.asSequence()) }
+                )
+            } catch (insufficientTrainingDataException: InsufficientTrainingDataException){
+                throw insufficientTrainingDataException
             }
         }
 
+
     }
 
-    fun build(): Map<String,SimpleClassifier> {
-        return train().mapValues { (ab, model) -> build(model)}
+    override fun classify(value: String): String {
+        numberMatcher.reset(value.trim())
+        return if (numberMatcher.matches()) {
+            "Footer"
+        } else {
+            super.classify(value)
+        }
     }
-
 
 }

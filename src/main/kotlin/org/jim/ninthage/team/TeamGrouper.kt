@@ -1,7 +1,7 @@
 package org.jim.ninthage.team
 
 import com.google.common.collect.Lists
-import org.jim.ninthage.models.ArmyList
+import org.jim.ninthage.models.Roster
 import org.jim.ninthage.models.Team
 import org.jim.ninthage.models.Tournament
 import java.lang.Exception
@@ -9,23 +9,23 @@ import java.lang.Exception
 class TeamGrouper {
     fun groupTeams(tournament: Tournament): Tournament {
         return if (
-            tournament.armyList.stream()
+            tournament.roster.stream()
                 .filter { it.isTeam }
                 .findAny().isEmpty
         ) {
             tournament
         } else {
             tournament.copy(
-                armyList = tournament.armyList.filter { !it.isTeam },
-                teams = teamIter(tournament.armyList).toList()
+                roster = tournament.roster.filter { !it.isTeam },
+                teams = teamIter(tournament.roster).toList()
             )
         }
     }
 
 
-    fun teamIter(list: List<ArmyList>): Sequence<Team> {
+    fun teamIter(list: List<Roster>): Sequence<Team> {
         return sequence {
-            var currentList = Lists.newArrayList<ArmyList>()
+            var currentList = Lists.newArrayList<Roster>()
             var team =
                 if (list.first().isTeam) {
                     list.first().raw
@@ -50,6 +50,6 @@ class TeamGrouper {
     }
 }
 
-private val ArmyList.isTeam: Boolean
+private val Roster.isTeam: Boolean
     get() = armyBook == "Team"
 

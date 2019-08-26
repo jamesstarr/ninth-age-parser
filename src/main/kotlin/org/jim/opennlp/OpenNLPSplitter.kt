@@ -20,7 +20,7 @@ class OpenNLPSplitter(
             val sampleStream = JoinObjectStreams(
                 trainFiles
                     .map { ResourceUtils.readResourceAsUtf8String(it) }
-                    .map { SimpleObjectStream(it) }
+                    .map { SingletonObjectStream(it) }
                     .map { NoWhiteSpaceSplitTokenizer(it) }
 
             )

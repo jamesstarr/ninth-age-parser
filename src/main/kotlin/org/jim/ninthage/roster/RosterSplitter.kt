@@ -1,10 +1,10 @@
-package org.jim.ninthage
+package org.jim.ninthage.roster
 
 import org.jim.ninthage.data.TrainingData
 import org.jim.opennlp.OpenNLPSplitter
 import org.jim.ninthage.base.Splitter
 
-object ListSplitter {
+object RosterSplitter {
     fun openNLPListSplitter(): Splitter {
         val model = OpenNLPSplitter.train(TrainingData.ListSplitting)
         val splitter = OpenNLPSplitter.build(model)

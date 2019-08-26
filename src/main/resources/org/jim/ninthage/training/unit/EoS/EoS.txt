@@ -9,51 +9,137 @@
 <Unit name="Footer">4500
 <Unit name="Footer">4500
 <Unit name="Footer">Total: 4499
-<Unit name="Artificer">130 - Artificer, Handgun
-<Unit name="Artificer">135 - Artificier, Long Riffle
-<Unit name="Artificer">185 – Artificer, repeater gun, Crown of the Wizzard King
-<Unit name="Arcane Engine">1 Arcane engine, Shield, 290
-<Unit name="Arcane Engine">290 - Arcane Engine, Arcane Shield
-<Unit name="Arcane Engine">290 - Arcane Engine, Foresight
-<Unit name="Arcane Engine">290 - 1x Arcane Engine of Arcane Shield
-<Unit name="Artillery">1 Cannon 225
-<Unit name="Artillery">250- 1x Cannon
-<Unit name="Artillery">2x1 Imperial Rocketeers 160
-<Unit name="Artillery">250 - 1x Artillery, Cannon
-<Unit name="Artillery">250 - Artillery, Cannon
-<Unit name="Artillery">250 - Artillery, Canon
-<Unit name="Artillery">250 - Cannon
-<Unit name="Artillery">250 – Artillery, Cannon
-<Unit name="Artillery">250 – Canon
-<Unit name="Artillery">200 - 1x Artillery, Volley Gun
-<Unit name="Artillery">200 – 1x Volley Gun
-<Unit name="Artillery">200 - 2 x 1x Artillery, Volley Gun
-<Unit name="Artillery">160 - 2 x 1x Artillery, Imperial Rocketeer
-<Unit name="Artillery">160 - 2x1 Artillery, Imperial Rocketeer
-<Unit name="Artillery">160 - Imperial Artillery, Rocket Battery
-<Unit name="Elector Knight">15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
-<Unit name="Elector Knight">215 - 5x Electoral Cavalry lance, shield, S
-<Unit name="Electoral Cavalry">10 Knights, Lance, Shield, FC 530
-<Unit name="Electoral Cavalry">5 electoral Cavalry, shield 175
-<Unit name="Electoral Cavalry">2x 195 - 2x 5x Electoral Cavalry, Shield, Musician
-<Unit name="Electoral Cavalry">215 - 5 x Electoral Cavalry, Lance, Shield, Musician
-<Unit name="Electoral Cavalry">165 - 5 électoral cavalry, Great Weapon
-<Unit name="Electoral Cavalry">195 - 5x Electoral Cavalry, Shields, Standard bearer
-<Unit name="Electoral Cavalry">195 – 5x Electoral Cavalry, musician, shield
-<Unit name="Flagellants">200 - 15x Flagellants
-<Unit name="Flagellants">200 - 3 x 15x Flagellants
-<Unit name="Heavy Infantry">452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard
-<Unit name="Heavy Infantry">315 - 33x Heavy Infantry M,S
-<Unit name="Heavy Infantry">480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard
-<Unit name="Heavy Infantry">485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity
-<Unit name="Heavy Infantry">529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity
-<Unit name="Heavy Infantry">502 - 42 Heavy Infantry, Musician, Standard Bearer, Champion, Halberd Flaming Standard
-<Unit name="Heavy Infantry">535 - 45x Heavy Infantry, Standard bearer, Musician, Champion, Halberds, Flaming Standard
-<Unit name="Heavy Infantry">562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard
-<Unit name="Heavy Infantry">600 - 50x Heavy Infantry, Halberd, Champion, Standard Bearer, Musician, Rending Banner
-<Unit name="Heavy Infantry">315 - 35x Heavy Infantry, Parent Unit, Standard bearer
-<Unit name="Heavy Infantry">403 - 38 x Heavy Infantry, Halberd, Musician, Champion
-<Unit name="Heavy Infantry">447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard
+<Unit name="Artificer"
+    shooting_weapon="Handgun"
+>130 - Artificer, Handgun
+<Unit name="Artificer"
+    shooting_weapon="Long Rifle"
+>135 - Artificier, Long Riffle
+<Unit name="Artificer"
+    shooting_weapon="Repeater Gun"
+    Artefacts="Crown of the Wizard King"
+>185 – Artificer, repeater gun, Crown of the Wizzard King
+<Unit name="Arcane Engine" Engine="Foresight">290 - Arcane Engine, Foresight
+<Unit name="Arcane Engine" Engine="Foresight">290 - Foresight Engine
+<Unit name="Arcane Engine" Engine="Foresight">290 - 2x Arcane Engine, Foresight
+<Unit name="Arcane Engine" Engine="Foresight">290 - 2x Arcane Engine, Foresight
+<Unit name="Arcane Engine" Engine="Foresight">290 - 1x Arcane Engine of Foresight
+<Unit name="Arcane Engine" Engine="Arcane Shield">1 Arcane engine, Shield, 290
+<Unit name="Arcane Engine" Engine="Arcane Shield">290 - Arcane Engine, Arcane Shield
+<Unit name="Arcane Engine" Engine="Arcane Shield">290 - 1x Arcane Engine of Arcane Shield
+<Unit name="Arcane Engine" Engine="Arcane Shield">290 - 2x Arcane Engine of Arcane Shield
+<Unit name="Artillery" ArtilleryWeapons="Cannon">1 Cannon 225
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250- 1x Cannon
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250 - 1x Artillery, Cannon
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250 - Artillery, Cannon
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250 - Artillery, Canon
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250 - Cannon
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250 – Artillery, Cannon
+<Unit name="Artillery" ArtilleryWeapons="Cannon">250 – Canon
+<Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 - Volley Gun
+<Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 - 1x Artillery, Volley Gun
+<Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 – 1x Volley Gun
+<Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 - 2 x 1x Artillery, Volley Gun
+<Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">2x1 Imperial Rocketeers 160
+<Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - 2 x 1x Artillery, Imperial Rocketeer
+<Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - 2x1 Artillery, Imperial Rocketeer
+<Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Artillery, Rocket Battery
+<Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Rocketeer
+<Unit name="Electoral Cavalry"
+    KnightOrders="True"
+    Shield="True"
+    CloseCombatWeapon="Lance"
+    Command="CMS"
+    BannerEnchantment="Banner of Speed"
+>15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
+<Unit name="Electoral Cavalry"
+    close_combat_weapon="Lance"
+    Shield="True"
+>215 - 5x Electoral Cavalry lance, shield, S
+<Unit name="Electoral Cavalry"
+    CloseCombatWeapon="Lance"
+    Shield="True"
+    Command="CMS"
+>10 Knights, Lance, Shield, FC 530
+<Unit name="Electoral Cavalry"
+    Shield="True"
+>5 electoral Cavalry, shield 175
+<Unit name="Electoral Cavalry"
+    Shield="True"
+    Command="M"
+>2x 195 - 2x 5x Electoral Cavalry, Shield, Musician
+<Unit name="Electoral Cavalry"
+    CloseCombatWeapon="Lance"
+    Shield="True"
+    Command="M"
+>215 - 5 x Electoral Cavalry, Lance, Shield, Musician
+<Unit name="Electoral Cavalry"
+    CloseCombatWeapon="Great Weapon"
+>165 - 5 électoral cavalry, Great Weapon
+<Unit name="Electoral Cavalry"
+    Shield="True"
+    Command="S"
+>195 - 5x Electoral Cavalry, Shields, Standard bearer
+<Unit name="Electoral Cavalry"
+    Shield="True"
+    command="M"
+>195 – 5x Electoral Cavalry, musician, shield
+<Unit name="Flagellants" count=15>200 - 15x Flagellants
+<Unit name="Flagellants" count=15 repeated=3>200 - 3 x 15x Flagellants
+<Unit name="Heavy Infantry"
+    count=37
+    close_combat_weapon=Halberd
+    command=CMS
+    banner="Household Standard"
+>452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard
+<Unit name="Heavy Infantry" count=33 command=MS >315 - 33x Heavy Infantry M,S
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Halberd
+    banner="Flaming Standard"
+>480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Spear
+    banner="Banner of Unity"
+>485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Halberd
+    banner="Banner of Unity"
+>529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Halberd
+    banner="Flaming Standard"
+>502 - 42 Heavy Infantry, Musician, Standard Bearer, Champion, Halberd Flaming Standard
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Halberd
+    banner="Flaming Standard"
+>535 - 45x Heavy Infantry, Standard bearer, Musician, Champion, Halberds, Flaming Standard
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Halberd
+    banner="Household Standard"
+>562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Halberd
+    banner="Rending Banner"
+>600 - 50x Heavy Infantry, Halberd, Champion, Standard Bearer, Musician, Rending Banner
+<Unit name="Heavy Infantry"
+    command=S
+>315 - 35x Heavy Infantry, Parent Unit, Standard bearer
+<Unit name="Heavy Infantry"
+    command=CM
+    close_combat_weapon=Halberd
+>403 - 38 x Heavy Infantry, Halberd, Musician, Champion
+<Unit name="Heavy Infantry"
+    command=CMS
+    close_combat_weapon=Spear
+    banner="Flaming Standard"
+>447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard
 <Unit name="Heavy Infantry">235 – 21x Heavy Infantry, Standard Bearer, Musician, Household Standard
 <Unit name="Heavy Infantry">185 - 2x20 Heavy Infantry, M, Halberd
 <Unit name="Heavy Infantry">175 - 2 x 21x Heavy Infantry, Musician
@@ -98,57 +184,134 @@
 <Unit name="Knights of the Sun Griffon">560 - 5x Knights of the Sun Griffon, Lances, Musician
 <Unit name="Knights of the Sun Griffon">453 - 4 Knights of the Sun Griffon, Lances, M
 <Unit name="Knights of the Sun Griffon">346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M
-<Unit name="Light Infantry">135 - 10x Light Infantry, Handguns
+<Unit name="Light Infantry"
+    ShootingWeapon=Handgun
+>135 - 10x Light Infantry, Handguns
+<Unit name="Light Infantry"
+    ShootingWeapon=Handgun
+    Command=MS
+    BannerEnchantment="Marksman’s Pennant"
+>20 Light Infantry, handguns, S, M, Marksman Pennant 315
+<Unit name="Light Infantry"
+    ShootingWeapon=Handgun
+    Command=MS
+    BannerEnchantment="Marksman’s Pennant"
+>289 - 18 Light Infantry, Handguns, M, SB, Marksman’s Pennant
+<Unit name="Light Infantry"
+    ShootingWeapon=Handgun
+    Command=M
+>2x15 Hnadgunners, M 220
+<Unit name="Light Infantry"
+    ShootingWeapon=Handgun
+    Command=CS
+    ChampionShootingWeapon="Repeater Gun"
+    BannerEnchantment="Marksman’s Pennant"
+>317 – 19x Light Infantry, handgun, champion : repeater gun, standard bearer, Marksman’s Penant
+<Unit name="Light Infantry"
+    ShootingWeapon=Handgun
+    Command=CS
+    BannerEnchantment="Marksman’s Pennant"
+    ChampionShootingWeapon="Long Rifle"
+>330 - 20x Handgunners C(long rifle) , S, Marksman's pendant
 <Unit name="Light Infantry">135 – 2 x 10x Light Infantry, Crossbows
-<Unit name="Light Infantry">207 - 14x Light Infantry, M
-<Unit name="Light Infantry">220 - 15 x Light Infantry , Crossbow, Musician
-<Unit name="Light Infantry">239 - 2 x 18x Light Infantry, Crossbows
-<Unit name="Light Infantry">252 - 19x Light Infantry, Crossbow
-<Unit name="Light Infantry">259 - 18 Light Infantry, Crossbows, M
-<Unit name="Light Infantry">259 - 3 x 18x Light Infantry, Musician
-<Unit name="Light Infantry">265 - 2 x 20x Light Infantry, Crossbow
-<Unit name="Light Infantry">265 - 20x Light Infantry, Crossbow
-<Unit name="Light Infantry">285 - 20x Light Infantry, Musician
-<Unit name="Light Infantry">289 - 18 Light Infantry, Handguns, M, SB, Marksman’s Pennant
-<Unit name="Light Infantry">295 – 20x Light infantry, Crossbows, S, Marksman’s Pennant
-<Unit name="Light Infantry">20 Light Infantry, handguns, S, M, Marksman Pennant 315
-<Unit name="Light Infantry">274 - 18x Crossbowmen C(long rifle)
-<Unit name="Light Infantry">2x15 Hnadgunners, M 220
 <Unit name="Light Infantry">161 -12 Light Infantry, crossbow
 <Unit name="Light Infantry">174 – 13x light Infantry, Crossbows
+<Unit name="Light Infantry"
+    Command=M
+>207 - 14x Light Infantry, M
+<Unit name="Light Infantry"
+    Command=M
+>220 - 15 x Light Infantry , Crossbow, Musician
+<Unit name="Light Infantry">239 - 2 x 18x Light Infantry, Crossbows
+<Unit name="Light Infantry">252 - 19x Light Infantry, Crossbow
+<Unit name="Light Infantry"
+    Command=M
+>259 - 18 Light Infantry, Crossbows, M
+<Unit name="Light Infantry"
+    Command=M
+>259 - 3 x 18x Light Infantry, Musician
+<Unit name="Light Infantry">265 - 2 x 20x Light Infantry, Crossbow
+<Unit name="Light Infantry">265 - 20x Light Infantry, Crossbow
+<Unit name="Light Infantry"
+    Command=C
+    ChampionShootingWeapon="Long Rifle"
+>274 - 18x Crossbowmen C(long rifle)
+<Unit name="Light Infantry"
+    Command=M
+>285 - 20x Light Infantry, Musician
+<Unit name="Light Infantry"
+    Command=S
+    BannerEnchantment="Marksman’s Pennant"
+>295 – 20x Light infantry, Crossbows, S, Marksman’s Pennant
 <Unit name="Light Infantry">2x20 Light infantry, Xbow
-<Unit name="Light Infantry">330 - 20x Handgunners C(long rifle) , S, Marksman's pendant
-<Unit name="Light Infantry">305 - 20x Light Infantry, Musician, Standard Bearer
-<Unit name="Light Infantry">317 – 19x Light Infantry, handgun, champion : repeater gun, standard bearer, Marksman’s Penant
-<Unit name="Light Infantry">320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle
-<Unit name="Marshal">260 - Marshal, BSB, Household standard, Death Warrant, Shield
+<Unit name="Light Infantry"
+    Command=MS
+>305 - 20x Light Infantry, Musician, Standard Bearer
+<Unit name="Light Infantry"
+    Command=CM
+    ChampionShootingWeapon="Long Rifle"
+>320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle
+<Unit name="Marshal" BattleStandardBear=True>260 - Marshal, BSB, Household standard, Death Warrant, Shield
 <Unit name="Marshal">270 - Marshal, General, GW, Imperial Seal
 <Unit name="Marshal">515 - Marshal, Great Griffon, Shield, Shield of Volund, Hero's Heart, Ghostly Guard, Winter Cloak
-<Unit name="Marshal">Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
-<Unit name="Marshal">Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
-<Unit name="Marshal">Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
+<Unit name="Marshal"
+    BattleStandardBear=True>Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
+<Unit name="Marshal"
+    BattleStandardBear=True>Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
+<Unit name="Marshal"
+    BattleStandardBear=True>Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
 <Unit name="Marshal">Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
 <Unit name="Marshal">265 - Marshal, Army General, Shield, Blacksteel, Death Warrant
-<Unit name="Marshal">265 - Marshal, BSB, Shield, Death Warrant, Blacksteel
+<Unit name="Marshal"
+    BattleStandardBear=True
+    >265 - Marshal, BSB, Shield, Death Warrant, Blacksteel
 <Unit name="Marshal">265 - Marshal, General, Death Warrant, Blacksteel, Shield
-<Unit name="Marshal">265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,
-<Unit name="Marshal">265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon)
-<Unit name="Marshal">270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant
-<Unit name="Marshal">280 - Marshal, BSB, Shield, Willow's Ward, Alchemist’s Alloy, Mantle of Ullor, Great Tactician
-<Unit name="Marshal">265 – Marshal, Battle Standard Bearer, Shield, Death warrant, Blacksteel
-<Unit name="Marshal">315 - Marshal, Great Tactician, Battle Standard, Household Standard, Shield, Pistol, Blacksteel
-<Unit name="Marshal">325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel
-<Unit name="Marshal">325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), Blacksteel
+<Unit name="Marshal"
+    BattleStandardBear=True
+>265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,
+<Unit name="Marshal"
+    BattleStandardBear=True
+>265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon)
+<Unit name="Marshal"
+    BattleStandardBear=True
+>270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant
+<Unit name="Marshal"
+    BattleStandardBear=True
+>280 - Marshal, BSB, Shield, Willow's Ward, Alchemist’s Alloy, Mantle of Ullor, Great Tactician
+<Unit name="Marshal"
+    BattleStandardBear=True
+>265 – Marshal, Battle Standard Bearer, Shield, Death warrant, Blacksteel
+<Unit name="Marshal"
+    BattleStandardBear=True
+>315 - Marshal, Great Tactician, Battle Standard, Household Standard, Shield, Pistol, Blacksteel
+<Unit name="Marshal"
+    BattleStandardBear=True
+>325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel
+<Unit name="Marshal"
+    BattleStandardBear=True
+>325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), Blacksteel
 <Unit name="Marshal">330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King
 <Unit name="Marshal">400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,
 <Unit name="Marshal">405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock
-<Unit name="Marshal">205 - Marshal, Shield, Battle Standard Bearer, Household Standard
-<Unit name="Marshal">205 - Marshall , BSB, Shield, Household Banner
-<Unit name="Marshal">180 - Marshal, Willow's Ward, Shield, Battle Standard Bearer
+<Unit name="Marshal"
+    BattleStandardBear=True
+>205 - Marshal, Shield, Battle Standard Bearer, Household Standard
+<Unit name="Marshal"
+    BattleStandardBear=True
+>205 - Marshall , BSB, Shield, Household Banner
+<Unit name="Marshal"
+    BattleStandardBear=True
+>180 - Marshal, Willow's Ward, Shield, Battle Standard Bearer
 <Unit name="Marshal">210 – Marshal, General, Crown of the Wizard King
-<Unit name="Marshal">255 - Marshal, Battle Standard Bearer, Shield, Crown of the Wizard King, Household Standard
-<Unit name="Marshal">235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm
-<Unit name="Marshal">235 - Marshal, Battle Standard, Banner of Discipline, Household Standard
+<Unit name="Marshal"
+    BattleStandardBear=True
+>255 - Marshal, Battle Standard Bearer, Shield, Crown of the Wizard King, Household Standard
+<Unit name="Marshal"
+    BattleStandardBear=True
+>235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm
+<Unit name="Marshal"
+    BattleStandardBear=True
+>235 - Marshal, Battle Standard, Banner of Discipline, Household Standard
 <Unit name="Marshal">235 - Marshall , General, Shield, Crown of Authocracy
 <Unit name="Marshal">285 - Marshal, General, Crown of Autocracy, Binding Scroll
 <Unit name="Prelate">570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy

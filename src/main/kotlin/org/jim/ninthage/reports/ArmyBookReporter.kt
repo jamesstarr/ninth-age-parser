@@ -30,7 +30,7 @@ class ArmyBookReporter {
     }
 
     fun processTournament(tournament:Tournament, bookAndCount:MutableMap<String, Int>){
-        tournament.armyList.forEach { armyBook ->
+        tournament.roster.forEach { armyBook ->
             val count = bookAndCount.getOrDefault(armyBook.armyBook, 0)
             bookAndCount[armyBook.armyBook] = count + 1
         }
@@ -41,13 +41,6 @@ class ArmyBookReporter {
             overall.toMap(),
             tournaments.toList()
         )
-    }
-}
-
-class ArmyBookReportPrinter {
-    fun print(armyBookReport: ArmyBookReport, directory: Path) {
-        Files.createDirectories(directory)
-
     }
 }
 

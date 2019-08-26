@@ -3,19 +3,19 @@ package org.jim.opennlp
 import opennlp.tools.langdetect.Language
 import opennlp.tools.langdetect.LanguageSample
 import opennlp.tools.util.ObjectStream
+import org.jim.opennlp.classifier.SimpleToken
 import java.util.regex.Pattern
 
-class ClassifierTokenizer(val pattern: Pattern) {
+class ClassifierTokenizer{
     companion object {
 
         fun build(
             documentStream: ObjectStream<String>,
             pattern:Pattern
-            ):ObjectStream<LanguageSample> {
+            ):ObjectStream<SimpleToken> {
             return DocumentToTokenStream(documentStream) {
-                toLanguageTags(it, pattern)
+                toTokens(it, pattern)
             }
-
         }
 
 
@@ -35,7 +35,7 @@ class ClassifierTokenizer(val pattern: Pattern) {
             }
         }
 
-        fun toLanguageTags(value: String, pattern:Pattern): Sequence<LanguageSample> {
+        fun toTokens(value: String, pattern:Pattern): Sequence<SimpleToken> {
             val tags = splitToArmyBookTags(value,pattern).toList()
             if (tags.isEmpty()) {
                 return sequence {}
@@ -44,10 +44,10 @@ class ClassifierTokenizer(val pattern: Pattern) {
                 for (i in 0.until(tags.size - 1)) {
                     val sample = tags[i]
                     val nextSample = tags[i + 1]
-                    yield(LanguageSample(Language(sample.armyBook), value.substring(sample.end, nextSample.start)))
+                    yield(SimpleToken(sample.armyBook, value.substring(sample.end, nextSample.start)))
                 }
                 val (armyBook, _, end) = tags.last()
-                yield(LanguageSample(Language(armyBook), value.substring(end)))
+                yield(SimpleToken(armyBook, value.substring(end)))
 
             }
         }

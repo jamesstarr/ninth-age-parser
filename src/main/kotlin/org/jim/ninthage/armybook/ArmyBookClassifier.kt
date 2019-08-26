@@ -11,7 +11,8 @@ import opennlp.tools.util.normalizer.ShrinkCharSequenceNormalizer
 import opennlp.tools.util.normalizer.TwitterCharSequenceNormalizer
 import opennlp.tools.util.normalizer.UrlCharSequenceNormalizer
 import org.jim.ninthage.data.TrainingData
-import org.jim.opennlp.SimpleClassifier
+import org.jim.opennlp.classifier.SimpleClassifier
+import org.jim.opennlp.classifier.SimpleClassifierModel
 import java.util.regex.Pattern
 
 object ArmyBookClassifier {
@@ -20,7 +21,7 @@ object ArmyBookClassifier {
 
     val pattern = Pattern.compile(separatorChars)
 
-    fun train(): LanguageDetectorModel {
+    fun train(): SimpleClassifierModel {
         return SimpleClassifier.train(
             TrainingData.ArmyBookClassifier,
             pattern,
@@ -28,7 +29,7 @@ object ArmyBookClassifier {
         )
     }
 
-    fun build(model:LanguageDetectorModel):SimpleClassifier {
+    fun build(model:SimpleClassifierModel): SimpleClassifier {
         return object: SimpleClassifier(model){
             override fun classify(value: String): String {
                 if(value.trim().toLowerCase().startsWith("team")){
@@ -40,7 +41,7 @@ object ArmyBookClassifier {
         }
     }
 
-    fun build():SimpleClassifier {
+    fun build(): SimpleClassifier {
         return build(train())
     }
 

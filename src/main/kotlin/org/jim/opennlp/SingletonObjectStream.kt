@@ -2,7 +2,7 @@ package org.jim.opennlp
 
 import opennlp.tools.util.ObjectStream
 
-class SimpleObjectStream(val token:String) : ObjectStream<String> {
+class SingletonObjectStream(val token:String) : ObjectStream<String> {
     var ready = true
 
     override fun read(): String? {

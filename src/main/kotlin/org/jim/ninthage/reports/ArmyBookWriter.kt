@@ -1,4 +1,4 @@
-package org.jim.ninthage
+package org.jim.ninthage.reports
 
 import com.google.common.collect.Maps
 import java.io.Closeable
