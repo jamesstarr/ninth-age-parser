@@ -41,7 +41,7 @@ class OptionParser(
 
     fun decorate(value: String): List<RosterUnitOption> {
         return simpleAttributeClassifier.stream()
-            .flatMap{ it.attribute(value) }.toList()
+            .flatMap { it.attribute(value) }.toList()
     }
 }
 
@@ -87,13 +87,15 @@ interface UnitAttributor {
                             it.rawBody
                         )
                     }.toList()
-            if(tokens.isEmpty() || tokens.map{it.target}.toSet().size ==1){
-                return object: UnitAttributor {
+            if (tokens.isEmpty() || tokens.map { it.target }.toSet().size == 1) {
+                return object : UnitAttributor {
                     override fun attribute(value: String): Stream<RosterUnitOption> {
-                        return sequenceOf(RosterUnitOption(
-                            armyBookEntryOption.name,
-                            listOf(armyBookEntryOption.defaultValue)
-                        )).asStream()
+                        return sequenceOf(
+                            RosterUnitOption(
+                                armyBookEntryOption.name,
+                                listOf(armyBookEntryOption.defaultValue)
+                            )
+                        ).asStream()
                     }
 
                 }
@@ -112,7 +114,7 @@ interface UnitAttributor {
             armyBookEntryOption: ArmyBookEntryOption,
             tokens: List<UnitToken>
         ): UnitAttributor {
-            return object: UnitAttributor {
+            return object : UnitAttributor {
                 override fun attribute(value: String): Stream<RosterUnitOption> {
                     return Collections.emptyList<RosterUnitOption>().stream()
                 }

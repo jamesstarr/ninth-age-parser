@@ -10,7 +10,7 @@ import org.jim.opennlp.classifier.SimpleClassifier
 
 class RosterParser(
     val armyBookToUnitEntryParser: Map<String, UnitEntryParser>,
-    val armyBookDetector:SimpleClassifier = ArmyBookClassifier.build()
+    val armyBookDetector: SimpleClassifier = ArmyBookClassifier.build()
 ) {
     companion object {
         fun build(): RosterParser {

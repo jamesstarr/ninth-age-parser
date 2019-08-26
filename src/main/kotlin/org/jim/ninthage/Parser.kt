@@ -7,18 +7,16 @@ import org.jim.ninthage.models.PdFParserConfiguration
 import org.jim.ninthage.models.TextFile
 import org.jim.ninthage.models.Tournament
 import org.jim.ninthage.models.TournamentConfiguration
-import org.jim.opennlp.classifier.SimpleClassifier
-import org.jim.pdf.PdfToText
 import org.jim.ninthage.reports.ArmyBookReporter
-import org.jim.ninthage.reports.ArmyBookWriter
+import org.jim.ninthage.reports.ArmyBookWriterPool
 import org.jim.ninthage.reports.TournamentReportPrinter
 import org.jim.ninthage.roster.RosterParser
 import org.jim.ninthage.roster.RosterSplitter
 import org.jim.ninthage.team.TeamGrouper
+import org.jim.opennlp.classifier.SimpleClassifier
+import org.jim.pdf.PdfToText
 import org.jim.utils.ResourceUtils
 import org.jim.utils.YamlUtils
-import java.lang.Exception
-import java.lang.RuntimeException
 import java.nio.file.Files
 
 
@@ -44,17 +42,17 @@ class Parser {
 
         Files.createDirectories(tournamentDirectory)
 
-        ArmyBookWriter.build(App.HomeDirectory.resolve("armyBook")).use { armyBookWriter ->
+        ArmyBookWriterPool.build(App.HomeDirectory.resolve("armyBook")).use { armyBookWriter ->
             Tournaments.ALL.stream()
-                .filter{it.isWellFormed}
+                .filter { it.isWellFormed }
                 .map { preprocess(it) }
                 .map { tournament ->
                     try {
                         val armyLists =
                             listSplitter.split(tournament.rawString)
-                            .map { armyList ->
-                                unitSplitter.parseRoster(armyList)
-                            }.toList()
+                                .map { armyList ->
+                                    unitSplitter.parseRoster(armyList)
+                                }.toList()
 
                         tournament.copy(
                             roster = armyLists
@@ -69,7 +67,7 @@ class Parser {
                     println("-------------------------------")
                     println(tournament.tournamentConfiguration.name)
                     println("-------------------------------")
-                    tournament.roster!!
+                    tournament.roster
                         .forEach { armyList ->
                             armyBookWriter.write(armyList.armyBook, armyList.raw)
                             println(YamlUtils.YamlObjectMapper.writeValueAsString(armyList))

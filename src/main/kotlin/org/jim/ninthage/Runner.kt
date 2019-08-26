@@ -1,14 +1,13 @@
 @file:JvmName("Runner")
-package org.jim.ninthage
 
-import java.lang.Exception
+package org.jim.ninthage
 
 
 fun main(args: Array<String>) {
     try {
 
         Parser().readAllList()
-    } catch (ex:Exception) {
+    } catch (ex: Exception) {
         ex.printStackTrace()
     }
 }

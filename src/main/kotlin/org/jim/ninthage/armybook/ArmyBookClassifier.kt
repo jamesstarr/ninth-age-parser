@@ -3,7 +3,6 @@ package org.jim.ninthage.armybook
 import opennlp.tools.langdetect.DefaultLanguageDetectorContextGenerator
 import opennlp.tools.langdetect.LanguageDetectorContextGenerator
 import opennlp.tools.langdetect.LanguageDetectorFactory
-import opennlp.tools.langdetect.LanguageDetectorModel
 import opennlp.tools.util.normalizer.CharSequenceNormalizer
 import opennlp.tools.util.normalizer.EmojiCharSequenceNormalizer
 import opennlp.tools.util.normalizer.NumberCharSequenceNormalizer
@@ -29,10 +28,10 @@ object ArmyBookClassifier {
         )
     }
 
-    fun build(model:SimpleClassifierModel): SimpleClassifier {
-        return object: SimpleClassifier(model){
+    fun build(model: SimpleClassifierModel): SimpleClassifier {
+        return object : SimpleClassifier(model) {
             override fun classify(value: String): String {
-                if(value.trim().toLowerCase().startsWith("team")){
+                if (value.trim().toLowerCase().startsWith("team")) {
                     return "Team"
                 } else {
                     return super.classify(value)
@@ -45,7 +44,7 @@ object ArmyBookClassifier {
         return build(train())
     }
 
-    class ArmyBookLanguageDetectorFactory: LanguageDetectorFactory(){
+    class ArmyBookLanguageDetectorFactory : LanguageDetectorFactory() {
         override fun getContextGenerator(): LanguageDetectorContextGenerator {
             return DefaultLanguageDetectorContextGenerator(
                 3, 5,
@@ -55,7 +54,7 @@ object ArmyBookClassifier {
                 TwitterCharSequenceNormalizer.getInstance(),
                 NumberCharSequenceNormalizer.getInstance(),//strip numbers
                 ShrinkCharSequenceNormalizer.getInstance(),
-                object : CharSequenceNormalizer{
+                object : CharSequenceNormalizer {
                     override fun normalize(text: CharSequence?): CharSequence {
                         return text.toString().toLowerCase()
                     }

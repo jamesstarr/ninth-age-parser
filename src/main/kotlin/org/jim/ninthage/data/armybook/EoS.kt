@@ -6,7 +6,7 @@ import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
 object EoS {
-    public val Version2_2 =
+    val Version2_0 =
         ArmyBook(
             name = "EoS",
             entries = listOf(
@@ -256,8 +256,6 @@ object EoS {
 }
 
 
-
-
 private fun character(
     name: String,
     points: Int,
@@ -265,7 +263,6 @@ private fun character(
 ): ArmyBookEntry {
     return ArmyBookEntry(name, points, 1, 1, attributes())
 }
-
 
 
 private fun wizard(): ArmyBookEntryOption {
@@ -296,8 +293,6 @@ private fun mount(vararg selection: ArmyBookEntryOptionSelection): ArmyBookEntry
         default = "None"
     )
 }
-
-
 
 
 private fun eosBannerEnchantment(): ArmyBookEntryOption {

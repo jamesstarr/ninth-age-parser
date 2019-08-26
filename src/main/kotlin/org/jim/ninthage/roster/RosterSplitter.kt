@@ -1,8 +1,8 @@
 package org.jim.ninthage.roster
 
+import org.jim.ninthage.base.Splitter
 import org.jim.ninthage.data.TrainingData
 import org.jim.opennlp.OpenNLPSplitter
-import org.jim.ninthage.base.Splitter
 
 object RosterSplitter {
     fun openNLPListSplitter(): Splitter {
@@ -17,14 +17,14 @@ object RosterSplitter {
     }
 
     fun simpleSplitter(): Splitter {
-        return object :Splitter {
+        return object : Splitter {
             override fun split(value: String): Sequence<String> {
-                val splitValue=
+                val splitValue =
                     com.google.common.base.Splitter.on("\n\n\n")
                         .omitEmptyStrings()
                         .split(value)
                         .filter { it.isNotBlank() }
-                return Sequence{ splitValue.iterator()}
+                return Sequence { splitValue.iterator() }
             }
         }
     }

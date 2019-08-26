@@ -4,7 +4,6 @@ import com.google.common.collect.Lists
 import org.jim.ninthage.models.Roster
 import org.jim.ninthage.models.Team
 import org.jim.ninthage.models.Tournament
-import java.lang.Exception
 
 class TeamGrouper {
     fun groupTeams(tournament: Tournament): Tournament {
@@ -35,10 +34,13 @@ class TeamGrouper {
 
             for (i in 1 until list.size) {
                 val armyList = list[i]
-                if (armyList.isTeam  && armyList.raw != team) {
-                    yield(Team(team,
-                        team.trim().split("\n")[0].removePrefix("Team "),
-                        currentList)
+                if (armyList.isTeam && armyList.raw != team) {
+                    yield(
+                        Team(
+                            team,
+                            team.trim().split("\n")[0].removePrefix("Team "),
+                            currentList
+                        )
                     )
                     currentList.clear()
                     team = armyList.raw

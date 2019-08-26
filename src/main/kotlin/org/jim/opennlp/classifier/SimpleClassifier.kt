@@ -6,8 +6,6 @@ import com.google.common.collect.Ordering
 import opennlp.tools.langdetect.DefaultLanguageDetectorContextGenerator
 import opennlp.tools.langdetect.LanguageDetectorContextGenerator
 import opennlp.tools.langdetect.LanguageDetectorFactory
-import opennlp.tools.langdetect.LanguageDetectorME
-import opennlp.tools.langdetect.LanguageDetectorModel
 import opennlp.tools.ml.TrainerFactory
 import opennlp.tools.ml.model.Event
 import opennlp.tools.ml.perceptron.PerceptronTrainer

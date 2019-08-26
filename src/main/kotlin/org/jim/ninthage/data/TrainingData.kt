@@ -23,7 +23,7 @@ object TrainingData {
 
     )
 
-    val UnitClassifier = mapOf<String,String>(
+    val UnitClassifier = mapOf<String, String>(
         Pair("BH", "/org/jim/ninthage/training/unit/BH/BH.txt"),
         Pair("EoS", "/org/jim/ninthage/training/unit/EoS/EoS.txt")
     )

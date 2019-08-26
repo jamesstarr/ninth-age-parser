@@ -4,7 +4,6 @@ import org.jim.ninthage.data.TrainingData
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.RosterUnit
 import org.jim.utils.ResourceUtils
-import java.lang.Exception
 
 
 class UnitEntryParser(
@@ -14,7 +13,7 @@ class UnitEntryParser(
 ) {
 
 
-    companion object{
+    companion object {
         fun build(armyBook: ArmyBook): UnitEntryParser {
             val tokens = unitTokens(armyBook)
 
@@ -44,7 +43,7 @@ class UnitEntryParser(
             )
         }
 
-        private fun unitTokens (armyBook: ArmyBook):List<UnitToken> {
+        private fun unitTokens(armyBook: ArmyBook): List<UnitToken> {
             val trainData = TrainingData.UnitClassifier[armyBook.name]!!
             val unitTokenizer = UnitTokenizer(armyBook)
             val trainingString = ResourceUtils.readResourceAsUtf8String(trainData)
@@ -54,7 +53,7 @@ class UnitEntryParser(
 
     fun parse(entry: String): RosterUnit {
         val unitName = unitEntryClassifier.classify(entry)
-        if(unitName == "Header" || unitName == "Footer") {
+        if (unitName == "Header" || unitName == "Footer") {
             return RosterUnit(entry, unitName)
         }
         val decorator = unitDecorators[unitName] ?: throw Exception(unitName)

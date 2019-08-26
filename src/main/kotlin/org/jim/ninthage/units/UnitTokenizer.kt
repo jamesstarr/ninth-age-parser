@@ -17,7 +17,8 @@ class UnitTokenizer(
      * thrid group body
      */
     val namePattern = Pattern.compile(
-        "<Unit\\s+name=(\"(?:[^\"]+\")|(?:[^\\s>]+))([^>]*)>([^<]+)")
+        "<Unit\\s+name=(\"(?:[^\"]+\")|(?:[^\\s>]+))([^>]*)>([^<]+)"
+    )
     val attributePattern = Pattern.compile("([^\\s=]+)=(\"(?:[^\"]+\")|(?:[^\\s>]+))")
 
     fun splitUnitTokens(value: String): Sequence<UnitToken> {
@@ -28,12 +29,12 @@ class UnitTokenizer(
                 val raw = m.group(0)!!
                 val entryName = m.group(1)!!.let { clean(it) }
                 val entry =
-                    when(entryName) {
+                    when (entryName) {
                         "Footer" -> ArmyBookEntry("Footer", 0)//HACK
                         "Header" -> ArmyBookEntry("Header", 0)//HACK
                         else -> armyBook.entry(entryName)
                     }
-                val rawAttributes = m.group(2)?: ""
+                val rawAttributes = m.group(2) ?: ""
                 val rawBody = m.group(3)!!
                 val attributePairs = parseAttributes(rawAttributes)
                 val simpleAttributes = parseSimpleAttributes(entry, attributePairs)
@@ -104,11 +105,11 @@ class UnitTokenizer(
                 results.put(optionName, option.selection(foundValue).name)
             }
             return results
-        } catch (rt:java.lang.RuntimeException) {
+        } catch (rt: java.lang.RuntimeException) {
             throw ParseException(
-                "ArmyBook: "+armyBook.name + "\n" +
-                "Entry: "+ entry.name+ "\n" +
-                Joiner.on("\n").join(attributes),
+                "ArmyBook: " + armyBook.name + "\n" +
+                        "Entry: " + entry.name + "\n" +
+                        Joiner.on("\n").join(attributes),
                 rt
             )
         }

@@ -9,6 +9,7 @@ import java.util.regex.Pattern
 
 class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model) {
     val numberMatcher = numberPattern.matcher("")
+
     companion object {
         val numberPattern = Pattern.compile("\\d[ ,._]?\\d\\d\\d")
         fun train(tokens: List<UnitToken>): SimpleClassifierModel {
@@ -18,7 +19,7 @@ class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model
                         .map { SimpleToken(it.name, it.rawBody) }
                         .let { SequenceObjectStream<SimpleToken>(it.asSequence()) }
                 )
-            } catch (insufficientTrainingDataException: InsufficientTrainingDataException){
+            } catch (insufficientTrainingDataException: InsufficientTrainingDataException) {
                 throw insufficientTrainingDataException
             }
         }
