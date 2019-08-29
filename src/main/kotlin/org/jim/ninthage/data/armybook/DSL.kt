@@ -5,9 +5,36 @@ import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
 
+interface Enchantment{
+    val label:String
+    val points:Int
+    fun toSelection():ArmyBookEntryOptionSelection {
+        return ArmyBookEntryOptionSelection(label, points)
+    }
+}
+
+inline fun <reified T, reified R> option(
+    name:String
+): ArmyBookEntryOption
+where T:Enchantment,
+      T:Enum<T>,
+      R:Enchantment,
+      R:Enum<R>{
+    enumValues<T>()
+    return option(
+        name,
+        "None"
+    ) {
+        ArrayList<ArmyBookEntryOptionSelection>().apply {
+            addAll(enumValues<T>().map { it.toSelection() })
+            addAll(enumValues<R>().map { it.toSelection() })
+        }
+    }
+}
+
 fun booleanOption(name: String, points: Int): ArmyBookEntryOption {
-    return option("Irregulars", "False") {
-        listOf(selection("True", 1))
+    return option(name, "False") {
+        listOf(selection("True", points))
     }
 }
 
@@ -17,18 +44,19 @@ fun singleModel(
     basePoints: Int,
     attributes: () -> List<ArmyBookEntryOption> = { listOf() }
 ): ArmyBookEntry {
-    return ArmyBookEntry(name, basePoints, 1, 0, attributes())
+    return ArmyBookEntry(name, basePoints, 0,1, 0, attributes())
 }
 
 fun troop(
     name: String,
-    basePoints: Int,
+    startingPoints: Int,
     startModels: Int,
     additionalModels: Int,
     pointsPerModel: Int,
     attributes: () -> List<ArmyBookEntryOption>
 ): ArmyBookEntry {
-    return ArmyBookEntry(name, basePoints, startModels, startModels + additionalModels, attributes())
+    val basePoints = startingPoints - (startModels * pointsPerModel)
+    return ArmyBookEntry(name, basePoints, pointsPerModel, startModels, startModels + additionalModels, attributes())
 }
 
 fun selection(name: String, points: Int = 0): ArmyBookEntryOptionSelection {
@@ -47,7 +75,9 @@ fun unitOption(
     return ArmyBookEntryOption(
         name = name,
         selections = selectionList,
-        default = "None"
+        default = "None",
+        implicit = null,
+        minSelection = 1
     )
 }
 
@@ -61,7 +91,9 @@ fun requiredOption(
     return ArmyBookEntryOption(
         name = name,
         selections = selectionList,
-        default = null
+        default = null,
+        implicit = null,
+        minSelection = 1
     )
 }
 
@@ -76,19 +108,23 @@ fun option(
     return ArmyBookEntryOption(
         name = name,
         selections = selectionList,
-        default = default
+        default = default,
+        implicit = null,
+        minSelection = 1
     )
 }
 
 
 fun battleStandardBearer(points: Int = 50): ArmyBookEntryOption {
     return ArmyBookEntryOption(
-        name = "BattleStandardBear",
+        name = MainBook.BattleStandardBear,
         selections = listOf(
-            ArmyBookEntryOptionSelection("True", points),
-            ArmyBookEntryOptionSelection("False", 0)
+            ArmyBookEntryOptionSelection("Battle Standard Bear", points),
+            ArmyBookEntryOptionSelection("None", 0)
         ),
-        default = "False"
+        default = "None",
+        implicit = "Battle Standard Bear",
+        minSelection = 1
     )
 }
 
@@ -97,32 +133,16 @@ fun shield(points: Int): ArmyBookEntryOption {
     return ArmyBookEntryOption(
         name = "Shield",
         selections = listOf(
-            selection("True", points),
-            selection("False", 0)
+            selection("Shield", points),
+            selection("None", 0)
         ),
-        default = "False"
+        default = "None",
+        implicit = "Shield",
+        minSelection = 1
     )
 }
 
 
-fun bannerEnchantment(
-    vararg armyBookBanners: ArmyBookEntryOptionSelection
-): ArmyBookEntryOption {
-    return option("BannerEnchantment", "None") {
-        listOf(
-            selection("Banner of Speed", 50),
-            selection("Rending Banner", 45),
-            selection("Stalker’s Standard", 45),
-            selection("Banner of the Relentless Company", 40),
-            selection("Banner of Discipline", 35),
-            selection("Flaming Standard", 35),
-            selection("Legion Standard", 25),
-            selection("Aether Icon", 15)
-        ).toMutableList()
-            .apply { addAll(armyBookBanners.toMutableList()) }
-
-    }
-}
 
 
 fun champion(): ArmyBookEntryOption {
@@ -166,9 +186,11 @@ fun closeCombatWeapon(
     options.addAll(selection)
     options.add(ArmyBookEntryOptionSelection("Hand Weapon", 0))
     return ArmyBookEntryOption(
-        name = "CloseCombatWeapon",
+        name = MainBook.CloseCombatWeapon,
         selections = options,
-        default = "Hand Weapon"
+        default = "Hand Weapon",
+        implicit = null,
+        minSelection = 1
 
     )
 }

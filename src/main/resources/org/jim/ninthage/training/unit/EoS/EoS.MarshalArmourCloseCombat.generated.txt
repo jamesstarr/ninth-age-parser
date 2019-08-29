@@ -1,0 +1,166 @@
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Imperial Seal"
+>Marshal, Paired Weapons, Imperial Seal
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Blacksteel"
+>Marshal, Paired Weapons, Blacksteel
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Death Cheater"
+>Marshal, Paired Weapons, Death Cheater
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Destiny's Call"
+>Marshal, Paired Weapons, Destiny's Call
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Essence of Mithril"
+>Marshal, Paired Weapons, Essence of Mithril
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Ghostly Guard"
+>Marshal, Paired Weapons, Ghostly Guard
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Basalt Infusion"
+>Marshal, Paired Weapons, Basalt Infusion
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Alchemist’s Alloy"
+>Marshal, Paired Weapons, Alchemist’s Alloy
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+>Marshal, Paired Weapons
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+>Marshal, Great Weapon, Imperial Seal
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Blacksteel"
+>Marshal, Great Weapon, Blacksteel
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Death Cheater"
+>Marshal, Great Weapon, Death Cheater
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Destiny's Call"
+>Marshal, Great Weapon, Destiny's Call
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Essence of Mithril"
+>Marshal, Great Weapon, Essence of Mithril
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Ghostly Guard"
+>Marshal, Great Weapon, Ghostly Guard
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Basalt Infusion"
+>Marshal, Great Weapon, Basalt Infusion
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Alchemist’s Alloy"
+>Marshal, Great Weapon, Alchemist’s Alloy
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+>Marshal, Great Weapon
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Imperial Seal"
+>Marshal, Halberd, Imperial Seal
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Blacksteel"
+>Marshal, Halberd, Blacksteel
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Death Cheater"
+>Marshal, Halberd, Death Cheater
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Destiny's Call"
+>Marshal, Halberd, Destiny's Call
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Essence of Mithril"
+>Marshal, Halberd, Essence of Mithril
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Ghostly Guard"
+>Marshal, Halberd, Ghostly Guard
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Basalt Infusion"
+>Marshal, Halberd, Basalt Infusion
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Alchemist’s Alloy"
+>Marshal, Halberd, Alchemist’s Alloy
+<Unit name="Marshal" 
+	CloseCombatWeapon="Halberd"
+>Marshal, Halberd
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Imperial Seal"
+>Marshal, Lance, Imperial Seal
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Blacksteel"
+>Marshal, Lance, Blacksteel
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Death Cheater"
+>Marshal, Lance, Death Cheater
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Destiny's Call"
+>Marshal, Lance, Destiny's Call
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Essence of Mithril"
+>Marshal, Lance, Essence of Mithril
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Ghostly Guard"
+>Marshal, Lance, Ghostly Guard
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Basalt Infusion"
+>Marshal, Lance, Basalt Infusion
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Alchemist’s Alloy"
+>Marshal, Lance, Alchemist’s Alloy
+<Unit name="Marshal" 
+	CloseCombatWeapon="Lance"
+>Marshal, Lance
+<Unit name="Marshal" 
+	ArmourEnchantment="Imperial Seal"
+>Marshal, Imperial Seal
+<Unit name="Marshal" 
+	ArmourEnchantment="Blacksteel"
+>Marshal, Blacksteel
+<Unit name="Marshal" 
+	ArmourEnchantment="Death Cheater"
+>Marshal, Death Cheater
+<Unit name="Marshal" 
+	ArmourEnchantment="Destiny's Call"
+>Marshal, Destiny's Call
+<Unit name="Marshal" 
+	ArmourEnchantment="Essence of Mithril"
+>Marshal, Essence of Mithril
+<Unit name="Marshal" 
+	ArmourEnchantment="Ghostly Guard"
+>Marshal, Ghostly Guard
+<Unit name="Marshal" 
+	ArmourEnchantment="Basalt Infusion"
+>Marshal, Basalt Infusion
+<Unit name="Marshal" 
+	ArmourEnchantment="Alchemist’s Alloy"
+>Marshal, Alchemist’s Alloy
+<Unit name="Marshal" 
+>Marshal

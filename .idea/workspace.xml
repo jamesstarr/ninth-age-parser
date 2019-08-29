@@ -2,36 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1aa1b64-76c1-448e-8db7-7bd47b3381c3" name="Default Changelist" comment="E">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookTrainingDataGenerator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TrainingDataGenerator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/ArcaneCompendium.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/MainBook.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/StandardArmyBook.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/Enchantment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Artificer.generated.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalArmourCloseCombat.generated.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalArtifactsMounts.generated.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalShieldArtifact.generated.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ParseException.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/ParseException.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Runner.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Runner.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/armybook/ArmyBookClassifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/armybook/ArmyBookClassifier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/base/Splitter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/base/Splitter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/ArmyBooks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/ArmyBooks.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/EoS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/EoS.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/DSL.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/DSL.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/EoS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/EmpireOfSonnstahl.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ArmyBook.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ArmyBook.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ParserConfiguration.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/RosterUnit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/RosterUnit.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/RosterUnitOption.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/RosterUnitOption.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/Team.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/Team.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournamentConfiguration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/TournamentConfiguration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/Tournment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/Tournment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookReporter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookReporter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookWriter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookWriterPool.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/ArmyBookTrainingDataGenerator.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/TournamentReportPrinter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/TournamentReportPrinter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/UnitEntryTrainDataReporter.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/roster/RosterParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/roster/RosterParser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/roster/RosterSplitter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/roster/RosterSplitter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/team/TeamGrouper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/team/TeamGrouper.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/OptionParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/OptionParser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryClassifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryClassifier.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryParser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitToken.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitToken.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitTokenizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitTokenizer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/opennlp/classifier/SimpleClassifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/opennlp/classifier/SimpleClassifier.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +105,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowGradle.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedList" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -144,9 +138,9 @@
       <recent name="org.jim" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS" />
       <recent name="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/cookedList" />
       <recent name="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/BH" />
-      <recent name="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS" />
       <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\rawlist" />
       <recent name="C:\Users\james\IdeaProjects\ninth-age-parser\src\main\resources\org\jim\ninthage\training\armybook" />
     </key>
@@ -163,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ninth-age-parser [build]">
+  <component name="RunManager" selected="Gradle.ninth-age-parser [run]">
     <configuration name="ninth-age-parser [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -234,26 +228,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.jim.ninthage.data.TournamentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="org.jim.ninthage.TrainingDataGeneratorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="ninth-age-parser.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="-Xmx8G" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="org.jim.ninthage.data.TournamentKt" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="org.jim.ninthage.TrainingDataGeneratorKt" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.ninth-age-parser [build]" />
+      <item itemvalue="Gradle.ninth-age-parser [clean]" />
+      <item itemvalue="Gradle.ninth-age-parser [run]" />
+      <item itemvalue="Kotlin.org.jim.ninthage.ParserKt" />
+      <item itemvalue="Kotlin.org.jim.ninthage.TrainingDataGeneratorKt" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.ninth-age-parser [run]" />
+        <item itemvalue="Kotlin.org.jim.ninthage.TrainingDataGeneratorKt" />
         <item itemvalue="Gradle.ninth-age-parser [build]" />
         <item itemvalue="Gradle.ninth-age-parser [clean]" />
         <item itemvalue="Kotlin.org.jim.ninthage.ParserKt" />
-        <item itemvalue="Kotlin.org.jim.ninthage.data.TournamentKt" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +319,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt</url>
-          <line>60</line>
+          <line>62</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
@@ -337,16 +338,6 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ArmyBook.kt</url>
-          <line>39</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/TournamentReportPrinter.kt</url>
-          <line>101</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryParser.kt</url>
           <line>65</line>
           <option name="timeStamp" value="70" />
@@ -357,44 +348,42 @@
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <condition expression="armyBook == &quot;EoS&quot;" language="kotlin" />
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/roster/RosterParser.kt</url>
-          <line>32</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/OptionParser.kt</url>
-          <line>102</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/OptionParser.kt</url>
-          <line>92</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/OptionParser.kt</url>
           <line>39</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-field">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/roster/RosterParser.kt</url>
-          <line>12</line>
-          <properties myFieldName="armyBookDetector" myClassName="org.jim.ninthage.roster.RosterParser" />
-          <option name="timeStamp" value="78" />
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt</url>
+          <line>101</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <condition expression="utilities ==0" language="kotlin" />
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/Parser.kt</url>
+          <line>96</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TrainingDataGenerator.kt</url>
+          <line>157</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/models/ArmyBook.kt</url>
+          <line>42</line>
+          <option name="timeStamp" value="89" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JetRunConfigurationType">
-        <watch expression="model.eval(cgen.getContext(sb, 0))" language="JAVA" />
-        <watch expression="model.eval(cgen.getContext(sb, 1))" language="JAVA" />
-        <watch expression="probOfSplit.reverse();" language="JAVA" />
-        <watch expression="probOfSplit" language="JAVA" />
+        <watch expression="option.default == &quot;None&quot;" language="kotlin" />
       </configuration>
       <configuration name="Remote">
-        <watch expression="armyBookEntryOption" language="kotlin" />
-        <watch expression="SimpleToken(                             it.simpleOptions[armyBookEntryOption.name] ?: armyBookEntryOption.defaultValue, it.rawBody)" language="kotlin" />
+        <watch expression="unit.name == &quot;Prelate&quot; &amp;&amp; !(unit.option(&quot;Mount&quot;) == &quot;Altar of Battle&quot;)" language="kotlin" />
       </configuration>
     </watches-manager>
   </component>

@@ -1,3 +1,0 @@
-package org.jim.ninthage.reports
-
-class ArmyBookTrainingDataGenerator

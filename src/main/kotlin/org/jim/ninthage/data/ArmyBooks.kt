@@ -4,7 +4,7 @@ import org.jim.ninthage.models.ArmyBook
 
 
 object ArmyBooks {
-    val EoS = org.jim.ninthage.data.armybook.EoS.Version2_0
+    val EoS = org.jim.ninthage.data.armybook.EmpireOfSonnstahl.Version2_0
 
     val All = listOf(EoS)
 

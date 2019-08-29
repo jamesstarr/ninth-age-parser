@@ -6,8 +6,11 @@ import com.google.common.collect.ArrayListMultimap
 import com.google.common.collect.Ordering
 import org.jim.ninthage.App
 import org.jim.ninthage.data.ArmyBooks
+import org.jim.ninthage.models.ArmyBook
+import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.Roster
 import org.jim.ninthage.models.RosterUnit
+import org.jim.ninthage.models.RosterUnitOption
 import org.jim.ninthage.models.Tournament
 import java.nio.file.Files
 import java.nio.file.Path
@@ -83,11 +86,12 @@ class TournamentReportPrinter(
         val armyBooks = tournament.roster.map { it.armyBook }.toHashSet().sorted()
         val unitDir = tournamentDir.resolve("unitEntry")
         Files.createDirectories(unitDir)
-        for (armyBook in armyBooks) {
+        for (armyBookStr in armyBooks) {
+
             val unitEntries =
                 tournament.roster
                     .stream()
-                    .filter { it.armyBook == armyBook }
+                    .filter { it.armyBook == armyBookStr }
                     .flatMap { it.rosterUnits.stream() }
                     .sorted(
                         Ordering.natural<String>()
@@ -97,30 +101,96 @@ class TournamentReportPrinter(
                                 }
                             })
                     )
-                    .map { entry ->
-                        "<Unit name=\"${entry.name}\" " +
-                                "${Joiner.on(" ")
-                                    .join(
-                                        entry.rosterUnitOptions
-                                            .filter {
-                                                !isDefault(
-                                                    armyBook,
-                                                    entry.name,
-                                                    it.name,
-                                                    it.values
-                                                )
-                                            }
-                                            .map { it.name + "=" + it.values[0] })
-                                }>${entry.raw}"
+                    .map { unit ->
+                        printUnit(armyBookStr, unit)
                     }
 
                     .collect(Collectors.toList())
             Files.writeString(
-                unitDir.resolve("$armyBook.txt"),
+                unitDir.resolve("$armyBookStr.txt"),
                 Joiner.on("\n").join(unitEntries)
             )
 
 
+        }
+    }
+
+    fun printUnit(
+        armyBookStr: String,
+        unit: RosterUnit
+    ):String {
+        return if(armyBookStr != "EoS" ){
+            "<Unit name=\"${unit.name}\">"
+        } else if(unit.name == "Header" || unit.name == "Footer"){
+            ""
+        }else {
+            val armyBook = ArmyBooks.get(armyBookStr)
+            val armyBookEntry = armyBook.entry(unit.name)
+            val sb =
+                java.lang.StringBuilder("<Unit name=\"${unit.name}\" ")
+            printCount(armyBookEntry,unit,sb)
+            unit.options.forEach {
+                printOption(
+                    armyBook,
+                    armyBookEntry,
+                    it,
+                    sb
+                )
+
+            }
+
+            sb.append("\n>${unit.raw.trim()}").toString()
+        }
+    }
+
+    fun printCount(
+        entry: ArmyBookEntry,
+        unit: RosterUnit,
+        sb: StringBuilder
+    ) {
+        if(unit.entryCount != 1) {
+            sb
+                .append("EntryCount=").append(unit.entryCount).append(" ")
+        }
+        if(entry.minCount == 1 && unit.modelCount == 1){
+            return
+        }
+        sb.append("ModelCount=").append(unit.modelCount).append(" ")
+    }
+
+    fun printOption(
+        armyBook: ArmyBook,
+        entry: ArmyBookEntry,
+        rosterUnitOption: RosterUnitOption,
+        sb: StringBuilder
+    ): StringBuilder {
+        val abOption = entry.option(rosterUnitOption.name)
+        return if (rosterUnitOption.values.isEmpty()) {
+            sb
+        } else if (rosterUnitOption.values.size == 1) {
+            val value = rosterUnitOption.values[0]
+            if (value == abOption.default) {
+                sb
+            } else if (value == abOption.implicit) {
+                sb.append("\n\t").append(abOption.name)
+            } else {
+                sb.append("\n\t").append(abOption.name)
+                    .append("=")
+                    .append(quoteIfNecessary(value))
+            }
+        } else {
+            rosterUnitOption.values.forEach { v ->
+                sb.append("\n\t").append(abOption.name).append("=").append(quoteIfNecessary(v))
+            }
+            sb
+        }
+    }
+
+    fun quoteIfNecessary(value: String): String {
+        return if (value.contains(Regex("\\s"))) {
+            "\"${value}\""
+        } else {
+            value
         }
     }
 

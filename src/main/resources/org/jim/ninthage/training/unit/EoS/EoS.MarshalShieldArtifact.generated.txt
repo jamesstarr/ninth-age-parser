@@ -1,0 +1,400 @@
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Winter Cloak"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Winter Cloak, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Winter Cloak"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Winter Cloak, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Winter Cloak"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Winter Cloak, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Winter Cloak"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Winter Cloak, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Locket of Sunna"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Locket of Sunna, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Locket of Sunna"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Locket of Sunna, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Locket of Sunna"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Locket of Sunna, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Locket of Sunna"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Locket of Sunna, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Karadon's Courser"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Karadon's Courser, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Karadon's Courser"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Karadon's Courser, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Karadon's Courser"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Karadon's Courser, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Karadon's Courser"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Karadon's Courser, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Mantle of Ullor"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Mantle of Ullor, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Mantle of Ullor"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Mantle of Ullor, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Mantle of Ullor"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Mantle of Ullor, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Mantle of Ullor"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Mantle of Ullor, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of Autocracy"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Crown of Autocracy, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of Autocracy"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Crown of Autocracy, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of Autocracy"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Crown of Autocracy, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of Autocracy"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Crown of Autocracy, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Binding Scroll"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Binding Scroll, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Binding Scroll"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Binding Scroll, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Binding Scroll"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Binding Scroll, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Binding Scroll"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Binding Scroll, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of the Wizard King"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Crown of the Wizard King, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of the Wizard King"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Crown of the Wizard King, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of the Wizard King"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Crown of the Wizard King, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crown of the Wizard King"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Crown of the Wizard King, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of Shielding"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Talisman of Shielding, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of Shielding"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Talisman of Shielding, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of Shielding"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Talisman of Shielding, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of Shielding"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Talisman of Shielding, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of the Void"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Talisman of the Void, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of the Void"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Talisman of the Void, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of the Void"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Talisman of the Void, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Talisman of the Void"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Talisman of the Void, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lightning Vambraces"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Lightning Vambraces, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lightning Vambraces"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Lightning Vambraces, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lightning Vambraces"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Lightning Vambraces, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lightning Vambraces"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Lightning Vambraces, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Ranger's Boot"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Ranger's Boot, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Ranger's Boot"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Ranger's Boot, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Ranger's Boot"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Ranger's Boot, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Ranger's Boot"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Ranger's Boot, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Rod of Battle"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Rod of Battle, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Rod of Battle"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Rod of Battle, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Rod of Battle"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Rod of Battle, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Rod of Battle"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Rod of Battle, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crystal Ball"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Crystal Ball, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crystal Ball"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Crystal Ball, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crystal Ball"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Crystal Ball, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Crystal Ball"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Crystal Ball, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Sceptre of Power"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Sceptre of Power, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Sceptre of Power"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Sceptre of Power, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Sceptre of Power"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Sceptre of Power, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Sceptre of Power"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Sceptre of Power, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragon Staff"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Dragon Staff, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragon Staff"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Dragon Staff, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragon Staff"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Dragon Staff, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragon Staff"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Dragon Staff, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Obsidian Rock"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Obsidian Rock, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Obsidian Rock"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Obsidian Rock, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Obsidian Rock"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Obsidian Rock, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Obsidian Rock"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Obsidian Rock, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragonfire Gem"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Dragonfire Gem, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragonfire Gem"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Dragonfire Gem, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragonfire Gem"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Dragonfire Gem, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Dragonfire Gem"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Dragonfire Gem, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lucky Charm"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Lucky Charm, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lucky Charm"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Lucky Charm, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lucky Charm"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Lucky Charm, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Lucky Charm"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Lucky Charm, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Strength"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Potion of Strength, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Strength"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Potion of Strength, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Strength"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Potion of Strength, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Strength"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Potion of Strength, Willow's Ward
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Swiftness"
+	ShieldEnchantment="Witchfire Guard"
+>Marshal, Shield, Potion of Swiftness, Witchfire Guard
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Swiftness"
+	ShieldEnchantment="Shield of Volund"
+>Marshal, Shield, Potion of Swiftness, Shield of Volund
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Swiftness"
+	ShieldEnchantment="Dusk Forge"
+>Marshal, Shield, Potion of Swiftness, Dusk Forge
+<Unit name="Marshal" 
+	Shield="Shield"
+	Artefact="Potion of Swiftness"
+	ShieldEnchantment="Willow's Ward"
+>Marshal, Shield, Potion of Swiftness, Willow's Ward

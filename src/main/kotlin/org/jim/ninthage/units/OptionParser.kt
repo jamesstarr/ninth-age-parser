@@ -15,7 +15,7 @@ import kotlin.streams.toList
 
 class OptionParser(
     private val armyBook: ArmyBook,
-    private val armyBookEntry: ArmyBookEntry,
+    val armyBookEntry: ArmyBookEntry,
     private val simpleAttributeClassifier: List<UnitAttributor>
 ) {
 
@@ -114,13 +114,30 @@ interface UnitAttributor {
             armyBookEntryOption: ArmyBookEntryOption,
             tokens: List<UnitToken>
         ): UnitAttributor {
-            return object : UnitAttributor {
-                override fun attribute(value: String): Stream<RosterUnitOption> {
-                    return Collections.emptyList<RosterUnitOption>().stream()
+            val sAndC= armyBookEntryOption.selections.map { s->
+                val tokenForOption =
+                    tokens.map {
+                        val tokenValue =
+                            if(it.complexOptions.containsEntry(
+                                armyBookEntryOption.name,
+                                s.name
+                            )){
+                                "Found"
+                            }else {
+                                "Missing"
+                            }
+                        SimpleToken(tokenValue, it.rawBody)
+                    }.asSequence()
+                if(tokenForOption.map { it.target }.toSet().size != 2) {
+                    null
+                }else {
+                    val classifier =
+                        SimpleClassifier.build(SequenceObjectStream(tokenForOption))
+                    Pair(s.name, classifier)
                 }
-            }
+            }.filterNotNull()
+            return ComplexUnitAttributor(armyBook,armyBookEntry,armyBookEntryOption,sAndC)
         }
-
     }
 
     fun attribute(value: String): Stream<RosterUnitOption>
@@ -147,11 +164,16 @@ class ComplexUnitAttributor(
     private val armyBook: ArmyBook,
     private val armyBookEntry: ArmyBookEntry,
     private val armyBookEntryOption: ArmyBookEntryOption,
-    private val optionClassifiers: List<SimpleClassifier>
+    private val optionClassifiers: List<Pair<String,SimpleClassifier>>
 ) : UnitAttributor {
     override fun attribute(value: String): Stream<RosterUnitOption> {
         val attribute =
-            optionClassifiers.map { it.classify(value) }
+            optionClassifiers.flatMap {(selection, classifer)->
+                sequence{
+                    if(classifer.classify(value) == "Found")
+                        yield(selection)
+                }.asIterable()
+            }
         return sequenceOf(RosterUnitOption(armyBookEntryOption.name, attribute)).asStream()
     }
 }

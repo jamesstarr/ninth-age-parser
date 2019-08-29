@@ -47,41 +47,41 @@
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Rocketeer
 <Unit name="Electoral Cavalry"
     KnightOrders="True"
-    Shield="True"
+    Shileld
     CloseCombatWeapon="Lance"
     Command="CMS"
     BannerEnchantment="Banner of Speed"
 >15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
 <Unit name="Electoral Cavalry"
     close_combat_weapon="Lance"
-    Shield="True"
+    Shileld
 >215 - 5x Electoral Cavalry lance, shield, S
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Lance"
-    Shield="True"
+    Shileld
     Command="CMS"
 >10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry"
-    Shield="True"
+    Shileld
 >5 electoral Cavalry, shield 175
 <Unit name="Electoral Cavalry"
-    Shield="True"
+    Shileld
     Command="M"
 >2x 195 - 2x 5x Electoral Cavalry, Shield, Musician
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Lance"
-    Shield="True"
+    Shileld
     Command="M"
 >215 - 5 x Electoral Cavalry, Lance, Shield, Musician
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Great Weapon"
 >165 - 5 électoral cavalry, Great Weapon
 <Unit name="Electoral Cavalry"
-    Shield="True"
+    Shileld
     Command="S"
 >195 - 5x Electoral Cavalry, Shields, Standard bearer
 <Unit name="Electoral Cavalry"
-    Shield="True"
+    Shileld
     command="M"
 >195 – 5x Electoral Cavalry, musician, shield
 <Unit name="Flagellants" count=15>200 - 15x Flagellants
@@ -150,6 +150,8 @@
 <Unit name="Heavy Infantry">175 - 21x Heavy Infantry, Parent Unit, Musician
 <Unit name="Heavy Infantry">205 - 20x Heavy Infantry, Champion, Standard Bearer, Musician
 <Unit name="Inquisitor">300 - Inquisitor, Shield, Horse, Hammer of Witches, Dusk Forged
+<Unit name="Inquisitor">275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
+<Unit name="Inquisitor">Inquisitor, blessed Steel, shield, hammer of witches, Horse
 <Unit name="Imperial Guard">23 Imperial Guard, FC, Shield, Household Standard 432
 <Unit name="Imperial Guard">25 Imperial Guard, FC, Shield, Banner of Unity 470
 <Unit name="Imperial Guard">570 - 30x Imperial Guard, M, C, S, Rending Banner
@@ -185,33 +187,33 @@
 <Unit name="Knights of the Sun Griffon">453 - 4 Knights of the Sun Griffon, Lances, M
 <Unit name="Knights of the Sun Griffon">346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M
 <Unit name="Light Infantry"
-    ShootingWeapon=Handgun
+    RangedWeapon=Handgun
 >135 - 10x Light Infantry, Handguns
 <Unit name="Light Infantry"
-    ShootingWeapon=Handgun
+    RangedWeapon=Handgun
     Command=MS
     BannerEnchantment="Marksman’s Pennant"
 >20 Light Infantry, handguns, S, M, Marksman Pennant 315
 <Unit name="Light Infantry"
-    ShootingWeapon=Handgun
+    RangedWeapon=Handgun
     Command=MS
     BannerEnchantment="Marksman’s Pennant"
 >289 - 18 Light Infantry, Handguns, M, SB, Marksman’s Pennant
 <Unit name="Light Infantry"
-    ShootingWeapon=Handgun
+    RangedWeapon=Handgun
     Command=M
 >2x15 Hnadgunners, M 220
 <Unit name="Light Infantry"
-    ShootingWeapon=Handgun
+    RangedWeapon=Handgun
     Command=CS
-    ChampionShootingWeapon="Repeater Gun"
+    ChampionRangedWeapon="Repeater Gun"
     BannerEnchantment="Marksman’s Pennant"
 >317 – 19x Light Infantry, handgun, champion : repeater gun, standard bearer, Marksman’s Penant
 <Unit name="Light Infantry"
-    ShootingWeapon=Handgun
+    RangedWeapon=Handgun
     Command=CS
     BannerEnchantment="Marksman’s Pennant"
-    ChampionShootingWeapon="Long Rifle"
+    ChampionRangedWeapon="Long Rifle"
 >330 - 20x Handgunners C(long rifle) , S, Marksman's pendant
 <Unit name="Light Infantry">135 – 2 x 10x Light Infantry, Crossbows
 <Unit name="Light Infantry">161 -12 Light Infantry, crossbow
@@ -234,7 +236,7 @@
 <Unit name="Light Infantry">265 - 20x Light Infantry, Crossbow
 <Unit name="Light Infantry"
     Command=C
-    ChampionShootingWeapon="Long Rifle"
+    ChampionRangedWeapon="Long Rifle"
 >274 - 18x Crossbowmen C(long rifle)
 <Unit name="Light Infantry"
     Command=M
@@ -249,88 +251,230 @@
 >305 - 20x Light Infantry, Musician, Standard Bearer
 <Unit name="Light Infantry"
     Command=CM
-    ChampionShootingWeapon="Long Rifle"
+    ChampionRangedWeapon="Long Rifle"
 >320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle
-<Unit name="Marshal" BattleStandardBear=True>260 - Marshal, BSB, Household standard, Death Warrant, Shield
-<Unit name="Marshal">270 - Marshal, General, GW, Imperial Seal
-<Unit name="Marshal">515 - Marshal, Great Griffon, Shield, Shield of Volund, Hero's Heart, Ghostly Guard, Winter Cloak
 <Unit name="Marshal"
-    BattleStandardBear=True>Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
+    BattleStandardBear
+    BannerEnchantment="Household Standard"
+    WeaponEnchantment="Death Warrant"
+>260 - Marshal, BSB, Household standard, Death Warrant, Shield
 <Unit name="Marshal"
-    BattleStandardBear=True>Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
+    CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Imperial Seal"
+>270 - Marshal, General, GW, Imperial Seal
 <Unit name="Marshal"
-    BattleStandardBear=True>Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
-<Unit name="Marshal">Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
-<Unit name="Marshal">265 - Marshal, Army General, Shield, Blacksteel, Death Warrant
+    Mount="Great Griffon"
+    ShieldEnchantment="Shield of Volund"
+    ArmourEnchantment="Ghostly Guard"
+    WeaponEnchantment="Hero's Heart"
+    Artefact="Winter Cloak"
+    Shileld
+>515 - Marshal, Great Griffon, Shield, Shield of Volund, Hero's Heart, Ghostly Guard, Winter Cloak
 <Unit name="Marshal"
-    BattleStandardBear=True
-    >265 - Marshal, BSB, Shield, Death Warrant, Blacksteel
-<Unit name="Marshal">265 - Marshal, General, Death Warrant, Blacksteel, Shield
+    BattleStandardBear
+    Title="Great Tactician"
+    Shileld
+    Artefact="Binding Scroll"
+    ArmourEnchantment="Blacksteel"
+>Marshal BSB, Great Tactician, Pl"ate, Shield, Binding Scroll, Black Steel 325
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    Shileld
+    ArmourEnchantment="Blacksteel"
+    BannerEnchantment="Rending Banner"
+>Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
+<Unit name="Marshal"
+    BattleStandardBear
+    Title="Great Tactician"
+    ArmourEnchantment="Blacksteel"
+    BannerEnchantment="Stalker’s Standard"
+    Mount=Horse
+    >Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
+<Unit name="Marshal"
+    WeaponEnchantment="Hero's Heart"
+    ArmourEnchantment="Ghostly Guard"
+    Artefact="Winter Cloak"
+    Artefact="Lucky Charm"
+    Mount="Great Griffon"
+>Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
+<Unit name="Marshal"
+    Shileld
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+>
+265 - Marshal, Army General, Shield, Blacksteel, Death Warrant
+<Unit name="Marshal"
+    BattleStandardBear
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Shileld
+>265 - Marshal, BSB, Shield, Death Warrant, Blacksteel
+<Unit name="Marshal"
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Shileld
+>265 - Marshal, General, Death Warrant, Blacksteel, Shield
+<Unit name="Marshal"
+    BattleStandardBear
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Shileld
 >265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Shileld
 >265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon)
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Shileld
+    RangedWeapon=Pistol
 >270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    Shileld
+    ShieldEnchantment="Willow's Ward"
+    ArmourEnchantment="Alchemist’s Alloy"
+    Artefact="Mantle of Ullor"
+    Title="Great Tactician"
 >280 - Marshal, BSB, Shield, Willow's Ward, Alchemist’s Alloy, Mantle of Ullor, Great Tactician
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
 >265 – Marshal, Battle Standard Bearer, Shield, Death warrant, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
 >315 - Marshal, Great Tactician, Battle Standard, Household Standard, Shield, Pistol, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
 >325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    Title="Great Tactician"
+    Shileld
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
 >325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), Blacksteel
-<Unit name="Marshal">330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King
-<Unit name="Marshal">400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,
-<Unit name="Marshal">405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock
 <Unit name="Marshal"
-    BattleStandardBear=True
+    Title="Great Tactician"
+    RangedWeapon=Pistol
+    Artefact="Binding Scroll"
+    Artefact="Crown  of the Wizard King"
+>330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King
+<Unit name="Marshal">400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,
+<Unit name="Marshal"
+    Title="Great Tactician"
+    Shileld
+    Artefact="Binding Scroll"
+    Artefact="Obsidian Rock"
+    ArmourEnchantment="Imperial Seal"
+
+>405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock
+<Unit name="Marshal"
+    BattleStandardBear
+    Shileld
+    BannerEnchantment="Household Standard"
 >205 - Marshal, Shield, Battle Standard Bearer, Household Standard
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    BannerEnchantment="Household Standard"
+    Shileld
 >205 - Marshall , BSB, Shield, Household Banner
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
+    Shileld
+    ShieldEnchantment="Willow's Ward"
 >180 - Marshal, Willow's Ward, Shield, Battle Standard Bearer
-<Unit name="Marshal">210 – Marshal, General, Crown of the Wizard King
 <Unit name="Marshal"
-    BattleStandardBear=True
+    Artefact="Crown of the Wizard King"
+>210 – Marshal, General, Crown of the Wizard King
+<Unit name="Marshal"
+    BattleStandardBear
 >255 - Marshal, Battle Standard Bearer, Shield, Crown of the Wizard King, Household Standard
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
 >235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm
 <Unit name="Marshal"
-    BattleStandardBear=True
+    BattleStandardBear
 >235 - Marshal, Battle Standard, Banner of Discipline, Household Standard
 <Unit name="Marshal">235 - Marshall , General, Shield, Crown of Authocracy
 <Unit name="Marshal">285 - Marshal, General, Crown of Autocracy, Binding Scroll
-<Unit name="Prelate">570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy
-<Unit name="Prelate">665 - Prelate, Altar of Battle, Basalt Infusion, Locket of Sunna, Plate Armour, Great Weapon
-<Unit name="Prelate">725 - Prelate, Altar of Battle, Paired Weapons, Plate Armour, Shield, Basalt Infusion, Hero's Heart, Locket of Sunna
-<Unit name="Prelate">310 - Prelate, Plate Armour, Shield, Locket of Sunna, The Black Steel, potion of Strength
-<Unit name="Prelate">Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
-<Unit name="Prelate">Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
-<Unit name="Prelate">Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
-<Unit name="Prelate">200 Prelate, Shield, Plate Armour, Alchemist's Alloy
-<Unit name="Prelate">200 Prelate, Shield, Willow's Ward, Plate Armour,
-<Unit name="Prelate">320 - Prelate, General, Plate Armour, Shield, Imperial Seal, Lucky Charm, Obsidian Rock
-<Unit name="Prelate">340 - Prelate, General, Shield, Plate Armour, Imperial Seal, Death Warrant (Hand Weapon)
-<Unit name="Prelate">355 - Prelate , Plate, Shield, Blacksteel, Death Warrant,Locket of Sunna
-<Unit name="Prelate">360 - Prelate, General, Great Weapon, Plate Armour, Imperial Seal, Locket of Sunna
-<Unit name="Prelate">370 - Prelate, General, Great weapon, Plate Armour, Imperial Seal, Locket of Sunna, Lucky Charm
-<Unit name="Prelate">375 - Prelate, General, Plate Armour, Shield, Imperial Seal, Witchfire Guard, Death Warrant (Hand Weapon)
-<Unit name="Prelate">380 – Prelate, general, great weapon, plate armour, Imperial Seal, Locket of Sunna, Dragonfire Gem
-<Unit name="Prelate">385 – Prelate, General, Plate armour, Great Weapon, Locket of Sunna, Imperial Seal, Obsidian Rock
+<Unit name="Prelate"
+    Mount="Altar of Battle"
+    Shileld
+    Armour="Plate Armour"
+>570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy
+<Unit name="Prelate"
+    Mount="Altar of Battle"
+    Shileld
+    Armour="Plate Armour"
+    CloseCombatWeapon="Great Weapon"
+>665 - Prelate, Altar of Battle, Basalt Infusion, Locket of Sunna, Plate Armour, Great Weapon
+<Unit name="Prelate"
+    Mount="Altar of Battle"
+    Shileld
+    Armour="Plate Armour"
+    CloseCombatWeapon="Paired Weapons"
+>725 - Prelate, Altar of Battle, Paired Weapons, Plate Armour, Shield, Basalt Infusion, Hero's Heart, Locket of Sunna
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    Shileld
+>310 - Prelate, Plate Armour, Shield, Locket of Sunna, The Black Steel, potion of Strength
+<Unit name="Prelate"
+    CloseCombatWeapon="Great Weapon"
+    Armour="Plate Armour"
+>Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    CloseCombatWeapon="Great Weapon"
+>Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    CloseCombatWeapon="Paired Weapons"
+    Mount=Horse
+>Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    Shileld
+>200 Prelate, Shield, Plate Armour, Alchemist's Alloy
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    Shileld
+>200 Prelate, Shield, Willow's Ward, Plate Armour,
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    Shileld
+>320 - Prelate, General, Plate Armour, Shield, Imperial Seal, Lucky Charm, Obsidian Rock
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    Shileld
+>340 - Prelate, General, Shield, Plate Armour, Imperial Seal, Death Warrant (Hand Weapon)
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    Shileld
+>355 - Prelate , Plate, Shield, Blacksteel, Death Warrant,Locket of Sunna
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    CloseCombatWeapon="Great Weapon"
+>360 - Prelate, General, Great Weapon, Plate Armour, Imperial Seal, Locket of Sunna
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    CloseCombatWeapon="Great Weapon"
+>370 - Prelate, General, Great weapon, Plate Armour, Imperial Seal, Locket of Sunna, Lucky Charm
+<Unit name= Prelate
+    Armour="Plate Armour"
+    Shileld
+">375 - Prelate, General, Plate Armour, Shield, Imperial Seal, Witchfire Guard, Death Warrant (Hand Weapon)
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    CloseCombatWeapon="Great Weapon"
+>380 – Prelate, general, great weapon, plate armour, Imperial Seal, Locket of Sunna, Dragonfire Gem
+<Unit name="Prelate"
+    Armour="Plate Armour"
+    CloseCombatWeapon="Great Weapon"
+>385 – Prelate, General, Plate armour, Great Weapon, Locket of Sunna, Imperial Seal, Obsidian Rock
 <Unit name="Reiters">2x5 Reiter's Brace of Pistols 175
 <Unit name="Reiters">2x5 Reiter's brace of pistols 175
 <Unit name="Reiters">5 Reiters, Brace of Pistols 175
@@ -356,37 +500,178 @@
 <Unit name="Steam Tank">1 Steam Tank 475
 <Unit name="Steam Tank">475 - 1x Steam Tank
 <Unit name="Steam Tank">Steam Tank 475
-<Unit name="Wizard">405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind
-<Unit name="Wizard">Wizard Adept, Divination, Book of Arcane Power 260
-<Unit name="Wizard">Wizard Adept, Pyromancy, Book of Arcane Power 260
-<Unit name="Wizard">Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670
-<Unit name="Wizard">Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
-<Unit name="Wizard">Wizard master,Cosmo 350
-<Unit name="Wizard">460 - Wizard, Pyromancy/Alchemy, Essence of a Free mind, Binding Scroll, Wizard Master
-<Unit name="Wizard">460 – Wizard, Cosmology/Alchemy, Essence of a Free Mind, Binding Scroll, Master
-<Unit name="Wizard">465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame
-<Unit name="Wizard">465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll
-<Unit name="Wizard">465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master
-<Unit name="Wizard">500 – Wizard, Divination, Arcane Engine : Arcane Shield, light armour, Basalt Infusion, Book of Arcane Marstery, Adept
-<Unit name="Wizard">350 - Wizard, Divination, Wizard Master
-<Unit name="Wizard">350 - Wizard, Divination, Wizard Master, 4 spells
-<Unit name="Wizard">350 - Wizard, Divination, Wizard master
-<Unit name="Wizard">405 - Wizard , Wizard Master, Essence of Free Mind,Pyromancy/Alchemy
-<Unit name="Wizard">405 - Wizard, Divination, Wizard master, Binding Scroll
-<Unit name="Wizard">405 - Wizard, Essence of a Free Mind, Wizard Master, Alchemy, Pyromancy
-<Unit name="Wizard">405 - Wizard, Essence of a Free Mind, Wizard Master, Divination, Pyromancy
-<Unit name="Wizard">405 – Wizard, Divination, Binding Scroll, Wizard Master
-<Unit name="Wizard">445 - Wizard, Divination, Wizard master, Binding Scroll, Sceptre of Power
-<Unit name="Wizard">400 Wizard, Alchemy, Wizard Master, Magical Heirloom
-<Unit name="Wizard">260 - Wizard, Alchemy, Wizard Adept, Book of Arcane Mastery
-<Unit name="Wizard">260 - Wizard, Cosmology, Wizard Adept, Book of Arcane Mastery
-<Unit name="Wizard">260 - Wizard, Cosmology, Wizard adept, Book of Arcane Mastery
-<Unit name="Wizard">260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery
-<Unit name="Wizard">260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane Mastery
-<Unit name="Wizard">300 – Wizard,  Alchemy, Book of Arcane Mastery, Scepter of Power, Wizard Adept
-<Unit name="Wizard">200 - Wizard, Alchemy, Wizard Adept, 2 spells
-<Unit name="Wizard">200 - Wizard, Wizard Adept, Alchemy
-<Unit name="Wizard">200 – Wizard, Alchemy, Wizard Adept
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Alchemy
+    Path=Pyromancy
+    Artefact="Essence of a Free Mind"
+>405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Divination
+    Artefact="Book of Arcane Mastery"
+>Wizard Adept, Divination, Book of Arcane Power 260
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Pyromancy
+    Artefact="Book of Arcane Mastery"
+>Wizard Adept, Pyromancy, Book of Arcane Power 260
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Cosmology
+    Armour="Light Armour"
+    Artefact="Talisman of Shielding"
+    Artefact="Magical Heirloom"
+    ArmourEnchantment="Alchemist’s Alloy"
+    Mount="Arcane Engine"
+    Engine="Arcane Shield"
+>Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Alchemy
+    Path=Cosmology
+    Artefact="Binding Scroll"
+    Artefact="Essence of a Free Mind"
+>Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Cosmology
+>Wizard master,Cosmo 350
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Alchemy
+    Path=Pyromancy
+    Artefact="Binding Scroll"
+    Artefact="Essence of a Free Mind"
+>460 - Wizard, Pyromancy/Alchemy, Essence of a Free mind, Binding Scroll, Wizard Master
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Alchemy
+    Path=Cosmology
+    Artefact="Binding Scroll"
+    Artefact="Essence of a Free Mind"
+>460 – Wizard, Cosmology/Alchemy, Essence of a Free Mind, Binding Scroll, Master
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+    Artefact="Binding Scroll"
+    Artefact="Exemplar’s Flame"
+>465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+    Artefact="Binding Scroll"
+    Artefact="Exemplar’s Flame"
+>465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+    Artefact="Binding Scroll"
+    Artefact="Exemplar’s Flame"
+>465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Divination
+    Armour="Light Armour"
+    Artefact="Book of Arcane Mastery"
+    ArmourEnchantment="Basalt Infusion"
+    Mount="Arcane Engine"
+    Engine="Arcane Shield"
+>500 – Wizard, Divination, Arcane Engine : Arcane Shield, light armour, Basalt Infusion, Book of Arcane Marstery, Adept
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+>350 - Wizard, Divination, Wizard Master
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+>350 - Wizard, Divination, Wizard Master, 4 spells
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+>350 - Wizard, Divination, Wizard master
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Pyromancy
+    Path=Alchemy
+    Artefact="Essence of a Free Mind"
+>405 - Wizard , Wizard Master, Essence of Free Mind,Pyromancy/Alchemy
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+    Artefact="Binding Scroll"
+>405 - Wizard, Divination, Wizard master, Binding Scroll
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Pyromancy
+    Path=Alchemy
+    Artefact="Essence of a Free Mind"
+>405 - Wizard, Essence of a Free Mind, Wizard Master, Alchemy, Pyromancy
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Pyromancy
+    Path=Divination
+    Artefact="Essence of a Free Mind"
+>405 - Wizard, Essence of a Free Mind, Wizard Master, Divination, Pyromancy
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+    Artefact="Binding Scroll"
+>405 – Wizard, Divination, Binding Scroll, Wizard Master
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+    Artefact="Binding Scroll"
+    Artefact="Sceptre of Power"
+>445 - Wizard, Divination, Wizard master, Binding Scroll, Sceptre of Power
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Alchemy
+    Artefact="Magical Heirloom"
+>400 Wizard, Alchemy, Wizard Master, Magical Heirloom
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Alchemy
+    Artefact="Book of Arcane Mastery"
+>260 - Wizard, Alchemy, Wizard Adept, Book of Arcane Mastery
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Cosmology
+    Artefact="Book of Arcane Mastery"
+>260 - Wizard, Cosmology, Wizard Adept, Book of Arcane Mastery
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Cosmology
+    Artefact="Book of Arcane Mastery"
+>260 - Wizard, Cosmology, Wizard adept, Book of Arcane Mastery
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Pyromancy
+    Artefact="Book of Arcane Mastery"
+>260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Pyromancy
+    Artefact="Book of Arcane Mastery"
+>260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane Mastery
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Pyromancy
+    Artefact="Book of Arcane Mastery"
+    Artefact="Scepter of Power"
+>300 – Wizard,  Alchemy, Book of Arcane Mastery, Scepter of Power, Wizard Adept
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Alchemy
+>200 - Wizard, Alchemy, Wizard Adept, 2 spells
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Alchemy
+>200 - Wizard, Wizard Adept, Alchemy
+<Unit name="Wizard"
+    Wizard=Adept
+    Path=Alchemy
+>200 – Wizard, Alchemy, Wizard Adept
 <Unit name="Header">Andrea B. "Taro" Sferrazza - EoS
 <Unit name="Header">Artem Kurhanskyi - Empire of Sonnstahl
 <Unit name="Header">Batı Safel - Empire of Sonnstahl

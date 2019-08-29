@@ -23,8 +23,17 @@ object TrainingData {
 
     )
 
-    val UnitClassifier = mapOf<String, String>(
-        Pair("BH", "/org/jim/ninthage/training/unit/BH/BH.txt"),
-        Pair("EoS", "/org/jim/ninthage/training/unit/EoS/EoS.txt")
+    val UnitClassifier = mapOf(
+        Pair("BH", listOf("/org/jim/ninthage/training/unit/BH/BH.txt")),
+        Pair(
+            "EoS",
+            listOf(
+                "/org/jim/ninthage/training/unit/EoS/EoS.txt",
+                "/org/jim/ninthage/training/unit/EoS/EoS.Artificer.generated.txt",
+                "/org/jim/ninthage/training/unit/EoS/EoS.MarshalArmourCloseCombat.generated.txt",
+                "/org/jim/ninthage/training/unit/EoS/EoS.MarshalArtifactsMounts.generated.txt",
+                "/org/jim/ninthage/training/unit/EoS/EoS.MarshalShieldArtifact.generated.txt"
+            )
+        )
     )
 }

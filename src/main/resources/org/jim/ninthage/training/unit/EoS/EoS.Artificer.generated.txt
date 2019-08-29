@@ -1,0 +1,361 @@
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Winter Cloak"
+>Artificer, Handgun, Winter Cloak
+<Unit name="Artificer"
+	RangedWeapon="Handgun"
+	Artefact="Locket of Sunna"
+>Artificer, Handgun, Locket of Sunna
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Mantle of Ullor"
+>Artificer, Handgun, Mantle of Ullor
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Crown of Autocracy"
+>Artificer, Handgun, Crown of Autocracy
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Binding Scroll"
+>Artificer, Handgun, Binding Scroll
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Crown of the Wizard King"
+>Artificer, Handgun, Crown of the Wizard King
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Talisman of Shielding"
+>Artificer, Handgun, Talisman of Shielding
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Talisman of the Void"
+>Artificer, Handgun, Talisman of the Void
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Lightning Vambraces"
+>Artificer, Handgun, Lightning Vambraces
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Ranger's Boot"
+>Artificer, Handgun, Ranger's Boot
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Rod of Battle"
+>Artificer, Handgun, Rod of Battle
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Crystal Ball"
+>Artificer, Handgun, Crystal Ball
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Sceptre of Power"
+>Artificer, Handgun, Sceptre of Power
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Dragon Staff"
+>Artificer, Handgun, Dragon Staff
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Obsidian Rock"
+>Artificer, Handgun, Obsidian Rock
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Dragonfire Gem"
+>Artificer, Handgun, Dragonfire Gem
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Lucky Charm"
+>Artificer, Handgun, Lucky Charm
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Potion of Strength"
+>Artificer, Handgun, Potion of Strength
+<Unit name="Artificer" 
+	RangedWeapon="Handgun"
+	Artefact="Potion of Swiftness"
+>Artificer, Handgun, Potion of Swiftness
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Winter Cloak"
+>Artificer, Repeater Pistol, Winter Cloak
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Locket of Sunna"
+>Artificer, Repeater Pistol, Locket of Sunna
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Mantle of Ullor"
+>Artificer, Repeater Pistol, Mantle of Ullor
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Crown of Autocracy"
+>Artificer, Repeater Pistol, Crown of Autocracy
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Binding Scroll"
+>Artificer, Repeater Pistol, Binding Scroll
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Crown of the Wizard King"
+>Artificer, Repeater Pistol, Crown of the Wizard King
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Talisman of Shielding"
+>Artificer, Repeater Pistol, Talisman of Shielding
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Talisman of the Void"
+>Artificer, Repeater Pistol, Talisman of the Void
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Lightning Vambraces"
+>Artificer, Repeater Pistol, Lightning Vambraces
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Ranger's Boot"
+>Artificer, Repeater Pistol, Ranger's Boot
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Rod of Battle"
+>Artificer, Repeater Pistol, Rod of Battle
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Crystal Ball"
+>Artificer, Repeater Pistol, Crystal Ball
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Sceptre of Power"
+>Artificer, Repeater Pistol, Sceptre of Power
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Dragon Staff"
+>Artificer, Repeater Pistol, Dragon Staff
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Obsidian Rock"
+>Artificer, Repeater Pistol, Obsidian Rock
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Dragonfire Gem"
+>Artificer, Repeater Pistol, Dragonfire Gem
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Lucky Charm"
+>Artificer, Repeater Pistol, Lucky Charm
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Potion of Strength"
+>Artificer, Repeater Pistol, Potion of Strength
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Potion of Swiftness"
+>Artificer, Repeater Pistol, Potion of Swiftness
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Winter Cloak"
+>Artificer, Repeater Gun, Winter Cloak
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Locket of Sunna"
+>Artificer, Repeater Gun, Locket of Sunna
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Mantle of Ullor"
+>Artificer, Repeater Gun, Mantle of Ullor
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Crown of Autocracy"
+>Artificer, Repeater Gun, Crown of Autocracy
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Binding Scroll"
+>Artificer, Repeater Gun, Binding Scroll
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Crown of the Wizard King"
+>Artificer, Repeater Gun, Crown of the Wizard King
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Talisman of Shielding"
+>Artificer, Repeater Gun, Talisman of Shielding
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Talisman of the Void"
+>Artificer, Repeater Gun, Talisman of the Void
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Lightning Vambraces"
+>Artificer, Repeater Gun, Lightning Vambraces
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Ranger's Boot"
+>Artificer, Repeater Gun, Ranger's Boot
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Rod of Battle"
+>Artificer, Repeater Gun, Rod of Battle
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Crystal Ball"
+>Artificer, Repeater Gun, Crystal Ball
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Sceptre of Power"
+>Artificer, Repeater Gun, Sceptre of Power
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Dragon Staff"
+>Artificer, Repeater Gun, Dragon Staff
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Obsidian Rock"
+>Artificer, Repeater Gun, Obsidian Rock
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Dragonfire Gem"
+>Artificer, Repeater Gun, Dragonfire Gem
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Lucky Charm"
+>Artificer, Repeater Gun, Lucky Charm
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Potion of Strength"
+>Artificer, Repeater Gun, Potion of Strength
+<Unit name="Artificer" 
+	RangedWeapon="Repeater Gun"
+	Artefact="Potion of Swiftness"
+>Artificer, Repeater Gun, Potion of Swiftness
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Winter Cloak"
+>Artificer, Long Rifle, Winter Cloak
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Locket of Sunna"
+>Artificer, Long Rifle, Locket of Sunna
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Mantle of Ullor"
+>Artificer, Long Rifle, Mantle of Ullor
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Crown of Autocracy"
+>Artificer, Long Rifle, Crown of Autocracy
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Binding Scroll"
+>Artificer, Long Rifle, Binding Scroll
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Crown of the Wizard King"
+>Artificer, Long Rifle, Crown of the Wizard King
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Talisman of Shielding"
+>Artificer, Long Rifle, Talisman of Shielding
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Talisman of the Void"
+>Artificer, Long Rifle, Talisman of the Void
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Lightning Vambraces"
+>Artificer, Long Rifle, Lightning Vambraces
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Ranger's Boot"
+>Artificer, Long Rifle, Ranger's Boot
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Rod of Battle"
+>Artificer, Long Rifle, Rod of Battle
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Crystal Ball"
+>Artificer, Long Rifle, Crystal Ball
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Sceptre of Power"
+>Artificer, Long Rifle, Sceptre of Power
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Dragon Staff"
+>Artificer, Long Rifle, Dragon Staff
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Obsidian Rock"
+>Artificer, Long Rifle, Obsidian Rock
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Dragonfire Gem"
+>Artificer, Long Rifle, Dragonfire Gem
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Lucky Charm"
+>Artificer, Long Rifle, Lucky Charm
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Potion of Strength"
+>Artificer, Long Rifle, Potion of Strength
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+	Artefact="Potion of Swiftness"
+>Artificer, Long Rifle, Potion of Swiftness
+<Unit name="Artificer" 
+	Artefact="Winter Cloak"
+>Artificer, Winter Cloak
+<Unit name="Artificer" 
+	Artefact="Locket of Sunna"
+>Artificer, Locket of Sunna
+<Unit name="Artificer" 
+	Artefact="Mantle of Ullor"
+>Artificer, Mantle of Ullor
+<Unit name="Artificer" 
+	Artefact="Crown of Autocracy"
+>Artificer, Crown of Autocracy
+<Unit name="Artificer" 
+	Artefact="Binding Scroll"
+>Artificer, Binding Scroll
+<Unit name="Artificer" 
+	Artefact="Crown of the Wizard King"
+>Artificer, Crown of the Wizard King
+<Unit name="Artificer" 
+	Artefact="Talisman of Shielding"
+>Artificer, Talisman of Shielding
+<Unit name="Artificer" 
+	Artefact="Talisman of the Void"
+>Artificer, Talisman of the Void
+<Unit name="Artificer" 
+	Artefact="Lightning Vambraces"
+>Artificer, Lightning Vambraces
+<Unit name="Artificer" 
+	Artefact="Ranger's Boot"
+>Artificer, Ranger's Boot
+<Unit name="Artificer" 
+	Artefact="Rod of Battle"
+>Artificer, Rod of Battle
+<Unit name="Artificer" 
+	Artefact="Crystal Ball"
+>Artificer, Crystal Ball
+<Unit name="Artificer" 
+	Artefact="Sceptre of Power"
+>Artificer, Sceptre of Power
+<Unit name="Artificer" 
+	Artefact="Dragon Staff"
+>Artificer, Dragon Staff
+<Unit name="Artificer" 
+	Artefact="Obsidian Rock"
+>Artificer, Obsidian Rock
+<Unit name="Artificer" 
+	Artefact="Dragonfire Gem"
+>Artificer, Dragonfire Gem
+<Unit name="Artificer" 
+	Artefact="Lucky Charm"
+>Artificer, Lucky Charm
+<Unit name="Artificer" 
+	Artefact="Potion of Strength"
+>Artificer, Potion of Strength
+<Unit name="Artificer" 
+	Artefact="Potion of Swiftness"
+>Artificer, Potion of Swiftness

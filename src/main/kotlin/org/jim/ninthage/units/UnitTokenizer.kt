@@ -19,7 +19,9 @@ class UnitTokenizer(
     val namePattern = Pattern.compile(
         "<Unit\\s+name=(\"(?:[^\"]+\")|(?:[^\\s>]+))([^>]*)>([^<]+)"
     )
-    val attributePattern = Pattern.compile("([^\\s=]+)=(\"(?:[^\"]+\")|(?:[^\\s>]+))")
+
+    val attributePattern =
+        Pattern.compile("([^\\s=]+)(?:=(\"(?:[^\"]+\")|(?:[^\\s>]+)))?")
 
     fun splitUnitTokens(value: String): Sequence<UnitToken> {
 
@@ -58,7 +60,8 @@ class UnitTokenizer(
         return sequence {
             while (matcher.find()) {
                 val name = matcher.group(1)!!
-                val value = matcher.group(2).let { clean(it) }
+                val value = (matcher.group(2) ?: "")
+                    .let { clean(it) }
                 yield(Pair(name, value))
             }
         }.toList()
@@ -96,11 +99,17 @@ class UnitTokenizer(
                 if (foundValues.size > 1) {
                     throw RuntimeException(optionName)
                 }
-                val foundValue = if (foundValues.isEmpty()) {
-                    option.defaultValue
-                } else {
-                    foundValues.first().second
-                }
+                val foundValue =
+                    if (foundValues.isEmpty()) {
+                        option.defaultValue
+                    } else {
+                        val v = foundValues.first().second
+                        if(v.isNotEmpty() ){
+                            v
+                        } else {
+                            option.implicit!!
+                        }
+                    }
                 //Ensure the option exists in the army book
                 results.put(optionName, option.selection(foundValue).name)
             }

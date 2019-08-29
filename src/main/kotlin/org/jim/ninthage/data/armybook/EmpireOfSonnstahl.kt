@@ -1,42 +1,127 @@
 package org.jim.ninthage.data.armybook
 
-import org.jim.ninthage.models.ArmyBook
+import org.jim.ninthage.data.armybook.ArcaneCompendiums.MagicPaths
+import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.bannerEnchantmentBSBOption
+import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.bannerEnchantmentOption
+import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.character
+import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.pathsOfMagicOption
 import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
-object EoS {
-    val Version2_0 =
-        ArmyBook(
-            name = "EoS",
-            entries = listOf(
-                character(name = "Marshal", points = 160) {
+object EmpireOfSonnstahl {
+    enum class WeaponEnchantment(
+        override val label: String,
+        override val points: Int
+    ) : Enchantment {
+        TheLightOfSonnstahl("The Light of Sonnstahl", 160),
+        DeathWarrant("Death Warrant", 55),
+        HammerOfWitches("Hammer of Witches", 45)
+    }
+
+
+    enum class ArmourEnchantments(
+        override val label: String,
+        override val points: Int
+    ) : Enchantment {
+        ImperialSeal("Imperial Seal", 100),
+        Blacksteel("Blacksteel", 45)
+    }
+
+    enum class ShieldEnchantments(
+        override val label: String,
+        override val points: Int
+    ) : Enchantment {
+        WitchfireGuard("Witchfire Guard", 35),
+        ShieldOfVolund("Shield of Volund", 20)
+    }
+
+    enum class Artefacts(
+        override val label: String,
+        override val points: Int
+    ) : Enchantment {
+        WinterCloak("Winter Cloak", 80),
+        LocketOfSunna("Locket of Sunna", 70),
+        ExemplarsFlame("Exemplar’s Flame", 60),
+        KaradonsCourser("Karadon's Courser", 50),
+        MantleOfUllor("Mantle of Ullor", 25),
+    }
+
+    enum class BannerEnchantments(
+        override val label: String,
+        override val points: Int
+    ) : Enchantment {
+        HouseholdStandard("Household Standard", 40),
+        BannerOfUnity("Banner of Unity", 40),
+        MarksmansPennant("Marksman’s Pennant", 10),
+    }
+
+    enum class Mounts(
+        override val label: String
+    ) : StandardArmyBook.DSL_Roster.Mount {
+        Horse("Horse"),
+        Pegasus("pegasus"),
+        GreatGriffon("Great Griffon"),
+        Dragon("Dragon"),
+        AltarOfBattle("Altar of Battle")
+    }
+
+    val Version2_0 = EoS_Version2_0()
+
+
+}
+
+class EoS_Version2_0 : StandardArmyBook {
+    override val name: String
+        get() = "EoS"
+    override val arcaneCompendium: ArcaneCompendium
+        get() = ArcaneCompendiums.Version2_0
+    override val customArmourEnchantments: List<Enchantment>
+        get() = EmpireOfSonnstahl.ArmourEnchantments.values().toList()
+    override val customArtifacts: List<Enchantment>
+        get() = EmpireOfSonnstahl.Artefacts.values().toList()
+    override val customBannerEnchantments: List<Enchantment>
+        get() = EmpireOfSonnstahl.BannerEnchantments.values().toList()
+    override val customShieldEnchantments: List<Enchantment>
+        get() = EmpireOfSonnstahl.ShieldEnchantments.values().toList()
+    override val customWeaponEnchantments: List<Enchantment>
+        get() = EmpireOfSonnstahl.WeaponEnchantment.values().toList()
+
+
+    val Marshal =
+        character(name = "Marshal", points = 160) {
+            listOf(
+                battleStandardBearer(0),
+                shield(5),
+                closeCombatWeapon(
+                    pairedWeapons(5),
+                    greatWeapon(10),
+                    halberd(10),
+                    lance(10)
+                ),
+                option(MainBook.RangedWeapon, "None") {
                     listOf(
-                        battleStandardBearer(0),
-                        shield(5),
-                        closeCombatWeapon(
-                            pairedWeapons(5),
-                            greatWeapon(10),
-                            halberd(10),
-                            lance(10)
-                        ),
-                        option("ShootingWeapon", "None") {
-                            listOf(
-                                selection("Pistol", 5)
-                            )
-                        },
-                        mount(
-                            selection("Horse", 70),
-                            selection("Pegasus", 75),
-                            selection("Great Griffon", 150),
-                            selection("Dragon", 460)
-                        ),
-                        title(
-                            selection("Great Tactician", 60),
-                            selection("Imperial Prince", 175)
-                        )
+                        selection("Pistol", 5)
                     )
                 },
+                mount(
+                    EmpireOfSonnstahl.Mounts.Horse(70),
+                    EmpireOfSonnstahl.Mounts.Pegasus(75),
+                    EmpireOfSonnstahl.Mounts.GreatGriffon(150),
+                    EmpireOfSonnstahl.Mounts.Dragon(460)
+                ),
+                title(
+                    selection("Great Tactician", 60),
+                    selection("Imperial Prince", 175)
+                ),
+                bannerEnchantmentBSBOption()
+            )
+        }
+
+    override val entries: List<ArmyBookEntry>
+        get() =
+            listOf(
+                Marshal,
                 character(name = "Knight Commander", points = 200) {
                     listOf(
                         shield(5),
@@ -66,8 +151,8 @@ object EoS {
                             pairedWeapons(5)
                         ),
                         mount(
-                            selection("Horse", 40),
-                            selection("Alter of Battle", 370)
+                            EmpireOfSonnstahl.Mounts.Horse(40),
+                            EmpireOfSonnstahl.Mounts.AltarOfBattle( 370)
                         )
                     )
                 },
@@ -78,8 +163,13 @@ object EoS {
                                 selection("Light Armour", 5)
                             )
                         },
-                        wizard()
-                        ,
+                        wizard(),
+                        pathsOfMagicOption(
+                            MagicPaths.Alchemy,
+                            MagicPaths.Cosmology,
+                            MagicPaths.Divination,
+                            MagicPaths.Pyromancy
+                        ),
                         closeCombatWeapon(
                             greatWeapon(10),
                             pairedWeapons(5)
@@ -100,7 +190,7 @@ object EoS {
                 },
                 character(name = "Artificer", points = 125) {
                     listOf(
-                        option("ShootingWeapon", "None") {
+                        option(MainBook.RangedWeapon, "None") {
                             listOf(
                                 selection("Handgun", 5),
                                 selection("Repeater Pistol", 10),
@@ -121,7 +211,7 @@ object EoS {
                             greatWeapon(10),
                             halberd(10)
                         ),
-                        option("ShootingWeapon", "None") {
+                        option(MainBook.RangedWeapon, "None") {
                             listOf(
                                 selection("Crossbow", 10),
                                 selection("Bracer of Pistols", 15),
@@ -144,24 +234,24 @@ object EoS {
                             halberd(1)
                         ),
                         command(),
-                        eosBannerEnchantment()
+                        bannerEnchantmentOption()
                     )
                 },
                 troop("Light Infantry", 135, 10, 10, 13) {
                     listOf(
-                        option("ShootingWeapon", "Crossbow") {
+                        option(MainBook.RangedWeapon, "Crossbow") {
                             listOf(
                                 selection("Handgun")
                             )
                         },
-                        unitOption("ChampionShootingWeapon", "None") {
+                        unitOption("Champion"+MainBook.RangedWeapon, "None") {
                             listOf(
                                 selection("Repeater Gun", 15),
                                 selection("Long Rifle", 15)
                             )
                         },
                         command(),
-                        eosBannerEnchantment()
+                        bannerEnchantmentOption()
                     )
                 },
                 troop("State Militia", 140, 10, 15, 10) {
@@ -179,7 +269,7 @@ object EoS {
                             selection("Calvary Pick", 0)
                         ),
                         command(),
-                        eosBannerEnchantment(),
+                        bannerEnchantmentOption(),
                         booleanOption("KnightOrders", 9)
                     )
                 },
@@ -187,14 +277,14 @@ object EoS {
                     listOf(
                         booleanOption("ReplaceShieldWithGreatWeapon", 3),
                         command(),
-                        eosBannerEnchantment()
+                        bannerEnchantmentOption()
                     )
                 },
                 troop("Knights of the Sun Griffon", 290, 3, 3, 95) {
                     listOf(
                         booleanOption("ReplaceHalberdWithLance", 12),
                         command(),
-                        eosBannerEnchantment()
+                        bannerEnchantmentOption()
                     )
                 },
                 singleModel("Arcane Engine", 290) {
@@ -214,19 +304,19 @@ object EoS {
                 },
                 troop("Reiters", 150, 5, 5, 29) {
                     listOf(
-                        option("Armour", "Light Armour") {
+                        option(MainBook.Armour, "Light Armour") {
                             listOf(
                                 selection("Heavy Armour", 4)
                             )
                         },
-                        option("ShootingWeapon", "Pistol") {
+                        option(MainBook.RangedWeapon, "Pistol") {
                             listOf(
                                 selection("Brace of Pistol", 4),
                                 selection("Repeater Gun", 4)
                             )
                         },
                         championMusican(),
-                        unitOption("ChampionShootingWeapon", "None") {
+                        unitOption("ChampionRangedWeapon", "None") {
                             listOf(
                                 selection("Repeater Pistol", 10)
                             )
@@ -239,8 +329,8 @@ object EoS {
                             listOf(
                                 selection("Mortar", 200),
                                 selection("Volley Gun", 200),
-                                selection("Imperial Rocketeer", 200),
-                                selection("Cannon", 200)
+                                selection("Imperial Rocketeer", 160),
+                                selection("Cannon", 250)
                             )
                         }
                     )
@@ -252,27 +342,17 @@ object EoS {
                 },
                 singleModel("Steam Tank", 475)
             )
-        )
-}
-
-
-private fun character(
-    name: String,
-    points: Int,
-    attributes: () -> List<ArmyBookEntryOption>
-): ArmyBookEntry {
-    return ArmyBookEntry(name, points, 1, 1, attributes())
 }
 
 
 private fun wizard(): ArmyBookEntryOption {
     return option(
         "Wizard",
-        "Wizard Apprentice"
+        "Apprentice"
     ) {
         listOf(
-            selection("Wizard Adept", 75),
-            selection("Wizard Master", 225)
+            selection("Adept", 75),
+            selection("Master", 225)
         )
     }
 }
@@ -290,16 +370,11 @@ private fun mount(vararg selection: ArmyBookEntryOptionSelection): ArmyBookEntry
     return ArmyBookEntryOption(
         name = "Mount",
         selections = selectionList,
-        default = "None"
+        default = "None",
+        implicit = null,
+        minSelection = 1
     )
 }
 
 
-private fun eosBannerEnchantment(): ArmyBookEntryOption {
-    return bannerEnchantment(
-        selection("Household Standard", 40),
-        selection("Banner of Unity", 40),
-        selection("Marksman’s Pennant", 40)
-    )
-}
 

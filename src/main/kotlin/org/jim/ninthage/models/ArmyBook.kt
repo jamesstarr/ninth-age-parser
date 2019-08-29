@@ -1,24 +1,21 @@
 package org.jim.ninthage.models
 
-data class ArmyBook(
-    val name: String,
+import com.google.common.base.Joiner
+
+interface ArmyBook{
+    val name: String
     val entries: List<ArmyBookEntry>
-) {
+
     fun entry(name: String): ArmyBookEntry {
         return entries.find { it.name == name }
-            .let {
-                if (it == null) {
-                    throw RuntimeException(name)
-                } else {
-                    it
-                }
-            }
+            ?: throw RuntimeException(name)
     }
 }
 
 data class ArmyBookEntry(
     val name: String,
     val points: Int,
+    val pointsPerModel: Int = 0,
     val minCount: Int = 1,
     val maxCount: Int = 1,
     val options: List<ArmyBookEntryOption> = listOf()
@@ -33,6 +30,8 @@ data class ArmyBookEntryOption(
     val name: String,
     val selections: List<ArmyBookEntryOptionSelection>,
     val default: String?,
+    val implicit: String? = null,
+    val minSelection: Int = 1,
     val maxSelection: Int = 1
 ) {
     val isSimple: Boolean = maxSelection == 1
@@ -40,15 +39,18 @@ data class ArmyBookEntryOption(
         get() = default ?: throw RuntimeException(name)
 
     fun selection(name: String): ArmyBookEntryOptionSelection {
-        return selections.find { it.name == name } ?: throw RuntimeException(name)
+        return selections.find { it.name == name }
+            ?: throw RuntimeException(name+ ":\n"
+                    +Joiner.on(", ")
+                .join(selections.map { it.name })
+            )
     }
 }
 
 data class ArmyBookEntryOptionSelection(
     val name: String,
     val pointsPerModel: Int = 0,
-    val points: Int = 0,
-    val options: List<ArmyBookEntryOptionSelection> = listOf()
+    val points: Int = 0
 )
 
 

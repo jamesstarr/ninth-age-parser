@@ -1,0 +1,300 @@
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Winter Cloak"
+>Marshal, Horse, Winter Cloak
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Locket of Sunna"
+>Marshal, Horse, Locket of Sunna
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Karadon's Courser"
+>Marshal, Horse, Karadon's Courser
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Mantle of Ullor"
+>Marshal, Horse, Mantle of Ullor
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Crown of Autocracy"
+>Marshal, Horse, Crown of Autocracy
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Binding Scroll"
+>Marshal, Horse, Binding Scroll
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Crown of the Wizard King"
+>Marshal, Horse, Crown of the Wizard King
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Talisman of Shielding"
+>Marshal, Horse, Talisman of Shielding
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Talisman of the Void"
+>Marshal, Horse, Talisman of the Void
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Lightning Vambraces"
+>Marshal, Horse, Lightning Vambraces
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Ranger's Boot"
+>Marshal, Horse, Ranger's Boot
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Rod of Battle"
+>Marshal, Horse, Rod of Battle
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Crystal Ball"
+>Marshal, Horse, Crystal Ball
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Sceptre of Power"
+>Marshal, Horse, Sceptre of Power
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Dragon Staff"
+>Marshal, Horse, Dragon Staff
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Obsidian Rock"
+>Marshal, Horse, Obsidian Rock
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Dragonfire Gem"
+>Marshal, Horse, Dragonfire Gem
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Lucky Charm"
+>Marshal, Horse, Lucky Charm
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Potion of Strength"
+>Marshal, Horse, Potion of Strength
+<Unit name="Marshal" 
+	Mount="Horse"
+	Artefact="Potion of Swiftness"
+>Marshal, Horse, Potion of Swiftness
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Winter Cloak"
+>Marshal, pegasus, Winter Cloak
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Locket of Sunna"
+>Marshal, pegasus, Locket of Sunna
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Karadon's Courser"
+>Marshal, pegasus, Karadon's Courser
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Mantle of Ullor"
+>Marshal, pegasus, Mantle of Ullor
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Crown of Autocracy"
+>Marshal, pegasus, Crown of Autocracy
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Binding Scroll"
+>Marshal, pegasus, Binding Scroll
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Crown of the Wizard King"
+>Marshal, pegasus, Crown of the Wizard King
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Talisman of Shielding"
+>Marshal, pegasus, Talisman of Shielding
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Talisman of the Void"
+>Marshal, pegasus, Talisman of the Void
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Lightning Vambraces"
+>Marshal, pegasus, Lightning Vambraces
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Ranger's Boot"
+>Marshal, pegasus, Ranger's Boot
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Rod of Battle"
+>Marshal, pegasus, Rod of Battle
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Crystal Ball"
+>Marshal, pegasus, Crystal Ball
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Sceptre of Power"
+>Marshal, pegasus, Sceptre of Power
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Dragon Staff"
+>Marshal, pegasus, Dragon Staff
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Obsidian Rock"
+>Marshal, pegasus, Obsidian Rock
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Dragonfire Gem"
+>Marshal, pegasus, Dragonfire Gem
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Lucky Charm"
+>Marshal, pegasus, Lucky Charm
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Potion of Strength"
+>Marshal, pegasus, Potion of Strength
+<Unit name="Marshal" 
+	Mount="pegasus"
+	Artefact="Potion of Swiftness"
+>Marshal, pegasus, Potion of Swiftness
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Winter Cloak"
+>Marshal, Great Griffon, Winter Cloak
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Locket of Sunna"
+>Marshal, Great Griffon, Locket of Sunna
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Karadon's Courser"
+>Marshal, Great Griffon, Karadon's Courser
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Mantle of Ullor"
+>Marshal, Great Griffon, Mantle of Ullor
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Crown of Autocracy"
+>Marshal, Great Griffon, Crown of Autocracy
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Binding Scroll"
+>Marshal, Great Griffon, Binding Scroll
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Crown of the Wizard King"
+>Marshal, Great Griffon, Crown of the Wizard King
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Talisman of Shielding"
+>Marshal, Great Griffon, Talisman of Shielding
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Talisman of the Void"
+>Marshal, Great Griffon, Talisman of the Void
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Lightning Vambraces"
+>Marshal, Great Griffon, Lightning Vambraces
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Ranger's Boot"
+>Marshal, Great Griffon, Ranger's Boot
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Rod of Battle"
+>Marshal, Great Griffon, Rod of Battle
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Crystal Ball"
+>Marshal, Great Griffon, Crystal Ball
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Sceptre of Power"
+>Marshal, Great Griffon, Sceptre of Power
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Dragon Staff"
+>Marshal, Great Griffon, Dragon Staff
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Obsidian Rock"
+>Marshal, Great Griffon, Obsidian Rock
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Dragonfire Gem"
+>Marshal, Great Griffon, Dragonfire Gem
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Lucky Charm"
+>Marshal, Great Griffon, Lucky Charm
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Potion of Strength"
+>Marshal, Great Griffon, Potion of Strength
+<Unit name="Marshal" 
+	Mount="Great Griffon"
+	Artefact="Potion of Swiftness"
+>Marshal, Great Griffon, Potion of Swiftness
+<Unit name="Marshal" 
+	Artefact="Winter Cloak"
+>Marshal, Winter Cloak
+<Unit name="Marshal" 
+	Artefact="Locket of Sunna"
+>Marshal, Locket of Sunna
+<Unit name="Marshal" 
+	Artefact="Karadon's Courser"
+>Marshal, Karadon's Courser
+<Unit name="Marshal" 
+	Artefact="Mantle of Ullor"
+>Marshal, Mantle of Ullor
+<Unit name="Marshal" 
+	Artefact="Crown of Autocracy"
+>Marshal, Crown of Autocracy
+<Unit name="Marshal" 
+	Artefact="Binding Scroll"
+>Marshal, Binding Scroll
+<Unit name="Marshal" 
+	Artefact="Crown of the Wizard King"
+>Marshal, Crown of the Wizard King
+<Unit name="Marshal" 
+	Artefact="Talisman of Shielding"
+>Marshal, Talisman of Shielding
+<Unit name="Marshal" 
+	Artefact="Talisman of the Void"
+>Marshal, Talisman of the Void
+<Unit name="Marshal" 
+	Artefact="Lightning Vambraces"
+>Marshal, Lightning Vambraces
+<Unit name="Marshal" 
+	Artefact="Ranger's Boot"
+>Marshal, Ranger's Boot
+<Unit name="Marshal" 
+	Artefact="Rod of Battle"
+>Marshal, Rod of Battle
+<Unit name="Marshal" 
+	Artefact="Crystal Ball"
+>Marshal, Crystal Ball
+<Unit name="Marshal" 
+	Artefact="Sceptre of Power"
+>Marshal, Sceptre of Power
+<Unit name="Marshal" 
+	Artefact="Dragon Staff"
+>Marshal, Dragon Staff
+<Unit name="Marshal" 
+	Artefact="Obsidian Rock"
+>Marshal, Obsidian Rock
+<Unit name="Marshal" 
+	Artefact="Dragonfire Gem"
+>Marshal, Dragonfire Gem
+<Unit name="Marshal" 
+	Artefact="Lucky Charm"
+>Marshal, Lucky Charm
+<Unit name="Marshal" 
+	Artefact="Potion of Strength"
+>Marshal, Potion of Strength
+<Unit name="Marshal" 
+	Artefact="Potion of Swiftness"
+>Marshal, Potion of Swiftness

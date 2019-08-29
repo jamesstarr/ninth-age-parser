@@ -4,6 +4,7 @@ import org.jim.ninthage.armybook.ArmyBookClassifier
 import org.jim.ninthage.data.Tournaments
 import org.jim.ninthage.data.TrainingData
 import org.jim.ninthage.models.PdFParserConfiguration
+import org.jim.ninthage.models.Roster
 import org.jim.ninthage.models.TextFile
 import org.jim.ninthage.models.Tournament
 import org.jim.ninthage.models.TournamentConfiguration
@@ -18,6 +19,7 @@ import org.jim.pdf.PdfToText
 import org.jim.utils.ResourceUtils
 import org.jim.utils.YamlUtils
 import java.nio.file.Files
+import kotlin.streams.toList
 
 
 class Parser {
@@ -42,7 +44,7 @@ class Parser {
 
         Files.createDirectories(tournamentDirectory)
 
-        ArmyBookWriterPool.build(App.HomeDirectory.resolve("armyBook")).use { armyBookWriter ->
+        val data = ArmyBookWriterPool.build(App.HomeDirectory.resolve("armyBook")).use { armyBookWriter ->
             Tournaments.ALL.stream()
                 .filter { it.isWellFormed }
                 .map { preprocess(it) }
@@ -62,7 +64,7 @@ class Parser {
                     }
                 }
                 .map { teamGrouper.groupTeams(it) }
-                .forEach { tournament ->
+                .map { tournament ->
                     tournamentReportPrinter.printTournament(tournament)
                     println("-------------------------------")
                     println(tournament.tournamentConfiguration.name)
@@ -70,7 +72,7 @@ class Parser {
                     tournament.roster
                         .forEach { armyList ->
                             armyBookWriter.write(armyList.armyBook, armyList.raw)
-                            println(YamlUtils.YamlObjectMapper.writeValueAsString(armyList))
+                            //println(YamlUtils.YamlObjectMapper.writeValueAsString(armyList))
                         }
                     Files.writeString(
                         tournamentDirectory.resolve("./${tournament.tournamentConfiguration.name}.txt"),
@@ -78,10 +80,62 @@ class Parser {
                         Charsets.UTF_8
                     )
                     armyBookReporter.processTournament(tournament)
+                    tournament
                 }
         }
 
-        println(YamlUtils.YamlObjectMapper.writeValueAsString(armyBookReporter.buildReport()))
+        val counts = data
+            .flatMap { it.roster.stream() }
+            .filter { it.armyBook == "EoS" }
+            .map { roster ->
+                val cowboys = countCowboys(roster)
+                val utilities = countUtilityCharacters(roster)
+                if(utilities > 3) {
+                    println(roster.raw)
+                    println()
+                }
+                Pair(cowboys, utilities)
+            }.sorted({(a, b),(x,y)-> Integer.compare(a, x) * 2 + Integer.compare(b,y)}).toList()
+
+
+        println("Counting ${counts.size}")
+        counts.forEach{ println(it.first.toString()+"  "+it.second)}
+
+        //println(YamlUtils.YamlObjectMapper.writeValueAsString(armyBookReporter.buildReport()))
+
+
+    }
+
+    fun countCowboys(roster: Roster): Int {
+        return roster.rosterUnits
+            .filter { unit ->
+                if(unit.name == "Knight Commander"){
+                    true
+                } else if (unit.name == "Prelate" && unit.option("Mount") == "Altar of Battle") {
+                    true
+                } else if (unit.name == "Marshall" && unit.option("Mount") == "Great Griffon"){
+                    true
+                } else if(unit.name == "Inquisitor"){
+                    true
+                } else {
+                    false
+                }
+            }
+            .count()
+    }
+
+    fun countUtilityCharacters(roster: Roster): Int {
+        return roster.rosterUnits
+            .filter { unit ->
+                if (unit.name == "Prelate" && !(unit.option("Mount") == "Altar of Battle")) {
+                    true
+                } else if (unit.name == "Marshal" && !(unit.option("Mount") == "Great Griffon")){
+                    true
+                } else {
+                    false
+                }
+            }
+            .count()
     }
 
     fun preprocess(configuration: TournamentConfiguration): Tournament {
