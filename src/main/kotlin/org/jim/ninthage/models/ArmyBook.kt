@@ -3,17 +3,17 @@ package org.jim.ninthage.models
 import com.google.common.base.Joiner
 
 interface ArmyBook{
-    val name: String
+    val shortLabel: String
     val entries: List<ArmyBookEntry>
 
     fun entry(name: String): ArmyBookEntry {
-        return entries.find { it.name == name }
+        return entries.find { it.label == name }
             ?: throw RuntimeException(name)
     }
 }
 
 data class ArmyBookEntry(
-    val name: String,
+    val label: String,
     val points: Int,
     val pointsPerModel: Int = 0,
     val minCount: Int = 1,
@@ -37,6 +37,14 @@ data class ArmyBookEntryOption(
     val isSimple: Boolean = maxSelection == 1
     val defaultValue: String
         get() = default ?: throw RuntimeException(name)
+
+    fun isDefault(selection: ArmyBookEntryOptionSelection):Boolean {
+        return if(default == null) {
+             false
+        } else {
+            default == selection.name
+        }
+    }
 
     fun selection(name: String): ArmyBookEntryOptionSelection {
         return selections.find { it.name == name }

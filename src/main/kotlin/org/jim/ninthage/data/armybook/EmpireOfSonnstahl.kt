@@ -10,6 +10,10 @@ import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
 object EmpireOfSonnstahl {
+    val KnightOrders: String = "KnightOrders"
+    val ChampionRangedWeapon: String = "ChampionRangedWeapon"
+    val Irregulars= "Irregulars"
+
     enum class WeaponEnchantment(
         override val label: String,
         override val points: Int
@@ -66,13 +70,14 @@ object EmpireOfSonnstahl {
         AltarOfBattle("Altar of Battle")
     }
 
+
     val Version2_0 = EoS_Version2_0()
 
 
 }
 
 class EoS_Version2_0 : StandardArmyBook {
-    override val name: String
+    override val shortLabel: String
         get() = "EoS"
     override val arcaneCompendium: ArcaneCompendium
         get() = ArcaneCompendiums.Version2_0
@@ -88,7 +93,7 @@ class EoS_Version2_0 : StandardArmyBook {
         get() = EmpireOfSonnstahl.WeaponEnchantment.values().toList()
 
 
-    val Marshal =
+    val Marshal: ArmyBookEntry =
         character(name = "Marshal", points = 160) {
             listOf(
                 battleStandardBearer(0),
@@ -117,162 +122,182 @@ class EoS_Version2_0 : StandardArmyBook {
                 bannerEnchantmentBSBOption()
             )
         }
+    val knightCommander = character(name = "Knight Commander", points = 200) {
+        listOf(
+            shield(5),
+            closeCombatWeapon(
+                selection("Calvary Pick", 30),
+                greatWeapon(10),
+                halberd(10),
+                lance(10)
+            ),
+            option("Mount", "Horse") {
+                listOf(
+                    selection("Young Griffon", 30)
+                )
+            }
+        )
+    }
+
+    val prelate = character(name = "Prelate", points = 160) {
+        listOf(
+            option("Armour", "Heavy Armour") {
+                listOf(
+                    selection("Plate Armour", 20)
+                )
+            },
+            shield(5),
+            closeCombatWeapon(
+                greatWeapon(10),
+                pairedWeapons(5)
+            ),
+            mount(
+                EmpireOfSonnstahl.Mounts.Horse(40),
+                EmpireOfSonnstahl.Mounts.AltarOfBattle(370)
+            )
+        )
+    }
+
+    val wizard = character(name = "Wizard", points = 125) {
+        listOf(
+            option("Armour", "None") {
+                listOf(
+                    selection("Light Armour", 5)
+                )
+            },
+            wizard(),
+            pathsOfMagicOption(
+                MagicPaths.Alchemy,
+                MagicPaths.Cosmology,
+                MagicPaths.Divination,
+                MagicPaths.Pyromancy
+            ),
+            closeCombatWeapon(
+                greatWeapon(10),
+                pairedWeapons(5)
+            ),
+            mount(
+                selection("Horse", 20),
+                selection("Pegasus", 50),
+                selection("Great Griffon", 100),
+                selection("Arcane Engine", 200)
+            ),
+            option("Engine", "None") {
+                listOf(
+                    selection("Foresight"),
+                    selection("Arcane Shield")
+                )
+            }
+        )
+    }
+
+    val artificer = character(name = "Artificer", points = 125) {
+        listOf(
+            option(MainBook.RangedWeapon, "None") {
+                listOf(
+                    selection("Handgun", 5),
+                    selection("Repeater Pistol", 10),
+                    selection("Repeater Gun", 10),
+                    selection("Long Rifle", 10)
+                )
+            },
+            mount(
+                selection("Horse", 20)
+            )
+        )
+    }
+    val inquisitor = character(name = "Inquisitor", points = 130) {
+        listOf(
+            shield(5),
+            closeCombatWeapon(
+                pairedWeapons(5),
+                greatWeapon(10),
+                halberd(10)
+            ),
+            option(MainBook.RangedWeapon, "None") {
+                listOf(
+                    selection("Crossbow", 10),
+                    selection("Bracer of Pistols", 15),
+                    selection("Repeater Pistol", 25)
+                )
+            },
+            title(
+                selection("Blessed Steel", 70),
+                selection("Silver Shots", 75)
+            ),
+            mount(
+                selection("Horse and gain Light Troops", 70)
+            )
+        )
+    }
+
+    val heavyInfantry =
+        troop("Heavy Infantry", 145, 20, 30, 10) {
+            listOf(
+                closeCombatWeapon(
+                    spear(1),
+                    halberd(1)
+                ),
+                command(),
+                bannerEnchantmentOption()
+            )
+        }
+
+    val lightInfantry =
+        troop("Light Infantry", 135, 10, 10, 13) {
+            listOf(
+                option(MainBook.RangedWeapon, "Crossbow") {
+                    listOf(
+                        selection("Handgun")
+                    )
+                },
+                unitOption(EmpireOfSonnstahl.ChampionRangedWeapon, "None") {
+                    listOf(
+                        selection("Repeater Gun", 15),
+                        selection("Long Rifle", 15)
+                    )
+                },
+                command(),
+                bannerEnchantmentOption()
+            )
+        }
+
+    val stateMilitia =
+        troop("State Militia", 140, 10, 15, 10) {
+            listOf(
+                implicitOption(EmpireOfSonnstahl.Irregulars, 1),
+                command()
+            )
+        }
+    val electoralCavalry =
+        troop("Electoral Cavalry", 155, 5, 10, 29)
+        {
+            listOf(
+                shield(4),
+                closeCombatWeapon(
+                    lance(4),
+                    greatWeapon(4),
+                    selection("Calvary Pick", 0)
+                ),
+                command(),
+                bannerEnchantmentOption(),
+                implicitOption(EmpireOfSonnstahl.KnightOrders, 9, "Knight Orders")
+            )
+        }
 
     override val entries: List<ArmyBookEntry>
         get() =
             listOf(
                 Marshal,
-                character(name = "Knight Commander", points = 200) {
-                    listOf(
-                        shield(5),
-                        closeCombatWeapon(
-                            selection("Calvary Pick", 30),
-                            greatWeapon(10),
-                            halberd(10),
-                            lance(10)
-                        ),
-                        option("Mount", "Horse") {
-                            listOf(
-                                selection("Young Griffon", 30)
-                            )
-                        }
-                    )
-                },
-                character(name = "Prelate", points = 160) {
-                    listOf(
-                        option("Armour", "Heavy Armour") {
-                            listOf(
-                                selection("Plate Armour", 20)
-                            )
-                        },
-                        shield(5),
-                        closeCombatWeapon(
-                            greatWeapon(10),
-                            pairedWeapons(5)
-                        ),
-                        mount(
-                            EmpireOfSonnstahl.Mounts.Horse(40),
-                            EmpireOfSonnstahl.Mounts.AltarOfBattle( 370)
-                        )
-                    )
-                },
-                character(name = "Wizard", points = 125) {
-                    listOf(
-                        option("Armour", "None") {
-                            listOf(
-                                selection("Light Armour", 5)
-                            )
-                        },
-                        wizard(),
-                        pathsOfMagicOption(
-                            MagicPaths.Alchemy,
-                            MagicPaths.Cosmology,
-                            MagicPaths.Divination,
-                            MagicPaths.Pyromancy
-                        ),
-                        closeCombatWeapon(
-                            greatWeapon(10),
-                            pairedWeapons(5)
-                        ),
-                        mount(
-                            selection("Horse", 20),
-                            selection("Pegasus", 50),
-                            selection("Great Griffon", 100),
-                            selection("Arcane Engine", 200)
-                        ),
-                        option("Engine", "None") {
-                            listOf(
-                                selection("Foresight"),
-                                selection("Arcane Shield")
-                            )
-                        }
-                    )
-                },
-                character(name = "Artificer", points = 125) {
-                    listOf(
-                        option(MainBook.RangedWeapon, "None") {
-                            listOf(
-                                selection("Handgun", 5),
-                                selection("Repeater Pistol", 10),
-                                selection("Repeater Gun", 10),
-                                selection("Long Rifle", 10)
-                            )
-                        },
-                        mount(
-                            selection("Horse", 20)
-                        )
-                    )
-                },
-                character(name = "Inquisitor", points = 130) {
-                    listOf(
-                        shield(5),
-                        closeCombatWeapon(
-                            pairedWeapons(5),
-                            greatWeapon(10),
-                            halberd(10)
-                        ),
-                        option(MainBook.RangedWeapon, "None") {
-                            listOf(
-                                selection("Crossbow", 10),
-                                selection("Bracer of Pistols", 15),
-                                selection("Repeater Pistol", 25)
-                            )
-                        },
-                        title(
-                            selection("Blessed Steel", 70),
-                            selection("Silver Shots", 75)
-                        ),
-                        mount(
-                            selection("Horse and gain Light Troops", 70)
-                        )
-                    )
-                },
-                troop("Heavy Infantry", 145, 20, 30, 10) {
-                    listOf(
-                        closeCombatWeapon(
-                            spear(1),
-                            halberd(1)
-                        ),
-                        command(),
-                        bannerEnchantmentOption()
-                    )
-                },
-                troop("Light Infantry", 135, 10, 10, 13) {
-                    listOf(
-                        option(MainBook.RangedWeapon, "Crossbow") {
-                            listOf(
-                                selection("Handgun")
-                            )
-                        },
-                        unitOption("Champion"+MainBook.RangedWeapon, "None") {
-                            listOf(
-                                selection("Repeater Gun", 15),
-                                selection("Long Rifle", 15)
-                            )
-                        },
-                        command(),
-                        bannerEnchantmentOption()
-                    )
-                },
-                troop("State Militia", 140, 10, 15, 10) {
-                    listOf(
-                        booleanOption("Irregulars", 1),
-                        command()
-                    )
-                },
-                troop("Electoral Cavalry", 155, 5, 10, 29) {
-                    listOf(
-                        shield(4),
-                        closeCombatWeapon(
-                            lance(4),
-                            greatWeapon(4),
-                            selection("Calvary Pick", 0)
-                        ),
-                        command(),
-                        bannerEnchantmentOption(),
-                        booleanOption("KnightOrders", 9)
-                    )
-                },
+                knightCommander,
+                prelate,
+                wizard,
+                inquisitor,
+                artificer,
+                heavyInfantry,
+                lightInfantry,
+                stateMilitia,
+                electoralCavalry,
                 troop("Imperial Guard", 180, 15, 25, 19) {
                     listOf(
                         booleanOption("ReplaceShieldWithGreatWeapon", 3),

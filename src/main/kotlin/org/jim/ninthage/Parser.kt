@@ -17,7 +17,6 @@ import org.jim.ninthage.team.TeamGrouper
 import org.jim.opennlp.classifier.SimpleClassifier
 import org.jim.pdf.PdfToText
 import org.jim.utils.ResourceUtils
-import org.jim.utils.YamlUtils
 import java.nio.file.Files
 import kotlin.streams.toList
 
@@ -107,15 +106,15 @@ class Parser {
     }
 
     fun countCowboys(roster: Roster): Int {
-        return roster.rosterUnits
+        return roster.units
             .filter { unit ->
-                if(unit.name == "Knight Commander"){
+                if(unit.label == "Knight Commander"){
                     true
-                } else if (unit.name == "Prelate" && unit.option("Mount") == "Altar of Battle") {
+                } else if (unit.label == "Prelate" && unit.option("Mount") == "Altar of Battle") {
                     true
-                } else if (unit.name == "Marshall" && unit.option("Mount") == "Great Griffon"){
+                } else if (unit.label == "Marshall" && unit.option("Mount") == "Great Griffon"){
                     true
-                } else if(unit.name == "Inquisitor"){
+                } else if(unit.label == "Inquisitor"){
                     true
                 } else {
                     false
@@ -125,11 +124,11 @@ class Parser {
     }
 
     fun countUtilityCharacters(roster: Roster): Int {
-        return roster.rosterUnits
+        return roster.units
             .filter { unit ->
-                if (unit.name == "Prelate" && !(unit.option("Mount") == "Altar of Battle")) {
+                if (unit.label == "Prelate" && !(unit.option("Mount") == "Altar of Battle")) {
                     true
-                } else if (unit.name == "Marshal" && !(unit.option("Mount") == "Great Griffon")){
+                } else if (unit.label == "Marshal" && !(unit.option("Mount") == "Great Griffon")){
                     true
                 } else {
                     false

@@ -129,20 +129,23 @@ fun battleStandardBearer(points: Int = 50): ArmyBookEntryOption {
 }
 
 
-fun shield(points: Int): ArmyBookEntryOption {
+fun implicitOption(name:String, points: Int, implicitValue:String=name): ArmyBookEntryOption {
     return ArmyBookEntryOption(
-        name = "Shield",
+        name = name,
         selections = listOf(
-            selection("Shield", points),
+            selection(implicitValue, points),
             selection("None", 0)
         ),
         default = "None",
-        implicit = "Shield",
+        implicit = implicitValue,
         minSelection = 1
     )
 }
 
 
+fun shield(points: Int): ArmyBookEntryOption {
+    return implicitOption("Shield", points)
+}
 
 
 fun champion(): ArmyBookEntryOption {

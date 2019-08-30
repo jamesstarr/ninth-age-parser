@@ -45,20 +45,34 @@
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - 2x1 Artillery, Imperial Rocketeer
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Artillery, Rocket Battery
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Rocketeer
+<Unit name="Electoral Cavalry" ModelCount=15
+    KnightlyOrders
+    Shield
+	CloseCombatWeapon=Lance
+	Command=CMS
+	BannerEnchantment="Banner of Speed"
+>15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
+<Unit name="Electoral Cavalry" ModelCount=10
+	KnightlyOrders
+    Shield
+    CloseCombatWeapon=Lance
+	Command=CMS
+>10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry"
-    KnightOrders="True"
+    KnightlyOrders
     Shileld
     CloseCombatWeapon="Lance"
     Command="CMS"
     BannerEnchantment="Banner of Speed"
 >15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
 <Unit name="Electoral Cavalry"
-    close_combat_weapon="Lance"
+    CloseCombatWeapon="Lance"
     Shileld
 >215 - 5x Electoral Cavalry lance, shield, S
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Lance"
     Shileld
+    KnightlyOrder
     Command="CMS"
 >10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry"
@@ -88,44 +102,44 @@
 <Unit name="Flagellants" count=15 repeated=3>200 - 3 x 15x Flagellants
 <Unit name="Heavy Infantry"
     count=37
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     command=CMS
     banner="Household Standard"
 >452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard
 <Unit name="Heavy Infantry" count=33 command=MS >315 - 33x Heavy Infantry M,S
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     banner="Flaming Standard"
 >480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Spear
+    CloseCombatWeapon=Spear
     banner="Banner of Unity"
 >485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     banner="Banner of Unity"
 >529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     banner="Flaming Standard"
 >502 - 42 Heavy Infantry, Musician, Standard Bearer, Champion, Halberd Flaming Standard
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     banner="Flaming Standard"
 >535 - 45x Heavy Infantry, Standard bearer, Musician, Champion, Halberds, Flaming Standard
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     banner="Household Standard"
 >562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
     banner="Rending Banner"
 >600 - 50x Heavy Infantry, Halberd, Champion, Standard Bearer, Musician, Rending Banner
 <Unit name="Heavy Infantry"
@@ -133,11 +147,11 @@
 >315 - 35x Heavy Infantry, Parent Unit, Standard bearer
 <Unit name="Heavy Infantry"
     command=CM
-    close_combat_weapon=Halberd
+    CloseCombatWeapon=Halberd
 >403 - 38 x Heavy Infantry, Halberd, Musician, Champion
 <Unit name="Heavy Infantry"
     command=CMS
-    close_combat_weapon=Spear
+    CloseCombatWeapon=Spear
     banner="Flaming Standard"
 >447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard
 <Unit name="Heavy Infantry">235 – 21x Heavy Infantry, Standard Bearer, Musician, Household Standard

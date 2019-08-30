@@ -32,6 +32,14 @@ class TournamentReportPrinter(
         printTeams(tournament, tournamentDir)
         printArmyBooks(tournament, tournamentDir)
         printUnitEntry(tournament, tournamentDir)
+        printAnalytics(tournament, tournamentDir)
+    }
+
+    private fun printAnalytics(tournament: Tournament, tournamentDir: Path) {
+        EmpireOfSonnstahlTournamentAnalysis().apply {
+            analysis(tournament)
+            print(tournament.name, tournamentDir.resolve(tournament.name + ".csv"))
+        }
     }
 
     private fun printTeams(tournament: Tournament, tournamentDir: Path) {
@@ -92,12 +100,12 @@ class TournamentReportPrinter(
                 tournament.roster
                     .stream()
                     .filter { it.armyBook == armyBookStr }
-                    .flatMap { it.rosterUnits.stream() }
+                    .flatMap { it.units.stream() }
                     .sorted(
                         Ordering.natural<String>()
                             .onResultOf(object : Function<RosterUnit, String> {
                                 override fun apply(input: RosterUnit?): String? {
-                                    return input!!.name
+                                    return input!!.label
                                 }
                             })
                     )
@@ -118,17 +126,17 @@ class TournamentReportPrinter(
     fun printUnit(
         armyBookStr: String,
         unit: RosterUnit
-    ):String {
-        return if(armyBookStr != "EoS" ){
-            "<Unit name=\"${unit.name}\">"
-        } else if(unit.name == "Header" || unit.name == "Footer"){
+    ): String {
+        return if (armyBookStr != "EoS") {
+            "<Unit name=\"${unit.label}\">"
+        } else if (unit.label == "Header" || unit.label == "Footer") {
             ""
-        }else {
+        } else {
             val armyBook = ArmyBooks.get(armyBookStr)
-            val armyBookEntry = armyBook.entry(unit.name)
+            val armyBookEntry = armyBook.entry(unit.label)
             val sb =
-                java.lang.StringBuilder("<Unit name=\"${unit.name}\" ")
-            printCount(armyBookEntry,unit,sb)
+                java.lang.StringBuilder("<Unit name=\"${unit.label}\" ")
+            printCount(armyBookEntry, unit, sb)
             unit.options.forEach {
                 printOption(
                     armyBook,
@@ -148,11 +156,11 @@ class TournamentReportPrinter(
         unit: RosterUnit,
         sb: StringBuilder
     ) {
-        if(unit.entryCount != 1) {
+        if (unit.entryCount != 1) {
             sb
                 .append("EntryCount=").append(unit.entryCount).append(" ")
         }
-        if(entry.minCount == 1 && unit.modelCount == 1){
+        if (entry.minCount == 1 && unit.modelCount == 1) {
             return
         }
         sb.append("ModelCount=").append(unit.modelCount).append(" ")

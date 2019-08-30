@@ -9,7 +9,7 @@ object ArmyBooks {
     val All = listOf(EoS)
 
     fun get(armyBookName: String): ArmyBook {
-        return All.find { it.name == armyBookName }
+        return All.find { it.shortLabel == armyBookName }
             ?: throw RuntimeException(armyBookName)
     }
 }
