@@ -1,3 +1,3 @@
 package org.jim.ninthage
 
-class ParseException(message: String, ex: Exception) : RuntimeException(message, ex)
+class ParseException(message: String, ex: Exception?=null) : RuntimeException(message, ex)
