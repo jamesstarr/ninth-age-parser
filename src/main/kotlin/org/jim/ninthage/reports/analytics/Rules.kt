@@ -14,6 +14,19 @@ object Rules {
 
 object RulesDSL {
 
+    fun ArmyBook.countUnitEntry(
+        entry: ArmyBookEntry
+    ):Sequence<RosterUnitCounterRule> {
+        return sequenceOf(
+            RosterUnitCounterRule(
+                entry.label,
+                "base cost",
+                { roster -> roster.armyBook == this.shortLabel },
+                { unit -> unit.label == entry.label }
+            )
+        )
+    }
+
     fun ArmyBook.countBigSmall(
         entry: ArmyBookEntry,
         smallCountUpperBound: Int

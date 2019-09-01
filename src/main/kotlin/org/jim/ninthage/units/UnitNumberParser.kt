@@ -16,7 +16,7 @@ class UnitNumberParser {
     )
 
     fun parse(rawValue: String, armyBookEntry: ArmyBookEntry): UnitNumber {
-        val eAndM = getEntryCountAndModelCount(rawValue)
+        val eAndM = getEntryCountAndModelCount(rawValue, armyBookEntry)
         val numbers = parseAllNumbers(rawValue)
         numbers.forEach {
             updateIsPoints(armyBookEntry, it)
@@ -26,14 +26,14 @@ class UnitNumberParser {
         val points = findPoints(rawValue, numbers)
         if (eAndM != null) {
             return UnitNumber(
-                points,
+                points?.number,
                 eAndM.second,
                 eAndM.first
             )
         }
         val models = findModels(rawValue, armyBookEntry, numbers)
-        val entries = findEntries(rawValue, numbers)
-        return UnitNumber(points, models, entries)
+        val entries = findEntries(rawValue, numbers.toMutableList().apply { remove(models) })
+        return UnitNumber(points?.number, models.number, entries)
     }
 
     private fun findEntries(rawValue: String, numbers: List<NumberCould>): Int {
@@ -44,24 +44,24 @@ class UnitNumberParser {
         rawValue: String,
         armyBookEntry: ArmyBookEntry,
         numbers: List<NumberCould>
-    ): Int {
+    ): NumberCould {
         val possibleModels =
             numbers.stream()
                 .filter { !it.couldBePoints }
                 .filter { it.couldBeModels }
                 .toList()
         return if (possibleModels.size == 0 && armyBookEntry.minCount == 1) {
-            1
+            NumberCould(1, -1, false)
         } else if (possibleModels.size == 1) {
-            possibleModels[0].number
+            possibleModels[0]
         } else {
-            throw ParseException(rawValue+"\n"+armyBookEntry+"\n"+numbers)
+            throw ParseException(rawValue + "\n" + armyBookEntry + "\n" + numbers)
         }
 
     }
 
-    private fun findPoints(rawValue: String, numbers: List<NumberCould>): Int? {
-        return numbers.stream().filter { it.couldBePoints }.mapToInt { it.number }.max()
+    private fun findPoints(rawValue: String, numbers: List<NumberCould>): NumberCould? {
+        return numbers.stream().filter { it.couldBePoints }.max { a, b -> Integer.compare(a.number, b.number) }
             .let {
                 if (it.isPresent) {
                     it.orElseThrow()
@@ -104,16 +104,20 @@ class UnitNumberParser {
         }.toList()
     }
 
-    fun getEntryCountAndModelCount(value: String): Pair<Int, Int>? {
+    fun getEntryCountAndModelCount(value: String, armyBookEntry: ArmyBookEntry): Pair<Int, Int>? {
         val m = entryCountAndModelCount.matcher(value)
-        return if (m.find()) {
-            return Pair(
-                m.group(1).toInt(),
-                m.group(2).toInt()
-            )
-        } else {
-            null
+        if (m.find()) {
+            do {
+
+                val v1 = m.group(1).toInt()
+                val v2 = m.group(2).toInt()
+                if (v2 in armyBookEntry.run { minCount.rangeTo(maxCount) }) {
+                    return Pair(v1, v2)
+                }
+            } while (m.find())
+            throw ParseException(value)
         }
+        return null
     }
 
 }

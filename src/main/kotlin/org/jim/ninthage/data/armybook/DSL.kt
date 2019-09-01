@@ -44,7 +44,7 @@ fun singleModel(
     basePoints: Int,
     attributes: () -> List<ArmyBookEntryOption> = { listOf() }
 ): ArmyBookEntry {
-    return ArmyBookEntry(name, basePoints, 0,1, 0, attributes())
+    return ArmyBookEntry(name, basePoints, 0,1, 1, attributes())
 }
 
 fun troop(

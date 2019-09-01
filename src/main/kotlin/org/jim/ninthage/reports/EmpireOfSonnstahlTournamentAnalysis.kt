@@ -10,6 +10,7 @@ import org.jim.ninthage.models.Tournament
 import org.jim.ninthage.reports.analytics.RosterUnitCounterRule
 import org.jim.ninthage.reports.analytics.RulesDSL.countBigSmall
 import org.jim.ninthage.reports.analytics.RulesDSL.countOption
+import org.jim.ninthage.reports.analytics.RulesDSL.countUnitEntry
 import java.nio.file.Files
 import java.nio.file.Path
 
@@ -27,10 +28,23 @@ class EmpireOfSonnstahlTournamentAnalysis(
                 countOption(lightInfantry, MainBook.RangedWeapon),
                 countOption(lightInfantry, EmpireOfSonnstahl.ChampionRangedWeapon),
                 countBigSmall(electoralCavalry, 8),
+                countOption(electoralCavalry, MainBook.Shield),
                 countOption(electoralCavalry, MainBook.CloseCombatWeapon),
                 countOption(electoralCavalry, EmpireOfSonnstahl.KnightOrders),
                 countBigSmall(stateMilitia, 15),
-                countOption(stateMilitia, EmpireOfSonnstahl.Irregulars)
+                countOption(stateMilitia, EmpireOfSonnstahl.Irregulars),
+                countBigSmall(imperialGuard, 23),
+                countOption(imperialGuard, EmpireOfSonnstahl.ReplaceShieldWithGreatWeapon),
+                countBigSmall(knightOfTheSunGriffon, 4),
+                countOption(knightOfTheSunGriffon, EmpireOfSonnstahl.ReplaceHalberdWithLance),
+                countBigSmall(imperialRangers, 7),
+                countBigSmall(reiters, 7),
+                countOption(reiters, MainBook.RangedWeapon),
+                countOption(reiters, EmpireOfSonnstahl.ChampionRangedWeapon),
+                countUnitEntry(artillery),
+                countOption(artillery, "ArtilleryWeapons"),
+                countBigSmall(flagellants, 20),
+                countUnitEntry(steamTank)
             ).flatMap { it.asIterable() }
         }
 

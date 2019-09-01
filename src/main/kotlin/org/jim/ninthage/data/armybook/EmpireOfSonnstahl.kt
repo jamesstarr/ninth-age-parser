@@ -1,6 +1,7 @@
 package org.jim.ninthage.data.armybook
 
 import org.jim.ninthage.data.armybook.ArcaneCompendiums.MagicPaths
+import org.jim.ninthage.data.armybook.EmpireOfSonnstahl.ChampionRangedWeapon
 import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.bannerEnchantmentBSBOption
 import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.bannerEnchantmentOption
 import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.character
@@ -12,7 +13,18 @@ import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 object EmpireOfSonnstahl {
     val KnightOrders: String = "KnightOrders"
     val ChampionRangedWeapon: String = "ChampionRangedWeapon"
-    val Irregulars= "Irregulars"
+    val Irregulars = "Irregulars"
+    val ReplaceShieldWithGreatWeapon = "ReplaceShieldWithGreatWeapon"
+    val ReplaceHalberdWithLance = "ReplaceHalberdWithLance"
+    val Engine = "Engine"
+    val Forsight = "Foresight"
+    val ArcaneShield = "Arcane Shield"
+    val Pistol = "Pistol"
+    val BracerOfPistols = "Bracer of Pistols"
+    val RepeaterGun = "Repeater Gun"
+    val RepeaterPistol = "Repeater Pistol"
+    val LongRifle: String = "Long Rifle"
+
 
     enum class WeaponEnchantment(
         override val label: String,
@@ -93,7 +105,7 @@ class EoS_Version2_0 : StandardArmyBook {
         get() = EmpireOfSonnstahl.WeaponEnchantment.values().toList()
 
 
-    val Marshal: ArmyBookEntry =
+    val marshal: ArmyBookEntry =
         character(name = "Marshal", points = 160) {
             listOf(
                 battleStandardBearer(0),
@@ -253,8 +265,8 @@ class EoS_Version2_0 : StandardArmyBook {
                 },
                 unitOption(EmpireOfSonnstahl.ChampionRangedWeapon, "None") {
                     listOf(
-                        selection("Repeater Gun", 15),
-                        selection("Long Rifle", 15)
+                        selection(EmpireOfSonnstahl.RepeaterGun, 15),
+                        selection(EmpireOfSonnstahl.LongRifle, 15)
                     )
                 },
                 command(),
@@ -285,10 +297,86 @@ class EoS_Version2_0 : StandardArmyBook {
             )
         }
 
+    val imperialGuard =
+        troop("Imperial Guard", 180, 15, 25, 19) {
+            listOf(
+                implicitOption(EmpireOfSonnstahl.ReplaceShieldWithGreatWeapon, 3, "Replace Shield with Great Weapon"),
+                command(),
+                bannerEnchantmentOption()
+            )
+        }
+    val knightOfTheSunGriffon =
+        troop("Knights of the Sun Griffon", 290, 3, 3, 95) {
+            listOf(
+                implicitOption(EmpireOfSonnstahl.ReplaceHalberdWithLance, 12, "Replace Halberd with Lance"),
+                command(),
+                bannerEnchantmentOption()
+            )
+        }
+    val arcaneEngine =
+        singleModel("Arcane Engine", 290) {
+            listOf(
+                requiredOption(EmpireOfSonnstahl.Engine) {
+                    listOf(
+                        selection(EmpireOfSonnstahl.Forsight),
+                        selection(EmpireOfSonnstahl.ArcaneShield)
+                    )
+                }
+            )
+        }
+    val imperialRangers =
+        troop("Imperial Rangers", 90, 5, 5, 12) {
+            listOf(
+                champion()
+            )
+        }
+    val reiters =
+        troop("Reiters", 150, 5, 5, 29) {
+            listOf(
+                option(MainBook.Armour, MainBook.LightArmour) {
+                    listOf(
+                        selection(MainBook.HeavyArmour, 4)
+                    )
+                },
+                option(MainBook.RangedWeapon, EmpireOfSonnstahl.Pistol) {
+                    listOf(
+                        selection(EmpireOfSonnstahl.BracerOfPistols, 4),
+                        selection(EmpireOfSonnstahl.RepeaterGun, 4)
+                    )
+                },
+                championMusican(),
+                unitOption(ChampionRangedWeapon, MainBook.None) {
+                    listOf(
+                        selection(EmpireOfSonnstahl.RepeaterPistol, 10)
+                    )
+                }
+            )
+        }
+    val artillery = singleModel("Artillery", 0) {
+        listOf(
+            requiredOption("ArtilleryWeapons") {
+                listOf(
+                    selection("Mortar", 200),
+                    selection("Volley Gun", 200),
+                    selection("Imperial Rocketeer", 160),
+                    selection("Cannon", 250)
+                )
+            }
+        )
+    }
+    val flagellants =
+        troop("Flagellants", 200, 15, 15, 18)
+        {
+            listOf(
+                champion()
+            )
+        }
+    val steamTank = singleModel("Steam Tank", 475)
+
     override val entries: List<ArmyBookEntry>
         get() =
             listOf(
-                Marshal,
+                marshal,
                 knightCommander,
                 prelate,
                 wizard,
@@ -298,74 +386,14 @@ class EoS_Version2_0 : StandardArmyBook {
                 lightInfantry,
                 stateMilitia,
                 electoralCavalry,
-                troop("Imperial Guard", 180, 15, 25, 19) {
-                    listOf(
-                        booleanOption("ReplaceShieldWithGreatWeapon", 3),
-                        command(),
-                        bannerEnchantmentOption()
-                    )
-                },
-                troop("Knights of the Sun Griffon", 290, 3, 3, 95) {
-                    listOf(
-                        booleanOption("ReplaceHalberdWithLance", 12),
-                        command(),
-                        bannerEnchantmentOption()
-                    )
-                },
-                singleModel("Arcane Engine", 290) {
-                    listOf(
-                        requiredOption("Engine") {
-                            listOf(
-                                selection("Foresight"),
-                                selection("Arcane Shield")
-                            )
-                        }
-                    )
-                },
-                troop("Imperial Rangers", 90, 5, 5, 12) {
-                    listOf(
-                        champion()
-                    )
-                },
-                troop("Reiters", 150, 5, 5, 29) {
-                    listOf(
-                        option(MainBook.Armour, "Light Armour") {
-                            listOf(
-                                selection("Heavy Armour", 4)
-                            )
-                        },
-                        option(MainBook.RangedWeapon, "Pistol") {
-                            listOf(
-                                selection("Brace of Pistol", 4),
-                                selection("Repeater Gun", 4)
-                            )
-                        },
-                        championMusican(),
-                        unitOption("ChampionRangedWeapon", "None") {
-                            listOf(
-                                selection("Repeater Pistol", 10)
-                            )
-                        }
-                    )
-                },
-                singleModel("Artillery", 0) {
-                    listOf(
-                        requiredOption("ArtilleryWeapons") {
-                            listOf(
-                                selection("Mortar", 200),
-                                selection("Volley Gun", 200),
-                                selection("Imperial Rocketeer", 160),
-                                selection("Cannon", 250)
-                            )
-                        }
-                    )
-                },
-                troop("Flagellants", 200, 15, 15, 18) {
-                    listOf(
-                        champion()
-                    )
-                },
-                singleModel("Steam Tank", 475)
+                imperialGuard,
+                knightOfTheSunGriffon,
+                arcaneEngine,
+                imperialRangers,
+                reiters,
+                artillery,
+                flagellants,
+                steamTank
             )
 }
 
