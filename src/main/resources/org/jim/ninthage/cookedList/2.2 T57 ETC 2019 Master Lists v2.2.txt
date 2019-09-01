@@ -838,7 +838,8 @@ Josip "HerrEckart" Ivani - Empire of Sonnstahl
 200 Prelate, Shield, Plate Armour, Alchemist's Alloy  
 200 Prelate, Shield, Willow's Ward, Plate Armour,  
 400 Wizard, Alchemy, Wizard Master, Magical Heirloom  
-165 - 20x Heavy Infantry, Standard 200 - 15x Light Infantry, Crossbow  
+165 - 20x Heavy Infantry, Standard
+200 - 15x Light Infantry, Crossbow
 252 - 19x Light Infantry, Crossbow  
 265 - 2 x 20x Light Infantry, Crossbow  
 772 - 36x Imperial Guard, Great Weapon, Sandard Bearer, Stalker's Standard, Champion  

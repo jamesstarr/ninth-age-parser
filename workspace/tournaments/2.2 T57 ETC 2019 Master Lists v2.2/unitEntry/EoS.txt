@@ -134,8 +134,8 @@
 >315 - 33x Heavy Infantry M,S
 <Unit name="Heavy Infantry" ModelCount=20 
 >165 - 20x Heavy Infantry support unit, Musician
-<Unit name="Heavy Infantry" EntryCount=15 ModelCount=20 
->165 - 20x Heavy Infantry, Standard 200 - 15x Light Infantry, Crossbow
+<Unit name="Heavy Infantry" ModelCount=20 
+>165 - 20x Heavy Infantry, Standard
 <Unit name="Heavy Infantry" EntryCount=2 ModelCount=21 
 >175 - 2 x 21x Heavy Infantry, Musician
 <Unit name="Heavy Infantry" ModelCount=44 
@@ -262,6 +262,8 @@
 	Command=CS
 	BannerEnchantment="Marksman’s Pennant"
 >330 - 20x Handgunners C(long rifle) , S, Marksman's pendant
+<Unit name="Light Infantry" ModelCount=15 
+>200 - 15x Light Infantry, Crossbow
 <Unit name="Light Infantry" ModelCount=19 
 >252 - 19x Light Infantry, Crossbow
 <Unit name="Light Infantry" EntryCount=2 ModelCount=20 
