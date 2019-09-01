@@ -1,0 +1,16 @@
+BH, 8
+DE, 1
+DH, 3
+DL, 5
+EoS, 3
+HBE, 5
+ID, 3
+KoE, 3
+OnG, 5
+OK, 7
+SA, 4
+SE, 7
+UD, 4
+VC, 10
+VS, 6
+WDG, 11

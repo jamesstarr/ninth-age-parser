@@ -1,0 +1,517 @@
+Brenner
+Chosen Lord of Sloth, General, Destiny's Call, Titanic Might, Dragon Staff 505
+Exalted Herald 850
+Sorcerer, Master, Evocation, Veil Walker, Ledger of Souls, Veilgate Orb, 575
+18 Warriors of Sloth, FC, Halberd, Zealots Banner 802
+8 Warhounds 120
+7 Chosen of Sloth, Halberd, FC 581
+5 Flayers, M 165
+2x5 Knights of Sloth, Lance, FC, Stalker Standard 450
+<ARMY_BOOK>
+Davis
+Chosen Lord of Wrath, General, Burning Portent, Willows Ward 460
+Chosen Lord of Wrath, Trophy Rack, Icon of the infinite, Gladiators spirit 415
+Sorcerer, Master, Alchemy, PW, Thrice Forged, 450
+10 Barbarian horseman, Light lance, Shield, 265
+2x15 Warriors of Wrath, PW, FC, Zealots Banner 580
+Chosen Chariot of Wrath 345
+3 Chosen Knights of Wrath, M,S 478
+Hell Maw 270
+2x1 Marauding Giant, Big Brother, Club 325  
+<ARMY_BOOK>
+Durham
+Chosen Lord of Envy, General, Trophy Rack, Burning Portent, Dusk Forged, Dragonfire Gem, Dark Prelate, War Dias 640
+Sorcerer, Master, Evocation, Destiny’s Call 440
+Sorcerer, Adept, Occultism, Plate, PW, Book of Arcane Mastery, Dark Chariot 365
+24 Warriors, FC, Spiked shield, Banner of Speed 666
+2x8 Warhounds 120
+5 Warriors knights, Lance, M 310
+2x5 Feldraks, PW, FC, Banner of Discipline 690
+2x1 Warriors Chariot 225
+<ARMY_BOOK>
+Francis
+Chosen Lord of Envy, General, Trophy Rack, War Dias, Aether Icon, Shield Breaker, Dusk Forged, Immortal Gauntlets, Talisman of the Void, Dark Prelate 665
+Sorcerer Adept, Alchemist Alloy, Rod of Battle, Veil gate Orb, 310
+2x5 Fallen 150
+10 Barbarian Horseman, Shield 285
+30 Barbarians, Shield, FC, 330
+Battle Shrine, Alchemy, Trophy Rack, Wasteland Torch 290
+Chosen Chariot of Pride 360
+8 Chosen of Envy, Halberd, FC Banner of Speed 677
+2x7 Warrior Knights of Envy, Lance, 484
+Marauding Giant, Apprentice 310
+<ARMY_BOOK>
+
+Gottschalk
+Choen Lord of Envy, General, PW, Trophy Rack, Shield breaker, Immortal Gauntlets, Banner of Speed, Dark Prelate, Wasteland Dragon 940
+Exalted herald 850
+Sorcerer Adept, Evocation, Plate 235
+9 Warhounds 130
+18 Warriors of Wrath, Halberd, FC, Zealots banner, 784
+7 Knights of Wrath, Lance, FC, Banner of Speed 575
+7 Knights of Wrath, gw, FC, Banner of Speed 
+Hellmaw, 2 Gateways 445
+<ARMY_BOOK>
+G Williams
+Sorcerer, General, Master, Alchemy, Plate Armor, Death Cheater, Obsidian Rock, Black Steed 560
+20 Warriors of Wrath, GW, S,C, Zealots Banner 820
+8 Barbarian Horsemen, shield, Heavy, 225
+6 Chosen of Envy, halberd, S,C, Wasteland Torch 489
+3x6 Chosen of Envy, halberd, S,C, 459
+2x5 Warhounds 90
+2x1 Chimera 200
+Hellmaw, 2 Gateways 445
+<ARMY_BOOK>
+Harrison
+Doomlord, General, Halberd, Supernatural Dexterity, Willows Ward, Talisman of Shielding, Immortal Gauntlets, Trophy Rack, Icon of the infinite 620
+Sorcerer, Master, Alchemy, Plate Armor, Ledger of Souls, Veilgate Orb, Battleshrine 790
+2x5 Fallen 150
+12 Warriors of Greed, FC, Wasteland Torch 442
+15 Barbarians, C,S 160
+5 Warhounds 90
+Chosen Chariot of Greed 355
+Chosen Chariot of Envy 360
+Battle Shrine, Trophy Rack, 260
+5 Chosen of Wrath, GW, C,M, 420
+3 Forsworn, Spiked Shield, M,C, 259
+5 Flayers, Bow 150
+Marauding Giant, Club 290
+<ARMY_BOOK>
+J Nelson
+Doomlord, General, Trophy Rack, Symbol of Slaughter, Basalt Infusion, Dusk Forged, Immortal Gauntlets, Obsidian Rock 600
+Sorcerer, Master, Evocation, Plate Armor, PW, Gladiator Spirit, Binding Scroll, Ranger Boots 525
+20 Warriors of Envy, PW, FC, Banner of Speed 650
+9 Fallen 222
+6 Fallen 168
+6 Forsworn, Spiked Shield, FC, Aether icon 523
+6 Flayers, Skinning Lash, 206
+5 Knights of Greed, C, 310
+5 Feldraks, M,S Banner of Discipline, GW, 690
+Chimera 200
+Forsaken one 400
+<ARMY_BOOK>
+Mattox
+Exalted Herald, General 850
+Sorcerer Adept, Alchemy, Plate Armor, Talisman of the Void 285
+2x18 Warriors, Spiked Shield, M, C 472
+10 Chosen of Greed, M,C 715
+5 Warhounds, 90
+2x1 Battleshrine, Trophy Rack, Alchemy, 260
+5 barbarian Horsemen, Light lance, Heavy armor, Shield, M 175
+2x1 Feldrak Elder 460
+<ARMY_BOOK>
+Schmid
+Chosen Lord of Envy, General, Trophy Rack, Burning Portent, Dusk Forged, Idol of Spite, War Dias, 645
+Exalted herald 850
+Sorcerer, Adept, Alchemy, Plate armor, PW, Hero’s Heart, Basalt infusion, Dark Chariot 400
+15 Warriors of Envy, Halberd, FC, Banner of Speed 600
+15 Barbarians, Shield, M,C 190
+8 Warhounds 120
+5 Chosen Knights of Envy, FC 780
+5 Warrior Knights, Lance, M, S, 310
+3 Forsworn, Spiked Shield, Damnation 259
+HellMaw, 1 portal 345
+<ARMY_BOOK>
+Shaw
+Chosen Lord of Pride, General, Trophy Rack, King Slayer, Talisman of Shielding, Icon of the infinite, Luck of the Dark Gods, War Dias 630
+Chosen Lord of Pride, Touch of Greatness, Death Cheater, Dark Prelate, War Dias 605
+25 Warriors, Spiked shield, M,S, Zealots Banner 670
+24 Warriors, Spiked Shield, M,S, Zealots Banner 646
+2x6 Feldraks 655
+2x1 Giant, Monstrous Familiar 310
+<ARMY_BOOK>
+Estanis “Tanis” Jódar,  Warriors of Dark Gods 
+530 – Doomlord, General, Spiked Shield, Great Weapon (Cleansing Light), Basalt Infusion, Dusk Forged 
+500 – Sorcerer, Master, Evocation, Paired Weapons, Light Armour (Destiny's Call), Binding Scroll 
+445 – Sorcerer on Dark Chariot, Adept, Alchemy, Plate Armour, Paired Weapons (Hero's Heart), Dragonfire Gem, Book of Arcane Mastery 
+641 – 24x Warriors, S, C, Rending Banner 
+260 – 10x Warriors, Favour of Lust, C 
+521 – 2x4 Feldraks, Paired Weapons, M, C 
+573 – 8x Forsworm, Paired Weapons, S, C, Flaming Standard 
+155 – 5x Flayers, Light Lance 
+90 – 5x Warhounds 
+260 – 1x Battleshrine 
+4496
+<ARMY_BOOK>
+Glen Weston - WDG 
+730 - Doomlord, Wasteland Behemoth, Burning Portent, Wyrd Stone 
+595 - Doomlord, Wasteland Behemoth, Paired Weapons 
+685 - Feldrak Ancestor, General 
+350 - 24x Barbarians, Spear and Shield, M, S, Banner of the Relentless Company 
+225 - 2x8 Barbarian Horsemen, Shield, M 
+120 - 8x Warhounds 
+290 - 2x1 Marauding Giant, Giant Club 
+300 - Marauding Giant, Tribal Warspear 
+300 - 2x1 Battleshrine, Icon of the Infinite 
+90 - 5x Warhounds 
+4500 
+<ARMY_BOOK>
+Matthias "Dr.GonZo" Lederhilger - Warriors of the 
+Dark Gods 
+ 
+850 - Exalted Herald, General 
+495 - Sorcerer, Master, Evocation, Plate Armour, Paired Weapons, Binding Scroll, Talisman of the Void 
+135 - 15 Barbarians 
+669 - 19 Warriors of Greed, MSC, Banner of the Relentless Company 
+120 - 8 Warhounds 
+229 - 2x 3 Forsworn, Spiked Shield 
+225 - 2x Warrior Chariot 
+200 - 2x Chimera 
+460 - 2x Feldrak Elder, Paired Weapon 
+4497  
+<ARMY_BOOK>
+Insiko, WoDG
+615 - Doomlord, General, Great Weapon, Spiked Shield, Blessed Inscriptions, Dusk Forged, Gladiator's Spirit, Wyrd Stone, Trophy Rack 
+600 - Sorcerer, Occultism, Plate Armor, Thriceforged,Veil Walker, Magical heirloom, Paired Weapons, Wizard Master 
+120 - 8x Warhounds 
+120 -8x Warhounds 
+667 - 19x Warriors, M, C, B, Sloth 
+473 - 3x Chosen Knights, Lust, M 
+654 - 8x Forsworn, M, C, B, Spiked Shield 
+145 - 5x Flayers 
+330 - 5x Warrior Knights, M, C, Greed 
+330 - 5x Warrior Knights, M, C, Greed 
+445 - Hellmaw, 2 Ominous Gateways 
+<ARMY_BOOK>
+Marek "Berny" Bernard – Warriors of the Dark 
+Gods 
+635 – Doomlord, General, Trophy Rack, Spiked Shield, Dusk forged,  Gladiator's Spirit, Great Weapon, Blessed Inscriptions (Great Weapon),  Dragonfire Gem, Wyrd Stone 
+600 – Sorcerer, Veil Walker, Occultism, Wizard Master, Ledger of Souls,  Binding Scroll 
+280 – Sorcerer, Alchemy, Wizard Adept, Book of Arcane Mastery 
+720 – 20x Warriors, Greed, Standard Bearer, Zealots' Banner, Musician,  Champion 
+182 – 16x Barbarians, Musician, Champion 
+165 – 5x Flayers, Shields, Light Lances 
+634 – 8x Forsworn, Spiked Shields, Musician, Champion 
+629 – 4x Chosen Knights, Lust, Musician, Champion 
+310 – 5x Warrior Knights, Lances, Musician 
+345 – Hellmaw, One Ominus Gateway 
+4500
+<ARMY_BOOK>
+Adam 'Tanka' Jones - Warriors of the Dark Gods 
+575 - Sorcerer, General, Evocation, Binding Scroll, Magical Heirloom, Wizard Master, Veil Walker 
+300 - Sorcerer, Alchemy, Dark Chariot, Plate Armour, Wizard Adept 
+240 - 2 x Barbarian Chief, Dark Chariot, Shield, Light Lance 
+260 - 3 x 10 Warriors, Lust, C 
+120 - 8x Warhounds 
+626 - 2 x 9 Warrior Knights, Wrath, Great Weapons, M, S, C, Flaming Banner 
+300 - 3 x 5 Chosen, Halberds, Lust 
+90 - 5x Warhounds 
+4497
+<ARMY_BOOK>
+Jere Jukka - Warriors of the Dark Gods 
+ 
+640- Chosen Lord: General, Favour of Envy, Dark Prelate, War Dais, Burning Portent, Talisman of Shielding, Dragonfire Gem 
+580 - Doomlord: Trophy Rack, Spiked Shield, Great Weapon, Gladiators Spirit, Dusk Forged, Immortal Gauntlets 
+560 - Sorcerer on Dark Chariot: Wizard Master, Plate Armor, Paired Weapons, Hero's Heart, Basalt Infusion, Lucky Charm 
+310 - 2 x 10x Warriors: Champion, Favour of Greed 
+150 - 2 x 5x Fallen 
+488 - 6x Forsworn: Champion, Musician, Spiked Shields 
+223 - 3x Forsworn: Damnation, Paired Weapons 
+409 - 6x Chosen: Champion, Favour of Envy, Paired Weapons 
+335 - 5x Chosen: Favour of Envy, Halberds 
+345 - Hellmaw: One Ominous Gateway 
+4500  
+<ARMY_BOOK>
+Julien « Solkiss » Frey - Warriors of the Dark Gods 
+ 
+630 – Chosen Lord, General, War Dais, Dusk forged, Burning Portent, Potion of Swiftness, Envy, Idol of Spite 
+500 – Sorcerer, Occultism, Ledger of Souls, Binding Scroll, Wizard Master 
+290 – Sorcerer, Alchemy, Binding Scroll, Veilgate Orb, Wizard Adept 
+465 – 34x Barbarians, Spears and Shields, Standard Bearer, Musician, Champion, Flaming Standard 
+170 – 15x Barbarians, Shields, Musician 
+150 – 5x Fallen 
+120 – 8x Warhounds 
+799 – 9x Chosen, Wrath, Great Weapons, Standard Bearer, Musician, Champion, Flaming Standard 
+751 – 9x Chosen, Envy, Halberds, Standard Bearer, Musician, Champion, Banner of Speed 
+279 – 3x Forsworn, Spiked Shields, Champion, Damnation  
+345 – Hellmaw, One Ominus Gateway 
+4499
+<ARMY_BOOK>
+Sergey "Dassler" Mihailov - WDG 
+585 - Sorcerer, Alchemy, War Dais, Paired Weapons, Plate Armour, Hero's Heart (PW), Gladiator's Spirit, Magical Heirloom, Wizard Master 
+550 - Doomlord, Spiked Shield, Great Weapon, Trophy Rack, Dusk Forged, Basalt Infusion, Aether Icon 
+635 - Chosen Lord, General, War Dias, Greed, Burning Portent (HW), Idol of Spite, Talisman of Shielding, Lucky Charm 
+661 - 24x Warrior, Champion, Musician, Standard, Stalkers Banner 
+120 - 8x Warhounds 
+120 - 8x Warhounds 
+543 - 6x Forsworn, Spiked Shield, Champion, Musician, Standard, Flaming Standard 
+840 - 5x Chosen Knights, Sloth, Champion, Standard, Musician, Wasteland Torch 
+439 - 6x Warrior Knights, Greed, Champion, Musician, Standard, Icon of the Infinitive 
+4493 
+<ARMY_BOOK>
+Thibault "Ankor" Rigolet - Warriors of the Dark 
+Gods 
+850 - exalted herald  
+555 - doomlord, general, great weapon, trophy rack, spiked shield, dusk forged, gladiators spirit, dragonfire gem  
+400 - sorcerer adept, alchemy, Adept, plate armour, paired weapons, dark chariot, hero's heart, basalt infusion  
+150 - 5x fallen  
+120 - 8x dogs  
+635 - 15x warriors of vanadra, great weapon, M, S, C, banner of relentless company  
+370 - 5x chosen of vanadra, great weapon  
+335 - 5x chosen of kuulima, halberds  
+508 - 6x forsworn, spiked shields, M, S, C  
+232 - 3x forsworn, great weapon, damnation  
+345 - Hellmaw, 1 ominous gateway  
+4500   
+<ARMY_BOOK>
+Stefan Hemker – Warriors of the Dark Gods 
+540 – Sorcerer, General, Master, evocation, Scythed Skywheel. Paired Weapons. Plate Armour, Thriceforged, Dragonfire Gem. 
+850 – Exalted Herald 
+640 – 18x Warriors, FCG, Halberds, Zealots Banner. 
+150 – 2x5 Fallen 
+90 – 2x5 Warhounds 
+810 – 2x5 Chosen Knights, Sloth, FCG.  
+367 – 3x felldrakes, Paired weapons. 
+4497
+<ARMY_BOOK>
+Tom ‘’The Eel’’ Brazier, Warriors of the Dark Gods 
+695 - Chosen Lord, General, Gluttony, Black Steed, Burning Portent (Hand Weapon), Immortal Gauntlets, Dragonfire Gem, Idol of Spite 
+685 - Chosen Lord, Gluttony, Black Steed, Paired Weapons, Aether Icon, Basalt Infusion, Touch of Greatness (Paired Weapons), Talisman of Shielding, Trophy Rack, Dark Prelate 
+500 - Sorcerer, Alchemy, Wizard Master, Plate Armour, Thrice-Forged, Binding Scroll 
+760 - 20x Warriors, Halberds, Gluttony, Standard Bearer, Musician, Champion, Zealots' Banner 
+142 - 16x Barbarians 
+592 - 8x Warrior Knights, Lances, Gluttony, Standard Bearer, Musician, Champion, Aether Icon 
+315 - 3x 5x Chosen, Greed 
+90 - 2x 5x Warhounds 
+4499 
+<ARMY_BOOK>
+Sigbjørn “Ugrush” Eriksrud - Warriors of the Dark 
+Gods 
+640 - Chosen Lord, Favour of Envy, General, War Dais, Burning Potent (Hand Weapon), Dusk Forged (Shield), Dragonfire Gem, Idol of Spite 
+615 - Sorcerer, Path of Occultism, Plate Armour, Ledger of Souls, Binding Scroll, Wizard Master, Veil Walker 
+445- Sorcerer, Path of Alchemy, Dark Chariot, Paired Weapons, Plate Armour, Hero's Heart (Paired Weapons), Basalt Infusion (Plate Armour), Rod of Battle, Wizard Adept 
+450 - 31x Barbarians, Spear and Shield, Champion, Musician, Standard, Banner of Speed 
+210 - 20x Barbarians, Shields, Musician 
+120 - 2x 8x Warhounds 
+837 - 2x 6x Feldraks, Halberds, Champion, Musician, Standard, Banner of Speed 
+225 - Warrior Chariot 
+4499
+<ARMY_BOOK>
+Aleksander "Rince" Jaworowski - WDG 
+665 - Chosen Lord of Kuulima on War Dais, General, Envy, War Dais, Trophy Rack, Burning Portent (Hand Weapon), Dusk Forged, Dragonfire Gem, Idol of Spite 
+585 - Sorcerer Master, Wizard Master, Alchemy, Veilwalker, Ledger of Souls, Sceptre of Power 
+145 - Sorcerer Apprentice, Apprentice, Evocation 
+155 - 15x Barbarians, M 
+323 - 26x Barbarians, M, S, C, Shield, Legion Standard 
+368 - 12x warriors, M, S, C, Paired Weapons, Banner of Relentless Company 
+120 - 8x Warhounds 
+260 - 2x1 Battleshrine 
+755 - 10x Chosen of Kuulima, Envy, Halberds, M, C 
+259 - 2x3 Forsworn, Spiked Shield, Damnation 
+345 - Hellmaw, 1 Ominous Gateway 
+4499
+<ARMY_BOOK>
+David Pareles Mayo - Warriors of the Dark Gods  
+ 
+850—Exalted Herald 
+640 - Chosen Lord, General, Gluttony, Idol of Spite , War Dais, Shield, Hell Forged Armour, Burning Portent (Hand Weapon), Immortal Gauntlets, Trophy Rack  
+455 - Sorcerer, Alchemy, Wizard Adept, Dark Chariot, Plate Armour, Basalt Infusion, Paired Weapons, Hero's Heart (Paired Weapons), Binding Scroll  
+480 - 20x Warriors, Champion  
+150 - 5x Fallen  
+150 - 5x Fallen  
+120 - 8x Warhounds  
+370 - 5x Chosen, Great Weapons, Wrath  
+370 - 5x Chosen, Great Weapons, Wrath  
+310 - 5x Warrior Knights, Greed, Champion  
+259 - 3x Forsworn, Spiked Shields, Damnation  
+345 - Hellmaw, One Ominus Gateway  
+4499 
+<ARMY_BOOK>
+Kirill “Kiruheiro” Adelfinskiy - Warriors of the Dark 
+Gods 
+655 - Chosen Lord, General, Envy, Idol of Spite, War Dais, Trophy Rack, Dusk forged, Burning Portent (Hand Weapon), Potion of Swiftness 
+525 - Sorcerer, Veil Walker, Alchemy, Wizard Master, Binding Scroll 
+220 - Sorcerer, Evocation, Wizard Adept 
+720 - 20x Warriors, Greed, Standard Bearer, Zealots' Banner, Musician, Champion 
+202 - 19x Barbarians, Shields, Musician 
+751 - 9x Chosen, Halberds, Envy, Standard Bearer, Banner of Speed, Musician, Champion 
+800 - 5x Chosen Knights, Pride, Standard Bearer, Flaming Standard, Musician, Champion, 
+90 - 5x Warhounds 
+90 - 5x Warhounds 
+445 - Hellmaw, Two Ominous Gateways 
+4498
+<ARMY_BOOK>
+Paul “Spacegoblin” McNeil - Warriors of the Dark 
+Gods 
+580 - Sorcerer, General, Evocation, Wizard Master, Dark Chariot, Plate Armour, Basalt Infusion, Magical Heirloom, Lord of the Damned 
+720 - 20 Warriors, Greed, Standard Bearer, Musician, Champion, Zealots' Banner 
+120 - 2x 8x Warhounds 
+490 - 6x Forsworn, Halberds, Standard Bearer, Musician, Champion, Wasteland Torch 
+279 - 2x 3x Forsworn, Damnation, Spiked Shields, Musician 
+555 - 2x 6x Wretched Ones 
+400 - 2x Forsaken One 
+4498
+<ARMY_BOOK>
+Nebojša “Sven” Jovanovid – Warriors of the Dark 
+Gods 
+ 
+695 - Chosen Lord of Vanadra, General, Wrath, Black Steed, Shield, Burning Portent, Dusk Forged, Dragonfire Gem, Dark Prelate 
+385 - Sorcerer, Black Steed, Paired Weapons, Plate Armour, Magical Heirloom, Rod of Battle, Wizard Adept, Evocation 
+221 -  3x8 Barbarian Horsemen, Light Lance, Shield, 
+120 - 2x8 Warhounds 
+705 - 10 Warrior Knights of Vanadra, Wrath, Great Weapon, M, C, S, Zealots Standard 
+747 – 2 x 6 Feldraks, Halberd, S 
+310 - Marauding Giant, Monstrous Familiar 
+4492
+<ARMY_BOOK>
+Rok "Krokz" Martinc - Warriors of the Dark Gods 
+655 - Chosen Lord, General, Trophy Rack, War Dias, Burning Portent, Potion of Swiftness, Talisman of Shielding, Favour of Envy, Idol of Spite 
+600 - Doomlord, Trophy Rack, Great Weapon, Spiked Shield, Dusk Forged, Gladiator's Spirit, Dragonfire Gem, Immortal Gauntlets 
+395 - Sorcerer, Occultism, Black Steed, Plate Armour, Paired Weapons, Basalt Infusion, Hero's Heart, Lucky Charm, Adept 
+375 - Sorcerer, Alchemy, Dark Chariot, Plate Armour, Paired Weapons, Alchemist's Alloy, Binding Scroll, Adept 
+283 - 9x Barbarian Horseman, Champion, Standard Bearer, Shield, Light Lance 
+618 - 22x Warriors, Favoured Champion, Musician, Standard Bearer, Banner of Speed 
+631 - 7x Forsworn, Spiked Shield, Champion, Musician, Standard Bearer, Banner of Speed 
+223 - 3x Forsworn, Paired Weapons, Damnation 
+275 - Battleshrine, Wyrd Stone 
+445 - Hellmaw, 2 Ominous Gateways 
+4500
+<ARMY_BOOK>
+Manuel "Manu" Gil - Warriors of the Dark Gods 
+625 - Chosen Lord, General, Envy, Idol of Spite, War Dais, Hell Forged Armour, Burning Portent (Hand Weapon), Immortal Gauntlets, Potion of Swiftness 
+570 - Sorcerer, Wizard Master, 4 spells, War Dais, Plate Armour, Paired Weapons, Hero's Heart (Paired weapon), Binding Scroll, Alchemist’s Alloy, Alchemy 
+555 - Doomlord, Trophy Rack, replace shield with Spiked Shield, Hell Forged Armour, Dusk forged, Gladiator's Spirit, Great Weapon, Dragonfire Gem 
+380 - 15x Warriors, M, C 
+260 - 10x Warriors, Lust, C 
+150 - 5x Fallen 
+120 - 8x Warhounds 
+541 - 7x Forsworn, Spiked Shields, C 
+345 - 1x Hellmaw, One Ominus Gateway 
+394 - 6x Forsworn, GW 
+300 - 1x Battleshrine, Icon of the Infinite 
+259 - 3x Forsworn, Spiked Shields, Damnation 
+4499
+<ARMY_BOOK>
+Erik Aronson – Warriors of the Dark Gods 
+650 - Doomlord, General, Trophy Rack, Spiked Shield, Great Weapon, Blessed Inscriptions (Great Weapon), Basalt Infusion, Dusked Forged, Crown of the Wizard King 
+565 - Sorcerer, Evocation, War Dais, Plate Armour, Paired Weapons, Binding Scroll, Binding Scroll, Alchemist Alloy, Wizard Master 
+480 - 15x Warriors, Favour of Lust, Standard Bearer, Musician, Favoured Champion, Banner of Speed 
+150 - 2 x 5x Fallen 
+120 - 8x Warhounds 
+513 - 4x Feldraks, Halberds, Musician 
+326 - 4x Forsworns, Great Weapon, Damnation, Musician 
+581 - 7x Forsworns, Spiked Shield, Musician, Standard Bearer, Champion 
+260 - 2 x 1x Battleshrine 
+445 - Hellmaw, Two Ominous Gateways 
+4500
+<ARMY_BOOK>
+Aurélien "Biboun" Barakat - Warriors of the Dark 
+Gods 
+665 - Chosen Lord, General, Envy, War Dais, Trophy Rack, Dusk forged, Burning Portent, Dragonfire Gem, Idol of Spite 
+690 - Sorcerer, Occultism, Wizard Master, War Dais, Plate Armour, Paired Weapons, Basalt Infusion, Hero's Heart, Binding Scroll, Veil Walker 
+235 - Sorcerer, Alchemy, Wizard Adept, Plate Armour 
+841 - 19x Warriors, Sloth, Halberds, Standard Bearer, Musician, Champion, Zealots' Banner 
+150 - 5x Fallen 
+677 - 8x Chosen, Envy, Halberds, Standard Bearer, Musician, Champion, Banner of Speed 
+483 - 7x Warrior Knights, Greed, Standard Bearer, Musician, Champion, Flaming Standard 
+232 - 3x Forsworn, Damnation, Great Weapons 
+90 - 2x 5x Warhounds 
+345 - Hellmaw, One Ominous Gateway 
+4498 
+<ARMY_BOOK>
+Eyüp Mustafa Erdoğan - WodG 
+ 
+535 - Doomlord , General, GW, Spiked Shield, Gladiator's Spirit, Dusk Forged, Obsidian Rock 
+440 - Doomlord , GW, Spiked Shield, Alchemist's Alloy 
+440 - Doomlord , GW, Spiked Shield, Willow's Ward 
+370 - Sorcerer , Wizard Master ,Alchemy 
+300 - 10 x Warriors , Musician, Champion, Standard, Mark of Lust 
+280 - 10 x Warriors , Musician, Champion, Mark of Lust 
+330 - 15 x Fallen 
+742 - 9 x Forsworn , FC, Spiked Shield, Aether Icon 
+270 - Hellmaw 
+270 - Hellmaw 
+260 - Marauding Giant 
+260 - Marauding Giant 
+4497
+<ARMY_BOOK>
+Mark "Mr. White" Abarenko - Warriors of the Dark 
+Gods 
+655 -Chosen Lord Army General, Favour of Kuulima, Goddess of Envy, Idol of Spite, Trophy Rack, War Dais, Burning Portent, Potion of Swiftness,Dusk Forged 
+545 - Sorcerer, Alchemy, Veil Walker, Wizard Master,Ledger of Souls 
+275 - Sorcerer,Evocation, Wizard Adept,Binding Scroll 
+430 - 29x Barbarians, Champion, Standard Bearer, Musician, Spear and Shield, Banner of Speed 
+162 - 16x Barbarian, Musician 
+204 - 8x Fallen 
+120 - 8x Warhound 
+825 - 10x Chosen, Favour of Kuulima, Goddess of Envy, Favoured Champion, Halberd, Musician, Standard Bearer, Banner of Speed 
+279 - 2 x 3x Forsworn, Damnation, Musician, Spiked Shield 
+379 - 6x Warrior Knight,Favour of Sugulag, God of Greed, Favoured Champion, Musician 
+345 - Hellmaw , 1 Ominous Gateway Total: 4498 
+<ARMY_BOOK>
+Jeff “Boss Hog” Durham – WoDG 
+ 
+640 - Chosen Lord, General, Envy, War Dias, Dusk Forged, Burning Portent, Dragon Fire Gem, Dark Prelate 
+445 - Sorcerer, Paired Weapons, Destiny’s Call, Master, Evocation 
+365 - Sorcerer, Dark Chariot, Plate Armor, PW, Book of Arcane Mastery, Adept, Occultism 
+666 - 24x Warriors, M, C, S, Banner of Speed 
+120 - 2x8 Warhounds 
+310 - 5x Warrior Knights, Lance, M 
+690 - 2x5 Feldraks, Paired Weapons, M, C, S, Banner of Discipline 
+225 - 2x1 Warrior Chariot 
+4496
+<ARMY_BOOK>
+Ken Groom - Warriors of the Dark Gods 
+ 
+610 - Chosen Lord, General, Wrath, Daemonic Wings, Great Weapon, Blessed Inscriptions, ThriceForged, Talisman of Shielding, Potion of Swiftness 
+345 - Sorcerer, Alchemy, Dark Chariot, Plate Armour, Rod of Battle, Wizard Adept 
+305 - Sorcerer, Evocation, Dark Chariot, Plate Armour, Paired Weapons, Wizard Adept 
+784 - 18x Warriors, Wrath, Halberds, Champion, Musician, Standard, Zealot’s Banner 
+150 - 5x Fallen 
+885 - 2 x 10x Chosen, Wrath, Great Weapons, Champion, Musician, Standard, Banner of the Relentless Company 
+90 - 5x Warhounds 
+445 - Hellmaw, 2 Ominous Portals 
+4499
+<ARMY_BOOK>
+Javier “Alden” Graus - Warriors of the Dark Gods
+650 - Chosen Lord: Army General, Black Steed, Favour of Akaan, God of Gluttony [25pts], Trophy Rack, Burning Portent, Immortal Gauntlets, Potion of Swiftness.
+850 - Exalted Herald
+290 - Sorcerer: Evocation, Plate Armour, Wizard Adept, Binding Scroll
+135 - 15x Barbarian
+120 - 8x Warhound 
+680 - 20 xWarriors: Banner Enchantment, Favour of Nukuja, Goddess of Sloth, S, C.
+708 - 4 x Chosen Knights: Favour of Nukuja, Goddess of Sloth, S, C,  M, Flaming Standard.
+170 - 5x Flayer: Skinning Lash
+170 - 5x Flayer: Skinning Lash
+90 – 5x Warhounds
+680 - 9x Warrior Knights: Banner Enchantment, Favour of Akaan, God of Gluttony, Lance, S, C,  M.
+Total: 4,499
+<ARMY_BOOK>
+Estanis “Tanis” Jódar, Warriors of Dark Gods
+555 – Doomlord, General, Trophy Rack, Spiked Shield, Halberd, Gladiator's Spirit, Dusk Forged, Supernatural Dexterity
+485 – Sorcerer, Master, Evocation, Paired Weapons, Destiny's Call, Sceptre of Power
+455 – Sorcerer on Dark Chariot, Adept, Alchemy, Plate Armour, Paired Weapons, Hero's Heart, Basalt Infusion, Binding Scroll
+641 – 24x Warriors, S, C, Rending Banner
+260 – 10x Warriors, Favour of Lust, C
+521 – 4x Feldraks, Paired Weapons, M, C
+512 – 7x Forsworm, Paired Weapons, S, C, Flaming Banner
+330 – 5x Warriors Knights, Favour of Greed, M, C
+90 – 2x5 Warhounds
+260 – 1x Battleshrine
+300 – 1x Marauding Giant, Tribal Warspear
+4499
+<ARMY_BOOK>
+Warriors of the dark gods -Mikel Torka
+Exalted herald (general). 850
+Sorcerer:evocation, wizard apprentice, scythed skyweel, plate armour, magical heirloom, lord of the dammed. 325
+10x Warriors, envy, fcg, zealots banner. 375
+2x10 warriors, envy, standard bearer with zealots banner, champion. 355
+2x6 wretched one 555
+6x chosen, halberds, envy. 409
+2x chosen chariot, envy. 360
+Total: 4499
+<ARMY_BOOK>
+Diego Albert - Warrios of the dark gods
+610 - Chosen Lord on war daris, General, idol of spite, favour of kuulima goddes of envy, trophy rack, paired weapons, banner of speed, touch of greatness, gladiator's spirit
+510 - Doomlord, trophy rack, great weapon, dusk forged, basalt infusion
+495 - Sorcerer, wizard master, Evocation, plate armour, bindgin scroll, magical heirloom
+235 - Sorcerer, wizard adept, occultism, plate armour
+150 - 5 fallen
+759 - 18 warriors, favoured champion, musician, standard bearer, favour of Nukuja goddes of sloth, great weapon, flaming standard
+429 - 6 Chosen, favour of kuulima goddes of envy, musician, halberd
+223 - 2x3 Forsworn, paired weapon, damnation
+561 - 7 Forsworn, champion, musician, spiked shield
+310 - Warrios knights, favoured champion, favour of Sugulag god of greed
+Total 4500
+<ARMY_BOOK>
+Adrian MetaSugus - Warrios of the dark 

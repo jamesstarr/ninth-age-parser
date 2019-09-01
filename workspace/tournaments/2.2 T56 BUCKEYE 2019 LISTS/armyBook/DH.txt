@@ -1,0 +1,45 @@
+LeRoy
+King, General, Holdstone, Plate armor, Shield, Rune of Iron, Rune of Destruction, Rune of Fury, Rune of Smashing, Run of Shielding X2, 525
+Thane, BSB, Shield, Rune of Lightning x 3, Rune of Dragon Breath, Shield Bearers 420
+Runic Smith, 3x Battle runes, Rune of Devouring, Rune of Grounding, Rune of Harnessing 410
+Anvil of Power 185
+Engineer, Guid Crafted Handgun, Plate armor, Shield, 135
+28 Greybeards, Shield,FC,  Flaming Standard 686
+20 Clan Marksmen, Xbow, M, Shield 450
+19 Rangers, Shield, M 250
+10 Miners, TW, Shield, M 265
+2x1 Steam Copters 175
+1 Organ Gun, Rune Crafted 320
+1 Catapult, Rune Crafted 300
+
+
+Reese
+Engineer, General, Plate armor, shield, Guild crafted Handgun 280
+Dragon Seeker, Grim resolve, 2x Rune of Quickening, Rune of Destruction 440
+Dragon Seeker, Monster Seeker, Rune of Fury, Rune of Quickening, Rune of Smashing 390
+Dragon Seeker, 210
+11 Clan Marksmen, GCH, Shield 285
+10 Clan marksmen, GCH, Shield 260
+10 Clan warriors, TW, Shield, 160
+10 Clan warriors, Vanguard, Shield 160
+1 Organ Gun, rune crafted 320
+2x1 Steam Copter 210
+1 Vengeance Seeker 130        
+10 Miners, PW 205
+9 Seekers, C 259
+21 Seekers, C 466
+1 Cannon 255
+
+
+Wehener
+King, General, Holdstone, GW, Plate, Shield Bearers, Ruen of Iron, Rune of Forge, Shield Bearers 430
+Thane, GW, Plate, BSB, Runic Standard of Shielding, Rune of Forge, 275
+Runic Smith, 3 Battle Runes, Plate, Shield, Rune of Lightning 265
+24 Clan Warriors, Shield, FC 410
+24 Greybeards, Shield, FC, 563
+10 Clan Marksmen, GCH, Shield 280
+20 DeepWatch, FC 505
+20 KingsGuard FC 505
+20 Seekers, C 485
+2x1 Cannon 255
+1 Organ Gun 270

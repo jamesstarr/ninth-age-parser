@@ -1,0 +1,89 @@
+Borden
+Forest Prince, General, Sylvan Blades, Elven Cloak, Light armor, shield, Titanic Might, Curse of the Black Stag, Talisman of Shielding, Eagle King 525
+Dryad Ancient, Adept, Druidism, Scarred Bark 305
+Dryad Ancient, Adept, Divination, 225
+Thicket Shepherd, BSB, Entangling Vines 360
+2x23 Dryads, C, 440
+10 Sylvan Archers, 265
+2x1 Forrest Eagle 100
+3 Kestrel Knights, Shield, Standard, 330
+5 Thicket Beasts, C, 510
+2x1 Treefather 450
+
+
+SE Hyryk
+Avatar of Nature, Entangling Vines 690
+Thicket Shepherd, BSB 300
+Treefather Ancient, Master, Druidism, Potion of Swiftness 745
+3x26 Dryads, C, 494
+5 Thicket Beasts, C 510
+2x5 Wild Huntsmen, shield, FC 385
+
+
+Karl
+Avatar of Nature 630
+Treefather Ancient, Master, Druidism, Talisman of the Void 785
+Thicket Shepherd, BSB 300
+2x25 Dryads, C, 476
+5 ELVES ON HORSES 180
+5 Thicket beasts, C 510
+5 Thicket Beasts 490
+2x1 Forrest Eagle 100
+Treefather 450
+
+
+
+Lau
+Forest Prince, General, Wild Hunter, Lance, Longbow, Elven Cloak, Light armor, Shield, Basalt Infusion, Dusk Forged, Blessed Inscriptions, Great Elk 595
+Druid, Master, Druidism, Longbow, 370
+Druid, Adept, Druidism, Longbow 220
+Thicket Shepherd, BSB 300
+20 Sylvan Archers, S,M, Banner of Deception 605
+12 Archers, M 333
+5 Heath Riders, Heath Hunters, 205
+8 Blade Dancers, 282
+1 Eagle 100
+4 Thicket Beasts, C 405
+6 Wild Hunters, Shield, S, C, Flaming Standard 460
+2x7 Pathfinders 310
+
+
+
+Oakes
+Forest Prince, General, Sylvan Blades, Titanic Might, Dragon, 725
+Chieftain, Bladedancer, BSB, Spear, Hunters Honor, Aether Icon, Potion of Strength 345
+Druid, Master, Druidism, Binding Scroll 420
+Druid Adept, Shamanism, Binding Scroll 270
+45 Forest Guard, FC, Spear, Rending Banner 730
+5 Heath Riders, heath hunters, 205
+24 Forest Rangers, FC, Flaming Standard 585
+12 Blade dancers, S,C, Rending Banner 475
+1 eagle 100
+Treefather 450
+
+
+
+Phillips
+Treefather Ancient, General, Master, Druidism, Binding Scroll 790
+Avatar of Nature, Entangling Vines 690
+Thicket Shepherd, Oaken Crown, BSB 320
+13 Dryads, C, 260
+30 Forest Guard, FC, spears 460
+2x5 Heath Riders, heath Hunters, 205
+Forrest Eagle 100
+6 Thicket Beasts, C 615
+7 Sentinels 230
+5 Sentinels 175
+Treefather 450
+
+
+Rob Nevarez
+Forest Prince, General, Wildhunter, Sylvan Blades, Sylvan Longbow, Elven Cloak, Light armor, Spirit of Whirlwind, Curse of the Black Stag, Binding Scroll, Talisman of Shielding, Great Elk 630
+Forest Prince, Sylvan Blades, Titanic Might, Binding Scroll, Dragon 780
+Thicket Shepherd, BSB 300
+2x20 Dryads, C 386
+12 Archers, M, S 353
+30 Forest Rangers, S,C 650
+5 Thicket Beasts 490
+2x1 Forest Eagle
+5 Wild Huntsmen, Shields 325

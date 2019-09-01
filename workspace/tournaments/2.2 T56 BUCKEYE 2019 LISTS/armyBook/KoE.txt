@@ -1,0 +1,36 @@
+Bond
+Duke, General, Shield, Tristan's Resolve, Death Cheater, Virtue of Valor, Barded Warhorse 460
+Damsel, Master, Druidism, Wafers of Penitence Barded Warhorse 410
+Paladin BSB, lance, Shield, Crusaders Salvation, Barded Warhorse 335
+Paladin, Grail Oath, Lance, Touch of Greatness, Lucky Charm, Barded Warhorse 265
+12 Knights of the Realm, FC, Stalker Standard 605
+10 Knights of the Realm, FC, Stalker Standard 557
+16 Peasant Bowmen, M 200
+8 Knights of the Grail, FC, Stalker STandard 745
+3 Pegasus Knights, C,360
+2x1 Trebuchet 280
+
+
+Coskun
+Duke, General, Questing, Bastard Sword, Heavy Armor, Shield, Hippogriff, Blessed Inscriptions, Dragonfire Gem, Crusaders Salvation, Virtue of Renown 705
+Duke, Questing, Bastard Sword, Heavy armor, Shield, Virtue of Might, Basalt infusion, Lucky Charm, Fortress of Faith, Pegasus 590
+Damsel, Master, Druidism, Talisman of the Void, Barded Warhorse 435
+12 Knights of the Realm, S, M, Banner of last Charge 688
+12 Knights of the Realm, S, M, Banner of Discipline 623
+9 Knights of the Grail, S, M, Banner of Roland, 814
+3 Knights of the Grail 220
+2x5 Yeomen Outriders 125
+10 Brigands 175
+
+
+Paff
+Duke, General, Grail Oath, Lance, Shield, Divine Judgement, Virtue of Might, Basalt Infusion, Black Knights Tabard, Pegasus 675
+Paladin, BSB, Questing Oath, Bastard Sword, Shield, Banner of Discipline, Virtue of Valor, Tristan's Resolve, Barded Warhorse. 425
+Damsel Master, Master, Divination, Wafers of Penitence, Talisman of the Void, Barded Warhorse, 460
+10 Knights of the Realm, FC, Aether Icon 527
+12 Knights of the Realm, FC, Aether Icon, 623
+Green Knight 375
+3 Peg Knights, C, 389
+5 Yeomen Outriders 125
+2x15 Peasant Bowmen 170
+2x1 Trebuchet 280

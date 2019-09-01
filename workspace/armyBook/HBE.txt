@@ -1,0 +1,185 @@
+Hetes
+High Prince, General, Master of Canreig Tower, Adept, Spear, heavy Armor, Shield, Death Cheater, Spear of Blazing Dawn 690
+Commander, BSB, Queens COmpanion, Spear, Longbow, Moonlight Arrows, Banner of Becalming 335
+Mage, Master, Pyromancy, Binding Scroll, Binding Scroll, 485
+14 Archers, M 262
+2x24 Citizen Spears, FC, M,C 344
+5 Elein Reavers 180
+19 Flame Wardens, FC, Rending Banner, 577
+5 Knights of Ryma, M, 360
+13 Queensguard, M 392
+2x Sky Sloop 265
+<ARMY_BOOK>
+Loughman
+High Prince, General, GW, Light Armor, Lion Fur, Destiny's Call, Ring of the Pearl Throne, Rolaay Huntsman 485
+Commander, BSB, Adept, GW, Heavy Armor, Death Cheater, MoCT, 455
+Commander, Heavy Armor, Shield, Lance, Dragon Staff, Giant Eagle 265
+20 Sea Guard, C,S 445
+2x25 Citizen Spears, FC 380
+19 Flame Wardens, FC, Ryma Banner 592
+14 Swordmasters, FC, Navigators banner 472
+10 Swordmasters 245
+Fire Phoenix 420
+2x1 Reaper Bolt thrower 180
+<ARMY_BOOK>
+Sczypta
+High Prince, General, Royal Huntsman, GW, Dragonforged Armor, Shield, Blessed Inscriptions, Basalt Infusion, Lucky Charm, Diadem of Protection, Lion Chariot 670
+Commander, BSB, MoCT, adept, GW, Light armor, Essence of Mithril, Flaming Standard 440
+Mage Master, order of fiery heart, Essence of Free Mind (Pyro/Alchemy), Gleaming Robe 560
+2x24 Citizen Spears, FC, Ryma Banner 424
+5 Highborn Lancers, M, C 240
+25 Flame Wardens, FC, Rending Banner 745
+Lion Chariot 215
+2x1 Great Eagle 100
+3x1 Sea Guard Reaper 180
+<ARMY_BOOK>
+Szymanski
+Mage, General, Master, Pyromancy, Light armor, Destiny's Call, Potion of Strength, Book of Meladys 560
+Commander, BSB, MoCT, Adept, GW, Longbow, Drangonforged, Elus Heartwood, Obsidian Rock 470
+Commander, Queens Companion, Spear, Longbow, Dragonforged armor, Shield, Sliver of Blazing Dawn 340
+31 Citizen spears, FC, Ryma Banner 536
+25 Sea Guard, M, S, Ryma banner 589
+20 Queens Guard, M, S Navigators Banner 730
+18 Flame Wardens, S, Banner of Beclaming 534
+2x1 Giant Eagle 100
+3x1 Sea Guard Reapers 180
+<ARMY_BOOK>
+Weyforth
+High Prince, General, Queens COmpanion, Spear, Longbow, Light armor, Destiny's Call, Sliver of the Blazing Dawn 485
+High prince, GW, Obsidian Rock, Dragon 750
+Mage, Master, Divination, Book of Meladys 565
+20 Citizen Spears, M, S 280
+5 Elein Reavers 180
+28 Sea Guard, FC, Banner of Speed 683
+22 Lion Guard, M, C 601
+3x1 Reaper Bolt Thrower 180
+<ARMY_BOOK>
+Fernando “Nando” Arcos, Vermin Swarm 
+820 – Vermin Daemon, General 
+725 – Plague Patriarch on Plague Pendulum, Adept,Occultism, Light Armour, Putrid Protection, Plague Flail 
+255 – Magister, Adept, Witchcraft, Binding Scroll 
+511 – 31x Vermin Guard, S, C, Rending Banner 
+370 – 20x Vermin Guard, S, Lightning Rod 
+235 – 21x Plague Brotherhood, C 
+140 – 20x Giant rats 
+295 – 4x Vermin Hulks 
+238 – 12x Plague Disciples 
+305 – 2x1 Dreadmill 
+190 – 5x Jezails 
+110 – 3x Jezails 
+4499
+
+  
+Pablo “Serwin” Ahumada, Highborn Elves 
+ 
+1120 – Mage on Dragon, General, Master, Order of Fiery Heart, Essence Free Mind (Pyromancy/Alchemy),  Paired Weapons,(Hero's Heart), Binding Scroll 
+805 – Comander on Dragon, BSB, Queen´s Cavalier, Paired Weapons, Longbow, Shield Breaker, Lucky Charm,  Flaming Standard 
+290 – Mage on Giant Eagle, Light Armour, Adept, Cosmology, Dragonfire Gem, Alchemists Alloy 
+320 – 3x15 Sea Guard, M 
+180 – 5x Elein Reavers 
+100 – 1x Giant Eagle 
+135 – 2 x Giant Eagle 
+215 – 1x Lion Chariot 
+110 – 1x Reaver Chariot 
+245 – 10x White Lions, Baleig Highlanders 
+340 – 5x Knights of Ryma 
+4500
+
+  
+Luis "Asurnil" Muñoz", Daemonic Legions 
+695 – Sentinel of Nukuja on Throne of the Oracle, General (Greater Dominion), Divination, Mark of  Eternal Champion 
+275 – Harbinger of Father Chaos, Adept, Evocation 
+375 – 15x Lemures, S, M 
+375 – 2x15 Myrmidons, Whipcrack Tail, M 
+639 – 6 Clawed Fiends, Mesmerising Plumage, M 
+335 – 1x Hope Harvester, Mark of Eternal Champion 
+334 – 12x Hellhounds, Digestive Vomit 
+235 – 1x Threshing Engine, Horde Thresher 
+205 – 1xTitanslayer Chariot 
+186 – 2x Mageblight Gremlins, Living Shield 
+305 – 4x Veil Serpents 
+160 – 5x Furies 
+4494
+
+ 
+Ivan "Orion" Diaz, Ogre Khans 
+545 – Shaman, General, Master, Shamanism, Iron Fist, BInding Scroll, Lygur's Tongue 
+420 – Khan, BSB, Trolleater, Brace of Ogre Pistols, Viper's Curse, Flaming Standard, Potion of Swiftness 
+355 – Shaman, Adept, Thaumaturgy, Iron Fist, Book of Arcane Mastery, Potion of Strength 
+360 – Mammoth Hunter, Hunting Spear, Iron Fist, Leader of Pack, Wrestler's Belt, Dragonfire Gem, Lucky Charm,  Spinesplitter 
+736 – 9x Bruisers, M, S, C, Banner of Discipline 
+234 – 29x Scraplings,Spear, M, Scrapling Foreman 
+155 – 3x Tribesmen 
+585 – 5x Mercenary Veterans, M, Poison, Accurate,  Brace of Ogre Pistols 
+295 – 2x1 Slave Giant, Great Weapon  80 – 2x1 Sabretooth Tiger 
+175 – 2x2 Yetis 
+4500  
+<ARMY_BOOK>
+Hallvard "Fairhair" Haugen - Highborn Elves 
+ 
+565 - Mage, General, Asfad Scholar, Pyromancy, Wizard master, Book of Meladys  
+395 - Commander, Master of Canreig Tower, Battle Standard, Book of Arcane Mastery  
+240 - 11 x 20 Citizen Spears  
+225 - 4 x 10 Lion Guard  
+4500
+<ARMY_BOOK>
+Thomas "Artur" Jacobs - Highborn Elves 
+ 
+485 - High Prince, General, Queen's Companion, Moonlight Arrows, Longbow, Spear, Sliver of the Blazing Dawn, Destiny's Call 
+285 - Mage, Wizard Adept, Pyromancy, Book of Arcane Power 
+430 - Commander, BSB, Master of the Canreig Tower, Great Weapon, Shield, Longbow, Elu's Heartwood 
+260 - 2x 20x Spearmen, Musician 
+613 - 28x Sea Guard, Champion, Musician 
+100 - 2x 1x Giant Eagle  
+360 - 5x Knights of Ryma, Musician 
+340 - 5x Knights of Ryma 
+110 - 1x Reaver Chariot 
+615 - 20x Queen's Guard, Musician, Spears 
+180 - 3x 1x Sea Guard Reaper 
+4498  
+<ARMY_BOOK>
+Hristo Nikolov - Highborn Elves 
+465 - Mage, General, Asfad Scholar, Wizard Master, Divination 
+415 - Commander, BSB, Master of Canreig Tower, Longbow, Elu’s Heartwood 
+680 - 40 Citizen Spears, C, M, S, War Banner of Ryma 
+260 - 20 Citizen Spears, M 
+190 - 5 Elein Reavers, Bow 
+265 - 10 Lion Guard, Baleig Highlanders, C 
+584 - 23 Sword Masters, M, C 
+2x 340 - 2x 5 Knights of Ryma 
+3x 140 - 3x 5 Queen's Guard 
+3x 180 - 3x Sea Guard Reaper 
+4499
+<ARMY_BOOK>
+Filip "Nolamik" Blokar - Highborn Elves -  
+555 - High Prince, General, High Warden of the Flame, Light Armour, Essence of Mithril, Spear, Sliver of the Blazing Dawn (Spear), Obsidian Rock, Potion of Swiftness  
+670 - Mage, Asfad Scholar, Divination, Wizard Master, Light Armour, Gleaming Robe, Amethyst Crystal, Crystal Ball  
+455 - Commander, Master of Canreig Tower, Battle Standard, Banner of Relentless Company, Heavy Armour, Great Weapon, Book of Arcane Mastery,  
+535 - 10x Highborn Lancers, Standard Bearer, Flaming Standard, Musician, Champion  
+300 - 2 x 20x Citizen Spears, Standard Bearer, Musician, Champion  
+892 - 29x Lion Guard, Standard Bearer, Navigator's Banner, Musician, Champion  
+180 - 5x Grey Watchers, Scout, Shield, Paired Weapons,  
+160 - 5x Grey Watchers, Paired Weapons  
+450 - Phoenix, Frost Phoenix, Warden's Bond  
+4497
+<ARMY_BOOK>
+Henrypmiller - Highborn Elves 
+ 
+405 - Commander, Battle Standard Bearer, Great Weapon, Light Armour, Master of Canreig Tower, Book of Arcane Mastery 
+485 - High Prince, General, Light Armour, Longbow, Spear, Queen's Companion, Moonlight Arrows, Destiny's Call, Sliver of the Blazing Dawn 
+910 - Mage, Cosmology, Wizard Master, Dragon, Obsidian Rock, Talisman of the Void 
+280- 20x Citizen Spears, Musician, Champion 
+180 - 5x Elein Reavers 
+627 - 27x Sea Guard,  Champion, Standard, Musician, War Banner of Ryma 
+100 - Giant Eagle 
+380 - 5x Knights of Ryma, Champion, Musician 
+423 - 16x Sword Masters, Champion, Musician 
+485 - 12x Queen's Guard, Spear, Champion, Standard, Musician, Banner of Becalming 
+180 - Sea Guard Reaper 
+4500
+<ARMY_BOOK>
+Giulio "Falanor" Gatti - Highborn Elves
+420 - Commander, Battle Standard Bearer, Master of Canreig Tower, Great Weapon, Obsidian Rock, Flaming Banner, Aether Icon 
+425 - High Prince, Army General, Spear, Sliver of the Blazing Dawn, Destiny's Call 
+515 - Mage Master, Asfad Scholar, Master, Divination, Magical Heirloom 
+190 - 2x5 Elein Reavers, Bows 

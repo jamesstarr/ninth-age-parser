@@ -1,0 +1,41 @@
+Flint
+Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
+Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
+Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
+Wizard Adept, Divination, Book of Arcane Power 260
+10 Knights, Lance, Shield, FC 530
+2x15 Hnadgunners, M 220
+2x10 Militia 140
+25 Imperial Guard, FC, Shield, Banner of Unity 470
+1 Arcane engine, Shield, 290
+2x5 Reiter's Brace of Pistols 175
+1 Cannon 225
+1 Steam Tank 475
+
+
+Murphy
+Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
+Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
+Wizard master,Cosmo 350
+Wizard Adept, Pyromancy, Book of Arcane Power 260
+Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
+2x20 Light infantry, Xbow
+3x10 Militia 140
+5 electoral Cavalry, shield 175
+23 Imperial Guard, FC, Shield, Household Standard 432
+2x5 Reiter's brace of pistols 175
+2x1 Imperial Rocketeers 160
+1 Steam Tank 475
+
+
+Sadler
+Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
+Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
+Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
+Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670
+15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
+20 Light Infantry, handguns, S, M, Marksman Pennant 315
+2x3 Knights of Sun Griffon, Lance, M 346
+5 Reiters, Brace of Pistols 175
+7 reiters, Repeater gun, 243
+Steam Tank 475

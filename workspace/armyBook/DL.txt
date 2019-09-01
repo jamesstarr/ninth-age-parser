@@ -1,0 +1,183 @@
+Mike Smith
+Kuulimas Deceiver, Adept, Thaum/Evo, General, Greater Dominion, Venom Sacs, Hammer Hand, Dexterous Tentacles, Piercing Spike (Guiding) 570
+Harbinger Adept Divination Venom Sacs (Guiding) 360
+Harbinger Adept Witchcraft Venom Sacs (Guiding) 360
+25 Myrmidons FC, Unhinging Jaw 655
+2x10 Lemurs Venom Sacs 240
+2x9 Eidolons Aura of Despair 353
+5 Hoarders, Kaleidoscopic Flesh 591
+2 Mageblight Gremlins, Venom Sacs 196
+2x1 Titanslayer Chariot 205
+5 Furies, kaleidoscopic flesh 170
+<ARMY_BOOK>
+Doug Mooney
+Maw Of Akaan, General, Greater Dominion, Master, Evocation, Iron Husk, Hammerhand 1005
+Harbinger BSB, Apprentice, Divination, Mark of Eternal Champion, Living Shield, Broodmother (Guiding) 250
+24 Lemures, FC, Venom Sacs 686
+15 Succubi, FC, Smothering Coils 455
+2x1 Horde Thresher, Roaming Hands, 275
+3 Hoarders, Unnatural Roots, Smothering Coils, C,M 395
+3 Brazen Beasts, Red haze, Musician 433
+6 Bloat Flies, Broodmother, M 729
+<ARMY_BOOK>
+Sprauge
+Maw Of Akaan, General, Greater Dominion, Master, Evocation, Living Shield, Iron Husk 990
+Courtesan of Cibaresh, Adept, Witchcraft Iron Husk, Mesmerizing Plumage 800
+25 Succubi, FC, Smothering Coils 705
+2x10 Myrmidons, Whipcrack Tail 235
+2x5 Hellhounds, Incendiary Ichor 170
+2x3 Brazen Beasts, Red Haze, 433
+2x5 Furies
+<ARMY_BOOK>
+Toporowych
+Kuulima Deceiver, General, Greater Dominion, Master, Venom Sacs (Guiding) 630
+Harbinger, Adept, Evocation 275
+20 Succubi, FC, Bronze Backbone 560
+20 Myrmidons FC, Bronze Backbone 560
+5 Furies, Red haze, 165
+3 veil Serpents, C
+5 Bloat Flies, Broodmother, C 605
+3 Clawed Fiends, M, Mesmerizing Plumage 324
+5 Clawed Fiends, M, Broodmother 569
+2 Mageblight Gremlins, Venom Sacs 196
+1 Titanslayer Chariot 225
+<ARMY_BOOK>
+Baker
+Sentinal of Nukuja, General, Greater Dominion, Master, Divination, Withering Vapour, Mirrored Scales (guiding), Throne of the Oracle 765
+Kuulima’s Deceiver, Master, Protean. Venom Sacs (guiding) 600
+Harbinger, BSB, Brimstone secretions, Iron Husk 355
+20 Imps, M Incendiary Ichor 405
+10 Succubi 210
+20 myrmidons, Piercing Spike 515
+2x5 Eidolons, Kaleidoscopic Flesh 210
+3 Veil Serpents 250
+Hope harvester, Aura of Despair 325
+Blazing Glories, Stiff Upper Lip 340
+3 Hoarders, Grasping Proboscis 304
+<ARMY_BOOK>
+Stefano Ferrante - DL 
+655 - Kuulima's Deceiver, General, Greater Dominion, Master, Greenfire Eyes, Piercing Spike Dominant 
+789 - 29x Myrmidons, Bronze Backbone, C, M 
+340 - 10x Imps, Mark of the Eternal Champion, FCG, Fire Starter (Hand of Heaven) 
+569 - 5x Clawed Fiends, Broodmother, M 
+556 - 4x Brazen Beasts, Red Haze, M 
+325 - Hope Harvester, Aura of Despair 
+300 - 4x Mageblight Gremlins, Venom Sacs 
+224 - 7x Hellhounds, Horns of Hubris 
+205 - Threshing Engine, Fly and Light Troops, Divining Snout 
+370 - 3x Veil Serpents, C 
+165 - 5x Furies, Red Haze 
+4498
+<ARMY_BOOK>
+Geoffrey "Gregor" Dutranoit (cap) - Deamon Legions 
+ 
+630 - Kuulima's Deceiver, General, Greater Dominion, Wizard Master, Protean magic, Guiding Venom Sacs 
+350 - Harbinger of Father Chaos, Wizard Adept, Divination, Guiding Venom Sacs 
+564 - 2x 21x Succubi, Bronze Backbone, Champion, Musician 
+370 - 3x Veil Serpents, Champion 
+160 - 2x 5x Furies 
+681 - 2x 6x Clawed Fiends, Broodmother, Musician 
+340 - 1x Threshing Engine of Legion, Roaming Hands 
+4500
+<ARMY_BOOK>
+Vedran ″Razon″ Zuanic - Daemon Legions -  
+890 - Omen of Savar, General, Greater Dominion, Divination, Wizard Master, Brimstone Secretions, Living Shield, Dextrous Tentacles, Guiding Bronze Backbone  
+580 - Harbinger of Father Chaos, Battle Standard, Great Beast of Prophecy,Witchcraft, Wizard Adept, Hammer Hand, Unnatural Roots, Dextrous Tentacles, Guiding Bronze Backbone  
+731 - 26x Myrmidons, Piercing Spike, Standard Bearer, Musician, Champion  
+200 - 2 x 10x Lemures  
+290 - 10x Hellhounds, Horns of Hubris  
+444 - 8x Eidolons, Incendiary Ichor, Scout, Champion  
+842 - 6x Brazen Beasts, Red Haze, Standard Bearer, Musician, Champion  
+160 - 2 x 5x Furies  
+4497
+<ARMY_BOOK>
+Antti Häkli - Daemonic Legions 
+ 
+855 - Maw of Akaan, General (Greater Dominion), Evocation, Wizard Adept, Iron Husk, Unhinging Jaw 
+335 - Harbinger of Father Chaos, Divination, Wizard Adept, Guiding Digestive Vomit 
+330 - Harbinger of Father Chaos, Witchcraft, Wizard Adept, Guiding Unhinging Jaw 
+607 - 22x Myrmidons, Bronze Backbone, Musician, Champion 
+535 - 19x Succubi, Smothering Coils, Musician, Champion 
+591 - 2 x 6x Clawed Fiends, Musician 
+300 - 4x Mageblight Gremlins, Venom Sacs 
+196 - 2x Mageblight Gremlins, Venom Sacs 
+160 - 5x Furies 
+4500
+<ARMY_BOOK>
+Paul “FirePaul” Feuerstake - Daemon Legions 
+ 
+700 - Kuulima's Deceiver, General (Greater Dominion of Envy), Mark of the Eternal Champion, Greenfire Eyes, Guiding Piercing Spike, Wizard Master 
+635 - 23x Succubi, Smothering Coils, M, C 
+503 - 18x Myrmidons, Bronze Backbone, M, C 
+669 - 6x Clawed Fiends, Unhinging Jaw, M 
+559 - 5x Clawed Fiends, Unhinging Jaw, M 
+363 - 13x Hellhounds, Hot Blood, C 
+195 - 5x Sirens 
+170 - 2x Mageblight Gremlins 
+176 - 2x Mageblight Gremlins, Greenfire Eyes 
+370 - 3x Veil Serpents, C 
+160 - 5x Furies 
+4500  
+<ARMY_BOOK>
+Stephen “The Devourer” Coleman - Daemon Legions 
+665 - Kuulima’s Deceiver, General, Dominion of Envy, Venom Sacs, Piercing Spike, Unnatural Roots, Brimstone Secretions (Guiding), Wizard Master 
+860 - Omen of Savar, Divination, Living Shield, Dextrous Tentacles, Hammer Hand, Bronze Backbone, Brimstone Secretions (Guiding), Wizard Master 
+583 - 22x Myrmidons, Champion, Standard, Musician, Whipcrack Tail 
+543 - 23x Succubi, Standard, Musician, Mesmerising Plumage 
+280 - 2 x 10x Hellhounds, Grasping Proboscis 
+554 - 2 x 5x Clawed Fiends, Standard, Musician, Mesmerising Plumage 
+176 - 2x Mageblight Gremlins, Greenfire Eyes 
+4495 
+<ARMY_BOOK>
+Luka “Beba” Lazid - Daemonic Legions 
+360 - Harbinger of Father Chaos, General, Evocation, Mark of the Eternal Champion, Sorcerous Antennae, Wizard Adept 
+583 - 22x Myrmidons, Whipcrack Tail, Standard Bearer, Musician, Champion 
+559 - 21x Myrmidons, Whipcrack Tail, Standard Bearer, Musician, Champion 
+669 - 6x Clawed Fiends, Unhinging Jaw, Musician 
+554 - 5x Clawed Fiends, Piercing Spike, Musician 
+300 - 2x 4x Mageblight Gremlins, Venom Sacs 
+535 - 6x Veil Serpents, Champion 
+480 - 5x Veil Serpents, Champion 
+160 - 5x Furies 
+4500
+<ARMY_BOOK>
+Edwin de Vries – Daemon Legions 
+905 – Omen of Savar, general, greater dominion, Sorcerous Antennae, Iron Husk, wizard master, divination 
+865 – Omen of Savar, Sorcerous Antennae, Iron husk, wizard master, thaumaturgy 
+240 – 2 x 10 Lemures, unnatural roots, S  
+220 – 3 x 10 Lemures, unnatural roots,  
+322 – 2 x 12 Hellhounds, Hot blood 
+343 – 13 Hellhounds, Hot blood 
+300 – 2 x 4 Mageblight Gremlins, venom sacs  
+4497
+<ARMY_BOOK>
+David Meachen, Daemonic Legions 
+490 - Kuulima's Deceiver, General, Greater Dominion, Wizard Adept, Guiding Piercing Spike 
+420 - Harbinger of Father Chaos, Burning Wheel, Evocation, Wizard Adept, Guiding Piercing Spike 
+350 - Harbinger of Father Chaos, Divination, Wizard Adept, Guiding Venom Sacs 
+609 - 23x Succubi, Chilling Yawn, Standard Bearer, Musician, Champion 
+260 - 2x 10x Lemures, Unnatural Roots, Standard Bearer, Musician 
+356 - 13x Hellhounds, Digestive Vomit 
+343 - 13x Hellhounds, Hot Blood 
+300 - 4x Mageblight Gremlins, Venom Sacs 
+535 - 6x Veil Serpents, Champion 
+415 - 6x Veil Serpents 
+160 - 5x Furies 
+4498
+<ARMY_BOOK>
+Marcin "Kali" Szlasa-Rokicki - DL 
+615 - Kuulima's Deceiver, General, Wizard Master, Piercing Spike - Guiding , Dominion 
+350 - Harbinger of Father Chaos, Wizard Adept, Divination, Venom Sacs - Guiding 
+535 - 20x Myrmidons, M, S, C, Whipcrack Tail 
+605 - 25x Succubi, M, S, C, Mesmerizing Plumage 
+683 - 2x6 Clawed Fiends, M, S, Piercing Spike 
+280 - 3x Clawed Fiends 
+370 - 3x Veil Serpents, C 
+209 - 3x Mageblight Gremlins 
+160 - 5x Furies  
+4490
+<ARMY_BOOK>
+José « Paulo » Pinheiro – Deamon Legions 
+620 - Kulimaa Deceiver, General, Dominion of Envy, Master Protean magic, Kaleidoscopic Flesh guiding  
+710 - Courtesan of Cibaresh, Aprentice Witchcraft, Brimstone Secretions, Kaleidoscopic Flesh, Chitinous scales, Mesmerising Plummage 
+340 - Harbinger Father Chaos, Adept Evocation, Kalei

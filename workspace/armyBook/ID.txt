@@ -1,0 +1,177 @@
+Burgy
+Prophet, General, Master, Alchemy, Tablet of Ashuruk, Shield 505
+Prophet, Adept, Pyromancy, Book of Arcane Mastery, Shield 345
+Vizier, BSB, Shield, Icon of the Inferno, 280
+2x1 Hobgoblin Chief, Shield 130
+16 Citadel Guard, Flintlock Ax FC, Shield, 526
+2x10 Citadel Guard,Flintlock Ax M 300
+5 Taurukh, Shield 160
+Volcano Cannon 150
+2x1 Hobgoblin Boltthrower 95
+6 Kadim Incarnates 695
+3 Kadim Incarnates 335
+Infernal engine, Shrapnel Guns 450
+<ARMY_BOOK>
+CashDollar
+Overlord, General, Infernal Armor, Shield, Onyx Core, Potion of Swiftness, Gauntlets of Madzhab, Great Bull of Shamut 840
+Prophet, Master, Alchemy Binding Scroll, Binding Scroll 535
+Vizier, BSB, Shield, Crown of Wizard King, Icon of Inferno 330
+2x10 Citadel Guard, FC, Flintlock Ax, 340
+15 Citadel Guard, FC, Flintlock Ax, 480
+Kadim Titan 575
+2x3 Taurukh Anointed, Infernal weapon, FC, Shield 529
+<ARMY_BOOK>
+Mathes
+Prophet, General, Master, Essence of a Free mind Pyro/Alchemy, Shield, Tablet of Ashuruk 560
+Vizier, BSB, GW, Destiny's call, Crystal Ball 295
+Hobgoblin Chieftain, Shield 140
+20 Citadel Guard, Shield, FC, Banner of Shamut 520
+2x12 Citadel Guard, Shield, M 362
+15 Immortals, Infernal Weapon, Shield, Icon of Inferno 510
+5 Wolf Riders 140
+Gunnery Team: Grenade Launcher 150
+Gunnery Team: Volley Gun 150
+Infernal Engine with Shrapnel Guns 450
+Kadim Titan 575
+<ARMY_BOOK>
+Fabian "Kathal" Gollmann - Infernal Dwarfs
+545 - 1x Prophet, Wizard Master, Pyromancy, General, Tablet of Ashuruk, Magical Heirloom 
+330 - 1x Vizier, BSB, Shield, Talisman of the Void, Icon of the Inferno 
+520 - 1x Vizier, Bull of Shamut, Shield, Hero's Heart, Ghostly Guard, Talisman of Shielding 
+120 - 2x1 Hobgoblin Chieftain, Wolf 
+300 - 3x10 Citadel Guard, Flintlock Axe, Shield, Musician 
+233 - 1x16 Infernal Warriors, Shield, Musican  
+216 - 1x6 Taurukhs, Shield, Infernal Weapons 
+150 - 2x1 Gunnery Team, Volley Gun 
+95 - 2x1 Hobgoblin Bolt Thrower 
+450 - 1x Infernal Engine, Shrapnel Guns 
+575 - 1x Kadim TitanSum: 4499
+<ARMY_BOOK>
+Hadrien "Strauss" Janne - Infernal Dwarves 
+ 
+465 - Overlord, General, Onyx Core, Destiny's Call, Shield 
+280 - Vizier, BSB, Shield, Icon of the Inferno 
+475 - Prophet, Wizard, Wizard Master, Pyromancy, Magical Heirloom 
+360 - Prophet, Engineer, Wizard Adept, Alchemy, Bullhorn of Nezibkesh 
+300 - 2x 10x Citadel Guard, Shield, Flintlock Axe, Musician 
+571 - 23x Citadel Guard, Shield, FCG, Flaming Standard 
+180 - 5x Taurukh, Shield, Musician 
+130 - 5x Hobgoblin Wolf Riders 
+285 - 1x Infernal Artillery, Rocket Battery 
+575 - 1x Kadim Titan 
+575 - 5x Kadim Incarnates 
+4496
+<ARMY_BOOK>
+Pyry Peitso - Infernal Dwarves 
+ 
+520 - Overlord, General, Shield, Willow's Ward, Death Cheater, Onyx Core (Hand Weapon), Potion of Swiftness 
+465 - Prophet, Wizard, Wizard, Alchemy, Wizard Master, Shield, Alchemist's Alloy, Blunderbuss 
+360 - Vizier, Battle Standard, Banner of the Relentless Company, Shield, Blunderbuss, Basalt Infusion, Infernal Weapon, Mask of the Furnace 
+95 - Hobgoblin Chieftain, Backstabber Boss 
+653 - 28x Infernal Warriors, Shields, Blunderbuss, Standard Bearer, Musician, Champion 
+280 - 26x Hobgoblins, Backstabbers, Musician, Champion 
+198 - 22x Hobgoblins, Bows, Musician 
+454 - 17x Immortals, Shields, Infernal Weapons, Musician, Champion 
+135 - 5x Hobgoblin Wolf Riders, Shields 
+95 - 2 x Hobgoblin Bolt Thrower 
+575 - 5x Kadim Incarnates 
+575 - Kadim Titan 
+4500
+<ARMY_BOOK>
+James McDonnell - Infernal Dwarves
+495 - Prophet, General, Wizard, Master, Alchemy, Tablet of Ashuruk. 
+335 - Prophet, Wizard, Adept, Pyromancy, Book of Arcane Mastery. 
+315 - Vizier, Battle Standard Bearer, Shield, Kadim Bindings, Mask of the Furnace. 
+300 - 3x 10x Citadel Guard, Flintlock Axes, Musician, Shields. 
+240 - 15x Infernal Warriors, Champion, Musician, Shields. 
+130 - 2x 5x Hobgoblin Wolf Riders. 
+670 - 20x Immortals, Full Command Group, Infernal Weapons, Shields, Icon of Inferno. 
+450 - Infernal Engine, Shrapnel Guns. 
+130 - 2 x Gunnery Team, Flame Thrower. 
+575 - 5x Kadim Incarnates 
+4500
+<ARMY_BOOK>
+ 
+Joseph "Karak Angor" Abel - Infernal Dwarfs 
+825 - Overlord,  General, Great Bull of Shamut , Hand Weapon, Obsidian Rock, Onyx Core 
+535 - Prophet,  Alchemy, Pyromancy, Master, Binding Scroll, Essence of a Free Mind 
+280 - Vizier: BSB, Shield,  Icon of the inferno 
+650 - 20 x Citadel Guard, Shield, Flintlock Axe, C,M,S  
+240 - 24x Hobgoblins, bows, Shield, Musician 
+240 - 24x Hobgoblins, bows,Shield Musician 
+705 - 5x Taurukh Anointed: Infernal Weapon, Shields, Musician  
+450 - Infernal Engine: Shrapnel Guns 
+575 - Kadim Titan 
+4500 pts 
+<ARMY_BOOK>
+Miljan “Ota” Otovid – Infernal Dwarves  
+525 – Overlord, General, Shield, Onix Core, Willows Ward, Talisman of Shielding, Mask of Furnace 
+495 - Taurukh Subjugator, Battle Standard, Shield, Infernal Weapon, Kadim Bindings, Guntlets of Madzhab 
+480 – Prophet, Occultism/Pyromancy, Essence of Free Mind, Master Wizard 
+275 - Prophet - Alchemy, Adept 
+590 – 18x Citadel Guard, Standard Bearer, Champion, Flintlock Axe, Banner of Relentless Company 
+270 – 2x 10x Citadel Guard, Flintlock Axe 
+365 - 3x Taurukh Anointed, Shield 
+390 – 2x 1x Titan Mortar, Bound Daemon 
+450 - Infernal Engine, Steam Hammers 
+4500
+<ARMY_BOOK>
+Karl-Erik “Kalerith” Hansen - Infernal Dwarves 
+575 - Prophet, General, Engineer, Path of Pyromancy, Path of Alchemy, Flintlock Axe, Bullhorn of Nezibkesh, Essence of a Free Mind, Wizard Master 
+290 - Vizier, BSB, Shield, Burning Steel (Hand Weapon), Willows Ward (Shield), Basalt Infusion (Infernal Armour) 
+650 - 20x Citadel Guard, Shields, Flintlock Axe, Champion, Musician, Standard 
+205 - 15x Infernal Warrior, Musician  
+270 - 30x Hobgoblin, Bows, Musician  
+130 - 5x Hobgoblin Wolf Rider  
+618 - 19x Immortal, Shields, Infernal Weapon, Musician, Standard, Icon of the Inferno  
+285 - Infernal Artillery, Rocket Battery  
+330 - Armoured Giant, Giant Club  
+450- Infernal Engine, Shrapnel Guns 
+695 - 6x Kadim Incarnates  
+4498
+<ARMY_BOOK>
+Fraser “Cam” Campbell - Infernal Dwarves 
+470 - Overlord, General, Shield, Onyx Core, Talisman of Shielding, Willow's Ward, Potion of Swiftness 
+325 - Vizier, Battle Standard Bearer, Blunderbuss, Infernal Weapon, Shield, Banner of the Relentless Company, Mask of the Furnace 
+555 - Prophet, Wizard, Alchemy, Shield, Besheluk's Mechanism, Tablet of Ashuruk, Wizard Master 
+362 - 12x Citadel Guard, Flintlock Axes, Shield, Musician  
+765 - 28x Infernal Warriors, Blunderbusses, Great Weapons, Shields, Standard Bearer, Musician, Champion 
+135 - 5x Hobgoblin Wolf Rider, Shield 
+605 - 20x Immortal, Infernal Weapon, Shield, Standard Bearer, Musician, Champion, Flaming Standard 
+130 - Gunnery Team, Flamethrower 
+575 - 5x Kadim Incarnates 
+575 - Kadim Titan 
+4497 
+<ARMY_BOOK>
+Aleksandar “Alf” Ristid - Infernal Dwarves 
+ 
+520 - Overlord, General, Shield, Onyx Core, Death Cheater, Gauntlets of Madzhab 
+350 - Vizier, BSB, Shield, Infernal weapon, Steel Skin, Talisman of Shielding, Potion of Strength 
+620 - Prophet, Wizard, Shield, Infernal weapon, Ring of Desiccation, Kadim Bindings, Alchemist’s Alloy, Lucky Charm, Master, Alchemy  
+545 - 15x Citadel Guard, M, S, C, Flintlock Axe, Shield, Banner of Shamut 
+300 - 2x10 Citadel Guard, M, Flintlock Axe, Shield 
+844 - 27x Immortals, M, S, C, Shield, Infernal Weapon, Banner of Shamut 
+285 - 2x Infernal Artillery, Rocket Battery 
+450 - Infernal Engine, Steam Hammers 
+4499
+<ARMY_BOOK>
+Justin “Pretty Princess” Burgy - Infernal Dwarves 
+ 
+505 - Prophet, General, Shield, Tablet of Ashuruk, Master, Alchemy 
+345 - Prophet, Shield, Book of Arcane Mastery, Adept, Pyromancy 
+280 - Vizier, BSB, Shield, Icon of the Inferno 
+130 - 2x1 Hobgoblin Chieftain, Wolf, Light Armour, Shield 
+526 - 16x Citadel Guard, Flintlock Axe, Shield, M, C, S 
+300 - 2x10 Citadel Guard, Flintlock Axe, Shield, M 
+160 - 5x Taurukh, Shields 
+150 - 1x Infernal Artillery, Volcano Cannon 
+95  - 2x1 Hobgoblin Bolt Thrower 
+695 - 6x Kadim Incarnates 
+335 - 3x Kadim Incarnates 
+450 - 1x Infernal Engine, Shrapnel Guns 
+4496   
+<ARMY_BOOK>
+Dušan Živkovid - Infernal Dwarves 
+ 
+540 - Prophet, General, Engineer, Wizard Master, Pyromancy, Obsidian Rock, Tablet of Ashuruk  
+355 - Prophet, Engineer,Wizar

@@ -1,0 +1,87 @@
+<Unit name="Artificer" 
+	RangedWeapon="Long Rifle"
+>135- Artificer, long rifle
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 - Artillery, Canon
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>200 - Artillery, Mortar
+<Unit name="Artillery" 
+	ArtilleryWeapons="Volley Gun"
+>200- Artillery- Mortar
+
+
+
+
+<Unit name="Heavy Infantry" ModelCount=39 
+	CloseCombatWeapon=Spear
+>434 - 39x Heavy Infantry, Spears, Parent Unit, Standard bearer, Musician, Champion
+<Unit name="Heavy Infantry" ModelCount=39 
+>474- 39x heavy infantry, C, M, S, banner of unity
+<Unit name="Heavy Infantry" ModelCount=20 
+>205- 20x heavy infantry, C, S, M
+<Unit name="Imperial Guard" ModelCount=32 
+>608- 32x imperial guard, C,M,S, rending banner
+<Unit name="Inquisitor" 
+>275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+>366 - 3x Knights of the Sun Griffon, Lances, Standard bearer, Champion
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+>330 - 3x Knights of the Sun Griffon, Standard bearer, Champion
+<Unit name="Light Infantry" ModelCount=10 
+	RangedWeapon=Handgun
+>135 - 10x Light Infantry, Handguns
+<Unit name="Light Infantry" ModelCount=10 
+	RangedWeapon=Handgun
+>135 - 10x Light Infantry, Handguns
+<Unit name="Light Infantry" ModelCount=10 
+	RangedWeapon=Handgun
+>135 - 10x Light Infantry, Handguns
+<Unit name="Light Infantry" ModelCount=18 
+	Command=M
+>294- 18x light infantry, long rifle, C, M
+<Unit name="Light Infantry" ModelCount=17 
+	RangedWeapon=Handgun
+	Command=S
+	BannerEnchantment="Marksman’s Pennant"
+>311- 17x ligth infantry, long Rifle, C, S, M, marksman´s pennat
+<Unit name="Marshal" 
+>660 - Prelate, General, Altar of Battle, Shield, Shield of Volund, Paired Weapons, Shield Breaker (Paired Weapons), Plate Armour, Dragon Staff, Potion of Swiftness
+<Unit name="Marshal" 
+>250 - Marshal, Battle Standard, Legion Standard, Shield, Willow's Ward, Paired Weapons, Ghostly Guard
+<Unit name="Marshal" 
+	ArmourEnchantment=Blacksteel
+>385- Marshal, general, imperial prince, shield, blacksteel
+<Unit name="Marshal" 
+	BattleStandardBear
+	ArmourEnchantment="Death Cheater"
+>265- Marchal, battle Standard Bearre, shield, shield, death cheater.
+<Unit name="Marshal" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Essence of Mithril"
+>285- Prelate, paired weapons, essence of Mithril, hero´s heart.
+<Unit name="Reiters" ModelCount=5 
+>175 - 5x Reiters, Braces of Pistals
+<Unit name="Reiters" ModelCount=5 
+>175 - 5x Reiters, Braces of Pistals
+<Unit name="Reiters" ModelCount=5 
+>175 - 5x Reiters, Braces of Pistals
+<Unit name="Reiters" ModelCount=5 
+>175- 5x reiters, brace of Pistols
+<Unit name="State Militia" ModelCount=10 
+>150 - 10x State Militia, Irregulars
+<Unit name="State Militia" ModelCount=10 
+>150 - 10x State Militia, Irregulars
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475- Steam Tank
+<Unit name="Wizard" 
+	Wizard=Adept
+	Artefact="Talisman of the Void"
+>305 - Wizard, Alchemy, Wizard adept, Light Armour, Talisman of the Void, Magical Heirloom
+<Unit name="Wizard" 
+	Wizard=Master
+	Artefact="Binding Scroll"
+>410- wizard, wizard master, binding scroll, light armour (cosmology)

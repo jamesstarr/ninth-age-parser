@@ -1,0 +1,59 @@
+Hetes
+High Prince, General, Master of Canreig Tower, Adept, Spear, heavy Armor, Shield, Death Cheater, Spear of Blazing Dawn 690
+Commander, BSB, Queens COmpanion, Spear, Longbow, Moonlight Arrows, Banner of Becalming 335
+Mage, Master, Pyromancy, Binding Scroll, Binding Scroll, 485
+14 Archers, M 262
+2x24 Citizen Spears, FC, M,C 344
+5 Elein Reavers 180
+19 Flame Wardens, FC, Rending Banner, 577
+5 Knights of Ryma, M, 360
+13 Queensguard, M 392
+2x Sky Sloop 265
+
+
+Loughman
+High Prince, General, GW, Light Armor, Lion Fur, Destiny's Call, Ring of the Pearl Throne, Rolaay Huntsman 485
+Commander, BSB, Adept, GW, Heavy Armor, Death Cheater, MoCT, 455
+Commander, Heavy Armor, Shield, Lance, Dragon Staff, Giant Eagle 265
+20 Sea Guard, C,S 445
+2x25 Citizen Spears, FC 380
+19 Flame Wardens, FC, Ryma Banner 592
+14 Swordmasters, FC, Navigators banner 472
+10 Swordmasters 245
+Fire Phoenix 420
+2x1 Reaper Bolt thrower 180
+
+
+Sczypta
+High Prince, General, Royal Huntsman, GW, Dragonforged Armor, Shield, Blessed Inscriptions, Basalt Infusion, Lucky Charm, Diadem of Protection, Lion Chariot 670
+Commander, BSB, MoCT, adept, GW, Light armor, Essence of Mithril, Flaming Standard 440
+Mage Master, order of fiery heart, Essence of Free Mind (Pyro/Alchemy), Gleaming Robe 560
+2x24 Citizen Spears, FC, Ryma Banner 424
+5 Highborn Lancers, M, C 240
+25 Flame Wardens, FC, Rending Banner 745
+Lion Chariot 215
+2x1 Great Eagle 100
+3x1 Sea Guard Reaper 180
+
+
+Szymanski
+Mage, General, Master, Pyromancy, Light armor, Destiny's Call, Potion of Strength, Book of Meladys 560
+Commander, BSB, MoCT, Adept, GW, Longbow, Drangonforged, Elus Heartwood, Obsidian Rock 470
+Commander, Queens Companion, Spear, Longbow, Dragonforged armor, Shield, Sliver of Blazing Dawn 340
+31 Citizen spears, FC, Ryma Banner 536
+25 Sea Guard, M, S, Ryma banner 589
+20 Queens Guard, M, S Navigators Banner 730
+18 Flame Wardens, S, Banner of Beclaming 534
+2x1 Giant Eagle 100
+3x1 Sea Guard Reapers 180
+
+
+Weyforth
+High Prince, General, Queens COmpanion, Spear, Longbow, Light armor, Destiny's Call, Sliver of the Blazing Dawn 485
+High prince, GW, Obsidian Rock, Dragon 750
+Mage, Master, Divination, Book of Meladys 565
+20 Citizen Spears, M, S 280
+5 Elein Reavers 180
+28 Sea Guard, FC, Banner of Speed 683
+22 Lion Guard, M, C 601
+3x1 Reaper Bolt Thrower 180

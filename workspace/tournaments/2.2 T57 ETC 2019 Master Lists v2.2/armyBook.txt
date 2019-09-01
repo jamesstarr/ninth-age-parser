@@ -1,0 +1,16 @@
+BH, 19
+WDG, 26
+DE, 11
+SE, 11
+HBE, 10
+OK, 22
+DL, 19
+VS, 26
+VC, 23
+SA, 17
+KoE, 7
+UD, 29
+ID, 12
+OnG, 20
+DH, 16
+EoS, 16

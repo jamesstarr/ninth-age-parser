@@ -1,0 +1,370 @@
+Amburn
+Vampire Count, General, Lamia, Adept, Witchcraft, Reapers Harvest, Cursed Medallion, Mask of innocence, Court of the Damned 1095
+Necromancer, Master, Evocation, Necromantic Staff, 430
+32 Ghouls, C 524
+28 Zombies, M 175
+23 Skeletons, shield, FC 240
+2x2 Bat Swarm 105
+5 Barrow Knights, M 190
+4 Ghasts, C 275
+2x1 Shrieking Horror 490
+10 Wraiths 380
+<ARMY_BOOK>
+Colander
+Necromancer, General, Master, Evocation, Destiny's Call, Binding Scroll 510
+Vampire Count, Brotherhood of the Dragon, Shield, Legend of the Black King, Eternal Duelist, Great Monstrous Revenant 600
+2x30 Zombies 165
+2x8 Direwolves 113
+29 Skeletons, Shield, FC 300
+2x3 Bat Swarms 135
+5 Vampire Knights, Blood Ties, FC 605
+5 Vampire Knights, Blood Ties, C,S 585
+Dark Coach 445
+6 Ghasts, C 465
+<ARMY_BOOK>
+Faught
+Vampire Count, Master, Occultism, Heavy Armor, Shield, Halberd, Arcane Knowledge, Death Cheater, Eternity Gem, Great Monstrous Revenant 1035
+Necromancer, Master, Evocation, Binding Scroll, Binding Scroll, Skeletal Steed 485
+Necromancer, Adept, Alchemy, Magical heirloom, Skeletal Steed, 275
+8 Dire Wolves, C 133
+8 Dire Wolves 113
+30 Ghouls, C 490
+23 Skeletons, Shield, M 200
+8 Barrow Knights, Shield, FC 374
+2x3 Great Bats 105
+5 Vampire Knights, M 440
+4 Winged Reapers, PW 740
+<ARMY_BOOK>
+Jennings
+Vampire Count, General, Brotherhood of the Dragon, Apprentice, Occultism, Eternal Duelist, Plate Armor Shield Breaker, Legend of the Black King, Dragon Staff, Skeletal Steed 730
+Vampire Courtier, Apprentice, Occultism, Brotherhood of the dragon, Lance, Plate, Shield, Eternal Duelist, Skeletal Steed 395
+2 bat Swarms 105
+8 Dire Wolves 113
+40 Ghouls C 660
+20 Zombies 115
+21 Zombies, M 140
+10 Barrow Knights, FC, Shield, Banner of Speed 520
+Dark Coach, Extended Chassis 445
+5 Vampire Knights, FC, Brotherhood of the Dragon, 605
+2x1 Varkolak 335
+<ARMY_BOOK>
+McGee
+Vampire Count, General, Nosferatu, Adept, Occultism, True Thrist, Destiny's Call, Nights Crown, Skeletal Steed 690
+Vampire Count, Nosferatu, Adept, Occultism, Lance, Supernatural Dexterity, necromantic Staff, Cursed Medallion, Colossal Zombie Dragon 1055
+30 Skeletons, FC, Shield, Halberd, Legion Standard 365
+25 Ghouls, C, 405
+21 Zombies, M 140
+8 Dire Wolves 113
+11 Barrow Knights, FC 518
+3 Phantom Host 235
+8 Wraiths 300
+6 Spectral Hunters 228
+1 Varkolak 335
+<ARMY_BOOK>
+Mince
+Vampire Count, General, Master, Occultism, Halberd, Arcane Knowledge, Blessed Inscriptions, Destiny’s Call, Night’s Crown, 860
+Necromancer, Master, Evocation, Necromantic Staff, Binding Scroll 485
+Barrow King, BSB, Heavy armor, shield, Hero’s Heart, Basalt Infusion, Dusk Forged 410
+30 Skeletons, FC, shield, Flaming Standard 345
+25 Skeletons, FC, Shield, Legion Standard 285
+21 Zombies, M 140
+8 Dire Wolves, C 133
+Dark Coach 430
+3 Ghasts 160
+2 Great Bats 90
+8 Vampires Spawn, C 660
+6 Vampire Spawn, C 500
+<ARMY_BOOK>
+Miner
+Vampire Count, General, Lamia, Master, Witchcraft, Essence of Mithril, Obsidian Rock, Talisman of Shielding, Commandment, True Thirst, 895
+Vampire Courtier, BSB, Lamia, Apprentice, Witchcraft, Halberd, Mesmerizing Gaze, Aether Icon, Aether Icon, Destiny's Call 445
+7 Bat Swarm 255
+6 Bat Swarm 225
+80 Zombies, M, S 455
+40 Barrow Guard, Shield, FC, Black Standard of Zagvozd 955
+Dark Coach 430
+5 Phantom Host 385
+<ARMY_BOOK>
+Vampire Count, General, Master, Occultism, Heavy Armor, Shield, True Thrist, Willows Ward, Legend of the Black King 780
+Vampire Courtier, BSB, Adept, occultism, GW, Heavy Armor, Shield, Death Cheater, Court of the damned 790
+47 Skeletons, Shield, FC, Legion Standard 505
+3x8 Dire Wolves, C 133
+32 Barrow Guard, Shield, FC, Black Standard of Zagvozd 763
+2x5 Vampire Knights, M, C 460
+Varkolak 335
+<ARMY_BOOK>
+Waganek
+Vampire Count, General, Strigoi, Adept, Shamanism, Ghoul Lord, Nights Crown, Talisman of Shielding 720
+Vampire Count, Strigoi, Adept, Shamanism, Eternity Gem, Magical heirloom, Bestial Bulk 730
+40 Ghouls, 640
+15 Ghouls, C 235
+40 Skeletons, FC 410
+9 Ghasts 730
+Altar of undeath 365
+2x1 Varkolak 335
+<ARMY_BOOK>
+Whelen
+Vampire Count, General, Von Karnstein, Master, Occultism, Lance, Heavy Armor, Shield, hour of the Wolf, Eternity Gem, Death Cheater, Monstrous Revenant 1055
+Vampire Courtier, BSB, Von Karnstein, PW, Essence of Mithril, Potion of Strength, Legion Standard, Unbreakable Will 395
+Vampire Courtier, Von Karnstein, Apprentice, Evocation, Heavy Armor, Shield, True thrist, Hour of the wolf. 350
+2x2 Bat Swarms 105
+2x10 Dire Wolves 135
+48 Skeletons, Shield, FC, Legion Standard 515
+19 Barrow Guard, GW, M,S Black Standard of Zagvozd 535
+2x5 Barrow Knights, C 190
+Dark Coach 445
+2x3 Great Bats 105
+<ARMY_BOOK>
+Akhter Khan - VC 
+770 - Vampire Count, General, The Dead Arise, Strigoi, Ghoul Lord, Shamanism, Adept, Paired Weapons (Touch of Greatness), Hypnotic Pendant 
+430 - Vampire Courtier, Strigoi, Bestial Bulk, Shamanism, Apprentice, Halberd, Talisman of the Void 
+280 - Necromancer, Evocation, Adept, Necromantic Staff 
+660 - 40x Ghouls, C 
+200 - 33x Zombies, M 
+133 - 2x8 Dire Wolves, C 
+560 - 7x Ghasts, C 
+350 - Cadaver Wagon 
+490 - 2x1 Shrieking Horror 
+4496
+<ARMY_BOOK>
+Bigfish, VC
+945 - Vampire Count on Skeletal Steed , General, The Dead Arise , Master, Occultism , Great Weapon , Heavy Armour , Shield , Eternity Gem, Death Cheater , Arcane Knowledge 
+410 - Barrow King on Skeletal Steed , BSB, Heavy Armour , Shield , Unliving Shield , Basalt Infusion , Dusk Forged , Hero's Heart 
+470 - Necromancer,  Wizard Master; The Evocation; Necromantic Staff, 
+360 - 35 Skeletons CMS 
+120 - 21 Zombies 
+115 - 20 Zombies 
+105 - 2 Bat Swarm 
+105 - 2 Bat Swarm 
+113 - 8 Dire Wolves 
+500 - 6 Vampire Spawn, C 
+440 - 5 Vampire Knights, M 
+430 - Dark Coach 
+335 - Varkolak 
+90 - 2 Great Bats 
+<ARMY_BOOK>
+Michal "Houba" Malý - Vampire Covenant - Lamia 
+1285 – Vampire Count, General (The Dead Arise), Lamia, Commandment,  Witchcraft, Wizard Master, Court of the Damned, Blood ties (Lamia),  Reaper’s Harvest (Hand Weapon), Cursed Medallion, Dragonfire Gem
+485 – Necromancer, Evocation, Wizard Master, Necromantic Staff , Binding  Scroll 
+639 – 54x Skeletons, Spears, Standard Bearer, Flaming Standard,  Musician, Champion 
+135 – 2 x 20x Zombies, Musician 
+113 – 2 x 8x Dire Wolves 
+160 – 3x Ghasts 
+300 – 8x Wraiths 
+560 – 7x Vampire spawns 
+335 – Varkolak 
+240 – 3x Vampire Knights 
+4500
+<ARMY_BOOK>
+Kaare Siesing - Vampire Covenant - Lamia  
+870 – Vampire Courtier, General, Witchcraft, Court of the Damned (Blood Ties: Lamia), Paired Weapons, Light Armour, King Slayer (Paired Weapons), Basalt Infusion, Wizard Adept, Lamia, The Dead Arise  
+470 – Vampire Courtier, Battle Standard Bearer, Witchcraft, Paired Weapons, Light Armour, Destiny's Call, Legion Standard, Wizard Adept, Lamia  
+450 – Necromancer, Evocation, Magical Heirloom, Talisman of the Void, Wizard Master  
+115 – 2 x 20x Zombies  
+325 – 29x Skeletons, Handweapon, Shield, M, S, C, Legion Standard  
+575 – 35x Ghouls, C   90 – 2 x 2x Great Bats  
+380 – 2 x 10x Wraiths  
+640 – 8x Vampire Spawn  Total Army cost: 4500
+<ARMY_BOOK>
+Rafael Harbinson - Vampire Covenant 
+825 - Vampire Count, General, Occultism, Light Armour, Paired Weapons, Destiny's Call, Hypnotic Pendant, Wizard Master, The Dead Arise, Arcane Knowledge,  
+410 - Barrow King, Battle Standard, Skeletal Steed, Dusk forged, Basalt Infusion, Hero's Heart 
+260 - Necromancer, Evocation, Book of Arcane Mastery, Wizard Adept 
+250 - Necromancer, Alchemy, Magical Heirloom, Wizard Adept 
+626 - 38x Ghouls, Champion 
+140 - 21x Zombies, Musician 
+135 - 20x Zombies, Musician 
+655 - 8x Ghasts, Champion 
+90 - 3x 2x Great Bats 
+342 - 9x Spectral Hunters 
+585 - 6x Vampire Knights, Standard Bearer, Musician, Champion, Aether Icon 
+4498
+<ARMY_BOOK>
+Julius Castren - Vampire Covenant 
+ 
+860 - Vampire Count, General (The Dead Arise), Nosferatu, Blood Magic, Cosmology, Wizard Master, Light Armour, Destiny's Call, Paired Weapons, Shield Breaker (Paired Weapons), Necromantic Staff 
+440 - Necromancer, Evocation, Wizard Master, Talisman of the Void, Sceptre of Power 
+410 - Barrow King, Skeletal Steed, Battle Standard, Dusk forged, Basalt Infusion, Hero's Heart (Hand Weapon) 
+235 - 3 x 20x Skeletons, Standard Bearer, Legion Standard, Musician, Champion 
+155 - 20x Zombies, Standard Bearer, Musician 
+133 - 2 x 8x Dire Wolves, Champion 
+430 - Dark Coach 
+740 - 4x Winged Reapers, Paired Weapons 
+490 - Shrieking Horror 
+4496
+<ARMY_BOOK>
+Benjamin Nardelli - Vampire Covenant  
+ 
+1100 – Vampire Count, General, Witchcraft, Court of the Damned, Blood Ties (Lamia), Reaper’s Harvest, Cursed Medallion, Potion of Swiftness, Wizard Adept, Lamia, Mask of Innocence, The Dead Arise 
+405 – Necromancer, Evocation, Binding Scroll, Wizard Master 
+295 – Barrow King, Battle Standard Bearer, Flaming Standard, Alchemist's Alloy, Dragonfire Gem 
+626 – 38x Ghouls, Champion 
+140 – 21x Zombies, Musician 
+135 – 20x Zombies, Musician 
+113 – 2 x 8x Dire Wolves 
+90 – 2x Great Bats 
+340 – 9x Wraiths 
+580 – 7x Vampire Spawns, Champion 
+560 – 7x Vampire Spawns 
+4497
+<ARMY_BOOK>
+Sergejs "Medved" Medvedevs - Vampire Covenant 
+960 - Vampire Count, General, Occultism, Spectral steed, Heavy Armour, Shield, True Trist (HW), Legend of the Black King, Lucky Charm, Wizard Master, Dead Arise, Arcane Knowledge  
+675 - Vampire Cound, Evocation, Light Armour, Destiny's Call, Reaper's Harvest (HW), Potion of Swiftness, Wizard Adept, Eternal Duelist 
+165 - Banshee 
+105 - 2x Bat Swarm 
+660 - 40x Ghouls, Champion 
+135 - 20x Zombies, Musician 
+310 - Court of the Damned 
+258 - 6x Barrow Knights, Champion, Musician 
+490 - Shrieking Horror 
+740 - 4x Winged Reapers, Paired Weapons 
+4498
+<ARMY_BOOK>
+Đorđe "Warhamster" Ratković - Vampire Covenant 
+Army 
+610 - Vampire Count, General, Evocation, Light Armor, Shield, Reapers Harvest, Destiny's Call, Potion of Swiftness, Flying Horror, The Dead Arise, Wizard Apprentice 
+280 - Necromancer, Wizard Adept, Evocation, Necromantic Staff 
+165 - 3 x Banshee 
+410 - Barrow King, Battle Standard Bearer, Skeletal Steed, Hero's Heart, Basalt Infusion, Dusk Forged 
+230 - 2 x 20x Skeletons, Standard bearer, Champion, Banner of Relentless Company 
+260 - 20x Skeletons, Standard bearer, Musician, Champion, Banner of Speed 
+225 - 20x Skeletons, Standard bearer, Champion, Flaming Banner 
+430 - Dark Coach 
+90 - 2x Great Bats 
+660 - 8x Vampire Spawn, Champion 
+580 - 7x Vampire Spawn, Champion 
+4500
+<ARMY_BOOK>
+Denny Harsono –  Vampire Covenant – No Bloodline 
+835 – Vampire Count, Arcane Knowledge, Army General, Light Armour, Paired Weapons, Occultism, Wizard Master, Destiny's Call, Night's Crown, Touch of Greatness 
+410 – Barrow King, Battle Standard Bearer, Skeletal Steed, Basalt Infusion, Dusk Forged, Hero's Heart 
+200 – Necromancer, Evocation, Wizard Adept 
+250 – Necromancer, Alchemy, Wizard Adept, , Magical Heirloom 
+330 – 2x32 Skeletons, Champion, Musician, Standard Bearer 
+140 – 21x Zombies, Musician 
+113 – 8x Dire Wolves 
+481 – 24x Barrow Guard, Champion, Musician, Shield, Standard Bearer 
+90 – 1x2 Great Bat 
+660 – 2x8 Vampire Spawn, Champion 
+4499
+<ARMY_BOOK>
+Gareth Barton, Vampire Covenant 
+855 - Vampire Count, General (The Dead Arise), Arcane Knowledge, Occultism, Wizard Master, Halberd, Light Armour, Destiny's Call, Hypnotic Pendant, Dragonfire Gem 
+410 - Barrow King, Battle Standard Bearer, Skeletal Steed, Dusk forged, Basalt Infusion, Hero's Heart (Hand Weapon) 
+430 - Necromancer, Evocation, Wizard Master, Necromantic Staff 
+524 - 32x Ghouls, Champion 
+245 - 21x Skeletons, Standard Bearer, Musician, Champion, Legion Standard 
+135 - 20x Zombies, Musician 
+859 - 32x Barrow Guards, Great Weapons, Standard Bearer, Musician, Champion, Black Standard of Zagvozd 
+402 - 9x Barrow Knights, Musician, Champion 
+90 – 2x 2x Great Bats 
+460 - 5x Vampire Knights, Musician, Champion 
+4500 
+<ARMY_BOOK>
+Marek Gmyrek - VC 
+920 - Vampire Count Master on Skeletal steed, Skeletal steed, Wizard Master, The Occultism, Great Weapon, Heavy Armour, Shield, Death Cheater, Eternity Gem, Arcane Knowledge 
+410 - Barrow King on Skeletal steed, BsB, Skeletal steed, Hero's Heart, Basalt Infusion, Dusk Forged  
+460 - Necromancer Master, General, The Dead Arise, Wizard Master, Alchemy, Necromantic Staff 
+225 - 20x Skeletons, M, S, C, Aether Icon 
+135 - 3x20 Zombies, M 
+135 - 2x10 Dire Wolves 
+430 - 2x1 Dark Coach  
+490 - Shrieking Horror  
+460 - 5x Vampire Knights, M, C 
+4500
+<ARMY_BOOK>
+Antonio "Montxo" – Vampire Convenant 
+ 
+940 - Vampire Count, General, The dead Arise, 4 Spells, Skeletal Steed, Heavy Armour, Halberd, Eternity Gem, Death Cheater, Arcane Knowledge, Wizzard Master, Occultism  
+405 - Necromancer, 4 Spells, binding scroll, Wizard Master, Evocation  
+410 - Barrow King, BsB, Skeletal Steed, Hero’s Heart, Basalt Infusion, Dusk Forged  
+422 – 26x Ghouls, C 
+115 – 20x Zombies  
+140 – 21x Zombies, M  
+113 – 8x Dire wolves  
+113 – 8x Dire wolves  
+160 – 3x Ghast  
+160 – 2x Phantom Hos 
+170 – 5x Barrow Knights  
+430 - Dark Coach  
+430 - Dark Coach  
+490 - Shrieking Horror  
+4498
+<ARMY_BOOK>
+Stanislav "Ananas" Vitozhents - Vampire Counts  
+835 - Vampire Count, General (The Dead Arise), Independant, Arcane Knowledge, Occultism, Wizard Master, Light Armour, Destiny's Call, Halberd, Hypnotic Pendant 
+485 - Necromancer, Evocation, Wizard Master, Necromantic Staff , Binding Scroll 
+410 - Barrow King, Skeletal Steed, Battle Standard, Dusk forged, Basalt Infusion, Hero's Heart (Hand Weapon) 
+507 - 31x Ghouls, Champion 
+150 - 23x Zombies, Musician 
+135 - 20x Zombies, Musician 
+113 - 8x Dire Wolves 
+445 - 6x Ghasts 
+430 - Dark Coach 
+430 - Dark Coach 
+80 - 5x Dire Wolves 
+480 - 5x Vampire Knights, Standard Bearer, Musician, Champion 
+4500
+<ARMY_BOOK>
+Andrew “LostCause” Lind - Vampire Covenant – 
+Strigoi Bloodline 
+820 - Vampire Count, General, Dead Arise, Shamanism, Paired Weapons, Hypnotic Pendant, Magical Heirloom, Touch of Greatness, Wizard Adept, Strigoi, Ghoul Lord. 
+445 - Vampire Courtier, Battle Standard Bearer, Shamanism, True Thirst, Banner of the Relentless Company, Wizard Apprentice, Strigoi.  
+455 - Vampire Courtier, Shamanism, Paired Weapons, Obsidian Rock, Blessed Inscriptions, Wizard Apprentice, Strigoi, Flying Horror. 
+660 - 40x Ghouls, Champion. 
+170 - 2x 10x Ghouls, Vanguard, Champion. 
+133 - 8 Dire Wolves, Champion. 
+190 - 2x 5x Spectral Hunters. 
+260 - 3x Vampire Knights, Musician. 
+335 - 3x Varkolak. 
+4498
+<ARMY_BOOK>
+Filip "Cofius" Stojkovid - Vampire Covenant 
+ 
+815 - Vampire Count, General, Strigoi Bloodline, Great Weapon, Hypnotic Pendant, King Slayer, Obsidian Rock, Wizard Adept, Ghoul Lord, Shamanism 
+445 - Vampire Courtier, BSB, Strigoi Bloodline, Banner of the Relentless Company, True Thirst, Wizard Apprentice, Shamanism 
+435 - Vampire Courtier, Strigoi Bloodline, Paired Weapons, Potion of Strenght, Hero's Heart, Wizard Apprentice, Flying Horror, Shamanism 
+133 - 2x8 Dire Wolves, C 
+645 - 35x Ghouls, Vanguard, C 
+232 - 16x Ghouls 
+190 - 2x5 Barrow Knights, M 
+640 - 2x8 Vampire Spawn 
+4498
+<ARMY_BOOK>
+Kaj "Chosen of Sigmar" Geenen - Vampire Covenant 
+435 - Necromancer, General, Alchemy, Wizard Master, Binding Scroll, The Dead Arise 
+410 - Barrow King, Battle Standard, Skeletal Steed, Dusk forged, Basalt Infusion, Hero's Heart (Hand Weapon) 
+485 - Necromancer, Evocation, Wizard Master, Necromantic Staff, Binding Scroll 
+210 - 20x Skeletons, Standard Bearer, Musician, Champion 
+210 - 20x Skeletons, Standard Bearer, Musician, Champion 
+210 - 20x Skeletons, Standard Bearer, Musician, Champion 
+165 - 26x Zombies, Musician 
+105 - 2x Bat Swarms 
+430 - Dark Coach 
+430 - Dark Coach 
+90 - 2x Great Bats 
+90 - 2x Great Bats 
+560 - 7x Vampire spawns 
+335 - Varkolak 
+335 - Varkolak 
+4500  
+<ARMY_BOOK>
+Pablo "Turtle" Vega - Vampire Covenant 
+940 - Vampire Count, General, Wizzard Master, 5 spells, The dead Arise, Skeletal Steed, Great Weapon, Heavy armour, Eternity Gem, Death Cheater, Arcane Knowledge, Occultism 
+405 - Necromancer, Wizard Master, 4 Spells, binding scroll, Evocation 
+410 - Barrow King, BSB,  Skeletal Steed, Hero’s Heart, Basalt Infusion, Dusk Forged 
+115 - 20x Zombies 
+422 - 26x Ghouls, C 
+140 - 21x Zombies, M 
+113 - 8x Dire wolves  
+113 - 8x Dire wolves 
+160 - 3x Ghast 
+160 - 2x Phantom Host 
+490 - 1x Shrieking Horror 
+170 - 5x Barrow Knights 
+430 - 1x Dark Coach 
+430 - 1x Dark Coach 
+4498
+<ARMY_BOOK>
+Christian Wenn

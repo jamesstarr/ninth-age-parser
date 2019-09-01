@@ -3,5 +3,5 @@ package org.jim.ninthage
 import java.nio.file.Paths
 
 object App {
-    val HomeDirectory = Paths.get("./build/workspace")
+    val HomeDirectory = Paths.get("workspace")
 }

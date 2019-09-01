@@ -1,0 +1,182 @@
+Flint
+Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
+Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
+Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
+Wizard Adept, Divination, Book of Arcane Power 260
+10 Knights, Lance, Shield, FC 530
+2x15 Hnadgunners, M 220
+2x10 Militia 140
+25 Imperial Guard, FC, Shield, Banner of Unity 470
+1 Arcane engine, Shield, 290
+2x5 Reiter's Brace of Pistols 175
+1 Cannon 225
+1 Steam Tank 475
+<ARMY_BOOK>
+Murphy
+Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
+Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
+Wizard master,Cosmo 350
+Wizard Adept, Pyromancy, Book of Arcane Power 260
+Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
+2x20 Light infantry, Xbow
+3x10 Militia 140
+5 electoral Cavalry, shield 175
+23 Imperial Guard, FC, Shield, Household Standard 432
+2x5 Reiter's brace of pistols 175
+2x1 Imperial Rocketeers 160
+1 Steam Tank 475
+<ARMY_BOOK>
+Sadler
+Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
+Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
+Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
+Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670
+15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
+20 Light Infantry, handguns, S, M, Marksman Pennant 315
+2x3 Knights of Sun Griffon, Lance, M 346
+5 Reiters, Brace of Pistols 175
+7 reiters, Repeater gun, 243
+Steam Tank 475
+<ARMY_BOOK>
+Zurdo, EoS
+270 - Marshal, General, GW, Imperial Seal 
+405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind 
+260 - Marshal, BSB, Household standard, Death Warrant, Shield 
+310 - Prelate, Plate Armour, Shield, Locket of Sunna, The Black Steel, potion of Strength 
+215 - 5x Electoral Cavalry lance, shield, S 
+90 - 2x5 Imperial Rangers 
+150 - 10x Imperial Rangers 
+290 - 1x Arcane Engine of Arcane Shield 
+200 - 15x Flagellants 
+274 - 18x Crossbowmen C(long rifle) 
+315 - 33x Heavy Infantry M,S 
+330 - 20x Handgunners C(long rifle) , S, Marksman's pendant 
+570 - 30x Imperial Guard, M, C, S, Rending Banner 
+250- 1x Cannon 
+475 - 1x Steam Tank 
+<ARMY_BOOK>
+Marc - Empire of Sonnstahl 
+  
+205 - Marshal, Shield, Battle Standard Bearer, Household Standard 
+285 - Marshal, General, Crown of Autocracy, Binding Scroll 
+380 - Knight Commander, Young Griffon, Hero's Heart, Dusk Forged (Shield), Basalt Infusion, Shield 
+200 - Wizard, Wizard Adept, Alchemy 
+405 - Wizard, Essence of a Free Mind, Wizard Master, Divination, Pyromancy 
+165 - 20x Heavy Infantry support unit, Musician 
+3x 140 - 3x 10x State Militia 
+150 - 10x State Militia Irregulars 
+2x 195 - 2x 5x Electoral Cavalry, Shield, Musician 
+615 - 5x Knights of the Sun Griffon, Lances, Musician, Standard Bearer, Flaming Standard 
+560 - 5x Knights of the Sun Griffon, Lances, Musician 
+475 - Steam Tank 
+250 - Cannon 
+4500 
+<ARMY_BOOK>
+Josip "HerrEckart" Ivani - Empire of Sonnstahl  
+400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,  
+265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,  
+200 Prelate, Shield, Plate Armour, Alchemist's Alloy  
+200 Prelate, Shield, Willow's Ward, Plate Armour,  
+400 Wizard, Alchemy, Wizard Master, Magical Heirloom  
+165 - 20x Heavy Infantry, Standard 200 - 15x Light Infantry, Crossbow  
+252 - 19x Light Infantry, Crossbow  
+265 - 2 x 20x Light Infantry, Crossbow  
+772 - 36x Imperial Guard, Great Weapon, Sandard Bearer, Stalker's Standard, Champion  
+550 - 30x Imperial Guard, Standard Bearer, Rending Banner, Champion  
+90 - 5x Imperial Rangers  
+475 - Steam Tank  
+4499  
+<ARMY_BOOK>
+Michal "Pudl" Bukvic - Empire of Sonnstahl 
+330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King 
+235 - Marshal, Battle Standard, Banner of Discipline, Household Standard 
+445 - Wizard, Divination, Wizard master, Binding Scroll, Sceptre of Power 
+260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery 
+175 - 2 x 21x Heavy Infantry, Musician 
+259 - 3 x 18x Light Infantry, Musician 
+175 - 3 x 5x Reiters, Repeater Guns 
+102 - 6x Imperial Rangers 
+200 - 2 x 1x Artillery, Volley Gun 
+475 - Steam Tank 
+200 - 3 x 15x Flagellants 
+4499
+<ARMY_BOOK>
+Rasmus Koldby – Empire of Sohnstall 
+385 – Prelate, General, Plate armour, Great Weapon, Locket of Sunna, Imperial Seal, Obsidian Rock  
+265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon)  
+465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master  
+300 – Wizard,  Alchemy, Book of Arcane Mastery, Scepter of Power, Wizard Adept  
+380 – Knight commander, Young Griffon, Shield, Dusk Forged, Basalt Infusion, Hero’s Heart (Hand Weapon)  
+295 – 20x Light infantry, Crossbows, S, Marksman’s Pennant  
+529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity  
+165 – 20x Heavy infantry, M  
+140 – 10x State militia
+90 – 2 x 5x Imperial Ranger
+667 – 6x Knights of the Sun Griffon, Lance, Shield, M  
+475 – Steam Tank  
+250 – Artillery, Cannon
+Total Army Cost: 4496
+<ARMY_BOOK>
+Felix Newman - Empire of Sonnstahl 
+ 
+360 - Prelate, General, Great Weapon, Plate Armour, Imperial Seal, Locket of Sunna 
+265 - Marshal, BSB, Shield, Death Warrant, Blacksteel 
+350 - Wizard, Divination, Wizard Master 
+260 - Wizard, Cosmology, Wizard Adept, Book of Arcane Mastery 
+515 - Marshal, Great Griffon, Shield, Shield of Volund, Hero's Heart, Ghostly Guard, Winter Cloak 
+452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard 
+289 - 18 Light Infantry, Handguns, M, SB, Marksman’s Pennant 
+259 - 18 Light Infantry, Crossbows, M 
+140 - 10 State Militia 
+453 - 4 Knights of the Sun Griffon, Lances, M 
+391 - 24 Imperial Guard, C, M 
+290 - Arcane Engine, Arcane Shield 
+475 - Steam Tank 
+4499
+<ARMY_BOOK>
+Olli Mikkanen - Empire of Sonnstahl 
+ 
+380 - Knight Commander, Young Griffon, Shield, Dusk forged, Hero's Heart (Hand Weapon), Basalt Infusion 
+370 - Prelate, General, Great weapon, Plate Armour, Imperial Seal, Locket of Sunna, Lucky Charm 
+350 - Wizard, Divination, Wizard master 
+325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), Blacksteel 
+260 - Wizard, Cosmology, Wizard adept, Book of Arcane Mastery 
+315 - 35x Heavy Infantry, Parent Unit, Standard bearer 
+239 - 2 x 18x Light Infantry, Crossbows 
+195 - 5x Electoral Cavalry, Shields, Standard bearer 
+140 - 10x State Militia 
+494 - 26x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion 
+290 - Arcane Engine, Arcane Shield 
+175 - 5x Reiters, Braces of Pistols 
+250 - Artillery, Cannon 
+475 - Steam Tank 
+4497
+<ARMY_BOOK>
+Julien "Gorgork" Villeroux - Empire of Sonnstahl  
+ 
+210 – Marshal, General, Crown of the Wizard King 
+570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy 
+265 – Marshal, Battle Standard Bearer, Shield, Death warrant, Blacksteel 
+200 – Wizard, Alchemy, Wizard Adept 
+405 – Wizard, Divination, Binding Scroll, Wizard Master  
+135 - Artificier, Long Riffle 
+447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard 
+235 – 21x Heavy Infantry, Standard Bearer, Musician, Household Standard 
+174 – 13x light Infantry, Crossbows  
+135 – 2 x 10x Light Infantry, Crossbows 
+532 – 28x Imperial Guards, Standard Bearer, Musician, Champion, Rending Banner 
+250 – Canon 
+475 – Steam Tank 
+150 – 5x Reiters 
+90 – 2 x 5x Imperial Rangers 
+4498
+<ARMY_BOOK>
+Andrea B. "Taro" Sferrazza - EoS 
+320 - Prelate, General, Plate Armour, Shield, Imperial Seal, Lucky Charm, Obsidian Rock 
+325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel 
+465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll 
+260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane Mastery 
+300 - Inquisitor, Shield, Horse, Hammer of Witches, Dusk Forged 
+130 - Artificer, Handgun 
+562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard 
+185 - 2x20 Heavy Infantr
