@@ -266,7 +266,7 @@ public class Splitter {
         }
         splits.add(sb.substring(start));
         return splits.stream()
-                .filter((token) -> !token.isBlank())
+                .filter((token) -> !token.trim().isEmpty())
                 .map(String::trim)
                 .collect(Collectors.toList());
     }
