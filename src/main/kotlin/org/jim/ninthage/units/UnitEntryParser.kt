@@ -4,7 +4,6 @@ import org.jim.ninthage.data.TrainingData
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.RosterUnit
 import org.jim.utils.ResourceUtils
-import java.lang.StringBuilder
 
 
 class UnitEntryParser(
@@ -28,7 +27,7 @@ class UnitEntryParser(
                 armyBook.entries.map { armyBookEntry ->
                     armyBookEntry.options
                     Pair<String, OptionParser>(
-                        armyBookEntry.name,
+                        armyBookEntry.label,
                         OptionParser.build(
                             armyBook,
                             armyBookEntry,
@@ -45,7 +44,7 @@ class UnitEntryParser(
         }
 
         private fun unitTokens(armyBook: ArmyBook): List<UnitToken> {
-            val trainData = TrainingData.UnitClassifier[armyBook.name]!!
+            val trainData = TrainingData.UnitClassifier[armyBook.shortLabel]!!
             val unitTokenizer = UnitTokenizer(armyBook)
             val trainingString =
                 trainData

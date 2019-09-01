@@ -7,7 +7,6 @@ import org.jim.ninthage.models.RosterUnitOption
 import org.jim.opennlp.SequenceObjectStream
 import org.jim.opennlp.classifier.SimpleClassifier
 import org.jim.opennlp.classifier.SimpleToken
-import java.util.*
 import java.util.stream.Stream
 import kotlin.streams.asStream
 import kotlin.streams.toList
@@ -80,7 +79,7 @@ interface UnitAttributor {
             val tokens =
                 allTokens
                     .stream()
-                    .filter { it.name == armyBookEntry.name }
+                    .filter { it.name == armyBookEntry.label }
                     .map {
                         SimpleToken(
                             it.simpleOptions[armyBookEntryOption.name] ?: armyBookEntryOption.defaultValue,

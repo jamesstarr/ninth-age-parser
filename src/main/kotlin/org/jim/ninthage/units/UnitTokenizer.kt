@@ -116,8 +116,8 @@ class UnitTokenizer(
             return results
         } catch (rt: java.lang.RuntimeException) {
             throw ParseException(
-                "ArmyBook: " + armyBook.name + "\n" +
-                        "Entry: " + entry.name + "\n" +
+                "ArmyBook: " + armyBook.shortLabel + "\n" +
+                        "Entry: " + entry.label + "\n" +
                         Joiner.on("\n").join(attributes),
                 rt
             )

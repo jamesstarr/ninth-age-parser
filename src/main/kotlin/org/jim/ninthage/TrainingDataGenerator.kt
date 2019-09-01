@@ -104,14 +104,14 @@ class UnitCreator(
         createEntry(
             armyBookEntry,
             0,
-            "<Unit name=\"${armyBookEntry.name} ",
-            armyBookEntry.name
+            "<Unit name=\"${armyBookEntry.label} ",
+            armyBookEntry.label
         )
         Files.writeString(
             App.HomeDirectory
                 .resolve("training")
                 .resolve(
-                    "${armyBook.name}.${armyBookEntry.name}${uid}.generated.txt"
+                    "${armyBook.shortLabel}.${armyBookEntry.label}${uid}.generated.txt"
                 ),
             sb.toString()
         )
