@@ -1,5 +1,8 @@
 package org.jim.ninthage.data.armybook
 
+import org.jim.ninthage.data.armybook.dsl.Enchantment
+import org.jim.ninthage.data.armybook.dsl.option
+import org.jim.ninthage.data.armybook.dsl.selection
 import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
@@ -30,6 +33,10 @@ object ArcaneCompendiums {
     val BannerEnchantment = "BannerEnchantment"
     val ShieldEnchantment = "ShieldEnchantment"
     val WeaponEnchantment = "WeaponEnchantment"
+    val WizardLevel = "Wizard"
+    val Apprentice = "Apprentice"
+    val Adept = "Adept"
+    val Master= "Master"
     val Artifact = "Artefact"
     val MagicPath = "Path"
 
@@ -42,7 +49,7 @@ object ArcaneCompendiums {
         EssenceOfMithril("Essence of Mithril", 60),
         GhostlyGuard("Ghostly Guard", 40),
         BasultInfusion("Basalt Infusion", 35),
-        AlchmeistAloy("Alchemist’s Alloy", 15),
+        AlchmeistAloy("Alchemist's Alloy", 15),
 
     }
 
@@ -95,10 +102,11 @@ object ArcaneCompendiums {
         PotionOfSwiftness("Potion of Swiftness", 10)
     }
 
-    enum class BannerEnchantments(override val label: String, override val points: Int) : Enchantment {
+    enum class BannerEnchantments(override val label: String, override val points: Int) :
+        Enchantment {
         BannerOfSpeed("Banner of Speed", 50),
         RendingBanner("Rending Banner", 45),
-        StalkersStandard("Stalker’s Standard", 45),
+        StalkersStandard("Stalker's Standard", 45),
         BannerOfTheRelentlessCompany("Banner of the Relentless Company", 40),
         BannerOfDiscipline("Banner of Discipline", 35),
         FlamingStandard("Flaming Standard", 35),
