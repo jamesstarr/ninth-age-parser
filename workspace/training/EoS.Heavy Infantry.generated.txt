@@ -1,0 +1,1284 @@
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+>Heavy Infantry, Spear
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, C, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, C, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, C, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, C, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, C, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, C, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, C, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, C, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, C, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, C, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, C, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="C"
+>Heavy Infantry, Spear, C
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, M, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, M, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, M, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, M, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, M, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, M, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, M, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, M, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, M, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, M, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, M, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="M"
+>Heavy Infantry, Spear, M
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, S, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, S, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, S, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, S, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, S, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, S, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, S, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, S, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, S, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, S, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, S, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="S"
+>Heavy Infantry, Spear, S
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, CM, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, CM, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, CM, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, CM, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, CM, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, CM, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, CM, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, CM, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, CM, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, CM, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, CM, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CM"
+>Heavy Infantry, Spear, CM
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, CS, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, CS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, CS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, CS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, CS, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, CS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, CS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, CS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, CS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, CS, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, CS, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CS"
+>Heavy Infantry, Spear, CS
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, MS, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, MS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, MS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, MS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, MS, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, MS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, MS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, MS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, MS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, MS, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, MS, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="MS"
+>Heavy Infantry, Spear, MS
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Spear, CMS, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Spear, CMS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Spear, CMS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Spear, CMS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Spear, CMS, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Spear, CMS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Spear, CMS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Spear, CMS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Spear, CMS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Spear, CMS, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Spear, CMS, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Spear"
+	Command="CMS"
+>Heavy Infantry, Spear, CMS
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+>Heavy Infantry, Halberd
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, C, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, C, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, C, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, C, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, C, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, C, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, C, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, C, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, C, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, C, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, C, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="C"
+>Heavy Infantry, Halberd, C
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, M, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, M, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, M, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, M, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, M, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, M, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, M, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, M, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, M, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, M, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, M, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="M"
+>Heavy Infantry, Halberd, M
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, S, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, S, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, S, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, S, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, S, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, S, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, S, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, S, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, S, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, S, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, S, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="S"
+>Heavy Infantry, Halberd, S
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, CM, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, CM, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, CM, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, CM, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, CM, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, CM, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, CM, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, CM, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, CM, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, CM, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, CM, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CM"
+>Heavy Infantry, Halberd, CM
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, CS, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, CS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, CS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, CS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, CS, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, CS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, CS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, CS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, CS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, CS, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, CS, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CS"
+>Heavy Infantry, Halberd, CS
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, MS, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, MS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, MS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, MS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, MS, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, MS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, MS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, MS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, MS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, MS, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, MS, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="MS"
+>Heavy Infantry, Halberd, MS
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Halberd, CMS, Household Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Halberd, CMS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Halberd, CMS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Halberd, CMS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Halberd, CMS, Rending Banner
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Halberd, CMS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Halberd, CMS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Halberd, CMS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Halberd, CMS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Halberd, CMS, Legion Standard
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Halberd, CMS, Aether Icon
+<Unit name="Heavy Infantry" 
+	CloseCombatWeapon="Halberd"
+	Command="CMS"
+>Heavy Infantry, Halberd, CMS
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, Household Standard
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, Banner of Unity
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, Banner of Speed
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, Rending Banner
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, Flaming Standard
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, Legion Standard
+<Unit name="Heavy Infantry" 
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, Aether Icon
+<Unit name="Heavy Infantry" 
+>Heavy Infantry
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, C, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, C, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, C, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, C, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, C, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, C, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, C, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, C, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, C, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, C, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, C, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="C"
+>Heavy Infantry, C
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, M, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, M, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, M, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, M, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, M, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, M, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, M, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, M, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, M, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, M, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, M, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="M"
+>Heavy Infantry, M
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, S, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, S, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, S, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, S, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, S, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, S, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, S, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, S, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, S, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, S, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, S, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="S"
+>Heavy Infantry, S
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, CM, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, CM, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, CM, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, CM, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, CM, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, CM, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, CM, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, CM, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, CM, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, CM, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, CM, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="CM"
+>Heavy Infantry, CM
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, CS, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, CS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, CS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, CS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, CS, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, CS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, CS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, CS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, CS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, CS, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, CS, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="CS"
+>Heavy Infantry, CS
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, MS, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, MS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, MS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, MS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, MS, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, MS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, MS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, MS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, MS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, MS, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, MS, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="MS"
+>Heavy Infantry, MS
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Heavy Infantry, CMS, Household Standard
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Heavy Infantry, CMS, Banner of Unity
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Heavy Infantry, CMS, Marksman’s Pennant
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Heavy Infantry, CMS, Banner of Speed
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Heavy Infantry, CMS, Rending Banner
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Heavy Infantry, CMS, Stalker's Standard
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Heavy Infantry, CMS, Banner of the Relentless Company
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Heavy Infantry, CMS, Banner of Discipline
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Heavy Infantry, CMS, Flaming Standard
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Heavy Infantry, CMS, Legion Standard
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Heavy Infantry, CMS, Aether Icon
+<Unit name="Heavy Infantry" 
+	Command="CMS"
+>Heavy Infantry, CMS

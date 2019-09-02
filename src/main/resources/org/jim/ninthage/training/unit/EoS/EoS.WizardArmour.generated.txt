@@ -1,0 +1,100 @@
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Armour="Light Armour"
+	ArmourEnchantment="Death Cheater"
+>Wizard, Alchemy, Light Armour, Death Cheater
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Armour="Light Armour"
+	ArmourEnchantment="Destiny's Call"
+>Wizard, Alchemy, Light Armour, Destiny's Call
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Armour="Light Armour"
+	ArmourEnchantment="Essence of Mithril"
+>Wizard, Alchemy, Light Armour, Essence of Mithril
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Armour="Light Armour"
+	ArmourEnchantment="Basalt Infusion"
+>Wizard, Alchemy, Light Armour, Basalt Infusion
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Armour="Light Armour"
+	ArmourEnchantment="Alchemist's Alloy"
+>Wizard, Alchemy, Light Armour, Alchemist's Alloy
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Armour="Light Armour"
+	ArmourEnchantment="Death Cheater"
+>Wizard, Cosmology, Light Armour, Death Cheater
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Armour="Light Armour"
+	ArmourEnchantment="Destiny's Call"
+>Wizard, Cosmology, Light Armour, Destiny's Call
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Armour="Light Armour"
+	ArmourEnchantment="Essence of Mithril"
+>Wizard, Cosmology, Light Armour, Essence of Mithril
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Armour="Light Armour"
+	ArmourEnchantment="Basalt Infusion"
+>Wizard, Cosmology, Light Armour, Basalt Infusion
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Armour="Light Armour"
+	ArmourEnchantment="Alchemist's Alloy"
+>Wizard, Cosmology, Light Armour, Alchemist's Alloy
+<Unit name="Wizard" 
+	Path="Divination"
+	Armour="Light Armour"
+	ArmourEnchantment="Death Cheater"
+>Wizard, Divination, Light Armour, Death Cheater
+<Unit name="Wizard" 
+	Path="Divination"
+	Armour="Light Armour"
+	ArmourEnchantment="Destiny's Call"
+>Wizard, Divination, Light Armour, Destiny's Call
+<Unit name="Wizard" 
+	Path="Divination"
+	Armour="Light Armour"
+	ArmourEnchantment="Essence of Mithril"
+>Wizard, Divination, Light Armour, Essence of Mithril
+<Unit name="Wizard" 
+	Path="Divination"
+	Armour="Light Armour"
+	ArmourEnchantment="Basalt Infusion"
+>Wizard, Divination, Light Armour, Basalt Infusion
+<Unit name="Wizard" 
+	Path="Divination"
+	Armour="Light Armour"
+	ArmourEnchantment="Alchemist's Alloy"
+>Wizard, Divination, Light Armour, Alchemist's Alloy
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Armour="Light Armour"
+	ArmourEnchantment="Death Cheater"
+>Wizard, Pyromancy, Light Armour, Death Cheater
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Armour="Light Armour"
+	ArmourEnchantment="Destiny's Call"
+>Wizard, Pyromancy, Light Armour, Destiny's Call
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Armour="Light Armour"
+	ArmourEnchantment="Essence of Mithril"
+>Wizard, Pyromancy, Light Armour, Essence of Mithril
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Armour="Light Armour"
+	ArmourEnchantment="Basalt Infusion"
+>Wizard, Pyromancy, Light Armour, Basalt Infusion
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Armour="Light Armour"
+	ArmourEnchantment="Alchemist's Alloy"
+>Wizard, Pyromancy, Light Armour, Alchemist's Alloy

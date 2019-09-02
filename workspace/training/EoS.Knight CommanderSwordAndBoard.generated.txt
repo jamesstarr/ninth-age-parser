@@ -1,0 +1,220 @@
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Knight Commander, Shield, Witchfire Guard, The Light of Sonnstahl
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Death Warrant"
+>Knight Commander, Shield, Witchfire Guard, Death Warrant
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hammer of Witches"
+>Knight Commander, Shield, Witchfire Guard, Hammer of Witches
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Blessed Inscriptions"
+>Knight Commander, Shield, Witchfire Guard, Blessed Inscriptions
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Touch of Greatness"
+>Knight Commander, Shield, Witchfire Guard, Touch of Greatness
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Titanic Might"
+>Knight Commander, Shield, Witchfire Guard, Titanic Might
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Shield Breaker"
+>Knight Commander, Shield, Witchfire Guard, Shield Breaker
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hero's Heart"
+>Knight Commander, Shield, Witchfire Guard, Hero's Heart
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Supernatural Dexterity"
+>Knight Commander, Shield, Witchfire Guard, Supernatural Dexterity
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="King Slayer"
+>Knight Commander, Shield, Witchfire Guard, King Slayer
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Cleansing Light"
+>Knight Commander, Shield, Witchfire Guard, Cleansing Light
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Knight Commander, Shield, Shield of Volund, The Light of Sonnstahl
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Death Warrant"
+>Knight Commander, Shield, Shield of Volund, Death Warrant
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hammer of Witches"
+>Knight Commander, Shield, Shield of Volund, Hammer of Witches
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Blessed Inscriptions"
+>Knight Commander, Shield, Shield of Volund, Blessed Inscriptions
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Touch of Greatness"
+>Knight Commander, Shield, Shield of Volund, Touch of Greatness
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Titanic Might"
+>Knight Commander, Shield, Shield of Volund, Titanic Might
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Shield Breaker"
+>Knight Commander, Shield, Shield of Volund, Shield Breaker
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hero's Heart"
+>Knight Commander, Shield, Shield of Volund, Hero's Heart
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Supernatural Dexterity"
+>Knight Commander, Shield, Shield of Volund, Supernatural Dexterity
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="King Slayer"
+>Knight Commander, Shield, Shield of Volund, King Slayer
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Cleansing Light"
+>Knight Commander, Shield, Shield of Volund, Cleansing Light
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Knight Commander, Shield, Dusk Forge, The Light of Sonnstahl
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Death Warrant"
+>Knight Commander, Shield, Dusk Forge, Death Warrant
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hammer of Witches"
+>Knight Commander, Shield, Dusk Forge, Hammer of Witches
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Blessed Inscriptions"
+>Knight Commander, Shield, Dusk Forge, Blessed Inscriptions
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Touch of Greatness"
+>Knight Commander, Shield, Dusk Forge, Touch of Greatness
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Titanic Might"
+>Knight Commander, Shield, Dusk Forge, Titanic Might
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Shield Breaker"
+>Knight Commander, Shield, Dusk Forge, Shield Breaker
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hero's Heart"
+>Knight Commander, Shield, Dusk Forge, Hero's Heart
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Supernatural Dexterity"
+>Knight Commander, Shield, Dusk Forge, Supernatural Dexterity
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="King Slayer"
+>Knight Commander, Shield, Dusk Forge, King Slayer
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Cleansing Light"
+>Knight Commander, Shield, Dusk Forge, Cleansing Light
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Knight Commander, Shield, Willow's Ward, The Light of Sonnstahl
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Death Warrant"
+>Knight Commander, Shield, Willow's Ward, Death Warrant
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hammer of Witches"
+>Knight Commander, Shield, Willow's Ward, Hammer of Witches
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Blessed Inscriptions"
+>Knight Commander, Shield, Willow's Ward, Blessed Inscriptions
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Touch of Greatness"
+>Knight Commander, Shield, Willow's Ward, Touch of Greatness
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Titanic Might"
+>Knight Commander, Shield, Willow's Ward, Titanic Might
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Shield Breaker"
+>Knight Commander, Shield, Willow's Ward, Shield Breaker
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hero's Heart"
+>Knight Commander, Shield, Willow's Ward, Hero's Heart
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Supernatural Dexterity"
+>Knight Commander, Shield, Willow's Ward, Supernatural Dexterity
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="King Slayer"
+>Knight Commander, Shield, Willow's Ward, King Slayer
+<Unit name="Knight Commander" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Cleansing Light"
+>Knight Commander, Shield, Willow's Ward, Cleansing Light

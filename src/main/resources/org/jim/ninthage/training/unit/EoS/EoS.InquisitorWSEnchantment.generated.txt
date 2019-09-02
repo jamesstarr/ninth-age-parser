@@ -1,0 +1,506 @@
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Shield, Witchfire Guard, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Shield, Witchfire Guard, Death Warrant
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Shield, Witchfire Guard, Hammer of Witches
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Shield, Witchfire Guard, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Shield, Witchfire Guard, Touch of Greatness
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Shield, Witchfire Guard, Titanic Might
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield, Witchfire Guard, Shield Breaker
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Shield, Witchfire Guard, Hero's Heart
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Shield, Witchfire Guard, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Shield, Witchfire Guard, King Slayer
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Shield, Witchfire Guard, Cleansing Light
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+>Inquisitor, Shield, Witchfire Guard
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Shield, Shield of Volund, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Shield, Shield of Volund, Death Warrant
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Shield, Shield of Volund, Hammer of Witches
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Shield, Shield of Volund, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Shield, Shield of Volund, Touch of Greatness
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Shield, Shield of Volund, Titanic Might
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield, Shield of Volund, Shield Breaker
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Shield, Shield of Volund, Hero's Heart
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Shield, Shield of Volund, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Shield, Shield of Volund, King Slayer
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Shield, Shield of Volund, Cleansing Light
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+>Inquisitor, Shield, Shield of Volund
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Shield, Dusk Forge, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Shield, Dusk Forge, Death Warrant
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Shield, Dusk Forge, Hammer of Witches
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Shield, Dusk Forge, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Shield, Dusk Forge, Touch of Greatness
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Shield, Dusk Forge, Titanic Might
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield, Dusk Forge, Shield Breaker
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Shield, Dusk Forge, Hero's Heart
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Shield, Dusk Forge, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Shield, Dusk Forge, King Slayer
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Shield, Dusk Forge, Cleansing Light
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+>Inquisitor, Shield, Dusk Forge
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Shield, Willow's Ward, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Shield, Willow's Ward, Death Warrant
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Shield, Willow's Ward, Hammer of Witches
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Shield, Willow's Ward, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Shield, Willow's Ward, Touch of Greatness
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Shield, Willow's Ward, Titanic Might
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield, Willow's Ward, Shield Breaker
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Shield, Willow's Ward, Hero's Heart
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Shield, Willow's Ward, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Shield, Willow's Ward, King Slayer
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Shield, Willow's Ward, Cleansing Light
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+>Inquisitor, Shield, Willow's Ward
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Shield, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Shield, Death Warrant
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Shield, Hammer of Witches
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Shield, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Shield, Touch of Greatness
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Shield, Titanic Might
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield, Shield Breaker
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Shield, Hero's Heart
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Shield, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Shield, King Slayer
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Shield, Cleansing Light
+<Unit name="Inquisitor" 
+	Shield="Shield"
+>Inquisitor, Shield
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Witchfire Guard, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Witchfire Guard, Death Warrant
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Witchfire Guard, Hammer of Witches
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Witchfire Guard, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Witchfire Guard, Touch of Greatness
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Witchfire Guard, Titanic Might
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Witchfire Guard, Shield Breaker
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Witchfire Guard, Hero's Heart
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Witchfire Guard, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Witchfire Guard, King Slayer
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Witchfire Guard, Cleansing Light
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Witchfire Guard"
+>Inquisitor, Witchfire Guard
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Shield of Volund, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Shield of Volund, Death Warrant
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Shield of Volund, Hammer of Witches
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Shield of Volund, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Shield of Volund, Touch of Greatness
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Shield of Volund, Titanic Might
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield of Volund, Shield Breaker
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Shield of Volund, Hero's Heart
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Shield of Volund, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Shield of Volund, King Slayer
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Shield of Volund, Cleansing Light
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Shield of Volund"
+>Inquisitor, Shield of Volund
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Dusk Forge, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Dusk Forge, Death Warrant
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Dusk Forge, Hammer of Witches
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Dusk Forge, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Dusk Forge, Touch of Greatness
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Dusk Forge, Titanic Might
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Dusk Forge, Shield Breaker
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Dusk Forge, Hero's Heart
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Dusk Forge, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Dusk Forge, King Slayer
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Dusk Forge, Cleansing Light
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Dusk Forge"
+>Inquisitor, Dusk Forge
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, Willow's Ward, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Willow's Ward, Death Warrant
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Willow's Ward, Hammer of Witches
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Willow's Ward, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Willow's Ward, Touch of Greatness
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Willow's Ward, Titanic Might
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Willow's Ward, Shield Breaker
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Willow's Ward, Hero's Heart
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Willow's Ward, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="King Slayer"
+>Inquisitor, Willow's Ward, King Slayer
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Willow's Ward, Cleansing Light
+<Unit name="Inquisitor" 
+	ShieldEnchantment="Willow's Ward"
+>Inquisitor, Willow's Ward
+<Unit name="Inquisitor" 
+	WeaponEnchantment="The Light of Sonnstahl"
+>Inquisitor, The Light of Sonnstahl
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Death Warrant"
+>Inquisitor, Death Warrant
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Hammer of Witches"
+>Inquisitor, Hammer of Witches
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Blessed Inscriptions"
+>Inquisitor, Blessed Inscriptions
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Touch of Greatness"
+>Inquisitor, Touch of Greatness
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Titanic Might"
+>Inquisitor, Titanic Might
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Shield Breaker"
+>Inquisitor, Shield Breaker
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Hero's Heart"
+>Inquisitor, Hero's Heart
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Supernatural Dexterity"
+>Inquisitor, Supernatural Dexterity
+<Unit name="Inquisitor" 
+	WeaponEnchantment="King Slayer"
+>Inquisitor, King Slayer
+<Unit name="Inquisitor" 
+	WeaponEnchantment="Cleansing Light"
+>Inquisitor, Cleansing Light
+<Unit name="Inquisitor" 
+>Inquisitor

@@ -1,0 +1,2856 @@
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+>Light Infantry, Handgun, Repeater Gun
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, C, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, C, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, C, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, C, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, C, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, C, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, C, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, C, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, C, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, C, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, C, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+>Light Infantry, Handgun, Repeater Gun, C
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, M, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, M, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, M, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, M, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, M, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, M, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, M, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, M, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, M, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, M, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, M, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+>Light Infantry, Handgun, Repeater Gun, M
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, S, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, S, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, S, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, S, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, S, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, S, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, S, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, S, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, S, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, S, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, S, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+>Light Infantry, Handgun, Repeater Gun, S
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, CM, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, CM, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, CM, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, CM, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, CM, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, CM, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, CM, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, CM, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, CM, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, CM, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, CM, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+>Light Infantry, Handgun, Repeater Gun, CM
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, CS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, CS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, CS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, CS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, CS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, CS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, CS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, CS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, CS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, CS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, CS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+>Light Infantry, Handgun, Repeater Gun, CS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, MS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, MS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, MS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, MS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, MS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, MS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, MS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, MS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, MS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, MS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, MS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+>Light Infantry, Handgun, Repeater Gun, MS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Repeater Gun, CMS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Repeater Gun, CMS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Repeater Gun, CMS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Repeater Gun, CMS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Repeater Gun, CMS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Repeater Gun, CMS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Repeater Gun, CMS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Repeater Gun, CMS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Repeater Gun, CMS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Repeater Gun, CMS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Repeater Gun, CMS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+>Light Infantry, Handgun, Repeater Gun, CMS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+>Light Infantry, Handgun, Long Rifle
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, C, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, C, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, C, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, C, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, C, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, C, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, C, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, C, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, C, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, C, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, C, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+>Light Infantry, Handgun, Long Rifle, C
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, M, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, M, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, M, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, M, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, M, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, M, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, M, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, M, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, M, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, M, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, M, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+>Light Infantry, Handgun, Long Rifle, M
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, S, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, S, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, S, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, S, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, S, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, S, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, S, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, S, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, S, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, S, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, S, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+>Light Infantry, Handgun, Long Rifle, S
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, CM, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, CM, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, CM, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, CM, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, CM, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, CM, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, CM, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, CM, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, CM, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, CM, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, CM, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+>Light Infantry, Handgun, Long Rifle, CM
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, CS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, CS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, CS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, CS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, CS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, CS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, CS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, CS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, CS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, CS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, CS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+>Light Infantry, Handgun, Long Rifle, CS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, MS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, MS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, MS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, MS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, MS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, MS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, MS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, MS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, MS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, MS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, MS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+>Light Infantry, Handgun, Long Rifle, MS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Long Rifle, CMS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Long Rifle, CMS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Long Rifle, CMS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Long Rifle, CMS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Long Rifle, CMS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Long Rifle, CMS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Long Rifle, CMS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Long Rifle, CMS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Long Rifle, CMS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Long Rifle, CMS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Long Rifle, CMS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+>Light Infantry, Handgun, Long Rifle, CMS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+>Light Infantry, Handgun
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, C, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, C, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, C, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, C, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, C, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, C, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, C, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, C, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, C, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, C, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, C, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="C"
+>Light Infantry, Handgun, C
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, M, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, M, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, M, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, M, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, M, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, M, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, M, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, M, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, M, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, M, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, M, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="M"
+>Light Infantry, Handgun, M
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, S, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, S, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, S, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, S, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, S, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, S, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, S, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, S, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, S, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, S, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, S, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="S"
+>Light Infantry, Handgun, S
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, CM, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, CM, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, CM, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, CM, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, CM, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, CM, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, CM, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, CM, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, CM, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, CM, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, CM, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CM"
+>Light Infantry, Handgun, CM
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, CS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, CS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, CS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, CS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, CS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, CS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, CS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, CS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, CS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, CS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, CS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CS"
+>Light Infantry, Handgun, CS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, MS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, MS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, MS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, MS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, MS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, MS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, MS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, MS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, MS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, MS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, MS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="MS"
+>Light Infantry, Handgun, MS
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Handgun, CMS, Household Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Handgun, CMS, Banner of Unity
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Handgun, CMS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Handgun, CMS, Banner of Speed
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Handgun, CMS, Rending Banner
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Handgun, CMS, Stalker's Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Handgun, CMS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Handgun, CMS, Banner of Discipline
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Handgun, CMS, Flaming Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Handgun, CMS, Legion Standard
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Handgun, CMS, Aether Icon
+<Unit name="Light Infantry" 
+	RangedWeapon="Handgun"
+	Command="CMS"
+>Light Infantry, Handgun, CMS
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+>Light Infantry, Repeater Gun
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, C, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, C, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, C, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, C, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, C, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, C, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, C, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, C, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, C, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, C, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, C, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="C"
+>Light Infantry, Repeater Gun, C
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, M, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, M, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, M, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, M, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, M, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, M, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, M, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, M, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, M, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, M, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, M, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="M"
+>Light Infantry, Repeater Gun, M
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, S, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, S, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, S, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, S, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, S, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, S, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, S, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, S, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, S, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, S, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, S, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="S"
+>Light Infantry, Repeater Gun, S
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, CM, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, CM, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, CM, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, CM, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, CM, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, CM, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, CM, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, CM, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, CM, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, CM, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, CM, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CM"
+>Light Infantry, Repeater Gun, CM
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, CS, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, CS, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, CS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, CS, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, CS, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, CS, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, CS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, CS, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, CS, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, CS, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, CS, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CS"
+>Light Infantry, Repeater Gun, CS
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, MS, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, MS, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, MS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, MS, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, MS, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, MS, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, MS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, MS, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, MS, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, MS, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, MS, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="MS"
+>Light Infantry, Repeater Gun, MS
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Repeater Gun, CMS, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Repeater Gun, CMS, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Repeater Gun, CMS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Repeater Gun, CMS, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Repeater Gun, CMS, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Repeater Gun, CMS, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Repeater Gun, CMS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Repeater Gun, CMS, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Repeater Gun, CMS, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Repeater Gun, CMS, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Repeater Gun, CMS, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Repeater Gun"
+	Command="CMS"
+>Light Infantry, Repeater Gun, CMS
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+>Light Infantry, Long Rifle
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, C, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, C, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, C, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, C, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, C, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, C, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, C, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, C, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, C, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, C, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, C, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="C"
+>Light Infantry, Long Rifle, C
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, M, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, M, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, M, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, M, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, M, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, M, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, M, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, M, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, M, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, M, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, M, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="M"
+>Light Infantry, Long Rifle, M
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, S, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, S, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, S, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, S, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, S, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, S, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, S, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, S, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, S, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, S, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, S, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="S"
+>Light Infantry, Long Rifle, S
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, CM, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, CM, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, CM, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, CM, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, CM, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, CM, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, CM, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, CM, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, CM, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, CM, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, CM, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CM"
+>Light Infantry, Long Rifle, CM
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, CS, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, CS, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, CS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, CS, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, CS, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, CS, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, CS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, CS, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, CS, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, CS, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, CS, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CS"
+>Light Infantry, Long Rifle, CS
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, MS, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, MS, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, MS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, MS, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, MS, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, MS, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, MS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, MS, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, MS, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, MS, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, MS, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="MS"
+>Light Infantry, Long Rifle, MS
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, Long Rifle, CMS, Household Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Long Rifle, CMS, Banner of Unity
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Long Rifle, CMS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Long Rifle, CMS, Banner of Speed
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Long Rifle, CMS, Rending Banner
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Long Rifle, CMS, Stalker's Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Long Rifle, CMS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Long Rifle, CMS, Banner of Discipline
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Long Rifle, CMS, Flaming Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Long Rifle, CMS, Legion Standard
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Long Rifle, CMS, Aether Icon
+<Unit name="Light Infantry" 
+	ChampionRangedWeapon="Long Rifle"
+	Command="CMS"
+>Light Infantry, Long Rifle, CMS
+<Unit name="Light Infantry" 
+	BannerEnchantment="Household Standard"
+>Light Infantry, Household Standard
+<Unit name="Light Infantry" 
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, Banner of Unity
+<Unit name="Light Infantry" 
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, Banner of Speed
+<Unit name="Light Infantry" 
+	BannerEnchantment="Rending Banner"
+>Light Infantry, Rending Banner
+<Unit name="Light Infantry" 
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, Stalker's Standard
+<Unit name="Light Infantry" 
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, Banner of Discipline
+<Unit name="Light Infantry" 
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, Flaming Standard
+<Unit name="Light Infantry" 
+	BannerEnchantment="Legion Standard"
+>Light Infantry, Legion Standard
+<Unit name="Light Infantry" 
+	BannerEnchantment="Aether Icon"
+>Light Infantry, Aether Icon
+<Unit name="Light Infantry" 
+>Light Infantry
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Light Infantry, C, Household Standard
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, C, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, C, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, C, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, C, Rending Banner
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, C, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, C, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, C, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, C, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, C, Legion Standard
+<Unit name="Light Infantry" 
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, C, Aether Icon
+<Unit name="Light Infantry" 
+	Command="C"
+>Light Infantry, C
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Light Infantry, M, Household Standard
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, M, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, M, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, M, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, M, Rending Banner
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, M, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, M, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, M, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, M, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, M, Legion Standard
+<Unit name="Light Infantry" 
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, M, Aether Icon
+<Unit name="Light Infantry" 
+	Command="M"
+>Light Infantry, M
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Light Infantry, S, Household Standard
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, S, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, S, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, S, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, S, Rending Banner
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, S, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, S, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, S, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, S, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, S, Legion Standard
+<Unit name="Light Infantry" 
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, S, Aether Icon
+<Unit name="Light Infantry" 
+	Command="S"
+>Light Infantry, S
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Light Infantry, CM, Household Standard
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, CM, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, CM, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, CM, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, CM, Rending Banner
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, CM, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, CM, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, CM, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, CM, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, CM, Legion Standard
+<Unit name="Light Infantry" 
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, CM, Aether Icon
+<Unit name="Light Infantry" 
+	Command="CM"
+>Light Infantry, CM
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, CS, Household Standard
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, CS, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, CS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, CS, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, CS, Rending Banner
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, CS, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, CS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, CS, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, CS, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, CS, Legion Standard
+<Unit name="Light Infantry" 
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, CS, Aether Icon
+<Unit name="Light Infantry" 
+	Command="CS"
+>Light Infantry, CS
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, MS, Household Standard
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, MS, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, MS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, MS, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, MS, Rending Banner
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, MS, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, MS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, MS, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, MS, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, MS, Legion Standard
+<Unit name="Light Infantry" 
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, MS, Aether Icon
+<Unit name="Light Infantry" 
+	Command="MS"
+>Light Infantry, MS
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Light Infantry, CMS, Household Standard
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Light Infantry, CMS, Banner of Unity
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Light Infantry, CMS, Marksman’s Pennant
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Light Infantry, CMS, Banner of Speed
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Light Infantry, CMS, Rending Banner
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Light Infantry, CMS, Stalker's Standard
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Light Infantry, CMS, Banner of the Relentless Company
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Light Infantry, CMS, Banner of Discipline
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Light Infantry, CMS, Flaming Standard
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Light Infantry, CMS, Legion Standard
+<Unit name="Light Infantry" 
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Light Infantry, CMS, Aether Icon
+<Unit name="Light Infantry" 
+	Command="CMS"
+>Light Infantry, CMS

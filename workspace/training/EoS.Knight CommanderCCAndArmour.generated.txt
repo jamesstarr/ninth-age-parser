@@ -1,0 +1,152 @@
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Imperial Seal"
+>Knight Commander, Calvary Pick, Imperial Seal
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Blacksteel"
+>Knight Commander, Calvary Pick, Blacksteel
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Death Cheater"
+>Knight Commander, Calvary Pick, Death Cheater
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Destiny's Call"
+>Knight Commander, Calvary Pick, Destiny's Call
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Essence of Mithril"
+>Knight Commander, Calvary Pick, Essence of Mithril
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Ghostly Guard"
+>Knight Commander, Calvary Pick, Ghostly Guard
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Basalt Infusion"
+>Knight Commander, Calvary Pick, Basalt Infusion
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Calvary Pick"
+	ArmourEnchantment="Alchemist's Alloy"
+>Knight Commander, Calvary Pick, Alchemist's Alloy
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+>Knight Commander, Great Weapon, Imperial Seal
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Blacksteel"
+>Knight Commander, Great Weapon, Blacksteel
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Death Cheater"
+>Knight Commander, Great Weapon, Death Cheater
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Destiny's Call"
+>Knight Commander, Great Weapon, Destiny's Call
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Essence of Mithril"
+>Knight Commander, Great Weapon, Essence of Mithril
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Ghostly Guard"
+>Knight Commander, Great Weapon, Ghostly Guard
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Basalt Infusion"
+>Knight Commander, Great Weapon, Basalt Infusion
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Alchemist's Alloy"
+>Knight Commander, Great Weapon, Alchemist's Alloy
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Imperial Seal"
+>Knight Commander, Halberd, Imperial Seal
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Blacksteel"
+>Knight Commander, Halberd, Blacksteel
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Death Cheater"
+>Knight Commander, Halberd, Death Cheater
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Destiny's Call"
+>Knight Commander, Halberd, Destiny's Call
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Essence of Mithril"
+>Knight Commander, Halberd, Essence of Mithril
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Ghostly Guard"
+>Knight Commander, Halberd, Ghostly Guard
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Basalt Infusion"
+>Knight Commander, Halberd, Basalt Infusion
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Halberd"
+	ArmourEnchantment="Alchemist's Alloy"
+>Knight Commander, Halberd, Alchemist's Alloy
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Imperial Seal"
+>Knight Commander, Lance, Imperial Seal
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Blacksteel"
+>Knight Commander, Lance, Blacksteel
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Death Cheater"
+>Knight Commander, Lance, Death Cheater
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Destiny's Call"
+>Knight Commander, Lance, Destiny's Call
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Essence of Mithril"
+>Knight Commander, Lance, Essence of Mithril
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Ghostly Guard"
+>Knight Commander, Lance, Ghostly Guard
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Basalt Infusion"
+>Knight Commander, Lance, Basalt Infusion
+<Unit name="Knight Commander" 
+	CloseCombatWeapon="Lance"
+	ArmourEnchantment="Alchemist's Alloy"
+>Knight Commander, Lance, Alchemist's Alloy
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Imperial Seal"
+>Knight Commander, Imperial Seal
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Blacksteel"
+>Knight Commander, Blacksteel
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Death Cheater"
+>Knight Commander, Death Cheater
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Destiny's Call"
+>Knight Commander, Destiny's Call
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Essence of Mithril"
+>Knight Commander, Essence of Mithril
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Ghostly Guard"
+>Knight Commander, Ghostly Guard
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Basalt Infusion"
+>Knight Commander, Basalt Infusion
+<Unit name="Knight Commander" 
+	ArmourEnchantment="Alchemist's Alloy"
+>Knight Commander, Alchemist's Alloy

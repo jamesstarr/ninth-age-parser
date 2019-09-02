@@ -1,23 +1,12 @@
-<Unit name="Footer">4,498
-<Unit name="Footer">4495
-<Unit name="Footer">4496
-<Unit name="Footer">4497
-<Unit name="Footer">4498
-<Unit name="Footer">4499
-<Unit name="Footer">4499
-<Unit name="Footer">4500
-<Unit name="Footer">4500
-<Unit name="Footer">4500
-<Unit name="Footer">Total: 4499
 <Unit name="Artificer"
-    shooting_weapon="Handgun"
+    RangedWeapon="Handgun"
 >130 - Artificer, Handgun
 <Unit name="Artificer"
-    shooting_weapon="Long Rifle"
+    RangedWeapon="Long Rifle"
 >135 - Artificier, Long Riffle
 <Unit name="Artificer"
-    shooting_weapon="Repeater Gun"
-    Artefacts="Crown of the Wizard King"
+    RangedWeapon="Repeater Gun"
+    Artefact="Crown of the Wizard King"
 >185 – Artificer, repeater gun, Crown of the Wizzard King
 <Unit name="Arcane Engine" Engine="Foresight">290 - Arcane Engine, Foresight
 <Unit name="Arcane Engine" Engine="Foresight">290 - Foresight Engine
@@ -36,6 +25,10 @@
 <Unit name="Artillery" ArtilleryWeapons="Cannon">250 - Cannon
 <Unit name="Artillery" ArtilleryWeapons="Cannon">250 – Artillery, Cannon
 <Unit name="Artillery" ArtilleryWeapons="Cannon">250 – Canon
+<Unit name="Artillery" ArtilleryWeapons="Mortar">200 - 2 x 1x Artillery, Mortar
+<Unit name="Artillery" ArtilleryWeapons="Mortar">200 - Mortar
+<Unit name="Artillery" ArtilleryWeapons="Mortar">160 - Imperial Mortar
+<Unit name="Artillery" ArtilleryWeapons="Mortar">160 - 2x1 Artillery, Mortar
 <Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 - Volley Gun
 <Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 - 1x Artillery, Volley Gun
 <Unit name="Artillery" ArtilleryWeapons="Volley Gun">200 – 1x Volley Gun
@@ -45,142 +38,220 @@
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - 2x1 Artillery, Imperial Rocketeer
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Artillery, Rocket Battery
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Rocketeer
-<Unit name="Electoral Cavalry" ModelCount=15
-    KnightlyOrders
+<Unit name="Electoral Cavalry" 
+    KnightOrders
     Shield
 	CloseCombatWeapon=Lance
-	Command=CMS
+	Command
 	BannerEnchantment="Banner of Speed"
 >15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
-<Unit name="Electoral Cavalry" ModelCount=10
-	KnightlyOrders
+<Unit name="Electoral Cavalry"
+	KnightOrders
     Shield
     CloseCombatWeapon=Lance
-	Command=CMS
+	Command
 >10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry"
-    KnightlyOrders
-    Shileld
+    KnightOrders
+    Shield
     CloseCombatWeapon="Lance"
     Command="CMS"
     BannerEnchantment="Banner of Speed"
 >15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Lance"
-    Shileld
+    Shield
 >215 - 5x Electoral Cavalry lance, shield, S
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Lance"
-    Shileld
-    KnightlyOrder
+    Shield
+    KnightOrders
     Command="CMS"
 >10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry"
-    Shileld
+    Shield
 >5 electoral Cavalry, shield 175
 <Unit name="Electoral Cavalry"
-    Shileld
+    Shield
     Command="M"
 >2x 195 - 2x 5x Electoral Cavalry, Shield, Musician
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Lance"
-    Shileld
+    Shield
     Command="M"
 >215 - 5 x Electoral Cavalry, Lance, Shield, Musician
 <Unit name="Electoral Cavalry"
     CloseCombatWeapon="Great Weapon"
 >165 - 5 électoral cavalry, Great Weapon
 <Unit name="Electoral Cavalry"
-    Shileld
+    Shield
     Command="S"
 >195 - 5x Electoral Cavalry, Shields, Standard bearer
 <Unit name="Electoral Cavalry"
-    Shileld
-    command="M"
+    Shield
+    Command="M"
 >195 – 5x Electoral Cavalry, musician, shield
-<Unit name="Flagellants" count=15>200 - 15x Flagellants
-<Unit name="Flagellants" count=15 repeated=3>200 - 3 x 15x Flagellants
+<Unit name="Flagellants" >200 - 15x Flagellants
+<Unit name="Flagellants"  >200 - 3 x 15x Flagellants
 <Unit name="Heavy Infantry"
-    count=37
     CloseCombatWeapon=Halberd
-    command=CMS
-    banner="Household Standard"
+    Command
+    BannerEnchantment="Household Standard"
 >452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard
-<Unit name="Heavy Infantry" count=33 command=MS >315 - 33x Heavy Infantry M,S
+<Unit name="Heavy Infantry"  Command=MS >315 - 33x Heavy Infantry M,S
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Halberd
-    banner="Flaming Standard"
+    BannerEnchantment="Flaming Standard"
 >480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Spear
-    banner="Banner of Unity"
+    BannerEnchantment="Banner of Unity"
 >485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Halberd
-    banner="Banner of Unity"
+    BannerEnchantment="Banner of Unity"
 >529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Halberd
-    banner="Flaming Standard"
+    BannerEnchantment="Flaming Standard"
 >502 - 42 Heavy Infantry, Musician, Standard Bearer, Champion, Halberd Flaming Standard
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Halberd
-    banner="Flaming Standard"
+    BannerEnchantment="Flaming Standard"
 >535 - 45x Heavy Infantry, Standard bearer, Musician, Champion, Halberds, Flaming Standard
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Halberd
-    banner="Household Standard"
+    BannerEnchantment="Household Standard"
 >562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Halberd
-    banner="Rending Banner"
+    BannerEnchantment="Rending Banner"
 >600 - 50x Heavy Infantry, Halberd, Champion, Standard Bearer, Musician, Rending Banner
 <Unit name="Heavy Infantry"
-    command=S
+    Command=S
 >315 - 35x Heavy Infantry, Parent Unit, Standard bearer
 <Unit name="Heavy Infantry"
-    command=CM
+    Command=CM
     CloseCombatWeapon=Halberd
 >403 - 38 x Heavy Infantry, Halberd, Musician, Champion
 <Unit name="Heavy Infantry"
-    command=CMS
+    Command
     CloseCombatWeapon=Spear
-    banner="Flaming Standard"
+    BannerEnchantment="Flaming Standard"
 >447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard
-<Unit name="Heavy Infantry">235 – 21x Heavy Infantry, Standard Bearer, Musician, Household Standard
-<Unit name="Heavy Infantry">185 - 2x20 Heavy Infantry, M, Halberd
-<Unit name="Heavy Infantry">175 - 2 x 21x Heavy Infantry, Musician
-<Unit name="Heavy Infantry">165 - 20 x Heavy Infantry , Musician
-<Unit name="Heavy Infantry">165 - 20x Heavy Infantry support unit, Musician
-<Unit name="Heavy Infantry">165 - 20x Heavy Infantry, Standard 200 - 15x Light Infantry, Crossbow
-<Unit name="Heavy Infantry">165 – 20x Heavy infantry, M
-<Unit name="Heavy Infantry">175 - 21x Heavy Infantry, Parent Unit, Musician
-<Unit name="Heavy Infantry">205 - 20x Heavy Infantry, Champion, Standard Bearer, Musician
-<Unit name="Inquisitor">300 - Inquisitor, Shield, Horse, Hammer of Witches, Dusk Forged
-<Unit name="Inquisitor">275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
-<Unit name="Inquisitor">Inquisitor, blessed Steel, shield, hammer of witches, Horse
-<Unit name="Imperial Guard">23 Imperial Guard, FC, Shield, Household Standard 432
-<Unit name="Imperial Guard">25 Imperial Guard, FC, Shield, Banner of Unity 470
-<Unit name="Imperial Guard">570 - 30x Imperial Guard, M, C, S, Rending Banner
-<Unit name="Imperial Guard">772 - 36x Imperial Guard, Great Weapon, Sandard Bearer, Stalker's Standard, Champion
-<Unit name="Imperial Guard">809 - 37x Imperial Guard, Standard bearer, Musician, Champion, Great Weapons, Household Standard
-<Unit name="Imperial Guard">684 - 36x Imperial Guard, Champion, Standard Bearer, Musician, Rending Banner
-<Unit name="Imperial Guard">722 - 38 x Imperial Guard , FC, Rending Banner
-<Unit name="Imperial Guard">550 - 30x Imperial Guard, Standard Bearer, Rending Banner, Champion
-<Unit name="Imperial Guard">551 - 29x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion
-<Unit name="Imperial Guard">532 – 28x Imperial Guards, Standard Bearer, Musician, Champion, Rending Banner
-<Unit name="Imperial Guard">598 – 32x Imperial Guard, champion, musician, standard bearer, Flaming Standard
-<Unit name="Imperial Guard">641 - 34 Imperial Guard, Musician, Standard Bearer, Champion, Household Standard
-<Unit name="Imperial Guard">494 - 26x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion
-<Unit name="Imperial Guard">655 - 30x Imperial Guard, Champion, Musician, Standard Bearer, Household Standard
-<Unit name="Imperial Guard">391 - 24 Imperial Guard, C, M
+<Unit name="Heavy Infantry"
+	Command=MS
+	BannerEnchantment="Household Standard"
+>235 – 21x Heavy Infantry, Standard Bearer, Musician, Household Standard
+<Unit name="Heavy Infantry"
+	Command=M
+	CloseCombatWeapon=Halberd
+>185 - 2x20 Heavy Infantry, M, Halberd
+<Unit name="Heavy Infantry"
+	Command=M
+>175 - 2 x 21x Heavy Infantry, Musician
+<Unit name="Heavy Infantry"
+	Command=M
+>165 - 20 x Heavy Infantry , Musician
+<Unit name="Heavy Infantry"
+>165 - 20x Heavy Infantry support unit, Musician
+	Command=S
+<Unit name="Heavy Infantry">165 - 20x Heavy Infantry, Standard
+<Unit name="Heavy Infantry"
+	Command=S
+>165 – 20x Heavy infantry, M
+<Unit name="Heavy Infantry"
+	Command=M
+>175 - 21x Heavy Infantry, Parent Unit, Musician
+<Unit name="Heavy Infantry"
+	Command
+>205 - 20x Heavy Infantry, Champion, Standard Bearer, Musician
+<Unit name="Inquisitor"
+	Shield
+	Mount=Horse
+	WeaponEnchantment="Hammer of Witches"
+	ShieldEnchantment="Dusk Forge"
+>300 - Inquisitor, Shield, Horse, Hammer of Witches, Dusk Forged
+<Unit name="Inquisitor"
+	Shield
+	Title="Blessed Steel"
+	WeaponEnchantment="Hammer of Witches"
+	ShieldEnchantment="Willow's Ward"
+	Artefact="Potion of Swiftness"
+>275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
+<Unit name="Inquisitor"
+	Shield
+	Title="Blessed Steel"
+	WeaponEnchantment="Hammer of Witches"
+	Mount=Horse
+>Inquisitor, blessed Steel, shield, hammer of witches, Horse
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Household Standard"
+>23 Imperial Guard, FC, Shield, Household Standard 432
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Banner of Unity"
+>25 Imperial Guard, FC, Shield, Banner of Unity 470
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>570 - 30x Imperial Guard, M, C, S, Rending Banner
+<Unit name="Imperial Guard"
+	Command=C
+	ReplaceShieldWithGreatWeapon
+	BannerEnchantment="Stalker's Standard"
+>772 - 36x Imperial Guard, Great Weapon, Sandard Bearer, Stalker's Standard, Champion
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Household Standard"
+>809 - 37x Imperial Guard, Standard bearer, Musician, Champion, Great Weapons, Household Standard
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>684 - 36x Imperial Guard, Champion, Standard Bearer, Musician, Rending Banner
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>722 - 38 x Imperial Guard , FC, Rending Banner
+<Unit name="Imperial Guard"
+	Command=CS
+	BannerEnchantment="Rending Banner"
+>550 - 30x Imperial Guard, Standard Bearer, Rending Banner, Champion
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>551 - 29x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>532 – 28x Imperial Guards, Standard Bearer, Musician, Champion, Rending Banner
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Flaming Standard"
+>598 – 32x Imperial Guard, champion, musician, standard bearer, Flaming Standard
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Household Standard"
+>641 - 34 Imperial Guard, Musician, Standard Bearer, Champion, Household Standard
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>494 - 26x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Household Standard"
+>655 - 30x Imperial Guard, Champion, Musician, Standard Bearer, Household Standard
+<Unit name="Imperial Guard"
+	Command=CM
+>391 - 24 Imperial Guard, C, M
 <Unit name="Imperial Rangers">150 - 10x Imperial Rangers
 <Unit name="Imperial Rangers">90 - 2x5 Imperial Rangers
 <Unit name="Imperial Rangers">90 - 5x Imperial Rangers
@@ -188,18 +259,73 @@
 <Unit name="Imperial Rangers">90 – 2 x 5x Imperial Rangers
 <Unit name="Imperial Rangers">102 - 6x Imperial Rangers
 <Unit name="Imperial Rangers">90 – 2 x 5x Imperial Range
-<Unit name="Knight Commander">Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
-<Unit name="Knight Commander">380 - Knight Commander, Young Griffon, Hero's Heart, Dusk Forged (Shield), Basalt Infusion, Shield
-<Unit name="Knight Commander">380 - Knight Commander, Young Griffon, Shield, Dusk forged, Hero's Heart (Hand Weapon), Basalt Infusion
-<Unit name="Knight Commander">380 – Knight commander, Young Griffon, Shield, Dusk Forged, Basalt Infusion, Hero’s Heart (Hand Weapon)
-<Unit name="Knight Commander">425 - Knight Commander, Young Griffon, Shield, Shield of Volund, Hero's Heart (Hand Weapon), Death Cheater, Lucky Charm
-<Unit name="Knights of the Sun Griffon">2x3 Knights of Sun Griffon, Lance, M 346
-<Unit name="Knights of the Sun Griffon">615 - 5 x Knights of Sun Griffon , Lance, Musician, Standard, Banner of Discipline
-<Unit name="Knights of the Sun Griffon">615 - 5x Knights of the Sun Griffon, Lances, Musician, Standard Bearer, Flaming Standard
-<Unit name="Knights of the Sun Griffon">667 – 6x Knights of the Sun Griffon, Lance, Shield, M
-<Unit name="Knights of the Sun Griffon">560 - 5x Knights of the Sun Griffon, Lances, Musician
-<Unit name="Knights of the Sun Griffon">453 - 4 Knights of the Sun Griffon, Lances, M
-<Unit name="Knights of the Sun Griffon">346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M
+<Unit name="Knight Commander"
+	General
+	Shield
+	WeaponEnchantment="The Light of Sonnstahl"
+	ShieldEnchantment="Witchfire Guard"
+	Artefact="Potion of Swiftness"
+>Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
+<Unit name="Knight Commander"
+    Shield
+	WeaponEnchantment="Hero's Heart"
+	ShieldEnchantment="Dusk Forge"
+	ArmourEnchantment="Basalt Infusion"
+	Mount="Young Griffon"
+>380 - Knight Commander, Young Griffon, Hero's Heart, Dusk Forged (Shield), Basalt Infusion, Shield
+<Unit name="Knight Commander"
+    Shield
+	WeaponEnchantment="Hero's Heart"
+	ShieldEnchantment="Dusk Forge"
+	ArmourEnchantment="Basalt Infusion"
+	Mount="Young Griffon"
+>380 - Knight Commander, Young Griffon, Shield, Dusk forged, Hero's Heart (Hand Weapon), Basalt Infusion
+<Unit name="Knight Commander"
+    Shield
+	WeaponEnchantment="Hero's Heart"
+	ShieldEnchantment="Dusk Forge"
+	ArmourEnchantment="Basalt Infusion"
+	Mount="Young Griffon"
+>380 – Knight commander, Young Griffon, Shield, Dusk Forged, Basalt Infusion, Hero’s Heart (Hand Weapon)
+<Unit name="Knight Commander"
+    Shield
+	WeaponEnchantment="Hero's Heart"
+	ShieldEnchantment="Shield of Volund"
+	ArmourEnchantment="Death Cheater"
+	Artefact="Lucky Charm"
+	Mount="Young Griffon"
+>425 - Knight Commander, Young Griffon, Shield, Shield of Volund, Hero's Heart (Hand Weapon), Death Cheater, Lucky Charm
+<Unit name="Knights of the Sun Griffon"
+	Command=M
+	ReplaceHalberdWithLance
+>2x3 Knights of Sun Griffon, Lance, M 346
+<Unit name="Knights of the Sun Griffon"
+	Command=MS
+	ReplaceHalberdWithLance
+	BannerEnchantment="Banner of Discipline"
+>615 - 5 x Knights of Sun Griffon , Lance, Musician, Standard, Banner of Discipline
+<Unit name="Knights of the Sun Griffon"
+	Command=M
+	ReplaceHalberdWithLance
+	BannerEnchantment="Flaming Standard"
+>615 - 5x Knights of the Sun Griffon, Lances, Musician, Standard Bearer, Flaming Standard
+<Unit name="Knights of the Sun Griffon"
+	Command=M
+	ReplaceHalberdWithLance
+>667 – 6x Knights of the Sun Griffon, Lance, Shield, M
+<Unit name="Knights of the Sun Griffon"
+	Command=M
+	ReplaceHalberdWithLance
+>560 - 5x Knights of the Sun Griffon, Lances, Musician
+<Unit name="Knights of the Sun Griffon"
+	Command=M
+	ReplaceHalberdWithLance
+>453 - 4 Knights of the Sun Griffon, Lances, M
+<Unit name="Knights of the Sun Griffon"
+	Command=M
+	ReplaceHalberdWithLance
+>346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M
+<Unit name="Light Infantry">200 - 15x Light Infantry, Crossbow
 <Unit name="Light Infantry"
     RangedWeapon=Handgun
 >135 - 10x Light Infantry, Handguns
@@ -269,6 +395,7 @@
 >320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle
 <Unit name="Marshal"
     BattleStandardBear
+    Shield
     BannerEnchantment="Household Standard"
     WeaponEnchantment="Death Warrant"
 >260 - Marshal, BSB, Household standard, Death Warrant, Shield
@@ -282,18 +409,18 @@
     ArmourEnchantment="Ghostly Guard"
     WeaponEnchantment="Hero's Heart"
     Artefact="Winter Cloak"
-    Shileld
+    Shield
 >515 - Marshal, Great Griffon, Shield, Shield of Volund, Hero's Heart, Ghostly Guard, Winter Cloak
 <Unit name="Marshal"
     BattleStandardBear
     Title="Great Tactician"
-    Shileld
+    Shield
     Artefact="Binding Scroll"
     ArmourEnchantment="Blacksteel"
 >Marshal BSB, Great Tactician, Pl"ate, Shield, Binding Scroll, Black Steel 325
 <Unit name="Marshal"
     BattleStandardBear
-    Shileld
+    Shield
     ArmourEnchantment="Blacksteel"
     BannerEnchantment="Rending Banner"
 >Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
@@ -301,7 +428,7 @@
     BattleStandardBear
     Title="Great Tactician"
     ArmourEnchantment="Blacksteel"
-    BannerEnchantment="Stalker’s Standard"
+    BannerEnchantment="Stalker's Standard"
     Mount=Horse
     >Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
 <Unit name="Marshal"
@@ -312,7 +439,7 @@
     Mount="Great Griffon"
 >Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
 <Unit name="Marshal"
-    Shileld
+    Shield
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
 >
@@ -321,53 +448,66 @@
     BattleStandardBear
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
-    Shileld
+    Shield
 >265 - Marshal, BSB, Shield, Death Warrant, Blacksteel
 <Unit name="Marshal"
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
-    Shileld
+    Shield
 >265 - Marshal, General, Death Warrant, Blacksteel, Shield
 <Unit name="Marshal"
     BattleStandardBear
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
-    Shileld
+    Shield
 >265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,
 <Unit name="Marshal"
     BattleStandardBear
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
-    Shileld
+    Shield
 >265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon)
 <Unit name="Marshal"
     BattleStandardBear
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
-    Shileld
+    Shield
     RangedWeapon=Pistol
 >270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant
 <Unit name="Marshal"
     BattleStandardBear
-    Shileld
+    Shield
     ShieldEnchantment="Willow's Ward"
-    ArmourEnchantment="Alchemist’s Alloy"
+    ArmourEnchantment="Alchemist's Alloy"
     Artefact="Mantle of Ullor"
     Title="Great Tactician"
 >280 - Marshal, BSB, Shield, Willow's Ward, Alchemist’s Alloy, Mantle of Ullor, Great Tactician
 <Unit name="Marshal"
     BattleStandardBear
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Shield
 >265 – Marshal, Battle Standard Bearer, Shield, Death warrant, Blacksteel
 <Unit name="Marshal"
     BattleStandardBear
+    RangedWeapon=Pistol
+    BannerEnchantment="Household Standard"
+    ArmourEnchantment="Blacksteel"
+    Shield
+    Title="Great Tactician"
+
 >315 - Marshal, Great Tactician, Battle Standard, Household Standard, Shield, Pistol, Blacksteel
 <Unit name="Marshal"
     BattleStandardBear
+    Shield
+    Title="Great Tactician"
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
 >325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel
 <Unit name="Marshal"
     BattleStandardBear
     Title="Great Tactician"
-    Shileld
+    Shield
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
 >325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), Blacksteel
@@ -375,133 +515,196 @@
     Title="Great Tactician"
     RangedWeapon=Pistol
     Artefact="Binding Scroll"
-    Artefact="Crown  of the Wizard King"
+    Artefact="Crown of the Wizard King"
 >330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King
-<Unit name="Marshal">400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,
+<Unit name="Marshal"
+    General
+    Title="Great Tactician"
+    CloseCombatWeapon="Great Weapon"
+    WeaponEnchantment="King Slayer"
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Lucky Charm"
+>400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,
 <Unit name="Marshal"
     Title="Great Tactician"
-    Shileld
+    Shield
     Artefact="Binding Scroll"
     Artefact="Obsidian Rock"
     ArmourEnchantment="Imperial Seal"
-
 >405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock
 <Unit name="Marshal"
     BattleStandardBear
-    Shileld
+    Shield
     BannerEnchantment="Household Standard"
 >205 - Marshal, Shield, Battle Standard Bearer, Household Standard
 <Unit name="Marshal"
     BattleStandardBear
     BannerEnchantment="Household Standard"
-    Shileld
+    Shield
 >205 - Marshall , BSB, Shield, Household Banner
 <Unit name="Marshal"
     BattleStandardBear
-    Shileld
+    Shield
     ShieldEnchantment="Willow's Ward"
 >180 - Marshal, Willow's Ward, Shield, Battle Standard Bearer
 <Unit name="Marshal"
+	General
     Artefact="Crown of the Wizard King"
 >210 – Marshal, General, Crown of the Wizard King
 <Unit name="Marshal"
     BattleStandardBear
+    Artefact="Crown of the Wizard King"
+    BannerEnchantment="Household Standard"
 >255 - Marshal, Battle Standard Bearer, Shield, Crown of the Wizard King, Household Standard
 <Unit name="Marshal"
     BattleStandardBear
+    Shield
+    BannerEnchantment="Aether Icon"
+    Artefact="Lucky Charm"
+    ArmourEnchantment=Blacksteel
 >235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm
 <Unit name="Marshal"
     BattleStandardBear
+    BannerEnchantment="Banner of Discipline"
+    BannerEnchantment="Household Standard"
 >235 - Marshal, Battle Standard, Banner of Discipline, Household Standard
-<Unit name="Marshal">235 - Marshall , General, Shield, Crown of Authocracy
-<Unit name="Marshal">285 - Marshal, General, Crown of Autocracy, Binding Scroll
+<Unit name="Marshal"
+	General
+	Shield
+	Artefact="Crown of Autocracy"
+>235 - Marshall , General, Shield, Crown of Authocracy
+<Unit name="Marshal"
+	General
+	Artefact="Crown of Autocracy"
+	Artefact="Binding Scroll"
+>285 - Marshal, General, Crown of Autocracy, Binding Scroll
 <Unit name="Prelate"
     Mount="Altar of Battle"
-    Shileld
+    Shield
     Armour="Plate Armour"
+    ArmourEnchantment="Alchemist's Alloy"
 >570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy
 <Unit name="Prelate"
     Mount="Altar of Battle"
-    Shileld
+    Shield
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Basalt Infusion"
+    Artefact="Locket of Sunna"
 >665 - Prelate, Altar of Battle, Basalt Infusion, Locket of Sunna, Plate Armour, Great Weapon
 <Unit name="Prelate"
     Mount="Altar of Battle"
-    Shileld
+    Shield
     Armour="Plate Armour"
     CloseCombatWeapon="Paired Weapons"
+    Artefact="Locket of Sunna"
+    WeaponEnchantment="Hero's Heart"
+    ArmourEnchantment="Basalt Infusion"
 >725 - Prelate, Altar of Battle, Paired Weapons, Plate Armour, Shield, Basalt Infusion, Hero's Heart, Locket of Sunna
 <Unit name="Prelate"
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ArmourEnchantment=Blacksteel
+    Artefact="Locket of Sunna"
+    Artefact="Potion of Strength"
 >310 - Prelate, Plate Armour, Shield, Locket of Sunna, The Black Steel, potion of Strength
 <Unit name="Prelate"
     CloseCombatWeapon="Great Weapon"
     Armour="Plate Armour"
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Locket of Sunna"
 >Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Imperial Seal"
 >Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Paired Weapons"
     Mount=Horse
+    WeaponEnchantment="Hero's Heart"
+    ArmourEnchantment="Basalt Infusion"
 >Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
 <Unit name="Prelate"
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ArmourEnchantment="Alchemist's Alloy"
 >200 Prelate, Shield, Plate Armour, Alchemist's Alloy
 <Unit name="Prelate"
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ShieldEnchantment="Willow's Ward"
 >200 Prelate, Shield, Willow's Ward, Plate Armour,
 <Unit name="Prelate"
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Lucky Charm"
+    Artefact="Obsidian Rock"
 >320 - Prelate, General, Plate Armour, Shield, Imperial Seal, Lucky Charm, Obsidian Rock
 <Unit name="Prelate"
+    General
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Locket of Sunna"
+    WeaponEnchantment="Death Warrant"
 >340 - Prelate, General, Shield, Plate Armour, Imperial Seal, Death Warrant (Hand Weapon)
 <Unit name="Prelate"
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ArmourEnchantment="Blacksteel"
+    WeaponEnchantment="Death Warrant"
+    Artefact="Locket of Sunna"
 >355 - Prelate , Plate, Shield, Blacksteel, Death Warrant,Locket of Sunna
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Locket of Sunna"
 >360 - Prelate, General, Great Weapon, Plate Armour, Imperial Seal, Locket of Sunna
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Locket of Sunna"
+    Artefact="Lucky Charm"
 >370 - Prelate, General, Great weapon, Plate Armour, Imperial Seal, Locket of Sunna, Lucky Charm
 <Unit name= Prelate
     Armour="Plate Armour"
-    Shileld
+    Shield
+    ArmourEnchantment="Imperial Seal"
+    ShieldEnchantment="Witchfire Guard"
+    WeaponEnchantment="Death Warrant"
 ">375 - Prelate, General, Plate Armour, Shield, Imperial Seal, Witchfire Guard, Death Warrant (Hand Weapon)
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Dragonfire Gem"
+    Artefact="Locket of Sunna"
 >380 – Prelate, general, great weapon, plate armour, Imperial Seal, Locket of Sunna, Dragonfire Gem
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Imperial Seal"
+    Artefact="Obsidian Rock"
+    Artefact="Locket of Sunna"
 >385 – Prelate, General, Plate armour, Great Weapon, Locket of Sunna, Imperial Seal, Obsidian Rock
-<Unit name="Reiters">2x5 Reiter's Brace of Pistols 175
-<Unit name="Reiters">2x5 Reiter's brace of pistols 175
-<Unit name="Reiters">5 Reiters, Brace of Pistols 175
-<Unit name="Reiters">7 reiters, Repeater gun, 243
-<Unit name="Reiters">175 - 2x5 Reiter, Brace of Pistols
+<Unit name="Reiters" RangedWeapon="Bracer of Pistols" >2x5 Reiter's Brace of Pistols 175
+<Unit name="Reiters" RangedWeapon="Bracer of Pistols">2x5 Reiter's brace of pistols 175
+<Unit name="Reiters"RangedWeapon="Bracer of Pistols" >5 Reiters, Brace of Pistols 175
+<Unit name="Reiters" RangedWeapon="Repeater Gun">7 reiters, Repeater gun, 243
+<Unit name="Reiters" RangedWeapon="Bracer of Pistols">175 - 2x5 Reiter, Brace of Pistols
 <Unit name="Reiters">150 - 2 x 5x Reiters
 <Unit name="Reiters">150 – 2 x 5x Reiters
-<Unit name="Reiters">150 – 5x Reiters
-<Unit name="Reiters">175 - 2x5 Reiters, Repeater Gun
-<Unit name="Reiters">175 - 3 x 5x Reiters, Repeater Guns
-<Unit name="Reiters">175 - 5x Reiters, Brace of Pistols
-<Unit name="Reiters">175 - 5x Reiters, Braces of Pistols
-<Unit name="Reiters">175 - 5x Reiters, Repeater Guns
+FUnit name="Reiters">150 – 5x Reiters
+<Unit name="Reiters" RangedWeapon="Repeater Gun">175 - 2x5 Reiters, Repeater Gun
+<Unit name="Reiters" RangedWeapon="Repeater Gun">175 - 3 x 5x Reiters, Repeater Guns
+<Unit name="Reiters" RangedWeapon="Bracer of Pistols">175 - 5x Reiters, Brace of Pistols
+<Unit name="Reiters" RangedWeapon="Bracer of Pistols">175 - 5x Reiters, Braces of Pistols
+<Unit name="Reiters" RangedWeapon="Repeater Gun">175 - 5x Reiters, Repeater Guns
 <Unit name="State Militia">2x10 Militia 140
 <Unit name="State Militia">3x 140 - 3x 10x State Militia
 <Unit name="State Militia">3x10 Militia 140
@@ -509,8 +712,8 @@
 <Unit name="State Militia">140 - 10x State Militia
 <Unit name="State Militia">140 – 10x State Militia
 <Unit name="State Militia">140 – 10x State militia
-<Unit name="State Militia">150 - 2x10 State Militia, skirmisher
-<Unit name="State Militia">150 - 10x State Militia Irregulars
+<Unit name="State Militia" Irregulars >150 - 2x10 State Militia, skirmisher
+<Unit name="State Militia" Irregulars >150 - 10x State Militia Irregulars
 <Unit name="Steam Tank">1 Steam Tank 475
 <Unit name="Steam Tank">475 - 1x Steam Tank
 <Unit name="Steam Tank">Steam Tank 475
@@ -536,7 +739,7 @@
     Armour="Light Armour"
     Artefact="Talisman of Shielding"
     Artefact="Magical Heirloom"
-    ArmourEnchantment="Alchemist’s Alloy"
+    ArmourEnchantment="Alchemist's Alloy"
     Mount="Arcane Engine"
     Engine="Arcane Shield"
 >Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670
@@ -672,7 +875,7 @@
     Wizard=Adept
     Path=Pyromancy
     Artefact="Book of Arcane Mastery"
-    Artefact="Scepter of Power"
+    Artefact="Sceptre of Power"
 >300 – Wizard,  Alchemy, Book of Arcane Mastery, Scepter of Power, Wizard Adept
 <Unit name="Wizard"
     Wizard=Adept

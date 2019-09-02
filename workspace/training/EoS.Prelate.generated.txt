@@ -1,0 +1,475 @@
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Winter Cloak"
+>Prelate, General, Horse, Winter Cloak
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Locket of Sunna"
+>Prelate, General, Horse, Locket of Sunna
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Mantle of Ullor"
+>Prelate, General, Horse, Mantle of Ullor
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Crown of Autocracy"
+>Prelate, General, Horse, Crown of Autocracy
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Binding Scroll"
+>Prelate, General, Horse, Binding Scroll
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Crown of the Wizard King"
+>Prelate, General, Horse, Crown of the Wizard King
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Talisman of Shielding"
+>Prelate, General, Horse, Talisman of Shielding
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Talisman of the Void"
+>Prelate, General, Horse, Talisman of the Void
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Lightning Vambraces"
+>Prelate, General, Horse, Lightning Vambraces
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Ranger's Boot"
+>Prelate, General, Horse, Ranger's Boot
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Rod of Battle"
+>Prelate, General, Horse, Rod of Battle
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Crystal Ball"
+>Prelate, General, Horse, Crystal Ball
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Sceptre of Power"
+>Prelate, General, Horse, Sceptre of Power
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Dragon Staff"
+>Prelate, General, Horse, Dragon Staff
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Obsidian Rock"
+>Prelate, General, Horse, Obsidian Rock
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Dragonfire Gem"
+>Prelate, General, Horse, Dragonfire Gem
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Lucky Charm"
+>Prelate, General, Horse, Lucky Charm
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Potion of Strength"
+>Prelate, General, Horse, Potion of Strength
+<Unit name="Prelate" 
+	General="General"
+	Mount="Horse"
+	Artefact="Potion of Swiftness"
+>Prelate, General, Horse, Potion of Swiftness
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Winter Cloak"
+>Prelate, General, Altar of Battle, Winter Cloak
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Locket of Sunna"
+>Prelate, General, Altar of Battle, Locket of Sunna
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Mantle of Ullor"
+>Prelate, General, Altar of Battle, Mantle of Ullor
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Crown of Autocracy"
+>Prelate, General, Altar of Battle, Crown of Autocracy
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Binding Scroll"
+>Prelate, General, Altar of Battle, Binding Scroll
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Crown of the Wizard King"
+>Prelate, General, Altar of Battle, Crown of the Wizard King
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Talisman of Shielding"
+>Prelate, General, Altar of Battle, Talisman of Shielding
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Talisman of the Void"
+>Prelate, General, Altar of Battle, Talisman of the Void
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Lightning Vambraces"
+>Prelate, General, Altar of Battle, Lightning Vambraces
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Ranger's Boot"
+>Prelate, General, Altar of Battle, Ranger's Boot
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Rod of Battle"
+>Prelate, General, Altar of Battle, Rod of Battle
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Crystal Ball"
+>Prelate, General, Altar of Battle, Crystal Ball
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Sceptre of Power"
+>Prelate, General, Altar of Battle, Sceptre of Power
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Dragon Staff"
+>Prelate, General, Altar of Battle, Dragon Staff
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Obsidian Rock"
+>Prelate, General, Altar of Battle, Obsidian Rock
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Dragonfire Gem"
+>Prelate, General, Altar of Battle, Dragonfire Gem
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Lucky Charm"
+>Prelate, General, Altar of Battle, Lucky Charm
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Potion of Strength"
+>Prelate, General, Altar of Battle, Potion of Strength
+<Unit name="Prelate" 
+	General="General"
+	Mount="Altar of Battle"
+	Artefact="Potion of Swiftness"
+>Prelate, General, Altar of Battle, Potion of Swiftness
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Winter Cloak"
+>Prelate, General, Winter Cloak
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Locket of Sunna"
+>Prelate, General, Locket of Sunna
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Mantle of Ullor"
+>Prelate, General, Mantle of Ullor
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Crown of Autocracy"
+>Prelate, General, Crown of Autocracy
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Binding Scroll"
+>Prelate, General, Binding Scroll
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Crown of the Wizard King"
+>Prelate, General, Crown of the Wizard King
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Talisman of Shielding"
+>Prelate, General, Talisman of Shielding
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Talisman of the Void"
+>Prelate, General, Talisman of the Void
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Lightning Vambraces"
+>Prelate, General, Lightning Vambraces
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Ranger's Boot"
+>Prelate, General, Ranger's Boot
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Rod of Battle"
+>Prelate, General, Rod of Battle
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Crystal Ball"
+>Prelate, General, Crystal Ball
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Sceptre of Power"
+>Prelate, General, Sceptre of Power
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Dragon Staff"
+>Prelate, General, Dragon Staff
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Obsidian Rock"
+>Prelate, General, Obsidian Rock
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Dragonfire Gem"
+>Prelate, General, Dragonfire Gem
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Lucky Charm"
+>Prelate, General, Lucky Charm
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Potion of Strength"
+>Prelate, General, Potion of Strength
+<Unit name="Prelate" 
+	General="General"
+	Artefact="Potion of Swiftness"
+>Prelate, General, Potion of Swiftness
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Winter Cloak"
+>Prelate, Horse, Winter Cloak
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Locket of Sunna"
+>Prelate, Horse, Locket of Sunna
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Mantle of Ullor"
+>Prelate, Horse, Mantle of Ullor
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Crown of Autocracy"
+>Prelate, Horse, Crown of Autocracy
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Binding Scroll"
+>Prelate, Horse, Binding Scroll
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Crown of the Wizard King"
+>Prelate, Horse, Crown of the Wizard King
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Talisman of Shielding"
+>Prelate, Horse, Talisman of Shielding
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Talisman of the Void"
+>Prelate, Horse, Talisman of the Void
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Lightning Vambraces"
+>Prelate, Horse, Lightning Vambraces
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Ranger's Boot"
+>Prelate, Horse, Ranger's Boot
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Rod of Battle"
+>Prelate, Horse, Rod of Battle
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Crystal Ball"
+>Prelate, Horse, Crystal Ball
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Sceptre of Power"
+>Prelate, Horse, Sceptre of Power
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Dragon Staff"
+>Prelate, Horse, Dragon Staff
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Obsidian Rock"
+>Prelate, Horse, Obsidian Rock
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Dragonfire Gem"
+>Prelate, Horse, Dragonfire Gem
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Lucky Charm"
+>Prelate, Horse, Lucky Charm
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Potion of Strength"
+>Prelate, Horse, Potion of Strength
+<Unit name="Prelate" 
+	Mount="Horse"
+	Artefact="Potion of Swiftness"
+>Prelate, Horse, Potion of Swiftness
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Winter Cloak"
+>Prelate, Altar of Battle, Winter Cloak
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Locket of Sunna"
+>Prelate, Altar of Battle, Locket of Sunna
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Mantle of Ullor"
+>Prelate, Altar of Battle, Mantle of Ullor
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Crown of Autocracy"
+>Prelate, Altar of Battle, Crown of Autocracy
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Binding Scroll"
+>Prelate, Altar of Battle, Binding Scroll
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Crown of the Wizard King"
+>Prelate, Altar of Battle, Crown of the Wizard King
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Talisman of Shielding"
+>Prelate, Altar of Battle, Talisman of Shielding
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Talisman of the Void"
+>Prelate, Altar of Battle, Talisman of the Void
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Lightning Vambraces"
+>Prelate, Altar of Battle, Lightning Vambraces
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Ranger's Boot"
+>Prelate, Altar of Battle, Ranger's Boot
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Rod of Battle"
+>Prelate, Altar of Battle, Rod of Battle
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Crystal Ball"
+>Prelate, Altar of Battle, Crystal Ball
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Sceptre of Power"
+>Prelate, Altar of Battle, Sceptre of Power
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Dragon Staff"
+>Prelate, Altar of Battle, Dragon Staff
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Obsidian Rock"
+>Prelate, Altar of Battle, Obsidian Rock
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Dragonfire Gem"
+>Prelate, Altar of Battle, Dragonfire Gem
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Lucky Charm"
+>Prelate, Altar of Battle, Lucky Charm
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Potion of Strength"
+>Prelate, Altar of Battle, Potion of Strength
+<Unit name="Prelate" 
+	Mount="Altar of Battle"
+	Artefact="Potion of Swiftness"
+>Prelate, Altar of Battle, Potion of Swiftness
+<Unit name="Prelate" 
+	Artefact="Winter Cloak"
+>Prelate, Winter Cloak
+<Unit name="Prelate" 
+	Artefact="Locket of Sunna"
+>Prelate, Locket of Sunna
+<Unit name="Prelate" 
+	Artefact="Mantle of Ullor"
+>Prelate, Mantle of Ullor
+<Unit name="Prelate" 
+	Artefact="Crown of Autocracy"
+>Prelate, Crown of Autocracy
+<Unit name="Prelate" 
+	Artefact="Binding Scroll"
+>Prelate, Binding Scroll
+<Unit name="Prelate" 
+	Artefact="Crown of the Wizard King"
+>Prelate, Crown of the Wizard King
+<Unit name="Prelate" 
+	Artefact="Talisman of Shielding"
+>Prelate, Talisman of Shielding
+<Unit name="Prelate" 
+	Artefact="Talisman of the Void"
+>Prelate, Talisman of the Void
+<Unit name="Prelate" 
+	Artefact="Lightning Vambraces"
+>Prelate, Lightning Vambraces
+<Unit name="Prelate" 
+	Artefact="Ranger's Boot"
+>Prelate, Ranger's Boot
+<Unit name="Prelate" 
+	Artefact="Rod of Battle"
+>Prelate, Rod of Battle
+<Unit name="Prelate" 
+	Artefact="Crystal Ball"
+>Prelate, Crystal Ball
+<Unit name="Prelate" 
+	Artefact="Sceptre of Power"
+>Prelate, Sceptre of Power
+<Unit name="Prelate" 
+	Artefact="Dragon Staff"
+>Prelate, Dragon Staff
+<Unit name="Prelate" 
+	Artefact="Obsidian Rock"
+>Prelate, Obsidian Rock
+<Unit name="Prelate" 
+	Artefact="Dragonfire Gem"
+>Prelate, Dragonfire Gem
+<Unit name="Prelate" 
+	Artefact="Lucky Charm"
+>Prelate, Lucky Charm
+<Unit name="Prelate" 
+	Artefact="Potion of Strength"
+>Prelate, Potion of Strength
+<Unit name="Prelate" 
+	Artefact="Potion of Swiftness"
+>Prelate, Potion of Swiftness

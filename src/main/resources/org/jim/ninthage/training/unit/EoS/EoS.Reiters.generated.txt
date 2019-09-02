@@ -1,0 +1,212 @@
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	Command="C"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Bracer of Pistols, C, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	Command="C"
+>Reiters, Heavy Armour, Bracer of Pistols, C
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	Command="M"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Bracer of Pistols, M, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	Command="M"
+>Reiters, Heavy Armour, Bracer of Pistols, M
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	Command="CM"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Bracer of Pistols, CM, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	Command="CM"
+>Reiters, Heavy Armour, Bracer of Pistols, CM
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Bracer of Pistols, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Bracer of Pistols"
+>Reiters, Heavy Armour, Bracer of Pistols
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	Command="C"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Repeater Gun, C, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	Command="C"
+>Reiters, Heavy Armour, Repeater Gun, C
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	Command="M"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Repeater Gun, M, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	Command="M"
+>Reiters, Heavy Armour, Repeater Gun, M
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	Command="CM"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Repeater Gun, CM, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	Command="CM"
+>Reiters, Heavy Armour, Repeater Gun, CM
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Repeater Gun, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	RangedWeapon="Repeater Gun"
+>Reiters, Heavy Armour, Repeater Gun
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	Command="C"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, C, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	Command="C"
+>Reiters, Heavy Armour, C
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	Command="M"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, M, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	Command="M"
+>Reiters, Heavy Armour, M
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	Command="CM"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, CM, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	Command="CM"
+>Reiters, Heavy Armour, CM
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Heavy Armour, Repeater Pistol
+<Unit name="Reiters" 
+	Armour="Heavy Armour"
+>Reiters, Heavy Armour
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	Command="C"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Bracer of Pistols, C, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	Command="C"
+>Reiters, Bracer of Pistols, C
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	Command="M"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Bracer of Pistols, M, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	Command="M"
+>Reiters, Bracer of Pistols, M
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	Command="CM"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Bracer of Pistols, CM, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	Command="CM"
+>Reiters, Bracer of Pistols, CM
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Bracer of Pistols, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Bracer of Pistols"
+>Reiters, Bracer of Pistols
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	Command="C"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Repeater Gun, C, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	Command="C"
+>Reiters, Repeater Gun, C
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	Command="M"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Repeater Gun, M, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	Command="M"
+>Reiters, Repeater Gun, M
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	Command="CM"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Repeater Gun, CM, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	Command="CM"
+>Reiters, Repeater Gun, CM
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Repeater Gun, Repeater Pistol
+<Unit name="Reiters" 
+	RangedWeapon="Repeater Gun"
+>Reiters, Repeater Gun
+<Unit name="Reiters" 
+	Command="C"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, C, Repeater Pistol
+<Unit name="Reiters" 
+	Command="C"
+>Reiters, C
+<Unit name="Reiters" 
+	Command="M"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, M, Repeater Pistol
+<Unit name="Reiters" 
+	Command="M"
+>Reiters, M
+<Unit name="Reiters" 
+	Command="CM"
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, CM, Repeater Pistol
+<Unit name="Reiters" 
+	Command="CM"
+>Reiters, CM
+<Unit name="Reiters" 
+	ChampionRangedWeapon="Repeater Pistol"
+>Reiters, Repeater Pistol
+<Unit name="Reiters" 
+>Reiters

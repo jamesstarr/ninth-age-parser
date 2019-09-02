@@ -1,0 +1,212 @@
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Paired Weapons"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Shield, Paired Weapons, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Paired Weapons"
+	Title="Blessed Steel"
+>Inquisitor, Shield, Paired Weapons, Blessed Steel
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Paired Weapons"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Shield, Paired Weapons, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Paired Weapons"
+	Title="Silver Shots"
+>Inquisitor, Shield, Paired Weapons, Silver Shots
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Paired Weapons"
+	Mount="Horse"
+>Inquisitor, Shield, Paired Weapons, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Paired Weapons"
+>Inquisitor, Shield, Paired Weapons
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Great Weapon"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Shield, Great Weapon, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Great Weapon"
+	Title="Blessed Steel"
+>Inquisitor, Shield, Great Weapon, Blessed Steel
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Great Weapon"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Shield, Great Weapon, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Great Weapon"
+	Title="Silver Shots"
+>Inquisitor, Shield, Great Weapon, Silver Shots
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Great Weapon"
+	Mount="Horse"
+>Inquisitor, Shield, Great Weapon, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Great Weapon"
+>Inquisitor, Shield, Great Weapon
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Halberd"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Shield, Halberd, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Halberd"
+	Title="Blessed Steel"
+>Inquisitor, Shield, Halberd, Blessed Steel
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Halberd"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Shield, Halberd, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Halberd"
+	Title="Silver Shots"
+>Inquisitor, Shield, Halberd, Silver Shots
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Halberd"
+	Mount="Horse"
+>Inquisitor, Shield, Halberd, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	CloseCombatWeapon="Halberd"
+>Inquisitor, Shield, Halberd
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Shield, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	Title="Blessed Steel"
+>Inquisitor, Shield, Blessed Steel
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Shield, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	Title="Silver Shots"
+>Inquisitor, Shield, Silver Shots
+<Unit name="Inquisitor" 
+	Shield="Shield"
+	Mount="Horse"
+>Inquisitor, Shield, Horse
+<Unit name="Inquisitor" 
+	Shield="Shield"
+>Inquisitor, Shield
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Paired Weapons"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Paired Weapons, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Paired Weapons"
+	Title="Blessed Steel"
+>Inquisitor, Paired Weapons, Blessed Steel
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Paired Weapons"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Paired Weapons, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Paired Weapons"
+	Title="Silver Shots"
+>Inquisitor, Paired Weapons, Silver Shots
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Paired Weapons"
+	Mount="Horse"
+>Inquisitor, Paired Weapons, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Paired Weapons"
+>Inquisitor, Paired Weapons
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Great Weapon"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Great Weapon, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Great Weapon"
+	Title="Blessed Steel"
+>Inquisitor, Great Weapon, Blessed Steel
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Great Weapon"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Great Weapon, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Great Weapon"
+	Title="Silver Shots"
+>Inquisitor, Great Weapon, Silver Shots
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Great Weapon"
+	Mount="Horse"
+>Inquisitor, Great Weapon, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Great Weapon"
+>Inquisitor, Great Weapon
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Halberd"
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Halberd, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Halberd"
+	Title="Blessed Steel"
+>Inquisitor, Halberd, Blessed Steel
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Halberd"
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Halberd, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Halberd"
+	Title="Silver Shots"
+>Inquisitor, Halberd, Silver Shots
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Halberd"
+	Mount="Horse"
+>Inquisitor, Halberd, Horse
+<Unit name="Inquisitor" 
+	CloseCombatWeapon="Halberd"
+>Inquisitor, Halberd
+<Unit name="Inquisitor" 
+	Title="Blessed Steel"
+	Mount="Horse"
+>Inquisitor, Blessed Steel, Horse
+<Unit name="Inquisitor" 
+	Title="Blessed Steel"
+>Inquisitor, Blessed Steel
+<Unit name="Inquisitor" 
+	Title="Silver Shots"
+	Mount="Horse"
+>Inquisitor, Silver Shots, Horse
+<Unit name="Inquisitor" 
+	Title="Silver Shots"
+>Inquisitor, Silver Shots
+<Unit name="Inquisitor" 
+	Mount="Horse"
+>Inquisitor, Horse
+<Unit name="Inquisitor" 
+>Inquisitor

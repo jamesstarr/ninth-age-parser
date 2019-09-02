@@ -1,0 +1,824 @@
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+>Knights of the Sun Griffon, Replace Halberd with Lance
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="C"
+>Knights of the Sun Griffon, Replace Halberd with Lance, C
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="M"
+>Knights of the Sun Griffon, Replace Halberd with Lance, M
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="S"
+>Knights of the Sun Griffon, Replace Halberd with Lance, S
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CM"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CM
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CS"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CS
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="MS"
+>Knights of the Sun Griffon, Replace Halberd with Lance, MS
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	ReplaceHalberdWithLance="Replace Halberd with Lance"
+	Command="CMS"
+>Knights of the Sun Griffon, Replace Halberd with Lance, CMS
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+>Knights of the Sun Griffon
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, C, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, C, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, C, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, C, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, C, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, C, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, C, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, C, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, C, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, C, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, C, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="C"
+>Knights of the Sun Griffon, C
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, M, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, M, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, M, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, M, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, M, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, M, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, M, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, M, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, M, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, M, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, M, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="M"
+>Knights of the Sun Griffon, M
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, S, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, S, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, S, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, S, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, S, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, S, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, S, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, S, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, S, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, S, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, S, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="S"
+>Knights of the Sun Griffon, S
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, CM, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, CM, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, CM, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, CM, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, CM, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, CM, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, CM, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, CM, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, CM, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, CM, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, CM, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="CM"
+>Knights of the Sun Griffon, CM
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, CS, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, CS, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, CS, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, CS, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, CS, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, CS, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, CS, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, CS, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, CS, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, CS, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, CS, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="CS"
+>Knights of the Sun Griffon, CS
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, MS, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, MS, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, MS, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, MS, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, MS, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, MS, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, MS, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, MS, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, MS, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, MS, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, MS, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="MS"
+>Knights of the Sun Griffon, MS
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Knights of the Sun Griffon, CMS, Household Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Knights of the Sun Griffon, CMS, Banner of Unity
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Knights of the Sun Griffon, CMS, Marksman’s Pennant
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Knights of the Sun Griffon, CMS, Banner of Speed
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Knights of the Sun Griffon, CMS, Rending Banner
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Knights of the Sun Griffon, CMS, Stalker's Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Knights of the Sun Griffon, CMS, Banner of the Relentless Company
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Knights of the Sun Griffon, CMS, Banner of Discipline
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Knights of the Sun Griffon, CMS, Flaming Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Knights of the Sun Griffon, CMS, Legion Standard
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Knights of the Sun Griffon, CMS, Aether Icon
+<Unit name="Knights of the Sun Griffon" 
+	Command="CMS"
+>Knights of the Sun Griffon, CMS

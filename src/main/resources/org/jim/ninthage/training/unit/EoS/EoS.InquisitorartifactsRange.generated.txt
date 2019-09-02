@@ -1,0 +1,285 @@
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Winter Cloak"
+>Inquisitor, Crossbow, Winter Cloak
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Locket of Sunna"
+>Inquisitor, Crossbow, Locket of Sunna
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Mantle of Ullor"
+>Inquisitor, Crossbow, Mantle of Ullor
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Crown of Autocracy"
+>Inquisitor, Crossbow, Crown of Autocracy
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Binding Scroll"
+>Inquisitor, Crossbow, Binding Scroll
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Crown of the Wizard King"
+>Inquisitor, Crossbow, Crown of the Wizard King
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Talisman of Shielding"
+>Inquisitor, Crossbow, Talisman of Shielding
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Talisman of the Void"
+>Inquisitor, Crossbow, Talisman of the Void
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Lightning Vambraces"
+>Inquisitor, Crossbow, Lightning Vambraces
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Ranger's Boot"
+>Inquisitor, Crossbow, Ranger's Boot
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Rod of Battle"
+>Inquisitor, Crossbow, Rod of Battle
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Crystal Ball"
+>Inquisitor, Crossbow, Crystal Ball
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Sceptre of Power"
+>Inquisitor, Crossbow, Sceptre of Power
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Dragon Staff"
+>Inquisitor, Crossbow, Dragon Staff
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Obsidian Rock"
+>Inquisitor, Crossbow, Obsidian Rock
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Dragonfire Gem"
+>Inquisitor, Crossbow, Dragonfire Gem
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Lucky Charm"
+>Inquisitor, Crossbow, Lucky Charm
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Potion of Strength"
+>Inquisitor, Crossbow, Potion of Strength
+<Unit name="Inquisitor" 
+	RangedWeapon="Crossbow"
+	Artefact="Potion of Swiftness"
+>Inquisitor, Crossbow, Potion of Swiftness
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Winter Cloak"
+>Inquisitor, Bracer of Pistols, Winter Cloak
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Locket of Sunna"
+>Inquisitor, Bracer of Pistols, Locket of Sunna
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Mantle of Ullor"
+>Inquisitor, Bracer of Pistols, Mantle of Ullor
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Crown of Autocracy"
+>Inquisitor, Bracer of Pistols, Crown of Autocracy
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Binding Scroll"
+>Inquisitor, Bracer of Pistols, Binding Scroll
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Crown of the Wizard King"
+>Inquisitor, Bracer of Pistols, Crown of the Wizard King
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Talisman of Shielding"
+>Inquisitor, Bracer of Pistols, Talisman of Shielding
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Talisman of the Void"
+>Inquisitor, Bracer of Pistols, Talisman of the Void
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Lightning Vambraces"
+>Inquisitor, Bracer of Pistols, Lightning Vambraces
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Ranger's Boot"
+>Inquisitor, Bracer of Pistols, Ranger's Boot
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Rod of Battle"
+>Inquisitor, Bracer of Pistols, Rod of Battle
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Crystal Ball"
+>Inquisitor, Bracer of Pistols, Crystal Ball
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Sceptre of Power"
+>Inquisitor, Bracer of Pistols, Sceptre of Power
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Dragon Staff"
+>Inquisitor, Bracer of Pistols, Dragon Staff
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Obsidian Rock"
+>Inquisitor, Bracer of Pistols, Obsidian Rock
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Dragonfire Gem"
+>Inquisitor, Bracer of Pistols, Dragonfire Gem
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Lucky Charm"
+>Inquisitor, Bracer of Pistols, Lucky Charm
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Potion of Strength"
+>Inquisitor, Bracer of Pistols, Potion of Strength
+<Unit name="Inquisitor" 
+	RangedWeapon="Bracer of Pistols"
+	Artefact="Potion of Swiftness"
+>Inquisitor, Bracer of Pistols, Potion of Swiftness
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Winter Cloak"
+>Inquisitor, Repeater Pistol, Winter Cloak
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Locket of Sunna"
+>Inquisitor, Repeater Pistol, Locket of Sunna
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Mantle of Ullor"
+>Inquisitor, Repeater Pistol, Mantle of Ullor
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Crown of Autocracy"
+>Inquisitor, Repeater Pistol, Crown of Autocracy
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Binding Scroll"
+>Inquisitor, Repeater Pistol, Binding Scroll
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Crown of the Wizard King"
+>Inquisitor, Repeater Pistol, Crown of the Wizard King
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Talisman of Shielding"
+>Inquisitor, Repeater Pistol, Talisman of Shielding
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Talisman of the Void"
+>Inquisitor, Repeater Pistol, Talisman of the Void
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Lightning Vambraces"
+>Inquisitor, Repeater Pistol, Lightning Vambraces
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Ranger's Boot"
+>Inquisitor, Repeater Pistol, Ranger's Boot
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Rod of Battle"
+>Inquisitor, Repeater Pistol, Rod of Battle
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Crystal Ball"
+>Inquisitor, Repeater Pistol, Crystal Ball
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Sceptre of Power"
+>Inquisitor, Repeater Pistol, Sceptre of Power
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Dragon Staff"
+>Inquisitor, Repeater Pistol, Dragon Staff
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Obsidian Rock"
+>Inquisitor, Repeater Pistol, Obsidian Rock
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Dragonfire Gem"
+>Inquisitor, Repeater Pistol, Dragonfire Gem
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Lucky Charm"
+>Inquisitor, Repeater Pistol, Lucky Charm
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Potion of Strength"
+>Inquisitor, Repeater Pistol, Potion of Strength
+<Unit name="Inquisitor" 
+	RangedWeapon="Repeater Pistol"
+	Artefact="Potion of Swiftness"
+>Inquisitor, Repeater Pistol, Potion of Swiftness
+<Unit name="Inquisitor" 
+	Artefact="Winter Cloak"
+>Inquisitor, Winter Cloak
+<Unit name="Inquisitor" 
+	Artefact="Locket of Sunna"
+>Inquisitor, Locket of Sunna
+<Unit name="Inquisitor" 
+	Artefact="Mantle of Ullor"
+>Inquisitor, Mantle of Ullor
+<Unit name="Inquisitor" 
+	Artefact="Crown of Autocracy"
+>Inquisitor, Crown of Autocracy
+<Unit name="Inquisitor" 
+	Artefact="Binding Scroll"
+>Inquisitor, Binding Scroll
+<Unit name="Inquisitor" 
+	Artefact="Crown of the Wizard King"
+>Inquisitor, Crown of the Wizard King
+<Unit name="Inquisitor" 
+	Artefact="Talisman of Shielding"
+>Inquisitor, Talisman of Shielding
+<Unit name="Inquisitor" 
+	Artefact="Talisman of the Void"
+>Inquisitor, Talisman of the Void
+<Unit name="Inquisitor" 
+	Artefact="Lightning Vambraces"
+>Inquisitor, Lightning Vambraces
+<Unit name="Inquisitor" 
+	Artefact="Ranger's Boot"
+>Inquisitor, Ranger's Boot
+<Unit name="Inquisitor" 
+	Artefact="Rod of Battle"
+>Inquisitor, Rod of Battle
+<Unit name="Inquisitor" 
+	Artefact="Crystal Ball"
+>Inquisitor, Crystal Ball
+<Unit name="Inquisitor" 
+	Artefact="Sceptre of Power"
+>Inquisitor, Sceptre of Power
+<Unit name="Inquisitor" 
+	Artefact="Dragon Staff"
+>Inquisitor, Dragon Staff
+<Unit name="Inquisitor" 
+	Artefact="Obsidian Rock"
+>Inquisitor, Obsidian Rock
+<Unit name="Inquisitor" 
+	Artefact="Dragonfire Gem"
+>Inquisitor, Dragonfire Gem
+<Unit name="Inquisitor" 
+	Artefact="Lucky Charm"
+>Inquisitor, Lucky Charm
+<Unit name="Inquisitor" 
+	Artefact="Potion of Strength"
+>Inquisitor, Potion of Strength
+<Unit name="Inquisitor" 
+	Artefact="Potion of Swiftness"
+>Inquisitor, Potion of Swiftness

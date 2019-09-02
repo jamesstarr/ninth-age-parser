@@ -1,0 +1,176 @@
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Wizard, Alchemy, The Light of Sonnstahl
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Death Warrant"
+>Wizard, Alchemy, Death Warrant
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Hammer of Witches"
+>Wizard, Alchemy, Hammer of Witches
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Blessed Inscriptions"
+>Wizard, Alchemy, Blessed Inscriptions
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Touch of Greatness"
+>Wizard, Alchemy, Touch of Greatness
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Titanic Might"
+>Wizard, Alchemy, Titanic Might
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Shield Breaker"
+>Wizard, Alchemy, Shield Breaker
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Hero's Heart"
+>Wizard, Alchemy, Hero's Heart
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Supernatural Dexterity"
+>Wizard, Alchemy, Supernatural Dexterity
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="King Slayer"
+>Wizard, Alchemy, King Slayer
+<Unit name="Wizard" 
+	Path="Alchemy"
+	WeaponEnchantment="Cleansing Light"
+>Wizard, Alchemy, Cleansing Light
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Wizard, Cosmology, The Light of Sonnstahl
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Death Warrant"
+>Wizard, Cosmology, Death Warrant
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Hammer of Witches"
+>Wizard, Cosmology, Hammer of Witches
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Blessed Inscriptions"
+>Wizard, Cosmology, Blessed Inscriptions
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Touch of Greatness"
+>Wizard, Cosmology, Touch of Greatness
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Titanic Might"
+>Wizard, Cosmology, Titanic Might
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Shield Breaker"
+>Wizard, Cosmology, Shield Breaker
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Hero's Heart"
+>Wizard, Cosmology, Hero's Heart
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Supernatural Dexterity"
+>Wizard, Cosmology, Supernatural Dexterity
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="King Slayer"
+>Wizard, Cosmology, King Slayer
+<Unit name="Wizard" 
+	Path="Cosmology"
+	WeaponEnchantment="Cleansing Light"
+>Wizard, Cosmology, Cleansing Light
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Wizard, Divination, The Light of Sonnstahl
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Death Warrant"
+>Wizard, Divination, Death Warrant
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Hammer of Witches"
+>Wizard, Divination, Hammer of Witches
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Blessed Inscriptions"
+>Wizard, Divination, Blessed Inscriptions
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Touch of Greatness"
+>Wizard, Divination, Touch of Greatness
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Titanic Might"
+>Wizard, Divination, Titanic Might
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Shield Breaker"
+>Wizard, Divination, Shield Breaker
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Hero's Heart"
+>Wizard, Divination, Hero's Heart
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Supernatural Dexterity"
+>Wizard, Divination, Supernatural Dexterity
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="King Slayer"
+>Wizard, Divination, King Slayer
+<Unit name="Wizard" 
+	Path="Divination"
+	WeaponEnchantment="Cleansing Light"
+>Wizard, Divination, Cleansing Light
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Wizard, Pyromancy, The Light of Sonnstahl
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Death Warrant"
+>Wizard, Pyromancy, Death Warrant
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Hammer of Witches"
+>Wizard, Pyromancy, Hammer of Witches
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Blessed Inscriptions"
+>Wizard, Pyromancy, Blessed Inscriptions
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Touch of Greatness"
+>Wizard, Pyromancy, Touch of Greatness
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Titanic Might"
+>Wizard, Pyromancy, Titanic Might
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Shield Breaker"
+>Wizard, Pyromancy, Shield Breaker
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Hero's Heart"
+>Wizard, Pyromancy, Hero's Heart
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Supernatural Dexterity"
+>Wizard, Pyromancy, Supernatural Dexterity
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="King Slayer"
+>Wizard, Pyromancy, King Slayer
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	WeaponEnchantment="Cleansing Light"
+>Wizard, Pyromancy, Cleansing Light

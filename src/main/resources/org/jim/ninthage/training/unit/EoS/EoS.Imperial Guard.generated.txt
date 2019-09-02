@@ -1,0 +1,824 @@
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+>Imperial Guard, Replace Shield with Great Weapon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, C, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, C, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, C, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, C, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, C, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, C, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, C, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, C, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, C, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, C, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, C, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="C"
+>Imperial Guard, Replace Shield with Great Weapon, C
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, M, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, M, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, M, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, M, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, M, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, M, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, M, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, M, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, M, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, M, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, M, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="M"
+>Imperial Guard, Replace Shield with Great Weapon, M
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, S, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, S, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, S, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, S, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, S, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, S, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, S, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, S, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, S, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, S, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, S, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="S"
+>Imperial Guard, Replace Shield with Great Weapon, S
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, CM, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CM"
+>Imperial Guard, Replace Shield with Great Weapon, CM
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, CS, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CS"
+>Imperial Guard, Replace Shield with Great Weapon, CS
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, MS, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="MS"
+>Imperial Guard, Replace Shield with Great Weapon, MS
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Household Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Banner of Unity
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Banner of Speed
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Rending Banner
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Stalker's Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Banner of Discipline
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Flaming Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Legion Standard
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Replace Shield with Great Weapon, CMS, Aether Icon
+<Unit name="Imperial Guard" 
+	ReplaceShieldWithGreatWeapon="Replace Shield with Great Weapon"
+	Command="CMS"
+>Imperial Guard, Replace Shield with Great Weapon, CMS
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Household Standard"
+>Imperial Guard, Household Standard
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, Banner of Unity
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, Banner of Speed
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, Rending Banner
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, Stalker's Standard
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, Banner of Discipline
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, Flaming Standard
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, Legion Standard
+<Unit name="Imperial Guard" 
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, Aether Icon
+<Unit name="Imperial Guard" 
+>Imperial Guard
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, C, Household Standard
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, C, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, C, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, C, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, C, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, C, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, C, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, C, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, C, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, C, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="C"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, C, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="C"
+>Imperial Guard, C
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, M, Household Standard
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, M, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, M, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, M, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, M, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, M, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, M, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, M, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, M, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, M, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="M"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, M, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="M"
+>Imperial Guard, M
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, S, Household Standard
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, S, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, S, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, S, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, S, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, S, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, S, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, S, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, S, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, S, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="S"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, S, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="S"
+>Imperial Guard, S
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, CM, Household Standard
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, CM, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, CM, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, CM, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, CM, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, CM, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, CM, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, CM, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, CM, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, CM, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="CM"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, CM, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="CM"
+>Imperial Guard, CM
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, CS, Household Standard
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, CS, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, CS, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, CS, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, CS, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, CS, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, CS, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, CS, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, CS, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, CS, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="CS"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, CS, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="CS"
+>Imperial Guard, CS
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, MS, Household Standard
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, MS, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, MS, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, MS, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, MS, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, MS, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, MS, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, MS, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, MS, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, MS, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="MS"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, MS, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="MS"
+>Imperial Guard, MS
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Household Standard"
+>Imperial Guard, CMS, Household Standard
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Banner of Unity"
+>Imperial Guard, CMS, Banner of Unity
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Marksman’s Pennant"
+>Imperial Guard, CMS, Marksman’s Pennant
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Banner of Speed"
+>Imperial Guard, CMS, Banner of Speed
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Rending Banner"
+>Imperial Guard, CMS, Rending Banner
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Stalker's Standard"
+>Imperial Guard, CMS, Stalker's Standard
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Banner of the Relentless Company"
+>Imperial Guard, CMS, Banner of the Relentless Company
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Banner of Discipline"
+>Imperial Guard, CMS, Banner of Discipline
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Flaming Standard"
+>Imperial Guard, CMS, Flaming Standard
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Legion Standard"
+>Imperial Guard, CMS, Legion Standard
+<Unit name="Imperial Guard" 
+	Command="CMS"
+	BannerEnchantment="Aether Icon"
+>Imperial Guard, CMS, Aether Icon
+<Unit name="Imperial Guard" 
+	Command="CMS"
+>Imperial Guard, CMS

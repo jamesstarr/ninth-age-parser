@@ -1,0 +1,304 @@
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Winter Cloak"
+>Knight Commander, General, Young Griffon, Winter Cloak
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Locket of Sunna"
+>Knight Commander, General, Young Griffon, Locket of Sunna
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Mantle of Ullor"
+>Knight Commander, General, Young Griffon, Mantle of Ullor
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Crown of Autocracy"
+>Knight Commander, General, Young Griffon, Crown of Autocracy
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Binding Scroll"
+>Knight Commander, General, Young Griffon, Binding Scroll
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Crown of the Wizard King"
+>Knight Commander, General, Young Griffon, Crown of the Wizard King
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Talisman of Shielding"
+>Knight Commander, General, Young Griffon, Talisman of Shielding
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Talisman of the Void"
+>Knight Commander, General, Young Griffon, Talisman of the Void
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Lightning Vambraces"
+>Knight Commander, General, Young Griffon, Lightning Vambraces
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Ranger's Boot"
+>Knight Commander, General, Young Griffon, Ranger's Boot
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Rod of Battle"
+>Knight Commander, General, Young Griffon, Rod of Battle
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Crystal Ball"
+>Knight Commander, General, Young Griffon, Crystal Ball
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Sceptre of Power"
+>Knight Commander, General, Young Griffon, Sceptre of Power
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Dragon Staff"
+>Knight Commander, General, Young Griffon, Dragon Staff
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Obsidian Rock"
+>Knight Commander, General, Young Griffon, Obsidian Rock
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Dragonfire Gem"
+>Knight Commander, General, Young Griffon, Dragonfire Gem
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Lucky Charm"
+>Knight Commander, General, Young Griffon, Lucky Charm
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Potion of Strength"
+>Knight Commander, General, Young Griffon, Potion of Strength
+<Unit name="Knight Commander" 
+	General="General"
+	Mount="Young Griffon"
+	Artefact="Potion of Swiftness"
+>Knight Commander, General, Young Griffon, Potion of Swiftness
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Winter Cloak"
+>Knight Commander, General, Winter Cloak
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Locket of Sunna"
+>Knight Commander, General, Locket of Sunna
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Mantle of Ullor"
+>Knight Commander, General, Mantle of Ullor
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Crown of Autocracy"
+>Knight Commander, General, Crown of Autocracy
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Binding Scroll"
+>Knight Commander, General, Binding Scroll
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Crown of the Wizard King"
+>Knight Commander, General, Crown of the Wizard King
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Talisman of Shielding"
+>Knight Commander, General, Talisman of Shielding
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Talisman of the Void"
+>Knight Commander, General, Talisman of the Void
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Lightning Vambraces"
+>Knight Commander, General, Lightning Vambraces
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Ranger's Boot"
+>Knight Commander, General, Ranger's Boot
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Rod of Battle"
+>Knight Commander, General, Rod of Battle
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Crystal Ball"
+>Knight Commander, General, Crystal Ball
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Sceptre of Power"
+>Knight Commander, General, Sceptre of Power
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Dragon Staff"
+>Knight Commander, General, Dragon Staff
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Obsidian Rock"
+>Knight Commander, General, Obsidian Rock
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Dragonfire Gem"
+>Knight Commander, General, Dragonfire Gem
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Lucky Charm"
+>Knight Commander, General, Lucky Charm
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Potion of Strength"
+>Knight Commander, General, Potion of Strength
+<Unit name="Knight Commander" 
+	General="General"
+	Artefact="Potion of Swiftness"
+>Knight Commander, General, Potion of Swiftness
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Winter Cloak"
+>Knight Commander, Young Griffon, Winter Cloak
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Locket of Sunna"
+>Knight Commander, Young Griffon, Locket of Sunna
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Mantle of Ullor"
+>Knight Commander, Young Griffon, Mantle of Ullor
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Crown of Autocracy"
+>Knight Commander, Young Griffon, Crown of Autocracy
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Binding Scroll"
+>Knight Commander, Young Griffon, Binding Scroll
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Crown of the Wizard King"
+>Knight Commander, Young Griffon, Crown of the Wizard King
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Talisman of Shielding"
+>Knight Commander, Young Griffon, Talisman of Shielding
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Talisman of the Void"
+>Knight Commander, Young Griffon, Talisman of the Void
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Lightning Vambraces"
+>Knight Commander, Young Griffon, Lightning Vambraces
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Ranger's Boot"
+>Knight Commander, Young Griffon, Ranger's Boot
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Rod of Battle"
+>Knight Commander, Young Griffon, Rod of Battle
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Crystal Ball"
+>Knight Commander, Young Griffon, Crystal Ball
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Sceptre of Power"
+>Knight Commander, Young Griffon, Sceptre of Power
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Dragon Staff"
+>Knight Commander, Young Griffon, Dragon Staff
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Obsidian Rock"
+>Knight Commander, Young Griffon, Obsidian Rock
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Dragonfire Gem"
+>Knight Commander, Young Griffon, Dragonfire Gem
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Lucky Charm"
+>Knight Commander, Young Griffon, Lucky Charm
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Potion of Strength"
+>Knight Commander, Young Griffon, Potion of Strength
+<Unit name="Knight Commander" 
+	Mount="Young Griffon"
+	Artefact="Potion of Swiftness"
+>Knight Commander, Young Griffon, Potion of Swiftness
+<Unit name="Knight Commander" 
+	Artefact="Winter Cloak"
+>Knight Commander, Winter Cloak
+<Unit name="Knight Commander" 
+	Artefact="Locket of Sunna"
+>Knight Commander, Locket of Sunna
+<Unit name="Knight Commander" 
+	Artefact="Mantle of Ullor"
+>Knight Commander, Mantle of Ullor
+<Unit name="Knight Commander" 
+	Artefact="Crown of Autocracy"
+>Knight Commander, Crown of Autocracy
+<Unit name="Knight Commander" 
+	Artefact="Binding Scroll"
+>Knight Commander, Binding Scroll
+<Unit name="Knight Commander" 
+	Artefact="Crown of the Wizard King"
+>Knight Commander, Crown of the Wizard King
+<Unit name="Knight Commander" 
+	Artefact="Talisman of Shielding"
+>Knight Commander, Talisman of Shielding
+<Unit name="Knight Commander" 
+	Artefact="Talisman of the Void"
+>Knight Commander, Talisman of the Void
+<Unit name="Knight Commander" 
+	Artefact="Lightning Vambraces"
+>Knight Commander, Lightning Vambraces
+<Unit name="Knight Commander" 
+	Artefact="Ranger's Boot"
+>Knight Commander, Ranger's Boot
+<Unit name="Knight Commander" 
+	Artefact="Rod of Battle"
+>Knight Commander, Rod of Battle
+<Unit name="Knight Commander" 
+	Artefact="Crystal Ball"
+>Knight Commander, Crystal Ball
+<Unit name="Knight Commander" 
+	Artefact="Sceptre of Power"
+>Knight Commander, Sceptre of Power
+<Unit name="Knight Commander" 
+	Artefact="Dragon Staff"
+>Knight Commander, Dragon Staff
+<Unit name="Knight Commander" 
+	Artefact="Obsidian Rock"
+>Knight Commander, Obsidian Rock
+<Unit name="Knight Commander" 
+	Artefact="Dragonfire Gem"
+>Knight Commander, Dragonfire Gem
+<Unit name="Knight Commander" 
+	Artefact="Lucky Charm"
+>Knight Commander, Lucky Charm
+<Unit name="Knight Commander" 
+	Artefact="Potion of Strength"
+>Knight Commander, Potion of Strength
+<Unit name="Knight Commander" 
+	Artefact="Potion of Swiftness"
+>Knight Commander, Potion of Swiftness

@@ -1,0 +1,55 @@
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Household Standard"
+>Marshal, Battle Standard Bear, Shield, Household Standard
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Banner of Unity"
+>Marshal, Battle Standard Bear, Shield, Banner of Unity
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Marksman’s Pennant"
+>Marshal, Battle Standard Bear, Shield, Marksman’s Pennant
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Banner of Speed"
+>Marshal, Battle Standard Bear, Shield, Banner of Speed
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Rending Banner"
+>Marshal, Battle Standard Bear, Shield, Rending Banner
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Stalker's Standard"
+>Marshal, Battle Standard Bear, Shield, Stalker's Standard
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Banner of the Relentless Company"
+>Marshal, Battle Standard Bear, Shield, Banner of the Relentless Company
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Banner of Discipline"
+>Marshal, Battle Standard Bear, Shield, Banner of Discipline
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Flaming Standard"
+>Marshal, Battle Standard Bear, Shield, Flaming Standard
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Legion Standard"
+>Marshal, Battle Standard Bear, Shield, Legion Standard
+<Unit name="Marshal" 
+	BattleStandardBear="Battle Standard Bear"
+	Shield="Shield"
+	BannerEnchantment="Aether Icon"
+>Marshal, Battle Standard Bear, Shield, Aether Icon

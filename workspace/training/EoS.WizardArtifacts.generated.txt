@@ -1,0 +1,460 @@
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Winter Cloak"
+>Wizard, General, Alchemy, Winter Cloak
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Locket of Sunna"
+>Wizard, General, Alchemy, Locket of Sunna
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Exemplar’s Flame"
+>Wizard, General, Alchemy, Exemplar’s Flame
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Karadon's Courser"
+>Wizard, General, Alchemy, Karadon's Courser
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Mantle of Ullor"
+>Wizard, General, Alchemy, Mantle of Ullor
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Crown of Autocracy"
+>Wizard, General, Alchemy, Crown of Autocracy
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Book of Arcane Mastery"
+>Wizard, General, Alchemy, Book of Arcane Mastery
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Binding Scroll"
+>Wizard, General, Alchemy, Binding Scroll
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Essence of a Free Mind"
+>Wizard, General, Alchemy, Essence of a Free Mind
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Magical Heirloom"
+>Wizard, General, Alchemy, Magical Heirloom
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Talisman of Shielding"
+>Wizard, General, Alchemy, Talisman of Shielding
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Talisman of the Void"
+>Wizard, General, Alchemy, Talisman of the Void
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Lightning Vambraces"
+>Wizard, General, Alchemy, Lightning Vambraces
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Ranger's Boot"
+>Wizard, General, Alchemy, Ranger's Boot
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Rod of Battle"
+>Wizard, General, Alchemy, Rod of Battle
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Crystal Ball"
+>Wizard, General, Alchemy, Crystal Ball
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Sceptre of Power"
+>Wizard, General, Alchemy, Sceptre of Power
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Dragon Staff"
+>Wizard, General, Alchemy, Dragon Staff
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Obsidian Rock"
+>Wizard, General, Alchemy, Obsidian Rock
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Dragonfire Gem"
+>Wizard, General, Alchemy, Dragonfire Gem
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Lucky Charm"
+>Wizard, General, Alchemy, Lucky Charm
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Potion of Strength"
+>Wizard, General, Alchemy, Potion of Strength
+<Unit name="Wizard" 
+	General="General"
+	Path="Alchemy"
+	Artefact="Potion of Swiftness"
+>Wizard, General, Alchemy, Potion of Swiftness
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Winter Cloak"
+>Wizard, General, Cosmology, Winter Cloak
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Locket of Sunna"
+>Wizard, General, Cosmology, Locket of Sunna
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Exemplar’s Flame"
+>Wizard, General, Cosmology, Exemplar’s Flame
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Karadon's Courser"
+>Wizard, General, Cosmology, Karadon's Courser
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Mantle of Ullor"
+>Wizard, General, Cosmology, Mantle of Ullor
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Crown of Autocracy"
+>Wizard, General, Cosmology, Crown of Autocracy
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Book of Arcane Mastery"
+>Wizard, General, Cosmology, Book of Arcane Mastery
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Binding Scroll"
+>Wizard, General, Cosmology, Binding Scroll
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Essence of a Free Mind"
+>Wizard, General, Cosmology, Essence of a Free Mind
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Magical Heirloom"
+>Wizard, General, Cosmology, Magical Heirloom
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Talisman of Shielding"
+>Wizard, General, Cosmology, Talisman of Shielding
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Talisman of the Void"
+>Wizard, General, Cosmology, Talisman of the Void
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Lightning Vambraces"
+>Wizard, General, Cosmology, Lightning Vambraces
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Ranger's Boot"
+>Wizard, General, Cosmology, Ranger's Boot
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Rod of Battle"
+>Wizard, General, Cosmology, Rod of Battle
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Crystal Ball"
+>Wizard, General, Cosmology, Crystal Ball
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Sceptre of Power"
+>Wizard, General, Cosmology, Sceptre of Power
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Dragon Staff"
+>Wizard, General, Cosmology, Dragon Staff
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Obsidian Rock"
+>Wizard, General, Cosmology, Obsidian Rock
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Dragonfire Gem"
+>Wizard, General, Cosmology, Dragonfire Gem
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Lucky Charm"
+>Wizard, General, Cosmology, Lucky Charm
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Potion of Strength"
+>Wizard, General, Cosmology, Potion of Strength
+<Unit name="Wizard" 
+	General="General"
+	Path="Cosmology"
+	Artefact="Potion of Swiftness"
+>Wizard, General, Cosmology, Potion of Swiftness
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Winter Cloak"
+>Wizard, General, Divination, Winter Cloak
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Locket of Sunna"
+>Wizard, General, Divination, Locket of Sunna
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Exemplar’s Flame"
+>Wizard, General, Divination, Exemplar’s Flame
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Karadon's Courser"
+>Wizard, General, Divination, Karadon's Courser
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Mantle of Ullor"
+>Wizard, General, Divination, Mantle of Ullor
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Crown of Autocracy"
+>Wizard, General, Divination, Crown of Autocracy
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Book of Arcane Mastery"
+>Wizard, General, Divination, Book of Arcane Mastery
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Binding Scroll"
+>Wizard, General, Divination, Binding Scroll
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Essence of a Free Mind"
+>Wizard, General, Divination, Essence of a Free Mind
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Magical Heirloom"
+>Wizard, General, Divination, Magical Heirloom
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Talisman of Shielding"
+>Wizard, General, Divination, Talisman of Shielding
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Talisman of the Void"
+>Wizard, General, Divination, Talisman of the Void
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Lightning Vambraces"
+>Wizard, General, Divination, Lightning Vambraces
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Ranger's Boot"
+>Wizard, General, Divination, Ranger's Boot
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Rod of Battle"
+>Wizard, General, Divination, Rod of Battle
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Crystal Ball"
+>Wizard, General, Divination, Crystal Ball
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Sceptre of Power"
+>Wizard, General, Divination, Sceptre of Power
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Dragon Staff"
+>Wizard, General, Divination, Dragon Staff
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Obsidian Rock"
+>Wizard, General, Divination, Obsidian Rock
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Dragonfire Gem"
+>Wizard, General, Divination, Dragonfire Gem
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Lucky Charm"
+>Wizard, General, Divination, Lucky Charm
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Potion of Strength"
+>Wizard, General, Divination, Potion of Strength
+<Unit name="Wizard" 
+	General="General"
+	Path="Divination"
+	Artefact="Potion of Swiftness"
+>Wizard, General, Divination, Potion of Swiftness
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Winter Cloak"
+>Wizard, General, Pyromancy, Winter Cloak
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Locket of Sunna"
+>Wizard, General, Pyromancy, Locket of Sunna
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Exemplar’s Flame"
+>Wizard, General, Pyromancy, Exemplar’s Flame
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Karadon's Courser"
+>Wizard, General, Pyromancy, Karadon's Courser
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Mantle of Ullor"
+>Wizard, General, Pyromancy, Mantle of Ullor
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Crown of Autocracy"
+>Wizard, General, Pyromancy, Crown of Autocracy
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Book of Arcane Mastery"
+>Wizard, General, Pyromancy, Book of Arcane Mastery
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Binding Scroll"
+>Wizard, General, Pyromancy, Binding Scroll
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Essence of a Free Mind"
+>Wizard, General, Pyromancy, Essence of a Free Mind
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Magical Heirloom"
+>Wizard, General, Pyromancy, Magical Heirloom
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Talisman of Shielding"
+>Wizard, General, Pyromancy, Talisman of Shielding
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Talisman of the Void"
+>Wizard, General, Pyromancy, Talisman of the Void
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Lightning Vambraces"
+>Wizard, General, Pyromancy, Lightning Vambraces
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Ranger's Boot"
+>Wizard, General, Pyromancy, Ranger's Boot
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Rod of Battle"
+>Wizard, General, Pyromancy, Rod of Battle
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Crystal Ball"
+>Wizard, General, Pyromancy, Crystal Ball
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Sceptre of Power"
+>Wizard, General, Pyromancy, Sceptre of Power
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Dragon Staff"
+>Wizard, General, Pyromancy, Dragon Staff
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Obsidian Rock"
+>Wizard, General, Pyromancy, Obsidian Rock
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Dragonfire Gem"
+>Wizard, General, Pyromancy, Dragonfire Gem
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Lucky Charm"
+>Wizard, General, Pyromancy, Lucky Charm
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Potion of Strength"
+>Wizard, General, Pyromancy, Potion of Strength
+<Unit name="Wizard" 
+	General="General"
+	Path="Pyromancy"
+	Artefact="Potion of Swiftness"
+>Wizard, General, Pyromancy, Potion of Swiftness

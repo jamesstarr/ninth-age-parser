@@ -1,0 +1,54 @@
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+>State Militia, Irregulars
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="C"
+>State Militia, Irregulars, C
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="M"
+>State Militia, Irregulars, M
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="S"
+>State Militia, Irregulars, S
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="CM"
+>State Militia, Irregulars, CM
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="CS"
+>State Militia, Irregulars, CS
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="MS"
+>State Militia, Irregulars, MS
+<Unit name="State Militia" 
+	Irregulars="Irregulars"
+	Command="CMS"
+>State Militia, Irregulars, CMS
+<Unit name="State Militia" 
+>State Militia
+<Unit name="State Militia" 
+	Command="C"
+>State Militia, C
+<Unit name="State Militia" 
+	Command="M"
+>State Militia, M
+<Unit name="State Militia" 
+	Command="S"
+>State Militia, S
+<Unit name="State Militia" 
+	Command="CM"
+>State Militia, CM
+<Unit name="State Militia" 
+	Command="CS"
+>State Militia, CS
+<Unit name="State Militia" 
+	Command="MS"
+>State Militia, MS
+<Unit name="State Militia" 
+	Command="CMS"
+>State Militia, CMS

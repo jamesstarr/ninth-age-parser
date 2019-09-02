@@ -1,0 +1,48 @@
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Mount="Horse"
+>Wizard, Alchemy, Horse
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Mount="Pegasus"
+>Wizard, Alchemy, Pegasus
+<Unit name="Wizard" 
+	Path="Alchemy"
+	Mount="Great Griffon"
+>Wizard, Alchemy, Great Griffon
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Mount="Horse"
+>Wizard, Cosmology, Horse
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Mount="Pegasus"
+>Wizard, Cosmology, Pegasus
+<Unit name="Wizard" 
+	Path="Cosmology"
+	Mount="Great Griffon"
+>Wizard, Cosmology, Great Griffon
+<Unit name="Wizard" 
+	Path="Divination"
+	Mount="Horse"
+>Wizard, Divination, Horse
+<Unit name="Wizard" 
+	Path="Divination"
+	Mount="Pegasus"
+>Wizard, Divination, Pegasus
+<Unit name="Wizard" 
+	Path="Divination"
+	Mount="Great Griffon"
+>Wizard, Divination, Great Griffon
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Mount="Horse"
+>Wizard, Pyromancy, Horse
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Mount="Pegasus"
+>Wizard, Pyromancy, Pegasus
+<Unit name="Wizard" 
+	Path="Pyromancy"
+	Mount="Great Griffon"
+>Wizard, Pyromancy, Great Griffon

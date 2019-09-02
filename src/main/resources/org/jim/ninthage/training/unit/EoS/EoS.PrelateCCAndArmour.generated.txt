@@ -1,0 +1,200 @@
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+>Prelate, Plate Armour, Great Weapon, Imperial Seal
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Blacksteel"
+>Prelate, Plate Armour, Great Weapon, Blacksteel
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Death Cheater"
+>Prelate, Plate Armour, Great Weapon, Death Cheater
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Destiny's Call"
+>Prelate, Plate Armour, Great Weapon, Destiny's Call
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Essence of Mithril"
+>Prelate, Plate Armour, Great Weapon, Essence of Mithril
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Ghostly Guard"
+>Prelate, Plate Armour, Great Weapon, Ghostly Guard
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Basalt Infusion"
+>Prelate, Plate Armour, Great Weapon, Basalt Infusion
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Alchemist's Alloy"
+>Prelate, Plate Armour, Great Weapon, Alchemist's Alloy
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Imperial Seal"
+>Prelate, Plate Armour, Paired Weapons, Imperial Seal
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Blacksteel"
+>Prelate, Plate Armour, Paired Weapons, Blacksteel
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Death Cheater"
+>Prelate, Plate Armour, Paired Weapons, Death Cheater
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Destiny's Call"
+>Prelate, Plate Armour, Paired Weapons, Destiny's Call
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Essence of Mithril"
+>Prelate, Plate Armour, Paired Weapons, Essence of Mithril
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Ghostly Guard"
+>Prelate, Plate Armour, Paired Weapons, Ghostly Guard
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Basalt Infusion"
+>Prelate, Plate Armour, Paired Weapons, Basalt Infusion
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Alchemist's Alloy"
+>Prelate, Plate Armour, Paired Weapons, Alchemist's Alloy
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Imperial Seal"
+>Prelate, Plate Armour, Imperial Seal
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Blacksteel"
+>Prelate, Plate Armour, Blacksteel
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Death Cheater"
+>Prelate, Plate Armour, Death Cheater
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Destiny's Call"
+>Prelate, Plate Armour, Destiny's Call
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Essence of Mithril"
+>Prelate, Plate Armour, Essence of Mithril
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Ghostly Guard"
+>Prelate, Plate Armour, Ghostly Guard
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Basalt Infusion"
+>Prelate, Plate Armour, Basalt Infusion
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	ArmourEnchantment="Alchemist's Alloy"
+>Prelate, Plate Armour, Alchemist's Alloy
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+>Prelate, Great Weapon, Imperial Seal
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Blacksteel"
+>Prelate, Great Weapon, Blacksteel
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Death Cheater"
+>Prelate, Great Weapon, Death Cheater
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Destiny's Call"
+>Prelate, Great Weapon, Destiny's Call
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Essence of Mithril"
+>Prelate, Great Weapon, Essence of Mithril
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Ghostly Guard"
+>Prelate, Great Weapon, Ghostly Guard
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Basalt Infusion"
+>Prelate, Great Weapon, Basalt Infusion
+<Unit name="Prelate" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Alchemist's Alloy"
+>Prelate, Great Weapon, Alchemist's Alloy
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Imperial Seal"
+>Prelate, Paired Weapons, Imperial Seal
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Blacksteel"
+>Prelate, Paired Weapons, Blacksteel
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Death Cheater"
+>Prelate, Paired Weapons, Death Cheater
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Destiny's Call"
+>Prelate, Paired Weapons, Destiny's Call
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Essence of Mithril"
+>Prelate, Paired Weapons, Essence of Mithril
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Ghostly Guard"
+>Prelate, Paired Weapons, Ghostly Guard
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Basalt Infusion"
+>Prelate, Paired Weapons, Basalt Infusion
+<Unit name="Prelate" 
+	CloseCombatWeapon="Paired Weapons"
+	ArmourEnchantment="Alchemist's Alloy"
+>Prelate, Paired Weapons, Alchemist's Alloy
+<Unit name="Prelate" 
+	ArmourEnchantment="Imperial Seal"
+>Prelate, Imperial Seal
+<Unit name="Prelate" 
+	ArmourEnchantment="Blacksteel"
+>Prelate, Blacksteel
+<Unit name="Prelate" 
+	ArmourEnchantment="Death Cheater"
+>Prelate, Death Cheater
+<Unit name="Prelate" 
+	ArmourEnchantment="Destiny's Call"
+>Prelate, Destiny's Call
+<Unit name="Prelate" 
+	ArmourEnchantment="Essence of Mithril"
+>Prelate, Essence of Mithril
+<Unit name="Prelate" 
+	ArmourEnchantment="Ghostly Guard"
+>Prelate, Ghostly Guard
+<Unit name="Prelate" 
+	ArmourEnchantment="Basalt Infusion"
+>Prelate, Basalt Infusion
+<Unit name="Prelate" 
+	ArmourEnchantment="Alchemist's Alloy"
+>Prelate, Alchemist's Alloy

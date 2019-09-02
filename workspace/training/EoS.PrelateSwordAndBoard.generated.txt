@@ -1,0 +1,220 @@
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Prelate, Shield, Witchfire Guard, The Light of Sonnstahl
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Death Warrant"
+>Prelate, Shield, Witchfire Guard, Death Warrant
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hammer of Witches"
+>Prelate, Shield, Witchfire Guard, Hammer of Witches
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Blessed Inscriptions"
+>Prelate, Shield, Witchfire Guard, Blessed Inscriptions
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Touch of Greatness"
+>Prelate, Shield, Witchfire Guard, Touch of Greatness
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Titanic Might"
+>Prelate, Shield, Witchfire Guard, Titanic Might
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Shield Breaker"
+>Prelate, Shield, Witchfire Guard, Shield Breaker
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Hero's Heart"
+>Prelate, Shield, Witchfire Guard, Hero's Heart
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Supernatural Dexterity"
+>Prelate, Shield, Witchfire Guard, Supernatural Dexterity
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="King Slayer"
+>Prelate, Shield, Witchfire Guard, King Slayer
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="Cleansing Light"
+>Prelate, Shield, Witchfire Guard, Cleansing Light
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Prelate, Shield, Shield of Volund, The Light of Sonnstahl
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Death Warrant"
+>Prelate, Shield, Shield of Volund, Death Warrant
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hammer of Witches"
+>Prelate, Shield, Shield of Volund, Hammer of Witches
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Blessed Inscriptions"
+>Prelate, Shield, Shield of Volund, Blessed Inscriptions
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Touch of Greatness"
+>Prelate, Shield, Shield of Volund, Touch of Greatness
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Titanic Might"
+>Prelate, Shield, Shield of Volund, Titanic Might
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Shield Breaker"
+>Prelate, Shield, Shield of Volund, Shield Breaker
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hero's Heart"
+>Prelate, Shield, Shield of Volund, Hero's Heart
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Supernatural Dexterity"
+>Prelate, Shield, Shield of Volund, Supernatural Dexterity
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="King Slayer"
+>Prelate, Shield, Shield of Volund, King Slayer
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Cleansing Light"
+>Prelate, Shield, Shield of Volund, Cleansing Light
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Prelate, Shield, Dusk Forge, The Light of Sonnstahl
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Death Warrant"
+>Prelate, Shield, Dusk Forge, Death Warrant
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hammer of Witches"
+>Prelate, Shield, Dusk Forge, Hammer of Witches
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Blessed Inscriptions"
+>Prelate, Shield, Dusk Forge, Blessed Inscriptions
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Touch of Greatness"
+>Prelate, Shield, Dusk Forge, Touch of Greatness
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Titanic Might"
+>Prelate, Shield, Dusk Forge, Titanic Might
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Shield Breaker"
+>Prelate, Shield, Dusk Forge, Shield Breaker
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hero's Heart"
+>Prelate, Shield, Dusk Forge, Hero's Heart
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Supernatural Dexterity"
+>Prelate, Shield, Dusk Forge, Supernatural Dexterity
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="King Slayer"
+>Prelate, Shield, Dusk Forge, King Slayer
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Cleansing Light"
+>Prelate, Shield, Dusk Forge, Cleansing Light
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Prelate, Shield, Willow's Ward, The Light of Sonnstahl
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Death Warrant"
+>Prelate, Shield, Willow's Ward, Death Warrant
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hammer of Witches"
+>Prelate, Shield, Willow's Ward, Hammer of Witches
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Blessed Inscriptions"
+>Prelate, Shield, Willow's Ward, Blessed Inscriptions
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Touch of Greatness"
+>Prelate, Shield, Willow's Ward, Touch of Greatness
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Titanic Might"
+>Prelate, Shield, Willow's Ward, Titanic Might
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Shield Breaker"
+>Prelate, Shield, Willow's Ward, Shield Breaker
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hero's Heart"
+>Prelate, Shield, Willow's Ward, Hero's Heart
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Supernatural Dexterity"
+>Prelate, Shield, Willow's Ward, Supernatural Dexterity
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="King Slayer"
+>Prelate, Shield, Willow's Ward, King Slayer
+<Unit name="Prelate" 
+	Shield="Shield"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Cleansing Light"
+>Prelate, Shield, Willow's Ward, Cleansing Light
