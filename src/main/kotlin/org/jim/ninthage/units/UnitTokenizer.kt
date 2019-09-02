@@ -6,6 +6,8 @@ import com.google.common.collect.Multimap
 import org.jim.ninthage.ParseException
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.ArmyBookEntry
+import java.lang.Exception
+import java.util.AbstractSet
 import java.util.regex.Pattern
 
 class UnitTokenizer(
@@ -39,8 +41,17 @@ class UnitTokenizer(
                 val rawAttributes = m.group(2) ?: ""
                 val rawBody = m.group(3)!!
                 val attributePairs = parseAttributes(rawAttributes)
-                val simpleAttributes = parseSimpleAttributes(entry, attributePairs)
-                val complexAttributes = parseComplexAttributes(entry, attributePairs)
+                val (usedSimple, simpleAttributes) = parseSimpleAttributes(entry, attributePairs)
+                val (usedComplex, complexAttributes) = parseComplexAttributes(entry, attributePairs)
+                if(usedSimple.size + usedComplex.size != attributePairs.size) {
+                    val unused =
+                        attributePairs.toMutableList()
+                            .apply {
+                                removeAll(usedComplex)
+                                removeAll(usedSimple)
+                            }
+                    throw Exception(value+ "\n" + unused)
+                }
                 yield(
                     UnitToken(
                         raw,
@@ -70,29 +81,34 @@ class UnitTokenizer(
     private fun parseComplexAttributes(
         entry: ArmyBookEntry,
         attributes: List<Pair<String, String>>
-    ): Multimap<String, String> {
+    ): Pair<Set<Pair<String,String>>,Multimap<String, String>> {
         val options = entry.options.filter { !it.isSimple }
         val results = ArrayListMultimap.create<String, String>()
+        var usedAttributes = HashSet<Pair<String,String>>()
+
         for (option in options) {
             val optionName = option.name
             val foundValues = attributes.filter { it.first == optionName }
             if (foundValues.isEmpty()) continue
 
-            val foundValue = foundValues.first().second
+            foundValues.forEach{ foundValue->
+                usedAttributes.add(foundValue)
+                //Ensure the option exists in the army book
+                results.put(optionName, option.selection(foundValue.second).name)
 
-            //Ensure the option exists in the army book
-            results.put(optionName, option.selection(foundValue).name)
+            }
         }
-        return results
+        return Pair(usedAttributes, results)
     }
 
     private fun parseSimpleAttributes(
         entry: ArmyBookEntry,
         attributes: List<Pair<String, String>>
-    ): Map<String, String> {
+    ):Pair<Set<Pair<String,String>>, Map<String, String>> {
         try {
             val options = entry.options.filter { it.isSimple }
             val results = HashMap<String, String>()
+            var usedAttributes =  HashSet<Pair<String,String>>()
             for (option in options) {
                 val optionName = option.name
                 val foundValues = attributes.filter { it.first == optionName }
@@ -102,18 +118,21 @@ class UnitTokenizer(
                 val foundValue =
                     if (foundValues.isEmpty()) {
                         option.defaultValue
-                    } else {
+                    } else if(foundValues.size == 1){
                         val v = foundValues.first().second
+                        usedAttributes.add(foundValues.first())
                         if(v.isNotEmpty() ){
                             v
                         } else {
                             option.implicit!!
                         }
+                    } else {
+                        throw Exception(foundValues.toString())
                     }
                 //Ensure the option exists in the army book
                 results.put(optionName, option.selection(foundValue).name)
             }
-            return results
+            return Pair(usedAttributes, results)
         } catch (rt: java.lang.RuntimeException) {
             throw ParseException(
                 "ArmyBook: " + armyBook.shortLabel + "\n" +
