@@ -117,11 +117,11 @@ open class SimpleClassifier(val model: SimpleClassifierModel) {
     open fun classify(value: String): String {
         val contextGenerator = model.contextGenerator
         val eval = model.maxentModel.eval(contextGenerator.getContext(value))
-        val arr = Array<SimpleClassifierResult>(eval.size) { i ->
+        val arr = Array(eval.size) { i ->
             SimpleClassifierResult(model.maxentModel.getOutcome(i), eval[i])
         }
 
-        Arrays.sort<SimpleClassifierResult>(arr) { o1, o2 ->
+        Arrays.sort(arr) { o1, o2 ->
             java.lang.Double.compare(o2.confidence, o1.confidence)
         }
 

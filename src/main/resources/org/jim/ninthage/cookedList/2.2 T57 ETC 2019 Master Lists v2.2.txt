@@ -4254,7 +4254,8 @@ Kostiantyn Volokhin - Beast Herds, Captain
 100 - 1x Razortusk Herd  
 150 - 5x Gargoyles, Scout 
 475 - Gortach 
-475 - Gortach Total: 4499
+475 - Gortach
+Total: 4499
 
 
 Yevgen “littlecow” Zapolskiy -  Orcs & Goblins 
@@ -4336,7 +4337,8 @@ Artem Kurhanskyi - Empire of Sonnstahl
 285 - 20x Light Infantry, Musician 
 684 - 36x Imperial Guard, Champion, Standard Bearer, Musician, Rending Banner 
 250 - Cannon 
-475 - Steam Tank Total: 4499
+475 - Steam Tank
+Total: 4499
 
 
 Florian Schulte - Daemon Legions 
@@ -4350,7 +4352,8 @@ Florian Schulte - Daemon Legions
 350 - Hope Harvester, Chilling Yawn 
 300 - 4x Mageblight Gremlins, Venom Sacs 
 300 - 4x Mageblight Gremlins, Venom Sacs 
-300 - 4x Mageblight Gremlins, Venom Sacs Total: 4499
+300 - 4x Mageblight Gremlins, Venom Sacs
+Total: 4499
 
 
 Pavel Iukhno -Undying Dynasties 

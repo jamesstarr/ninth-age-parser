@@ -672,12 +672,19 @@
     Artefact="Lucky Charm"
 >370 - Prelate, General, Great weapon, Plate Armour, Imperial Seal, Locket of Sunna, Lucky Charm
 <Unit name= Prelate
+    General
     Armour="Plate Armour"
     Shield
     ArmourEnchantment="Imperial Seal"
     ShieldEnchantment="Witchfire Guard"
     WeaponEnchantment="Death Warrant"
 ">375 - Prelate, General, Plate Armour, Shield, Imperial Seal, Witchfire Guard, Death Warrant (Hand Weapon)
+<Unit name="Prelate"
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Imperial Seal"
+	ShieldEnchantment="Witchfire Guard"
+>320 - Prelate, Plate Armour, Shield, Imperial Seal, Witchfire Guard)
 <Unit name="Prelate"
     Armour="Plate Armour"
     CloseCombatWeapon="Great Weapon"
@@ -716,7 +723,10 @@ FUnit name="Reiters">150 – 5x Reiters
 <Unit name="State Militia" Irregulars >150 - 10x State Militia Irregulars
 <Unit name="Steam Tank">1 Steam Tank 475
 <Unit name="Steam Tank">475 - 1x Steam Tank
+<Unit name="Steam Tank">475 - 1x Stank
+<Unit name="Steam Tank">475 - Steam Tank
 <Unit name="Steam Tank">Steam Tank 475
+<Unit name="Steam Tank">475 - SteamTank
 <Unit name="Wizard"
     Wizard=Master
     Path=Alchemy

@@ -8,16 +8,16 @@ import org.jim.opennlp.classifier.SimpleToken
 import java.util.regex.Pattern
 
 class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model) {
-    val numberMatcher = numberPattern.matcher("")
+    val numberMatcher = footerNumberPattern.matcher("")
 
     companion object {
-        val numberPattern =  Pattern.compile("4[ ,._]?(500)|(4\\d\\d)")
+        val footerNumberPattern =  Pattern.compile("(?:4[ ,._]?500)|(44\\d\\d)")
         fun train(tokens: List<UnitToken>): SimpleClassifierModel {
             try {
                 return train(
                     tokens
-                        .map { SimpleToken(it.name, it.rawBody) }
-                        .let { SequenceObjectStream<SimpleToken>(it.asSequence()) }
+                        .map { SimpleToken(it.name, it.rawBody.toLowerCase()) }
+                        .let { SequenceObjectStream(it.asSequence()) }
                 )
             } catch (insufficientTrainingDataException: InsufficientTrainingDataException) {
                 throw insufficientTrainingDataException
@@ -32,7 +32,7 @@ class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model
         return if (numberMatcher.find()) {
             "Footer"
         } else {
-            super.classify(value)
+            super.classify(value.toLowerCase())
         }
     }
 
