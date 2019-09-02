@@ -1,5 +1,6 @@
 package org.jim.ninthage.reports.analytics
 
+import org.jim.ninthage.data.armybook.dsl.Enchantment
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.Roster
@@ -13,6 +14,19 @@ object Rules {
 
 
 object RulesDSL {
+
+    fun ArmyBook.countEnchantments(enchantmentLabel:String,enchantments: Array<out Enchantment>):Sequence<RosterUnitCounterRule> {
+        val armyBook = this
+
+        return enchantments.map { enchantment ->
+            RosterUnitCounterRule(
+                "special item",
+                enchantment.label,
+                {armyBook.isArmyBook(it)},
+                {unit-> unit.hasSelection(enchantmentLabel, enchantment.label)}
+            )
+        }.asSequence()
+    }
 
     fun ArmyBook.countUnitEntry(
         entry: ArmyBookEntry
@@ -43,14 +57,38 @@ object RulesDSL {
         ruleName: String,
         modelsFilter: (Int) -> Boolean
     ): Sequence<RosterUnitCounterRule> {
+        val armyBook = this
 
         return sequenceOf(RosterUnitCounterRule(
             entry.label,
             ruleName,
-            { roster -> roster.armyBook == this.shortLabel },
+            {armyBook.isArmyBook(it)},
             { unit -> unit.label == entry.label && modelsFilter.invoke(unit.modelCount) }
         ))
     }
+
+    fun ArmyBook.countOptions(entry: ArmyBookEntry, vararg optionLabels: String): Sequence<RosterUnitCounterRule> {
+        val armyBook = this
+
+
+        return sequence {
+            for(optionLabel in optionLabels) {
+                val option = entry.option(optionLabel)
+                for (selection in option.selections) {
+                    if (option.isDefault(selection)) {
+                        continue
+                    }
+                    yield(RosterUnitCounterRule(
+                        entry.label,
+                        selection.name,
+                        { armyBook.isArmyBook(it) },
+                        { unit -> unit.label == entry.label && unit.option(option.name) == selection.name }
+                    ))
+                }
+            }
+        }
+    }
+
 
     fun ArmyBook.countOption(entry: ArmyBookEntry, optionStr: String): Sequence<RosterUnitCounterRule> {
         val option = entry.option(optionStr)
@@ -63,13 +101,17 @@ object RulesDSL {
                 yield(RosterUnitCounterRule(
                     entry.label,
                     selection.name,
-                    { roster -> roster.armyBook == armyBook.shortLabel },
+                    {armyBook.isArmyBook(it)},
                     { unit -> unit.label == entry.label && unit.option(option.name) == selection.name }
                 ))
             }
         }
     }
 
+
+    fun ArmyBook.isArmyBook(roster:Roster):Boolean {
+        return  this.shortLabel == roster.armyBook
+    }
 }
 
 class RosterUnitCounterRule(

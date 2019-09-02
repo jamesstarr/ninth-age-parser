@@ -2,6 +2,7 @@ package org.jim.ninthage.reports
 
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVPrinter
+import org.jim.ninthage.data.armybook.ArcaneCompendiums
 import org.jim.ninthage.data.armybook.EmpireOfSonnstahl
 import org.jim.ninthage.data.armybook.EoS_Version2_0
 import org.jim.ninthage.data.armybook.MainBook
@@ -9,7 +10,9 @@ import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.Tournament
 import org.jim.ninthage.reports.analytics.RosterUnitCounterRule
 import org.jim.ninthage.reports.analytics.RulesDSL.countBigSmall
+import org.jim.ninthage.reports.analytics.RulesDSL.countEnchantments
 import org.jim.ninthage.reports.analytics.RulesDSL.countOption
+import org.jim.ninthage.reports.analytics.RulesDSL.countOptions
 import org.jim.ninthage.reports.analytics.RulesDSL.countUnitEntry
 import java.nio.file.Files
 import java.nio.file.Path
@@ -22,6 +25,23 @@ class EmpireOfSonnstahlTournamentAnalysis(
     val rules: List<RosterUnitCounterRule> =
         armyBook.run {
             listOf(
+                countEnchantments(ArcaneCompendiums.WeaponEnchantment, EmpireOfSonnstahl.WeaponEnchantment.values()),
+                countEnchantments(ArcaneCompendiums.ArmourEnchantment, EmpireOfSonnstahl.ArmourEnchantments.values()),
+                countEnchantments(ArcaneCompendiums.ShieldEnchantment, EmpireOfSonnstahl.ShieldEnchantments.values()),
+                countEnchantments(ArcaneCompendiums.Artifact, EmpireOfSonnstahl.Artefacts.values()),
+                countEnchantments(ArcaneCompendiums.BannerEnchantment, EmpireOfSonnstahl.BannerEnchantments.values()),
+                countUnitEntry(marshal),
+                countOptions(marshal, MainBook.BattleStandardBear,MainBook.Shield, MainBook.CloseCombatWeapon, MainBook.RangedWeapon, "Title", MainBook.Mount),
+                countUnitEntry(knightCommander),
+                countOptions(knightCommander, MainBook.Shield, MainBook.CloseCombatWeapon,MainBook.Mount),
+                countUnitEntry(prelate),
+                countOptions(prelate, MainBook.Armour, MainBook.Shield, MainBook.CloseCombatWeapon, MainBook.Mount),
+                countUnitEntry(wizard),
+                countOptions(wizard, ArcaneCompendiums.WizardLevel, MainBook.Armour, MainBook.Mount, EmpireOfSonnstahl.ArcaneEngineType),
+                countUnitEntry(artificer),
+                countOptions(artificer, MainBook.RangedWeapon, MainBook.Mount),
+                countUnitEntry(inquisitor),
+                countOptions(inquisitor, MainBook.Shield, MainBook.CloseCombatWeapon, MainBook.RangedWeapon, MainBook.Title),
                 countBigSmall(heavyInfantry, 30),
                 countOption(heavyInfantry, MainBook.CloseCombatWeapon),
                 countBigSmall(lightInfantry, 13),

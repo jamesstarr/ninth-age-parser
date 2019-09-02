@@ -11,7 +11,7 @@ class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model
     val numberMatcher = numberPattern.matcher("")
 
     companion object {
-        val numberPattern = Pattern.compile("\\d[ ,._]?\\d\\d\\d")
+        val numberPattern =  Pattern.compile("4[ ,._]?(500)|(4\\d\\d)")
         fun train(tokens: List<UnitToken>): SimpleClassifierModel {
             try {
                 return train(
@@ -29,7 +29,7 @@ class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model
 
     override fun classify(value: String): String {
         numberMatcher.reset(value.trim())
-        return if (numberMatcher.matches()) {
+        return if (numberMatcher.find()) {
             "Footer"
         } else {
             super.classify(value)

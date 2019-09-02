@@ -1,25 +1,26 @@
-package org.jim.ninthage.data.armybook
+package org.jim.ninthage.data.armybook.dsl
 
+import org.jim.ninthage.data.armybook.MainBook
 import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
 
-interface Enchantment{
-    val label:String
-    val points:Int
-    fun toSelection():ArmyBookEntryOptionSelection {
+interface Enchantment {
+    val label: String
+    val points: Int
+    fun toSelection(): ArmyBookEntryOptionSelection {
         return ArmyBookEntryOptionSelection(label, points)
     }
 }
 
 inline fun <reified T, reified R> option(
-    name:String
+    name: String
 ): ArmyBookEntryOption
-where T:Enchantment,
-      T:Enum<T>,
-      R:Enchantment,
-      R:Enum<R>{
+        where T : Enchantment,
+              T : Enum<T>,
+              R : Enchantment,
+              R : Enum<R> {
     enumValues<T>()
     return option(
         name,
@@ -32,19 +33,13 @@ where T:Enchantment,
     }
 }
 
-fun booleanOption(name: String, points: Int): ArmyBookEntryOption {
-    return option(name, "False") {
-        listOf(selection("True", points))
-    }
-}
-
 
 fun singleModel(
     name: String,
     basePoints: Int,
     attributes: () -> List<ArmyBookEntryOption> = { listOf() }
 ): ArmyBookEntry {
-    return ArmyBookEntry(name, basePoints, 0,1, 1, attributes())
+    return ArmyBookEntry(name, basePoints, 0, 1, 1, attributes())
 }
 
 fun troop(
@@ -114,6 +109,18 @@ fun option(
     )
 }
 
+fun general(points:Int = 0): ArmyBookEntryOption{
+    return ArmyBookEntryOption(
+        name = MainBook.General,
+        selections = listOf(
+            ArmyBookEntryOptionSelection("General", points),
+            ArmyBookEntryOptionSelection("None", 0)
+        ),
+        default = "None",
+        implicit = "General",
+        minSelection = 1
+    )
+}
 
 fun battleStandardBearer(points: Int = 50): ArmyBookEntryOption {
     return ArmyBookEntryOption(
@@ -129,7 +136,7 @@ fun battleStandardBearer(points: Int = 50): ArmyBookEntryOption {
 }
 
 
-fun implicitOption(name:String, points: Int, implicitValue:String=name): ArmyBookEntryOption {
+fun implicitOption(name: String, points: Int, implicitValue: String = name): ArmyBookEntryOption {
     return ArmyBookEntryOption(
         name = name,
         selections = listOf(
@@ -147,6 +154,22 @@ fun shield(points: Int): ArmyBookEntryOption {
     return implicitOption("Shield", points)
 }
 
+fun armour(
+    defaultArmour: String = MainBook.None,
+    armourOption: ArmourSelectionBuilder.() -> Unit
+): ArmyBookEntryOption {
+    return option(MainBook.Armour, defaultArmour) {
+        val armourSB = ArmourSelectionBuilder()
+        armourOption.invoke(armourSB)
+        armourSB.build()
+    }
+}
+
+class ArmourSelectionBuilder : SelectionBuilder() {
+    fun lightArmour(points: Int) = selection(MainBook.LightArmour, points)
+    fun heavyArmour(points: Int) = selection(MainBook.HeavyArmour, points)
+    fun plateArmour(points: Int) = selection(MainBook.PlateArmour, points)
+}
 
 fun champion(): ArmyBookEntryOption {
     return option("Command", "None") {
@@ -168,8 +191,10 @@ fun championMusican(): ArmyBookEntryOption {
 
 
 fun command(): ArmyBookEntryOption {
-    return option("Command", "None") {
+    return ArmyBookEntryOption(
+        "Command",
         listOf(
+            selection(MainBook.None, 0),
             selection("C", 20),
             selection("M", 20),
             selection("S", 20),
@@ -177,8 +202,10 @@ fun command(): ArmyBookEntryOption {
             selection("CS", 40),
             selection("MS", 20),
             selection("CMS", 60)
-        )
-    }
+        ),
+        "None",
+        implicit = "CMS"
+    )
 }
 
 

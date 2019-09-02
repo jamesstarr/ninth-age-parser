@@ -2,6 +2,9 @@ package org.jim.ninthage.data.armybook
 
 object MainBook {
     val None: String = "None"
+
+    val General = "General"
+    val Title: String = "Title"
     val BattleStandardBear: String = "BattleStandardBear"
     val Shield: String = "Shield"
     val CloseCombatWeapon: String ="CloseCombatWeapon"
@@ -9,5 +12,6 @@ object MainBook {
     val Armour = "Armour"
     val LightArmour = "Light Armour"
     val HeavyArmour = "Heavy Armour"
+    val PlateArmour: String = "Plate Armour"
     val Mount = "Mount"
 }

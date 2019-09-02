@@ -2,71 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5557f232-cc5c-4370-bb28-2ad418a59452" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Electoral Cavalry.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Heavy Infantry.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Imperial Guard.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.InquisitorCloseCombatWeapon.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.InquisitorWSEnchantment.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.InquisitorartifactsRange.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Knight Commander.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Knight CommanderCCAndArmour.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Knight CommanderSwordAndBoard.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Knights of the Sun Griffon.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Light Infantry.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalBSB.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Prelate.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.PrelateCCAndArmour.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.PrelateSwordAndBoard.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Reiters.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.State Militia.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.WizardArmour.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.WizardArtifacts.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.WizardWeapons.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Wizardengine.generated.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Wizardmounts.generated.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_beust_jcommander_1_72.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_28_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_trove4j_trove4j_3_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_csv_1_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_opennlp_opennlp_tools_1_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_pdfbox_fontbox_2_0_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_pdfbox_pdfbox_2_0_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_qual_2_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_testng_testng_7_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ninth-age-parser.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ninth-age-parser.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ninth-age-parser.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/org-jim.ninth-age-parser.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/org-jim.ninth-age-parser.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TrainingDataGenerator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/TrainingDataGenerator.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/TrainingData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/ArcaneCompendium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/ArcaneCompendium.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/DSL.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/EmpireOfSonnstahl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/EmpireOfSonnstahl.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/MainBook.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/data/armybook/MainBook.kt" afterDir="false" />
@@ -77,13 +14,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/TournamentReportPrinter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/TournamentReportPrinter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/analytics/Rules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/reports/analytics/Rules.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryClassifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryClassifier.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryParser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitEntryParser.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitTokenizer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/jim/ninthage/units/UnitTokenizer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Artificer.generated.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.Artificer.generated.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalArmourCloseCombat.generated.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalArmourCloseCombat.generated.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalArtifactsMounts.generated.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalArtifactsMounts.generated.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalShieldArtifact.generated.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.MarshalShieldArtifact.generated.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/jim/ninthage/training/unit/EoS/EoS.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workspace/tournaments/2.2 T56 BUCKEYE 2019 LISTS/2.2 T56 BUCKEYE 2019 LISTS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/tournaments/2.2 T56 BUCKEYE 2019 LISTS/2.2 T56 BUCKEYE 2019 LISTS.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workspace/tournaments/2.2 T56 BUCKEYE 2019 LISTS/unitEntry/EoS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/tournaments/2.2 T56 BUCKEYE 2019 LISTS/unitEntry/EoS.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/2.2 T57 ETC 2019 Master Lists v2.2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/2.2 T57 ETC 2019 Master Lists v2.2.csv" afterDir="false" />
@@ -148,11 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/2.2 T57 ETC 2019 Master Lists v2.2.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="-340">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -166,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/unitEntry/EoS.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
+            <state relative-caret-position="778">
               <caret line="164" column="43" selection-start-line="164" selection-start-column="43" selection-end-line="164" selection-end-column="43" />
             </state>
           </provider>
@@ -836,17 +766,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/unitEntry/EoS.txt">
+    <entry file="file://$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/2.2 T57 ETC 2019 Master Lists v2.2.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="164" column="43" selection-start-line="164" selection-start-column="43" selection-end-line="164" selection-end-column="43" />
+        <state relative-caret-position="-340">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/2.2 T57 ETC 2019 Master Lists v2.2.csv">
+    <entry file="file://$PROJECT_DIR$/workspace/tournaments/2.2 T57 ETC 2019 Master Lists v2.2/unitEntry/EoS.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="778">
+          <caret line="164" column="43" selection-start-line="164" selection-start-column="43" selection-end-line="164" selection-end-column="43" />
         </state>
       </provider>
     </entry>

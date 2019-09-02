@@ -1,6 +1,6 @@
 package org.jim.ninthage.models
 
 data class RosterUnitOption(
-    val name: String,
+    val label: String,
     val values: List<String>
 )

@@ -1,6 +1,5 @@
 package org.jim.ninthage.reports
 
-import com.google.common.base.Function
 import com.google.common.base.Joiner
 import com.google.common.collect.ArrayListMultimap
 import com.google.common.collect.Ordering
@@ -103,11 +102,7 @@ class TournamentReportPrinter(
                     .flatMap { it.units.stream() }
                     .sorted(
                         Ordering.natural<String>()
-                            .onResultOf(object : Function<RosterUnit, String> {
-                                override fun apply(input: RosterUnit?): String? {
-                                    return input!!.label
-                                }
-                            })
+                            .onResultOf{input -> input!!.label }
                     )
                     .map { unit ->
                         printUnit(armyBookStr, unit)
@@ -130,7 +125,7 @@ class TournamentReportPrinter(
         return if (armyBookStr != "EoS") {
             "<Unit name=\"${unit.label}\">"
         } else if (unit.label == "Header" || unit.label == "Footer") {
-            ""
+            "<Unit name=\"${unit.label}\">${unit.raw}"
         } else {
             val armyBook = ArmyBooks.get(armyBookStr)
             val armyBookEntry = armyBook.entry(unit.label)
@@ -172,7 +167,7 @@ class TournamentReportPrinter(
         rosterUnitOption: RosterUnitOption,
         sb: StringBuilder
     ): StringBuilder {
-        val abOption = entry.option(rosterUnitOption.name)
+        val abOption = entry.option(rosterUnitOption.label)
         return if (rosterUnitOption.values.isEmpty()) {
             sb
         } else if (rosterUnitOption.values.size == 1) {

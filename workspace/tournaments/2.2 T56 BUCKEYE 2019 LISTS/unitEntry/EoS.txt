@@ -10,45 +10,54 @@
 <Unit name="Electoral Cavalry" ModelCount=10 
 	Shield
 	CloseCombatWeapon=Lance
-	Command=CMS
+	Command=S
+	KnightOrders
 >10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry" ModelCount=5 
+	Shield
 >5 electoral Cavalry, shield 175
 <Unit name="Electoral Cavalry" ModelCount=15 
+	Shield
 	CloseCombatWeapon=Lance
-	Command=CMS
 	BannerEnchantment="Banner of Speed"
+	KnightOrders
 >15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
-
-
-
-<Unit name="Imperial Guard" ModelCount=25 
->25 Imperial Guard, FC, Shield, Banner of Unity 470
-<Unit name="Imperial Guard" ModelCount=23 
->23 Imperial Guard, FC, Shield, Household Standard 432
-<Unit name="Knight Commander" 
->Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
+<Unit name="Footer">Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
+<Unit name="Footer">25 Imperial Guard, FC, Shield, Banner of Unity 470
+<Unit name="Footer">1 Steam Tank 475
+<Unit name="Footer">23 Imperial Guard, FC, Shield, Household Standard 432
+<Unit name="Footer">1 Steam Tank 475
+<Unit name="Footer">Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
+<Unit name="Footer">Steam Tank 475
+<Unit name="Header">Flint
+<Unit name="Header">Murphy
+<Unit name="Header">Sadler
 <Unit name="Knights of the Sun Griffon" EntryCount=2 ModelCount=3 
+	ReplaceHalberdWithLance
+	Command=M
 >2x3 Knights of Sun Griffon, Lance, M 346
 <Unit name="Light Infantry" EntryCount=2 ModelCount=15 
 	RangedWeapon=Handgun
-	Command=M
+	Command=MS
+	BannerEnchantment="Banner of Unity"
 >2x15 Hnadgunners, M 220
 <Unit name="Light Infantry" EntryCount=2 ModelCount=20 
 >2x20 Light infantry, Xbow
 <Unit name="Light Infantry" ModelCount=20 
 	RangedWeapon=Handgun
-	Command=MS
+	Command=S
 	BannerEnchantment="Marksman’s Pennant"
 >20 Light Infantry, handguns, S, M, Marksman Pennant 315
 <Unit name="Marshal" 
 	BattleStandardBear
+	Shield
 	Title="Great Tactician"
 	ArmourEnchantment=Blacksteel
 	Artefact="Binding Scroll"
 >Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
 <Unit name="Marshal" 
 	BattleStandardBear
+	Shield
 	BannerEnchantment="Rending Banner"
 	ArmourEnchantment=Blacksteel
 >Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
@@ -56,48 +65,50 @@
 	Mount="Great Griffon"
 	ArmourEnchantment="Ghostly Guard"
 	Artefact="Winter Cloak"
+	Artefact="Lucky Charm"
 	WeaponEnchantment="Hero's Heart"
 >Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
 <Unit name="Marshal" 
 	BattleStandardBear
 	Mount=Horse
 	Title="Great Tactician"
-	BannerEnchantment="Stalker’s Standard"
+	BannerEnchantment="Stalker's Standard"
 	ArmourEnchantment=Blacksteel
 >Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
 <Unit name="Prelate" 
+	Armour="Plate Armour"
 	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
 >Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
 <Unit name="Prelate" 
+	Armour="Plate Armour"
 	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+	Artefact="Locket of Sunna"
 >Prelate, General, Plate, GW, Locket of Sunna, Imperial Seal, 360
 <Unit name="Prelate" 
+	Armour="Plate Armour"
 	CloseCombatWeapon="Paired Weapons"
 	Mount=Horse
+	ArmourEnchantment="Basalt Infusion"
+	WeaponEnchantment="Hero's Heart"
 >Prelate, PW, Plate, Hero's Heart, Basalt Infusion, Horse 320
 <Unit name="Reiters" EntryCount=2 ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >2x5 Reiter's Brace of Pistols 175
 <Unit name="Reiters" EntryCount=2 ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >2x5 Reiter's brace of pistols 175
 <Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >5 Reiters, Brace of Pistols 175
 <Unit name="Reiters" ModelCount=7 
+	RangedWeapon="Repeater Gun"
 >7 reiters, Repeater gun, 243
 <Unit name="State Militia" EntryCount=2 ModelCount=10 
 >2x10 Militia 140
 <Unit name="State Militia" EntryCount=3 ModelCount=10 
 >3x10 Militia 140
-<Unit name="Steam Tank" 
->1 Steam Tank 475
-<Unit name="Steam Tank" 
->1 Steam Tank 475
-<Unit name="Steam Tank" 
->Steam Tank 475
-<Unit name="Wizard" 
-	Wizard=Master
-	Path=Alchemy
-	Artefact="Binding Scroll"
->Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Divination
@@ -113,11 +124,12 @@
 	Artefact="Book of Arcane Mastery"
 >Wizard Adept, Pyromancy, Book of Arcane Power 260
 <Unit name="Wizard" 
-	Armour="Light Armour"
 	Wizard=Master
 	Path=Cosmology
+	Armour="Light Armour"
 	Mount="Arcane Engine"
 	Engine="Arcane Shield"
-	ArmourEnchantment="Alchemist’s Alloy"
+	ArmourEnchantment="Alchemist's Alloy"
+	Artefact="Magical Heirloom"
 	Artefact="Talisman of Shielding"
 >Wizard Master, Cosmology, Light armor, Talisman of Shielding, Alchemist alloy, Magical Heirloom, Arcane engine of Shield 670

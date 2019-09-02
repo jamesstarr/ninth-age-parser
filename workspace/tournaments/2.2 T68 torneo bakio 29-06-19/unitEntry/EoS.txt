@@ -8,26 +8,37 @@
 	ArtilleryWeapons=Cannon
 >200 - Artillery, Mortar
 <Unit name="Artillery" 
-	ArtilleryWeapons="Volley Gun"
+	ArtilleryWeapons=Cannon
 >200- Artillery- Mortar
-
-
-
-
-<Unit name="Heavy Infantry" ModelCount=39 
-	CloseCombatWeapon=Spear
->434 - 39x Heavy Infantry, Spears, Parent Unit, Standard bearer, Musician, Champion
-<Unit name="Heavy Infantry" ModelCount=39 
->474- 39x heavy infantry, C, M, S, banner of unity
+<Unit name="Footer">434 - 39x Heavy Infantry, Spears, Parent Unit, Standard bearer, Musician, Champion 
+<Unit name="Footer">475 - Steam Tank
+<Unit name="Footer">4500 
+<Unit name="Footer">410- wizard, wizard master, binding scroll, light armour (cosmology)
+<Unit name="Footer">474- 39x heavy infantry, C, M, S, banner of unity
+<Unit name="Footer">475- Steam Tank
+<Unit name="Footer">4497
+<Unit name="Header">Empire of Sonnstahl Sergio Fernandez de Matauko
+<Unit name="Header">Pedro “Lord of Amorebieta”- empire of Sonnstahl
 <Unit name="Heavy Infantry" ModelCount=20 
+	Command=C
 >205- 20x heavy infantry, C, S, M
 <Unit name="Imperial Guard" ModelCount=32 
+	Command
+	BannerEnchantment="Rending Banner"
 >608- 32x imperial guard, C,M,S, rending banner
 <Unit name="Inquisitor" 
+	Shield
+	Title="Blessed Steel"
+	Artefact="Potion of Swiftness"
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Hammer of Witches"
 >275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
 <Unit name="Knights of the Sun Griffon" ModelCount=3 
+	ReplaceHalberdWithLance
+	Command=M
 >366 - 3x Knights of the Sun Griffon, Lances, Standard bearer, Champion
 <Unit name="Knights of the Sun Griffon" ModelCount=3 
+	Command=M
 >330 - 3x Knights of the Sun Griffon, Standard bearer, Champion
 <Unit name="Light Infantry" ModelCount=10 
 	RangedWeapon=Handgun
@@ -39,49 +50,51 @@
 	RangedWeapon=Handgun
 >135 - 10x Light Infantry, Handguns
 <Unit name="Light Infantry" ModelCount=18 
-	Command=M
+	ChampionRangedWeapon="Long Rifle"
+	Command=C
 >294- 18x light infantry, long rifle, C, M
 <Unit name="Light Infantry" ModelCount=17 
-	RangedWeapon=Handgun
-	Command=S
+	ChampionRangedWeapon="Long Rifle"
+	Command=C
 	BannerEnchantment="Marksman’s Pennant"
 >311- 17x ligth infantry, long Rifle, C, S, M, marksman´s pennat
 <Unit name="Marshal" 
->660 - Prelate, General, Altar of Battle, Shield, Shield of Volund, Paired Weapons, Shield Breaker (Paired Weapons), Plate Armour, Dragon Staff, Potion of Swiftness
-<Unit name="Marshal" 
+	Shield
 >250 - Marshal, Battle Standard, Legion Standard, Shield, Willow's Ward, Paired Weapons, Ghostly Guard
 <Unit name="Marshal" 
+	Shield
 	ArmourEnchantment=Blacksteel
 >385- Marshal, general, imperial prince, shield, blacksteel
 <Unit name="Marshal" 
 	BattleStandardBear
+	Shield
 	ArmourEnchantment="Death Cheater"
 >265- Marchal, battle Standard Bearre, shield, shield, death cheater.
-<Unit name="Marshal" 
+<Unit name="Prelate" 
+>660 - Prelate, General, Altar of Battle, Shield, Shield of Volund, Paired Weapons, Shield Breaker (Paired Weapons), Plate Armour, Dragon Staff, Potion of Swiftness
+<Unit name="Prelate" 
 	CloseCombatWeapon="Paired Weapons"
 	ArmourEnchantment="Essence of Mithril"
 >285- Prelate, paired weapons, essence of Mithril, hero´s heart.
 <Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >175 - 5x Reiters, Braces of Pistals
 <Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >175 - 5x Reiters, Braces of Pistals
 <Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >175 - 5x Reiters, Braces of Pistals
 <Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
 >175- 5x reiters, brace of Pistols
 <Unit name="State Militia" ModelCount=10 
+	Irregulars
 >150 - 10x State Militia, Irregulars
 <Unit name="State Militia" ModelCount=10 
+	Irregulars
 >150 - 10x State Militia, Irregulars
-<Unit name="Steam Tank" 
->475 - Steam Tank
-<Unit name="Steam Tank" 
->475- Steam Tank
 <Unit name="Wizard" 
-	Wizard=Adept
-	Artefact="Talisman of the Void"
+	Path=Alchemy
+	Armour="Light Armour"
 >305 - Wizard, Alchemy, Wizard adept, Light Armour, Talisman of the Void, Magical Heirloom
-<Unit name="Wizard" 
-	Wizard=Master
-	Artefact="Binding Scroll"
->410- wizard, wizard master, binding scroll, light armour (cosmology)

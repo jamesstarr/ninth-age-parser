@@ -1,5 +1,8 @@
 package org.jim.ninthage.data.armybook
 
+import org.jim.ninthage.data.armybook.dsl.Enchantment
+import org.jim.ninthage.data.armybook.dsl.option
+import org.jim.ninthage.data.armybook.dsl.selection
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.ArmyBookEntryOption

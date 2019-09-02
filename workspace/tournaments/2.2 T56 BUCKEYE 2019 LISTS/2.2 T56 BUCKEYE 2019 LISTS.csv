@@ -1,4 +1,73 @@
 Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of usages:,Number of armies taking this at least once
+"",special item,The Light of Sonnstahl,,0,0
+"",special item,Death Warrant,,0,0
+"",special item,Hammer of Witches,,0,0
+"",special item,Imperial Seal,,2,2
+"",special item,Blacksteel,,3,3
+"",special item,Witchfire Guard,,0,0
+"",special item,Shield of Volund,,0,0
+"",special item,Winter Cloak,,1,1
+"",special item,Locket of Sunna,,1,1
+"",special item,Exemplar’s Flame,,0,0
+"",special item,Karadon's Courser,,0,0
+"",special item,Mantle of Ullor,,0,0
+"",special item,Household Standard,,0,0
+"",special item,Banner of Unity,,2,1
+"",special item,Marksman’s Pennant,,1,1
+"",Marshal,base cost,,4,3
+"",Marshal,Battle Standard Bear,,3,3
+"",Marshal,Shield,,2,2
+"",Marshal,Paired Weapons,,0,0
+"",Marshal,Great Weapon,,0,0
+"",Marshal,Halberd,,0,0
+"",Marshal,Lance,,0,0
+"",Marshal,Pistol,,0,0
+"",Marshal,Great Tactician,,2,2
+"",Marshal,Imperial Prince,,0,0
+"",Marshal,Horse,,1,1
+"",Marshal,pegasus,,0,0
+"",Marshal,Great Griffon,,1,1
+"",Marshal,Dragon,,0,0
+"",Knight Commander,base cost,,0,0
+"",Knight Commander,Shield,,0,0
+"",Knight Commander,Calvary Pick,,0,0
+"",Knight Commander,Great Weapon,,0,0
+"",Knight Commander,Halberd,,0,0
+"",Knight Commander,Lance,,0,0
+"",Knight Commander,Young Griffon,,0,0
+"",Prelate,base cost,,3,3
+"",Prelate,Plate Armour,,3,3
+"",Prelate,Shield,,0,0
+"",Prelate,Great Weapon,,2,2
+"",Prelate,Paired Weapons,,1,1
+"",Prelate,Horse,,1,1
+"",Prelate,Altar of Battle,,0,0
+"",Wizard,base cost,,4,3
+"",Wizard,Adept,,2,2
+"",Wizard,Master,,2,2
+"",Wizard,Light Armour,,1,1
+"",Wizard,Horse,,0,0
+"",Wizard,Pegasus,,0,0
+"",Wizard,Great Griffon,,0,0
+"",Wizard,Arcane Engine,,1,1
+"",Wizard,Foresight,,0,0
+"",Wizard,Arcane Shield,,1,1
+"",Artificer,base cost,,0,0
+"",Artificer,Handgun,,0,0
+"",Artificer,Repeater Pistol,,0,0
+"",Artificer,Repeater Gun,,0,0
+"",Artificer,Long Rifle,,0,0
+"",Artificer,Horse,,0,0
+"",Inquisitor,base cost,,0,0
+"",Inquisitor,Shield,,0,0
+"",Inquisitor,Paired Weapons,,0,0
+"",Inquisitor,Great Weapon,,0,0
+"",Inquisitor,Halberd,,0,0
+"",Inquisitor,Crossbow,,0,0
+"",Inquisitor,Bracer of Pistols,,0,0
+"",Inquisitor,Repeater Pistol,,0,0
+"",Inquisitor,Blessed Steel,,0,0
+"",Inquisitor,Silver Shots,,0,0
 "",Heavy Infantry,small unit (20-30),,0,0
 "",Heavy Infantry,large unit (30-50),,0,0
 "",Heavy Infantry,Spear,,0,0
@@ -10,26 +79,26 @@ Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of us
 "",Light Infantry,Long Rifle,,0,0
 "",Electoral Cavalry,small unit (5-8),,1,1
 "",Electoral Cavalry,large unit (8-15),,2,2
-"",Electoral Cavalry,Shield,,1,1
+"",Electoral Cavalry,Shield,,3,3
 "",Electoral Cavalry,Lance,,2,2
 "",Electoral Cavalry,Great Weapon,,0,0
 "",Electoral Cavalry,Calvary Pick,,0,0
-"",Electoral Cavalry,Knight Orders,,0,0
+"",Electoral Cavalry,Knight Orders,,2,2
 "",State Militia,small unit (10-15),,5,2
 "",State Militia,large unit (15-25),,0,0
 "",State Militia,Irregulars,,0,0
-"",Imperial Guard,small unit (15-23),,1,1
-"",Imperial Guard,large unit (23-40),,1,1
+"",Imperial Guard,small unit (15-23),,0,0
+"",Imperial Guard,large unit (23-40),,0,0
 "",Imperial Guard,Replace Shield with Great Weapon,,0,0
 "",Knights of the Sun Griffon,small unit (3-4),,2,1
 "",Knights of the Sun Griffon,large unit (4-6),,0,0
-"",Knights of the Sun Griffon,Replace Halberd with Lance,,0,0
+"",Knights of the Sun Griffon,Replace Halberd with Lance,,2,1
 "",Imperial Rangers,small unit (5-7),,0,0
 "",Imperial Rangers,large unit (7-10),,0,0
 "",Reiters,small unit (5-7),,6,3
 "",Reiters,large unit (7-10),,0,0
-"",Reiters,Bracer of Pistols,,0,0
-"",Reiters,Repeater Gun,,0,0
+"",Reiters,Bracer of Pistols,,5,3
+"",Reiters,Repeater Gun,,1,1
 "",Reiters,Repeater Pistol,,0,0
 "",Artillery,base cost,,3,2
 "",Artillery,Mortar,,0,0
@@ -38,4 +107,4 @@ Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of us
 "",Artillery,Cannon,,1,1
 "",Flagellants,small unit (15-20),,0,0
 "",Flagellants,large unit (20-30),,0,0
-"",Steam Tank,base cost,,3,3
+"",Steam Tank,base cost,,0,0

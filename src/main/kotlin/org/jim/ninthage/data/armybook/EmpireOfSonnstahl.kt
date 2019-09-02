@@ -6,6 +6,7 @@ import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.bannerEnchantm
 import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.bannerEnchantmentOption
 import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.character
 import org.jim.ninthage.data.armybook.StandardArmyBook.DSL_Roster.pathsOfMagicOption
+import org.jim.ninthage.data.armybook.dsl.*
 import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.ArmyBookEntryOptionSelection
@@ -16,7 +17,7 @@ object EmpireOfSonnstahl {
     val Irregulars = "Irregulars"
     val ReplaceShieldWithGreatWeapon = "ReplaceShieldWithGreatWeapon"
     val ReplaceHalberdWithLance = "ReplaceHalberdWithLance"
-    val Engine = "Engine"
+    val ArcaneEngineType = "Engine"
     val Forsight = "Foresight"
     val ArcaneShield = "Arcane Shield"
     val Pistol = "Pistol"
@@ -108,6 +109,7 @@ class EoS_Version2_0 : StandardArmyBook {
     val marshal: ArmyBookEntry =
         character(name = "Marshal", points = 160) {
             listOf(
+                general(),
                 battleStandardBearer(0),
                 shield(5),
                 closeCombatWeapon(
@@ -136,6 +138,7 @@ class EoS_Version2_0 : StandardArmyBook {
         }
     val knightCommander = character(name = "Knight Commander", points = 200) {
         listOf(
+            general(),
             shield(5),
             closeCombatWeapon(
                 selection("Calvary Pick", 30),
@@ -153,10 +156,9 @@ class EoS_Version2_0 : StandardArmyBook {
 
     val prelate = character(name = "Prelate", points = 160) {
         listOf(
-            option("Armour", "Heavy Armour") {
-                listOf(
-                    selection("Plate Armour", 20)
-                )
+            general(),
+            armour(MainBook.HeavyArmour) {
+                plateArmour(20)
             },
             shield(5),
             closeCombatWeapon(
@@ -172,22 +174,19 @@ class EoS_Version2_0 : StandardArmyBook {
 
     val wizard = character(name = "Wizard", points = 125) {
         listOf(
-            option("Armour", "None") {
-                listOf(
-                    selection("Light Armour", 5)
-                )
-            },
+
+            general(),
             wizard(),
+
             pathsOfMagicOption(
                 MagicPaths.Alchemy,
                 MagicPaths.Cosmology,
                 MagicPaths.Divination,
                 MagicPaths.Pyromancy
             ),
-            closeCombatWeapon(
-                greatWeapon(10),
-                pairedWeapons(5)
-            ),
+            armour {
+                lightArmour(5)
+            },
             mount(
                 selection("Horse", 20),
                 selection("Pegasus", 50),
@@ -238,7 +237,7 @@ class EoS_Version2_0 : StandardArmyBook {
                 selection("Silver Shots", 75)
             ),
             mount(
-                selection("Horse and gain Light Troops", 70)
+                selection("Horse", 70) // and gain Light Troops", 70)
             )
         )
     }
@@ -263,7 +262,7 @@ class EoS_Version2_0 : StandardArmyBook {
                         selection("Handgun")
                     )
                 },
-                unitOption(EmpireOfSonnstahl.ChampionRangedWeapon, "None") {
+                unitOption(ChampionRangedWeapon, "None") {
                     listOf(
                         selection(EmpireOfSonnstahl.RepeaterGun, 15),
                         selection(EmpireOfSonnstahl.LongRifle, 15)
@@ -300,7 +299,11 @@ class EoS_Version2_0 : StandardArmyBook {
     val imperialGuard =
         troop("Imperial Guard", 180, 15, 25, 19) {
             listOf(
-                implicitOption(EmpireOfSonnstahl.ReplaceShieldWithGreatWeapon, 3, "Replace Shield with Great Weapon"),
+                implicitOption(
+                    EmpireOfSonnstahl.ReplaceShieldWithGreatWeapon,
+                    3,
+                    "Replace Shield with Great Weapon"
+                ),
                 command(),
                 bannerEnchantmentOption()
             )
@@ -308,7 +311,11 @@ class EoS_Version2_0 : StandardArmyBook {
     val knightOfTheSunGriffon =
         troop("Knights of the Sun Griffon", 290, 3, 3, 95) {
             listOf(
-                implicitOption(EmpireOfSonnstahl.ReplaceHalberdWithLance, 12, "Replace Halberd with Lance"),
+                implicitOption(
+                    EmpireOfSonnstahl.ReplaceHalberdWithLance,
+                    12,
+                    "Replace Halberd with Lance"
+                ),
                 command(),
                 bannerEnchantmentOption()
             )
@@ -316,7 +323,7 @@ class EoS_Version2_0 : StandardArmyBook {
     val arcaneEngine =
         singleModel("Arcane Engine", 290) {
             listOf(
-                requiredOption(EmpireOfSonnstahl.Engine) {
+                requiredOption(EmpireOfSonnstahl.ArcaneEngineType) {
                     listOf(
                         selection(EmpireOfSonnstahl.Forsight),
                         selection(EmpireOfSonnstahl.ArcaneShield)
@@ -400,12 +407,12 @@ class EoS_Version2_0 : StandardArmyBook {
 
 private fun wizard(): ArmyBookEntryOption {
     return option(
-        "Wizard",
-        "Apprentice"
+        ArcaneCompendiums.WizardLevel,
+        ArcaneCompendiums.Apprentice
     ) {
         listOf(
-            selection("Adept", 75),
-            selection("Master", 225)
+            selection(ArcaneCompendiums.Adept, 75),
+            selection(ArcaneCompendiums.Master, 225)
         )
     }
 }
