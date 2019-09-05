@@ -4,6 +4,7 @@ import com.google.common.hash.Hashing
 import opennlp.tools.util.ObjectStream
 import java.nio.file.Files
 import java.nio.file.Path
+import java.util.*
 
 class SimpleClassifierCached(
     val dir: Path
@@ -27,7 +28,7 @@ class SimpleClassifierCached(
         val path = buildPath(names)
         val cachedHash = getCachedHash(path)
         val th = hashTokens(tokenStream)
-        return if(null != cachedHash && cachedHash == th) {
+        return if(null != cachedHash && Arrays.equals(cachedHash,th)) {
             SimpleClassifierModel.read(path.resolve(ModelFileName))
         } else {
             tokenStream.reset()
