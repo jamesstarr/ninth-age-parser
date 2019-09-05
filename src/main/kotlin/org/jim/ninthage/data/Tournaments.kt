@@ -10,6 +10,16 @@ object Tournaments {
     val ALL: List<TournamentConfiguration> =
         listOf(
             TournamentConfiguration(
+                "/org/jim/ninthage/rawlist/2.0 T70 Listas Toe Menorca corregidas 1.1.pdf",
+                TextFile("/org/jim/ninthage/cookedList/2.0 T70 Listas Toe Menorca corregidas 1.1.txt"),
+                isWellFormed = true
+            ),
+            TournamentConfiguration(
+                "/org/jim/ninthage/rawlist/2.0 T71 Listas Zaragoza.pdf",
+                ParserConfiguration.PdfNewLineOnPage,
+                isWellFormed = true
+            ),
+            TournamentConfiguration(
                 "/org/jim/ninthage/rawlist/2.0 1 ZIMA 2019_ARMY LISTS.pdf",
                 ParserConfiguration.PdfNewLineOnPage
             ),
