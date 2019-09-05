@@ -12,22 +12,22 @@ import opennlp.tools.ml.perceptron.PerceptronTrainer
 import opennlp.tools.util.ObjectStream
 import opennlp.tools.util.TrainingParameters
 import opennlp.tools.util.model.ModelUtil
-import opennlp.tools.util.normalizer.EmojiCharSequenceNormalizer
-import opennlp.tools.util.normalizer.NumberCharSequenceNormalizer
-import opennlp.tools.util.normalizer.ShrinkCharSequenceNormalizer
-import opennlp.tools.util.normalizer.TwitterCharSequenceNormalizer
-import opennlp.tools.util.normalizer.UrlCharSequenceNormalizer
+import opennlp.tools.util.normalizer.*
 import org.jim.opennlp.ClassifierTokenizer
 import org.jim.opennlp.JoinObjectStreams
 import org.jim.opennlp.SingletonObjectStream
 import org.jim.utils.ResourceUtils
+import java.lang.StringBuilder
 import java.nio.file.Files
 import java.nio.file.Path
 import java.util.*
 import java.util.regex.Pattern
 
 open class SimpleClassifier(val model: SimpleClassifierModel) {
+
     companion object {
+        val contextGenerator = defaultContextGenerator()
+
         fun debugTraining(
             trainingFiles: List<String>,
             pattern: Pattern,
@@ -56,8 +56,7 @@ open class SimpleClassifier(val model: SimpleClassifierModel) {
 
         fun train(
             trainingFiles: List<String>,
-            pattern: Pattern,
-            languageDetectorFactory: LanguageDetectorFactory = LanguageDetectorFactory()
+            pattern: Pattern
         ): SimpleClassifierModel {
             val sampleStream = JoinObjectStreams(
                 trainingFiles
@@ -66,10 +65,8 @@ open class SimpleClassifier(val model: SimpleClassifierModel) {
                     .map { ClassifierTokenizer.build(it, pattern) }
             )
 
-            val params = ModelUtil.createDefaultTrainingParameters()
-            params.put(TrainingParameters.ALGORITHM_PARAM, PerceptronTrainer.PERCEPTRON_VALUE)
-            params.put(TrainingParameters.CUTOFF_PARAM, 0)
-            return train(sampleStream, languageDetectorFactory.contextGenerator)
+
+            return train(sampleStream)
         }
 
         fun build(
@@ -77,15 +74,13 @@ open class SimpleClassifier(val model: SimpleClassifierModel) {
             contextGenerator: LanguageDetectorContextGenerator
             = defaultContextGenerator()
         ): SimpleClassifier {
-            val model = train(tokenStream, contextGenerator)
+            val model = train(tokenStream)
             return SimpleClassifier(model)
         }
 
 
         fun train(
-            tokenStream: ObjectStream<SimpleToken>,
-            contextGenerator: LanguageDetectorContextGenerator
-            = defaultContextGenerator()
+            tokenStream: ObjectStream<SimpleToken>
         ): SimpleClassifierModel {
             val manifestInfoEntries = HashMap<String, String>()
 
@@ -97,7 +92,7 @@ open class SimpleClassifier(val model: SimpleClassifierModel) {
                 SimpleTokensToEventObjectStream(tokenStream, contextGenerator)
             )
 
-            return SimpleClassifierModel(model, contextGenerator)
+            return SimpleClassifierModel(model)
         }
 
         fun defaultContextGenerator(): LanguageDetectorContextGenerator {
@@ -106,16 +101,64 @@ open class SimpleClassifier(val model: SimpleClassifierModel) {
                 EmojiCharSequenceNormalizer.getInstance(),
                 UrlCharSequenceNormalizer.getInstance(),
                 TwitterCharSequenceNormalizer.getInstance(),
-                NumberCharSequenceNormalizer.getInstance(),
-                ShrinkCharSequenceNormalizer.getInstance()
+                SingleNumbersOnlyNormalizer(),
+                ShrinkCharSequenceNormalizer.getInstance(),
+                ToLowerCaseNormalizer()
             )
         }
     }
 
+    class ToLowerCaseNormalizer: CharSequenceNormalizer {
+        override fun normalize(text: CharSequence?): CharSequence {
+            return text.toString().toLowerCase()
+        }
+    }
+
+
+    class SingleNumbersOnlyNormalizer: CharSequenceNormalizer {
+        val nunberMatcher = Pattern.compile("(\\d+)(\\d)").matcher("")
+        override fun normalize(text: CharSequence?): CharSequence {
+            val stringBuilder = StringBuilder(text!!.length)
+            var index = 0
+            nunberMatcher.reset(text)
+            while(nunberMatcher.find()) {
+                val start = nunberMatcher.start()
+                val end = nunberMatcher.end()
+                stringBuilder.append(text, index, start + 1)
+                val value= nunberMatcher.group(1).toInt()
+                val value2  =nunberMatcher.group(2).toInt()
+                stringBuilder.append("")
+                index = end
+            }
+            stringBuilder.append(text, index)
+            return text.toString().toLowerCase()
+        }
+
+    }
+
+    class SigFigNumberNormalizer: CharSequenceNormalizer {
+        val nunberMatcher = Pattern.compile("(\\d+)(\\d)").matcher("")
+        override fun normalize(text: CharSequence?): CharSequence {
+            val stringBuilder = StringBuilder(text!!.length)
+            var index = 0
+            nunberMatcher.reset(text)
+            while(nunberMatcher.find()) {
+                val start = nunberMatcher.start()
+                val end = nunberMatcher.end()
+                stringBuilder.append(text, index, start + 1)
+                val value= nunberMatcher.group(1).toInt()
+                val value2  =nunberMatcher.group(2).toInt()
+                stringBuilder.append(value+ if(value2 < 5) 0 else 1).append("0")
+                index = end
+            }
+            stringBuilder.append(text, index)
+            return text.toString().toLowerCase()
+        }
+
+    }
 
 
     open fun classify(value: String): String {
-        val contextGenerator = model.contextGenerator
         val eval = model.maxentModel.eval(contextGenerator.getContext(value))
         val arr = Array(eval.size) { i ->
             SimpleClassifierResult(model.maxentModel.getOutcome(i), eval[i])

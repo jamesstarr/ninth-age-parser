@@ -23,7 +23,7 @@ class EmpireOfSonnstahlTournamentAnalysis(
 ) {
     var rosterCount: Long = 0
     val rules: List<RosterUnitCounterRule> =
-        armyBook.run {
+        with(armyBook){
             listOf(
                 countEnchantments(ArcaneCompendiums.WeaponEnchantment, EmpireOfSonnstahl.WeaponEnchantment.values()),
                 countEnchantments(ArcaneCompendiums.ArmourEnchantment, EmpireOfSonnstahl.ArmourEnchantments.values()),

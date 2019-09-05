@@ -44,6 +44,7 @@ object TrainingData {
                     "org/jim/ninthage/training/unit/EoS/EoS.MarshalBSB.generated.txt\n" +
                     "org/jim/ninthage/training/unit/EoS/EoS.MarshalShieldArtifact.generated.txt\n" +
                     "org/jim/ninthage/training/unit/EoS/EoS.Prelate.generated.txt\n" +
+                    "org/jim/ninthage/training/unit/EoS/EoS.PrelateBoardAndArtifact.generated.txt\n" +
                     "org/jim/ninthage/training/unit/EoS/EoS.PrelateCCAndArmour.generated.txt\n" +
                     "org/jim/ninthage/training/unit/EoS/EoS.PrelateSwordAndBoard.generated.txt\n" +
                     "org/jim/ninthage/training/unit/EoS/EoS.Reiters.generated.txt\n" +

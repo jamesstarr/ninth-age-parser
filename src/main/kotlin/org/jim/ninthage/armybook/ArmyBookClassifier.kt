@@ -23,8 +23,7 @@ object ArmyBookClassifier {
     fun train(): SimpleClassifierModel {
         return SimpleClassifier.train(
             TrainingData.ArmyBookClassifier,
-            pattern,
-            LanguageDetectorFactory()
+            pattern
         )
     }
 
@@ -42,26 +41,5 @@ object ArmyBookClassifier {
 
     fun build(): SimpleClassifier {
         return build(train())
-    }
-
-    class ArmyBookLanguageDetectorFactory : LanguageDetectorFactory() {
-        override fun getContextGenerator(): LanguageDetectorContextGenerator {
-            return DefaultLanguageDetectorContextGenerator(
-                3, 5,
-
-                EmojiCharSequenceNormalizer.getInstance(),
-                UrlCharSequenceNormalizer.getInstance(),
-                TwitterCharSequenceNormalizer.getInstance(),
-                NumberCharSequenceNormalizer.getInstance(),//strip numbers
-                ShrinkCharSequenceNormalizer.getInstance(),
-                object : CharSequenceNormalizer {
-                    override fun normalize(text: CharSequence?): CharSequence {
-                        return text.toString().toLowerCase()
-                    }
-
-                }//removed repeated characters
-            )
-        }
-
     }
 }

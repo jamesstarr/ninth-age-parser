@@ -1,8 +1,10 @@
 package org.jim.ninthage.units
 
+import org.jim.ninthage.App
 import org.jim.ninthage.data.TrainingData
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.RosterUnit
+import org.jim.opennlp.classifier.SimpleClassifierCached
 import org.jim.utils.ResourceUtils
 
 
@@ -14,17 +16,18 @@ class UnitEntryParser(
     val unitNumberParser = UnitNumberParser()
 
     companion object {
+        val simpleClassifierCached = SimpleClassifierCached(
+            App.HomeDirectory.resolve("cached").resolve("unitEntry")
+        )
+        val unitEntryClassiferBuilder = UnitEntryClassiferBuilder(simpleClassifierCached)
         fun build(armyBook: ArmyBook): UnitEntryParser {
             val tokens = unitTokens(armyBook)
 
             val unitEntryClassifier =
-                UnitEntryClassifier(
-                    UnitEntryClassifier.train(
-                        tokens
-                    )
-                )
+                unitEntryClassiferBuilder.build(listOf(armyBook.shortLabel),tokens)
             val unitEntryToOptionParsers =
                 armyBook.entries.map { armyBookEntry ->
+                    println("Army Book Entry ${armyBook.shortLabel} ${armyBookEntry.label}")
                     armyBookEntry.options
                     Pair<String, OptionParser>(
                         armyBookEntry.label,

@@ -11,7 +11,6 @@ import java.lang.Exception
 import java.nio.file.Files
 
 
-val sb = StringBuilder()
 fun main() {
 
     try {
@@ -171,6 +170,20 @@ fun createPrelate() {
             "None"
         ),
         "SwordAndBoard"
+    ).createUnit()
+
+    CharacterCreator(
+        EmpireOfSonnstahl.Version2_0,
+        EmpireOfSonnstahl.Version2_0.prelate,
+        listOf(
+            ArcaneCompendiums.ArmourEnchantment,
+            ArcaneCompendiums.ShieldEnchantment,
+            "Shield"
+        ),
+        listOf(
+            "None"
+        ),
+        "BoardAndArtifact"
     ).createUnit()
 
 

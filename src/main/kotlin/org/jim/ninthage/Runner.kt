@@ -7,6 +7,7 @@ import java.nio.charset.Charset
 
 fun main(args: Array<String>) {
     try {
+        println("hello")
         System.setProperty("line.separator", "\n")
         System.setProperty("file.encoding", "UTF-8")
         Parser().readAllList()

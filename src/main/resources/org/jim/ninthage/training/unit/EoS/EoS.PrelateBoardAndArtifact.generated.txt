@@ -1,0 +1,160 @@
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Imperial Seal"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Imperial Seal, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Imperial Seal"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Imperial Seal, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Imperial Seal"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Imperial Seal, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Imperial Seal"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Imperial Seal, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Blacksteel"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Blacksteel, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Blacksteel"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Blacksteel, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Blacksteel"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Blacksteel, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Blacksteel"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Blacksteel, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Death Cheater"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Death Cheater, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Death Cheater"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Death Cheater, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Death Cheater"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Death Cheater, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Death Cheater"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Death Cheater, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Destiny's Call"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Destiny's Call, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Destiny's Call"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Destiny's Call, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Destiny's Call"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Destiny's Call, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Destiny's Call"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Destiny's Call, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Essence of Mithril"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Essence of Mithril, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Essence of Mithril"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Essence of Mithril, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Essence of Mithril"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Essence of Mithril, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Essence of Mithril"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Essence of Mithril, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Ghostly Guard"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Ghostly Guard, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Ghostly Guard"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Ghostly Guard, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Ghostly Guard"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Ghostly Guard, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Ghostly Guard"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Ghostly Guard, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Basalt Infusion, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Basalt Infusion, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Basalt Infusion, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Basalt Infusion, Willow's Ward
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Alchemist's Alloy"
+	ShieldEnchantment="Witchfire Guard"
+>Prelate, Shield, Alchemist's Alloy, Witchfire Guard
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Alchemist's Alloy"
+	ShieldEnchantment="Shield of Volund"
+>Prelate, Shield, Alchemist's Alloy, Shield of Volund
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Alchemist's Alloy"
+	ShieldEnchantment="Dusk Forge"
+>Prelate, Shield, Alchemist's Alloy, Dusk Forge
+<Unit name="Prelate" 
+	Shield="Shield"
+	ArmourEnchantment="Alchemist's Alloy"
+	ShieldEnchantment="Willow's Ward"
+>Prelate, Shield, Alchemist's Alloy, Willow's Ward

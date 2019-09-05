@@ -31,6 +31,7 @@ class Parser {
     val tournamentDirectory = App.HomeDirectory.resolve("tournament")
 
     fun readAllList() {
+        println("Print Debug")
         SimpleClassifier.debugTraining(
             TrainingData.ArmyBookClassifier,
             ArmyBookClassifier.pattern,

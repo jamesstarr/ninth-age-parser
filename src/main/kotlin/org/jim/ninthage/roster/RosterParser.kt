@@ -16,6 +16,7 @@ class RosterParser(
         fun build(): RosterParser {
             return RosterParser(
                 ArmyBooks.All.map {
+                    println("Roster Parser "+ it.shortLabel)
                     Pair(it.shortLabel, UnitEntryParser.build(armyBook = it))
                 }.toMap()
             )

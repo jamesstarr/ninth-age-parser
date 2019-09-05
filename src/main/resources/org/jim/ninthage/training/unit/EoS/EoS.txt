@@ -734,6 +734,18 @@ FUnit name="Reiters">150 – 5x Reiters
     Artefact="Essence of a Free Mind"
 >405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind
 <Unit name="Wizard"
+    Wizard=Master
+    Path=Alchemy
+>350 - Wizard, Alchemy, 4 spells
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Pyromancy
+>350 - Wizard, Pyromancy, 4 spells
+<Unit name="Wizard"
+    Wizard=Master
+    Path=Divination
+>350 - Wizard, Divination, 4 spells
+<Unit name="Wizard"
     Wizard=Adept
     Path=Divination
     Artefact="Book of Arcane Mastery"

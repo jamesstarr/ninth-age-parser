@@ -12,18 +12,6 @@ class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model
 
     companion object {
         val footerNumberPattern =  Pattern.compile("(?:4[ ,._]?500)|(44\\d\\d)")
-        fun train(tokens: List<UnitToken>): SimpleClassifierModel {
-            try {
-                return train(
-                    tokens
-                        .map { SimpleToken(it.name, it.rawBody.toLowerCase()) }
-                        .let { SequenceObjectStream(it.asSequence()) }
-                )
-            } catch (insufficientTrainingDataException: InsufficientTrainingDataException) {
-                throw insufficientTrainingDataException
-            }
-        }
-
 
     }
 
@@ -32,7 +20,7 @@ class UnitEntryClassifier(model: SimpleClassifierModel) : SimpleClassifier(model
         return if (numberMatcher.find()) {
             "Footer"
         } else {
-            super.classify(value.toLowerCase())
+            super.classify(value)
         }
     }
 

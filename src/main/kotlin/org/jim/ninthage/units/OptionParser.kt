@@ -1,11 +1,13 @@
 package org.jim.ninthage.units
 
+import org.jim.ninthage.App
 import org.jim.ninthage.models.ArmyBook
 import org.jim.ninthage.models.ArmyBookEntry
 import org.jim.ninthage.models.ArmyBookEntryOption
 import org.jim.ninthage.models.RosterUnitOption
 import org.jim.opennlp.SequenceObjectStream
 import org.jim.opennlp.classifier.SimpleClassifier
+import org.jim.opennlp.classifier.SimpleClassifierCached
 import org.jim.opennlp.classifier.SimpleToken
 import java.util.stream.Stream
 import kotlin.streams.asStream
@@ -15,7 +17,7 @@ import kotlin.streams.toList
 class OptionParser(
     private val armyBook: ArmyBook,
     val armyBookEntry: ArmyBookEntry,
-    private val simpleAttributeClassifier: List<UnitAttributor>
+    private val simpleAttributeClassifier: List<UnitOptionParser>
 ) {
 
     companion object {
@@ -26,7 +28,8 @@ class OptionParser(
         ): OptionParser {
             val optionClassifier =
                 armyBookEntry.options.map { option ->
-                    UnitAttributor.build(
+                    println("Option Parser ${armyBook.shortLabel} ${armyBookEntry.label} ${option.name}")
+                    UnitOptionParser.build(
                         armyBook,
                         armyBookEntry,
                         option,
@@ -45,14 +48,20 @@ class OptionParser(
 }
 
 
-interface UnitAttributor {
+interface UnitOptionParser {
+
     companion object {
+
+        val simpleClassifierCached = SimpleClassifierCached(
+            App.HomeDirectory.resolve("cached").resolve("unitOption")
+        )
+
         fun build(
             armyBook: ArmyBook,
             armyBookEntry: ArmyBookEntry,
             armyBookEntryOption: ArmyBookEntryOption,
             tokens: List<UnitToken>
-        ): UnitAttributor {
+        ): UnitOptionParser {
             return if (armyBookEntryOption.isSimple) {
                 buildSimple(
                     armyBook,
@@ -75,7 +84,7 @@ interface UnitAttributor {
             armyBookEntry: ArmyBookEntry,
             armyBookEntryOption: ArmyBookEntryOption,
             allTokens: List<UnitToken>
-        ): UnitAttributor {
+        ): UnitOptionParser {
             val tokens =
                 allTokens
                     .stream()
@@ -87,7 +96,7 @@ interface UnitAttributor {
                         )
                     }.toList()
             if (tokens.isEmpty() || tokens.map { it.target }.toSet().size == 1) {
-                return object : UnitAttributor {
+                return object : UnitOptionParser {
                     override fun attribute(value: String): Stream<RosterUnitOption> {
                         return sequenceOf(
                             RosterUnitOption(
@@ -99,11 +108,14 @@ interface UnitAttributor {
 
                 }
             }
-            return SimpleUnitAttributor(
+            return SimpleUnitOptionParser(
                 armyBook,
                 armyBookEntry,
                 armyBookEntryOption,
-                SimpleClassifier.build(SequenceObjectStream(tokens.asSequence()))
+                simpleClassifierCached.build(
+                    listOf(armyBook.shortLabel, armyBookEntry.label, armyBookEntryOption.name),
+                    SequenceObjectStream(tokens.asSequence())
+                )
             )
         }
 
@@ -112,7 +124,7 @@ interface UnitAttributor {
             armyBookEntry: ArmyBookEntry,
             armyBookEntryOption: ArmyBookEntryOption,
             tokens: List<UnitToken>
-        ): UnitAttributor {
+        ): UnitOptionParser {
             val sAndC= armyBookEntryOption.selections.map { s->
                 val tokenForOption =
                     tokens.map {
@@ -131,23 +143,26 @@ interface UnitAttributor {
                     null
                 }else {
                     val classifier =
-                        SimpleClassifier.build(SequenceObjectStream(tokenForOption))
+                        simpleClassifierCached.build(
+                            listOf(armyBook.shortLabel, armyBookEntry.label, armyBookEntryOption.name, s.name),
+                            SequenceObjectStream(tokenForOption)
+                        )
                     Pair(s.name, classifier)
                 }
             }.filterNotNull()
-            return ComplexUnitAttributor(armyBook,armyBookEntry,armyBookEntryOption,sAndC)
+            return ComplexUnitOptionParser(armyBook,armyBookEntry,armyBookEntryOption,sAndC)
         }
     }
 
     fun attribute(value: String): Stream<RosterUnitOption>
 }
 
-class SimpleUnitAttributor(
+class SimpleUnitOptionParser(
     private val armyBook: ArmyBook,
     private val armyBookEntry: ArmyBookEntry,
     private val armyBookEntryOption: ArmyBookEntryOption,
     private val optionClassifier: SimpleClassifier
-) : UnitAttributor {
+) : UnitOptionParser {
     override fun attribute(value: String): Stream<RosterUnitOption> {
         val attribute = optionClassifier.classify(value)
         return sequenceOf(
@@ -159,12 +174,12 @@ class SimpleUnitAttributor(
     }
 }
 
-class ComplexUnitAttributor(
+class ComplexUnitOptionParser(
     private val armyBook: ArmyBook,
     private val armyBookEntry: ArmyBookEntry,
     private val armyBookEntryOption: ArmyBookEntryOption,
     private val optionClassifiers: List<Pair<String,SimpleClassifier>>
-) : UnitAttributor {
+) : UnitOptionParser {
     override fun attribute(value: String): Stream<RosterUnitOption> {
         val attribute =
             optionClassifiers.flatMap {(selection, classifer)->
