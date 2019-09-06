@@ -173,6 +173,7 @@
 	Command=M
 >405 - 4 Knights of the Sun Griffon, M
 <Unit name="Light Infantry" EntryCount=2 ModelCount=18 
+	Command=M
 >2x259 - 2x18 Light Infantry: Crossbow, M [Core] [Imperial Auxiliaries]
 <Unit name="Light Infantry" EntryCount=2 ModelCount=10 
 >135- 2x10 light infantry
@@ -200,6 +201,7 @@
 	BannerEnchantment="Marksman’s Pennant"
 >276 - 17 Light Infantry, S, M, marksman’s Pennant, Handgun
 <Unit name="Marshal" 
+	General
 	Shield
 	Title="Great Tactician"
 	Artefact="Binding Scroll"
@@ -286,11 +288,11 @@
 	Shield
 	ArmourEnchantment="Basalt Infusion"
 	Artefact="Locket of Sunna"
+	ShieldEnchantment="Willow's Ward"
 >305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield [Character]
 <Unit name="Prelate" 
 	Armour="Plate Armour"
 	Shield
-	ArmourEnchantment="Imperial Seal"
 >185- Prelate: plate armour, shield
 <Unit name="Prelate" 
 	Shield
@@ -311,11 +313,13 @@
 	Armour="Plate Armour"
 	Shield
 	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Willow's Ward"
 >235 - Prelate: Plate Armour, Shield; Basalt Infusion, Willow's Ward - Models on Foot only
 <Unit name="Prelate" 
 	Armour="Plate Armour"
 	Shield
 	Artefact="Locket of Sunna"
+	ShieldEnchantment="Willow's Ward"
 >325- Prelate, Plate Armour, Shield, Binding Scroll, Locket of Sunna, Willow's Ward
 <Unit name="Prelate" 
 	Shield
@@ -376,7 +380,7 @@
 	Path=Alchemy
 >200 - Wizard, Wizard Adept, Alchemy
 <Unit name="Wizard" 
-	Wizard=Adept
+	Wizard=Master
 	Path=Cosmology
 	Artefact="Magical Heirloom"
 >250 - Wizard, Adept, cosmology, magical heirloom

@@ -360,6 +360,7 @@
 >615 - 5 x Knights of Sun Griffon , Lance, Musician, Standard, Banner of Discipline
 <Unit name="Light Infantry" ModelCount=18 
 	ChampionRangedWeapon="Long Rifle"
+	Command=M
 >274 - 18x Crossbowmen C(long rifle)
 <Unit name="Light Infantry" ModelCount=20 
 	RangedWeapon=Handgun
@@ -464,6 +465,7 @@
 	WeaponEnchantment="Death Warrant"
 >265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,
 <Unit name="Marshal" 
+	General
 	RangedWeapon=Pistol
 	Title="Great Tactician"
 	Artefact="Binding Scroll"
@@ -789,7 +791,7 @@
 <Unit name="Wizard" 
 	Wizard=Master
 	Path=Divination
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 	Artefact="Binding Scroll"
 >465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master
 <Unit name="Wizard" 
@@ -828,7 +830,7 @@
 <Unit name="Wizard" 
 	Wizard=Master
 	Path=Divination
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 	Artefact="Binding Scroll"
 >465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll
 <Unit name="Wizard" 
@@ -839,7 +841,7 @@
 <Unit name="Wizard" 
 	Wizard=Master
 	Path=Divination
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 	Artefact="Binding Scroll"
 >465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame
 <Unit name="Wizard" 

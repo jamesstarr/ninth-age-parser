@@ -32,7 +32,6 @@ Thicket Shepherd, BSB 300
 Treefather 450
 
 
-
 Lau
 Forest Prince, General, Wild Hunter, Lance, Longbow, Elven Cloak, Light armor, Shield, Basalt Infusion, Dusk Forged, Blessed Inscriptions, Great Elk 595
 Druid, Master, Druidism, Longbow, 370
@@ -48,7 +47,6 @@ Thicket Shepherd, BSB 300
 2x7 Pathfinders 310
 
 
-
 Oakes
 Forest Prince, General, Sylvan Blades, Titanic Might, Dragon, 725
 Chieftain, Bladedancer, BSB, Spear, Hunters Honor, Aether Icon, Potion of Strength 345
@@ -60,7 +58,6 @@ Druid Adept, Shamanism, Binding Scroll 270
 12 Blade dancers, S,C, Rending Banner 475
 1 eagle 100
 Treefather 450
-
 
 
 Phillips

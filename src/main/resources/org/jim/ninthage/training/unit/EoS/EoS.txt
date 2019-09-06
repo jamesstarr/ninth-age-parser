@@ -367,6 +367,10 @@
 	Command=M
 	ReplaceHalberdWithLance
 >2x3 Knights of Sun Griffon, Lance, M 346
+<Unit name="Knights of the Sun Griffon"
+	ReplaceHalberdWithLance
+	Command=CS
+>366 - 3x Knights of the Sun Griffon, Lances, Standard bearer, Champion
 <Unit name="Knights of the Sun Griffon" >290 - 3x Knights of the Sun Griffon
 <Unit name="Knights of the Sun Griffon" >290 - 3 Knights of the Sun Griffon
 <Unit name="Knights of the Sun Griffon" >290 - 3x Knights of the Sun Griffon
@@ -401,6 +405,9 @@
 	ReplaceHalberdWithLance
 >346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M
 <Unit name="Light Infantry">200 - 15x Light Infantry, Crossbow
+<Unit name="Light Infantry"
+    Command=M
+>246 - 17 Light Infantry: Crossbow, M
 <Unit name="Light Infantry"
     Command=S
 	BannerEnchantment="Household Standard"
@@ -597,11 +604,18 @@
     WeaponEnchantment="Death Warrant"
 >325 - Marshal, Great Tactician, Battle Standard, Shield, Death Warrant (Hand Weapon), Blacksteel
 <Unit name="Marshal"
+    General
     Title="Great Tactician"
     RangedWeapon=Pistol
     Artefact="Binding Scroll"
     Artefact="Crown of the Wizard King"
 >330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King
+<Unit name="Marshal"
+    General
+	Shield
+	Title="Great Tactician"
+	Artefact="Binding Scroll"
+>280 - Marshall: General, Great Tactician, Shield, Binding Scroll
 <Unit name="Marshal"
     General
     Title="Great Tactician"
@@ -669,6 +683,20 @@
     Armour="Plate Armour"
     ArmourEnchantment="Alchemist's Alloy"
 >570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy
+<Unit name="Prelate"
+	Armour="Plate Armour"
+	Shield
+	WeaponEnchantment="Death Warrant"
+	Artefact="Mantle of Ullor"
+	Artefact="Potion of Swiftness"
+>275 – Prelate, Plate Armour, Shield, Death Warrant, Mantle of Ullor, Potion of Swiftness
+<Unit name="Prelate"
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Willow's Ward"
+	Artefact="Locket of Sunna"
+>305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield
 <Unit name="Prelate"
 	Shield
 >165 -2X Prelate, Shield, Heavy Armour
@@ -1027,6 +1055,11 @@ FUnit name="Reiters">150 – 5x Reiters
 	Artefact="Magical Heirloom"
 	Artefact="Potion of Strength"
 >260 - Wizard, Potion of Strength, Magical Heirloom, Wizard Adept, Cosmology
+<Unit name="Wizard"
+	Wizard=Adept
+	Path=Cosmology
+	Artefact="Magical Heirloom"
+>250 - Wizard, Adept, cosmology, magical heirloom
 <Unit name="Header">Andrea B. "Taro" Sferrazza - EoS
 <Unit name="Header">Artem Kurhanskyi - Empire of Sonnstahl
 <Unit name="Header">Batı Safel - Empire of Sonnstahl

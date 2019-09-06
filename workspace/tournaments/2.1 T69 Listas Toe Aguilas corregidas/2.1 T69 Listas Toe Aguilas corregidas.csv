@@ -2,23 +2,23 @@ Tourneys entered:,2.1 T69 Listas Toe Aguilas corregidas,Number of EoS Lists:,7,N
 "",special item,The Light of Sonnstahl,,1,1
 "",special item,Death Warrant,,5,5
 "",special item,Hammer of Witches,,1,1
-"",special item,Imperial Seal,,2,2
+"",special item,Imperial Seal,,1,1
 "",special item,Blacksteel,,5,5
 "",special item,Witchfire Guard,,0,0
 "",special item,Shield of Volund,,0,0
 "",special item,Winter Cloak,,0,0
 "",special item,Locket of Sunna,,2,2
-"",special item,Exemplar’s Flame,,0,0
+"",special item,Exemplar's Flame,,1,1
 "",special item,Karadon's Courser,,0,0
 "",special item,Mantle of Ullor,,0,0
 "",special item,Household Standard,,4,4
 "",special item,Banner of Unity,,1,1
 "",special item,Marksman’s Pennant,,0,0
 "",Marshal,base cost,,14,7
-"",Marshal,Battle Standard Bear,,7,6
+"",Marshal,Battle Standard Bear,,7,7
 "",Marshal,Shield,,12,7
 "",Marshal,Paired Weapons,,0,0
-"",Marshal,Great Weapon,,2,2
+"",Marshal,Great Weapon,,1,1
 "",Marshal,Halberd,,0,0
 "",Marshal,Lance,,0,0
 "",Marshal,Pistol,,0,0
@@ -36,12 +36,12 @@ Tourneys entered:,2.1 T69 Listas Toe Aguilas corregidas,Number of EoS Lists:,7,N
 "",Knight Commander,Lance,,0,0
 "",Knight Commander,Young Griffon,,0,0
 "",Prelate,base cost,,10,7
-"",Prelate,Plate Armour,,5,4
+"",Prelate,Plate Armour,,8,6
 "",Prelate,Shield,,10,7
 "",Prelate,Great Weapon,,1,1
 "",Prelate,Paired Weapons,,0,0
 "",Prelate,Horse,,0,0
-"",Prelate,Altar of Battle,,2,2
+"",Prelate,Altar of Battle,,1,1
 "",Wizard,base cost,,10,7
 "",Wizard,Adept,,7,4
 "",Wizard,Master,,3,3

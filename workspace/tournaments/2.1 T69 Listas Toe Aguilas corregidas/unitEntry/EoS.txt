@@ -154,6 +154,7 @@
 <Unit name="Light Infantry" ModelCount=16 
 >213 - 16x Light Infantry, Crossbows
 <Unit name="Light Infantry" EntryCount=2 ModelCount=20 
+	Command=M
 >2x285 – 2x20 Light Infantry: Crossbow, M [Core] [Auxiliary]
 <Unit name="Light Infantry" EntryCount=2 ModelCount=16 
 >213 - 2 x 16 Light Infantry
@@ -170,6 +171,7 @@
 	ShieldEnchantment="Willow's Ward"
 >220 - Marshal, BSB, Shield, Willow's Guard, Household Standard
 <Unit name="Marshal" 
+	General
 >160 - Marshal. General
 <Unit name="Marshal" 
 	BattleStandardBear
@@ -182,12 +184,11 @@
 	ArmourEnchantment="Ghostly Guard"
 >470 - Marshal, General, Great Griffon, Shield, Pistol, Shield of Volund, Lance, Ghostly Guard, Winter Cloak
 <Unit name="Marshal" 
+	BattleStandardBear
 	Shield
 >215 - Marshal, Battle Standard, Shield, Crown of the Wizard King
 <Unit name="Marshal" 
-	BattleStandardBear
 	Shield
-	CloseCombatWeapon="Great Weapon"
 	Title="Great Tactician"
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"
@@ -228,24 +229,23 @@
 <Unit name="Prelate" 
 	Armour="Plate Armour"
 	Shield
-	Mount="Altar of Battle"
 	ArmourEnchantment="Alchemist's Alloy"
 >660 - Prelate, Altar of Battle, Plate Armour, Shield, Alchemist's Alloy, Dragonfire Gem, Locket of Sunna
 <Unit name="Prelate" 
 	Armour="Plate Armour"
 	Shield
 	CloseCombatWeapon="Great Weapon"
-	ArmourEnchantment="Basalt Infusion"
 	Artefact="Locket of Sunna"
 >695 - Prelate on Altar of Battle. Great weapon. Plate armour (Basalt infusion). Shield. Locket of Sunna, Mantle of Ullor.
 <Unit name="Prelate" 
+	Armour="Plate Armour"
 	Shield
 	Mount="Altar of Battle"
 	ArmourEnchantment="Basalt Infusion"
 >600 - Prelate, Altar of Battle, Shield, Plate Armour, Basalt Infusion, Lucky Charm
 <Unit name="Prelate" EntryCount=2 
+	Armour="Plate Armour"
 	Shield
-	ShieldEnchantment="Dusk Forge"
 >165 -2X Prelate, Shield, Heavy Armour
 <Unit name="Prelate" EntryCount=2 
 	Shield
@@ -253,7 +253,6 @@
 <Unit name="Prelate" 
 	Armour="Plate Armour"
 	Shield
-	ArmourEnchantment="Imperial Seal"
 >185 - Prelate, plate armour, shield
 <Unit name="Prelate" 
 	Armour="Plate Armour"
@@ -294,6 +293,8 @@
 >475 - Steam Tank
 <Unit name="Wizard" 
 	Wizard=Adept
+	Path=Cosmology
+	Artefact="Magical Heirloom"
 	Artefact="Potion of Strength"
 >260 - Wizard, Potion of Strength, Magical Heirloom, Wizard Adept, Cosmology
 <Unit name="Wizard" 
@@ -317,6 +318,7 @@
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Alchemy
+	Artefact="Exemplar's Flame"
 >260 - Wizard, Alchemy, Wizard adept, Exemplar's Flame
 <Unit name="Wizard" 
 	Wizard=Adept
@@ -329,7 +331,9 @@
 <Unit name="Wizard" 
 	Wizard=Master
 	Path=Alchemy
+	Path=Cosmology
 	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
 >460 - Wizard, Wizard Master, Essence of a Free Mind: Cosmology-Alchemy, Binding Scroll
 <Unit name="Wizard" 
 	Wizard=Master

@@ -25,7 +25,6 @@ Potion of Strength
 760 – 4 Tomb Reapers: Paired Weapons.  
 
 
- 
 David “DaveQD” Coderch - Undying Dynasties 
 235 - Nomarch, General, Light Armour, Aspen Bow, Shield, Crown of the Pharaohs 
 450 - Death Cult Hierarch, Binding Scroll, Ankh of Naptesh (Hierophant), Wizard Master, Divination 
@@ -39,7 +38,6 @@ David “DaveQD” Coderch - Undying Dynasties
 4496
 
 
- 
 Juan Antonio "Dela" Cruz - Undying Dynasties 
 515 - Death Cult Hierarch, General, Hierophant, Wizard Master, Evocation, Soul Conduit, Sacred 
 Hourglass, Ankh of Naptesh 

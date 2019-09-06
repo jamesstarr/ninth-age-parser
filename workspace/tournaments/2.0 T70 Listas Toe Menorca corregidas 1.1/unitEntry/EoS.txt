@@ -97,6 +97,7 @@
 	Command=M
 >259 - 18 Light Infantry: Crossbow, M
 <Unit name="Light Infantry" ModelCount=17 
+	Command=M
 >246 - 17 Light Infantry: Crossbow, M
 <Unit name="Light Infantry" ModelCount=15 
 >200 - 15x Light Infantry
@@ -104,7 +105,7 @@
 	Command=M
 >220 – 2x15 Light Infantry, M
 <Unit name="Marshal" 
-	BattleStandardBear
+	General
 	Shield
 	Title="Great Tactician"
 	Artefact="Binding Scroll"
@@ -147,9 +148,14 @@
 	Shield
 	ArmourEnchantment="Basalt Infusion"
 	Artefact="Locket of Sunna"
+	ShieldEnchantment="Willow's Ward"
 >305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield
 <Unit name="Prelate" 
 	Armour="Plate Armour"
+	Shield
+	Artefact="Mantle of Ullor"
+	Artefact="Potion of Swiftness"
+	WeaponEnchantment="Death Warrant"
 >275 – Prelate, Plate Armour, Shield, Death Warrant, Mantle of Ullor, Potion of Swiftness
 <Unit name="Prelate" 
 	Armour="Plate Armour"
@@ -158,6 +164,7 @@
 	Artefact="Locket of Sunna"
 >355 - Prelate, General, Shield, Plate Armour, Locket of Sunna, Imperial Seal
 <Unit name="Prelate" 
+	Armour="Plate Armour"
 	Shield
 	Mount="Altar of Battle"
 	ArmourEnchantment="Basalt Infusion"
@@ -187,6 +194,7 @@
 	Wizard=Master
 	Path=Alchemy
 	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
 >460 - Wizard: Wizard Master, Piromancy/Alchemy, Binding Scroll, Essence of free mind
 <Unit name="Wizard" 
 	Wizard=Master
@@ -196,6 +204,7 @@
 <Unit name="Wizard" 
 	Wizard=Master
 	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
 >460 - Wizard, Binding Scroll, Essence of a Free Mind, Wizard Master, Divination, Pyromancy
 <Unit name="Wizard" 
 	Wizard=Adept

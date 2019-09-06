@@ -1,6 +1,6 @@
 Tourneys entered:,2.0 T70 Listas Toe Menorca corregidas 1.1,Number of EoS Lists:,4,Number of usages:,Number of armies taking this at least once
 "",special item,The Light of Sonnstahl,,0,0
-"",special item,Death Warrant,,3,3
+"",special item,Death Warrant,,4,4
 "",special item,Hammer of Witches,,1,1
 "",special item,Imperial Seal,,2,2
 "",special item,Blacksteel,,4,4
@@ -8,14 +8,14 @@ Tourneys entered:,2.0 T70 Listas Toe Menorca corregidas 1.1,Number of EoS Lists:
 "",special item,Shield of Volund,,0,0
 "",special item,Winter Cloak,,0,0
 "",special item,Locket of Sunna,,2,2
-"",special item,Exemplar’s Flame,,0,0
+"",special item,Exemplar's Flame,,0,0
 "",special item,Karadon's Courser,,0,0
-"",special item,Mantle of Ullor,,0,0
+"",special item,Mantle of Ullor,,1,1
 "",special item,Household Standard,,3,3
 "",special item,Banner of Unity,,1,1
 "",special item,Marksman’s Pennant,,0,0
 "",Marshal,base cost,,7,4
-"",Marshal,Battle Standard Bear,,5,4
+"",Marshal,Battle Standard Bear,,4,4
 "",Marshal,Shield,,5,4
 "",Marshal,Paired Weapons,,0,0
 "",Marshal,Great Weapon,,1,1
@@ -36,8 +36,8 @@ Tourneys entered:,2.0 T70 Listas Toe Menorca corregidas 1.1,Number of EoS Lists:
 "",Knight Commander,Lance,,0,0
 "",Knight Commander,Young Griffon,,0,0
 "",Prelate,base cost,,4,4
-"",Prelate,Plate Armour,,3,3
-"",Prelate,Shield,,3,3
+"",Prelate,Plate Armour,,4,4
+"",Prelate,Shield,,4,4
 "",Prelate,Great Weapon,,0,0
 "",Prelate,Paired Weapons,,0,0
 "",Prelate,Horse,,0,0

@@ -38,7 +38,7 @@
 >275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
 <Unit name="Knights of the Sun Griffon" ModelCount=3 
 	ReplaceHalberdWithLance
-	Command=M
+	Command=CS
 >366 - 3x Knights of the Sun Griffon, Lances, Standard bearer, Champion
 <Unit name="Knights of the Sun Griffon" ModelCount=3 
 >330 - 3x Knights of the Sun Griffon, Standard bearer, Champion
