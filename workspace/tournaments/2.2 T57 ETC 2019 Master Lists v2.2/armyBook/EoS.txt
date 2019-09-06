@@ -260,7 +260,8 @@ Artem Kurhanskyi - Empire of Sonnstahl
 285 - 20x Light Infantry, Musician 
 684 - 36x Imperial Guard, Champion, Standard Bearer, Musician, Rending Banner 
 250 - Cannon 
-475 - Steam Tank Total: 4499
+475 - Steam Tank
+Total: 4499
 
 
 Gregory « Gregus » Mandelaire - Empire of Sonnstahl

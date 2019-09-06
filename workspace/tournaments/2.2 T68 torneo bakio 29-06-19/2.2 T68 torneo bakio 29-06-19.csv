@@ -12,7 +12,7 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",special item,Karadon's Courser,,0,0
 "",special item,Mantle of Ullor,,0,0
 "",special item,Household Standard,,0,0
-"",special item,Banner of Unity,,0,0
+"",special item,Banner of Unity,,1,1
 "",special item,Marksman’s Pennant,,1,1
 "",Marshal,base cost,,3,2
 "",Marshal,Battle Standard Bear,,1,1
@@ -42,9 +42,9 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",Prelate,Paired Weapons,,1,1
 "",Prelate,Horse,,0,0
 "",Prelate,Altar of Battle,,0,0
-"",Wizard,base cost,,1,1
+"",Wizard,base cost,,2,2
 "",Wizard,Adept,,0,0
-"",Wizard,Master,,0,0
+"",Wizard,Master,,1,1
 "",Wizard,Light Armour,,1,1
 "",Wizard,Horse,,0,0
 "",Wizard,Pegasus,,0,0
@@ -69,8 +69,8 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",Inquisitor,Blessed Steel,,1,1
 "",Inquisitor,Silver Shots,,0,0
 "",Heavy Infantry,small unit (20-30),,1,1
-"",Heavy Infantry,large unit (30-50),,0,0
-"",Heavy Infantry,Spear,,0,0
+"",Heavy Infantry,large unit (30-50),,2,2
+"",Heavy Infantry,Spear,,1,1
 "",Heavy Infantry,Halberd,,0,0
 "",Light Infantry,small unit (10-13),,3,1
 "",Light Infantry,large unit (13-20),,2,1
@@ -101,10 +101,10 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",Reiters,Repeater Gun,,0,0
 "",Reiters,Repeater Pistol,,0,0
 "",Artillery,base cost,,3,2
-"",Artillery,Mortar,,0,0
+"",Artillery,Mortar,,2,2
 "",Artillery,Volley Gun,,0,0
 "",Artillery,Imperial Rocketeer,,0,0
-"",Artillery,Cannon,,3,2
+"",Artillery,Cannon,,1,1
 "",Flagellants,small unit (15-20),,0,0
 "",Flagellants,large unit (20-30),,0,0
-"",Steam Tank,base cost,,0,0
+"",Steam Tank,base cost,,2,2

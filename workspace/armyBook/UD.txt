@@ -1,3 +1,248 @@
+Joan Riera, Undying Dinasties 
+230 – Nomarch, General, Crown  of the Pharaohs, Shield 
+400 – Death Cult Hierarch, Hierophant, Divination, Master 
+200 – Death Cult Hierarch, Evocation, Adept 
+355 – 3x Skeleton Chariots, Legion Charioteers, M 
+170 – 20x Skeletons, M 
+344 – 27x Skeleton Archers, M 
+130 – 2x5 Skeleton Scouts 
+676 – 28x Necropolis Guard, S, M, C, Paired Weapons, Rending Banner 
+701 – 8 Shabtis, Paired Weapons, M 
+614 – 7 Shabtis, Paired Weapons, M 
+350 – 3x Sand Stalker, Underground Ambush 
+200 – 1x Charnel Catapult 
+4500
+<ARMY_BOOK>
+Sergi “Tomatito” Soto - Undying Dynasties 
+510 - Pharaoh: General; Heavy Armour; Shield; Death Mask of Teput; Sun's Embrace; Scourge of Kings; Basalt Infusion; Skeleton Chariot 
+495 - Death Cult Hierarch: Evocation; Wizard Master; binding scroll; Sacred Hourglass 
+220 - Death Cult Hierarch: Divination; Wizard Adept; Hierophant 
+240 - Casket of Phatep 
+212 - 16 Skeleton Archers: Musician 
+680 - 6 Skeleton Chariots: FCG; Legion Charioteers; Stalker's Standard 
+2x130 - 2x 5 Skeleton Scouts 
+2x460 - 2x 6 Shabti Archers: Musician 
+2x480 - 2x Battle Sphinx 
+Total: 4497
+<ARMY_BOOK>
+Roberto Sánchez “Zumbo” – Undying Dynasties Total: 4500 
+290 – Nomarch: General, Heavy Armour, Shield, Skeleton Chariot, Sun’s Embrace, Death Mask of Teput, 
+Potion of Strength 
+470 – Death Cult Hierarch: Wizard Master, Divination, Soul Conduit, Sacred Hourglass.  
+280 – Death Cult Hierarch: Wizard Adept, Cosmology, Hierophant, Book of Arcane Mastery.  
+595 – 6 Skeleton Chariot: Legion Charioteers, Champion.  
+130 – 3x5 Skeleton Scout.  
+170 – 20 Skeleton: Musician.  
+480 – 4 Tomb Cataphracts.  
+460 – 6 Shabti Archers: Musician.  
+605 – 7 Shabti Archers: Musician, Standard Bearer, Rending Banner.  
+760 – 4 Tomb Reapers: Paired Weapons.
+<ARMY_BOOK>
+David “DaveQD” Coderch - Undying Dynasties 
+235 - Nomarch, General, Light Armour, Aspen Bow, Shield, Crown of the Pharaohs 
+450 - Death Cult Hierarch, Binding Scroll, Ankh of Naptesh (Hierophant), Wizard Master, Divination 
+200 - Death Cult Hierarch, Wizard Adept, Cosmology 
+200 - Death Cult Hierarch, Wizard Adept, Evocation 
+535 - 48x Skeletons, M, C, S, Spears, Rending Banner 
+200 - 15x Skeleton Archers, M 
+130 - 3x5 Skeleton Scouts 
+766 - 8x Shabti, Paired Weapons, M, S, Rending Banner 
+760 - 2x4 Tomb Reapers, Paired Weapons 
+4496
+<ARMY_BOOK>
+Juan Antonio "Dela" Cruz - Undying Dynasties 
+515 - Death Cult Hierarch, General, Hierophant, Wizard Master, Evocation, Soul Conduit, Sacred 
+Hourglass, Ankh of Naptesh 
+200 - Death Cult Hierarch, wizard Adept,  Cosmology 
+220 - Tomb Architect, paired weapons, Binding Scroll 
+240 - Casket of Phatep 
+130 - 5x Skeleton Scouts 
+212 - 16x Skeleton Archers, M 
+350 - 3x Skeleton Chariots, S, Banner of Entombed 
+435 - 4x Skeleton Chariots, C, Legion Charioteers 
+711 - 7x Shabtis, halberd, C, S, flaming standard 
+614 - 7x Shabtis, paired weapons C, 
+410 - 4x Tomb Cataphracts, C 
+300 - 3x Tomb Cataphracts 
+160 - 1x Sand Scorpion 
+Total: 4497
+<ARMY_BOOK>
+Undying dynasties, Jordi Usó "jouso" 
+490 - Death cult hierarch, General, Wizard master, divination, ankh of naptesh,sacred hourglass. 
+260 - Death cult hierarch, wizard adept, cosmology, book of arcane mastery. 
+210 - Tomb architect, crown of the wizard king. 
+170 - 20 Skeleton, M. 
+130 - 2x5 Skeletons scouts. 
+210 - 20 Skeleton, S, banner of the entombed. 
+495 - 5 Skeleton chariots, legion charioteers. 
+721 - 8 Shabties, C,M, paired weapons. 
+605 - 7 Shabties archers, M, B, rending banner. 
+540 7 Shabtis archers, M. 
+480 - 5 Tomb Cataphracts. 
+4496p
+<ARMY_BOOK>
+Alberto Perez - Undying Dynasties  
+245 - Nomarch, Skeleton chariot, Death mask of teput, Shield, Heavy armour, aspen bow (Characters) 
+520 - Death Cult Hierarch - General, Wizard Master, Evocation, Sacred Hourglass, Talisman of the Void (Characters)  
+280 - Death Cult Hierarch - Hierophant, Wizard Adept, Cosmology, Book of Arcane Mastery  (Characters) 
+160 - Tomb Architect (Characters) 
+615 - 6 Skeleton Chariots - Legion Charioter, CM (core) 
+170 - 20 Skeletons - Musician (core) 
+130 - 5 Skeleton Scout (core) (Ancient ordnance)  
+210 - 20 skeletons,S, banner of the entombed (Core) (Entombed) 
+685 - 2x 8 Shabti Archers - Musician, Standard, Rending Banner (Ancient ordnance) 
+480 - 5 Tomb Cataphracts (special) 
+160 - 2x Sand Scorpion (Entombed)  
+Total 4500
+<ARMY_BOOK>
+Undying dynasties “Lucho”  
+495 - Death Cult Hierarch (Divination),Wizard Master,Sacred Hourglass,Talisman of the Void  
+280 - Death Cult Hierarch (Cosmology),Wizard Adept,Hierophant,Book of Arcane Mastery  
+200 - Death Cult Hierarch (Evocation),Wizard Adept  
+160 - Tomb Architect (General)  
+170 – 20 x Skeletons,Musician  
+130 – 3 x 5 Skeleton Scouts  
+580 – 5 x Skeleton Chariots,Musician & Standard Bearer,Rending Banner,Legion Charioteers 
+699 – 7 x Shabtis,FCG,Rending Banner,Paired Weapons 
+760 – 2 x 4 Tomb Reapers,Paired Weapons 
+TOTAL: 4.494
+<ARMY_BOOK>
+Ivan "Orion" Diaz-Pavon - Undying Dynasties 
+285 - Nomarch on Skeleton Chariot: General, heavy armour, shield, aspen bow, alchemist's alloy, steeds 
+of nephet-ra 
+480 - Death Cult Hierarch: wizard master, divination, hierophant, soul conduit, binding scroll, 480 
+260 - Death Cult Hierarch: wizard adept, cosmology, book of arcane mastery, 260 
+125 - Death Cult Hierarch: wizard apprentice, evocation, 125 
+160 - Tomb Architect: 160 
+190 - 20 Skeletons: C, M 
+485 - 6 Skeleton Chariots 
+290 - 2x3 Skeleton Chariots 
+130 - 5 Skeleton Scouts 
+705 - 8 Shabti Archers: C, S, M, rending banner 
+480 - 6 Shabti Archers: C, M 
+300 - 3 Tomb Cataphracts 
+160 - 2x1 Sand Scorpion 
+4500
+<ARMY_BOOK>
+Javier Zapardiel “Carabinieri” - Undying Dynasties 
+Characters: 1270(28,2%≤40%) Core: 1125 (25%≥25%)) Special: 500(No limit) Ancient Ordenance: 685(15,2%≤15%) Entombed: 160 (3,5%<30%) Mansons Menagerie 760 (16,8%<35%)
+305 – Nomarch, Heavy armour, shield, skeleton chariot, Ghostly Guard (on heavy armour), Steed of Nepthet-ra (Characters)
+280 – Death cult hierarch, General, Hierophant, Wizard Adept, Cosmology, book of arcany mastery. (Character) 
+525 – Death cult hierarch, Wizard Master, Evocation, Soul conduct, Binding scroll, Sacred Hourglass,. (Character) 
+160– Tomb Architect (Characters) 
+695 – 7 Skeleton Chariots, Legion charioteers, C,M, ( Core) 
+170 – 20 Skeleton ,M (Core) 
+130 – 5 Skeleton Scouts (Core) 
+130 – 5 Skeleton Scouts (Core) 
+685 –8 shabtis archers M,S ( Rending Banner) ( Ancient Ordenance)
+<ARMY_BOOK>
+Sir Ferni – Undying Dynasties 
+515 - Death Cult Hierarch – General, Wizard Master, Divination, Soul Conduit, Sacred Hourglass, Ankh of Naptesh 
+260 - Death Cult Hierarch – Wizard Adept, Cosmology, Book of Arcane Mastery. 
+125 - Death Cult Hierarch – Wizard Aprprendice, Evocación.  
+255 - Nomarch – Skeleton Chariot, Death Mask of Teput, Alchemist’s Alloy, Heavy armour, Shield.  
+210 - Tomb Architect – Talisman of the Void  
+615 – 6 Skeleton Chariots – Legion Charioter, CM  
+130 – 5 Skeleton Scouts  
+170 – 20 Skeleton – Musician  
+210 – 20 Skeleton – Standard Bearer, Banner of the Entombed  
+480 – 5 Tomb Cataphracts  
+685 – 2 x 8 Shabti Archers – Musician, Standart Bearer, Rending Banner 
+160 – Sand Scorpion  
+4500
+<ARMY_BOOK>
+Juanjo “Perles” Palomares – Undying Dinasties (Alicante) 
+490 - Death Cult Hierarch, General, Divination, Wizard Master, Sacred Hourglass, Ankh of Naptesh 
+260 - Death Cult Hierarch, Cosmology, Wizard Adept, Book of Arcane Mastery 
+215 - Tomb Architect, Light Armour, Binding Scroll 
+535 - 5x Skeleton Chariots, Legion Charioteers, Musician, Champion 
+200 - 21x Skeletons, Musician, Champion 
+3x130 – 3x5x Skeleton Scouts 
+786 - 8x Shabtis, Paired Weapons, Standard Bearer, Rending Banner, Musician, Champion 
+155 - 3x Great Vultures 
+705 - 8x Shabti Archers, Standard Bearer, Rending Banner, Musician, Champion 
+760 - 4x Tomb Reapers, Paired Weapons   
+4496
+<ARMY_BOOK>
+Undying Dynasties, Francisco Bartolomé "krádkaros"  
+500- Hierarch, wizard master, divination, sacred hourglass, binding scroll. 
+295 – Hierarch, wizard adept, book of arcane mastery, Scroll of desseccation, Hierophant, evocation. 
+210 - Tomb architect, crown of the wizard king. 
+250 - Nomarch, skeletal chariot, heavy armour, shield, death mask of teput, potion of strenght. 
+170 - 20 Skeletons, M. 
+130 - 3x5 Skeleton scouts. 
+580 - 5 Skeleton chariot, S, M, rending banner, legion charioteers. 
+620 - 8 Shabti archers, M. 
+721 - 8 Shabtis, C, M, Paired weapons. 
+760 - 4 Tomb reapers, Paired weapons. 
+4496
+<ARMY_BOOK>
+Jose Manuel Lucas “Pato”- Undying Dynasties
+490-Death Cult Hierarch,wizard master,divination,ankh of naptesh,sacred hourglass,general. 
+200-Death Cult Hierarch,wizard adept,evocation. 
+160-Tomb architect. 
+595-6xSkeleton chariots,legion charioteers,musician. 
+190-20xSkeletons,champion,musician. 
+130-3x5 Skeleton scouts. 
+766-8xShabtis,musician,standard bearer,rending banner,paired weapons. 
+540-7xShabtis archers,musician. 
+200-2x 1 Charnel catapult. 
+760-4xTomb reapers,paired weapons. 
+Total: 4491
+<ARMY_BOOK>
+Roberto Sánchez “Zumbo” – Undying Dynasties Total: 4491
+265 – Nomarch: General, Heavy Armour, Shield, Skeleton Chariot, Steeds of Nephet-Ra. 
+525 – Death Cult Hierarch: Wizard Master, Divination, Soul Conduit, Sacred Hourglass, Binding Scroll. 
+280 – Death Cult Hierarch: Wizard Adept, Evocation, Hierophant, Book of Arcane Mastery. 
+210 – Tomb Architect: Crown of the Wizard King. 
+240 – Casket of Phatep. 
+695 – 7 Skeleton Chariot: Legion Charioteers, Champion, Musician. 
+130 – 2x5 Skeleton Scout.  
+170 – 20 Skeleton: Musician. 
+766 – 8 Shabti: Paired Weapons, Musician, Standard Bearer, Musician, Rending Banner. 
+760 – 4 Tomb Reapers: Paired Weapons. 
+160 – 2x1 Sand Scorpion.
+<ARMY_BOOK>
+Manuel Dato Palomares “Dato” – Undying Dinasties  
+490 - Death Cult Hierarch, General, Divination, Wizard Master, Sacred Hourglass, Ankh of Naptesh  
+260 - Death Cult Hierarch, Cosmology, Wizard Adept, Book of Arcane Mastery  
+225 - Tomb Architect, Light Armour, Potion of Strength, Binding Scroll  
+595 - 6x Skeleton Chariots, Legion Charioteers, C  
+150 - 20x Skeletons,  
+3x130 – 3x5x Skeleton Scouts  
+2x440 - 2x6 Shabtis Archers 
+590 – 6 Tomb Cataphracs: C 
+760 - 4x Tomb Reapers, Paired Weapons  
+155- 3 Great Vultures 
+4495
+<ARMY_BOOK>
+Jaime Maine Lucas - Undying Dynasties
+290 - Nomarch on chariot, scourge of king, Shield, Heavy Armour, Alchemist Alloy, Death Mask of Teput. 
+280 - Death Cult Hierarch, Hierophant, Wizard Adept, Cosmology, Book of Arcane Power 
+495 - Death Cult Hierarch - General, Wizard Master, Evocation, Sacred Hourglass, Talisman of the Void 
+160 - Tomb Architect 
+760 - 7x Skeleton Chariots, legion charioter, C, S, M, Stalker Standard 
+130 - 5x Skeleton, Scout 
+240 - 27x Skeletons, M 
+685 - 8 Shabti Archers, M, S, Rending Banner 
+665 - 8 Shabti Archers, S, Rending Banner 
+470 - 4 Tomb Cataphracts, Underground Ambush 
+160 - 2x 1 Sand Scorpion 
+4.500
+<ARMY_BOOK>
+JOSE DAVID BENÍTEZ “CHACAL”- Undying Dynasties 
+160 - Tomb Architect  
+610 - Deat Cult Hierarch General, Wizard Master Divination, Light Armour, Ark of Ages, Scroll of Desiccation, Sacred Hourglass.  
+280 - Deat Cult Hierarch Hierohant, Wizard Adept Evocation, Book of Arcane Mastery.  
+660 - 6 Skeleton Chariots, Legion Charioteers, champion and standard, Stalker’s Standard.  
+210 - 24 Skeletons, champion 
+130 x 2- 5 Skeleton Scouts.  
+475 - 4 Tom Cataphracts, champion and standard, Rending Banner.  
+685 - 8 Shabtis Archers, champion and standard, Rending Banner.  
+200 x 2 -Charnel Catapult.  
+760 - 4 Tomb Reapers, Paired Weapons.  
+TOTAL: 4500
+<ARMY_BOOK>
 Kopp
 TERRACOTTA ARMY
 Commander, General, Great Aspen Bow, Light armor, Shield, Kingslayer, Destiny’s Call 460
@@ -70,7 +315,7 @@ Frederick Humcke - UD
 695 - 7x Legion Skeleton Chariots, C, M 
 410 - 4x Tomb Cataphracts, M 
 760 - 2x4 Tomb Reapers, Paired Weapons 
-4500 
+4500
 <ARMY_BOOK>
 Guy "IHDarklord" Demeyere - Undying Dynasties
 500 - Death Cult Hierarch, Wizard Master, Divination, Sacred Hourglass, Binding Scroll 
@@ -112,7 +357,7 @@ Jan "Griffin" Podaný – Undying Dynasties
 500 – 5x Tomb Cataphracts, Musician 
 685 – 2 x 8x Shabti Archers, Standard Bearer, Rending Banner, Musician 
 160 – 2 x 1x Sand Scorpion 
-4500  
+4500
 <ARMY_BOOK>
 Wilhelm Grøfte - Undying Dynasties  
 225 – Nomarch, General, Crown of the Pharaohs  
@@ -139,7 +384,7 @@ Amit Hindocha - Undying Dynasties
 756 - 8x Shabtis, Paired Weapons, Standard Bearer, Flaming Standard, Musician 
 500 - 5x Tomb Cataphracts, Musician 
 760 - 4x Tomb Reapers, Paired Weapons 
-4496   
+4496
 <ARMY_BOOK>
 Olli Kanninen - Undying Dynasties 
  
@@ -154,7 +399,7 @@ Olli Kanninen - Undying Dynasties
 685 - 8x Shabti Archers, Standard Bearer, Rending Banner, Musician 
 500 - 5x Tomb Cataphracts, Musician 
 160 - Sand Scorpion 
-4496  
+4496
 <ARMY_BOOK>
 Louis « Juggernaut » Duquet - Undying Dynasties  
  
@@ -207,7 +452,7 @@ Simone "Doomsday" Cucuzza - Undying Dynasties
 130 - 2x5 Skeleton Scouts 
 620 - 2x8 Shabti Archers, M 
 500 - 5x Tomb Cataphracts, M 
-4500 
+4500
 <ARMY_BOOK>
 Sergey "Conjurer" Visnyakov - Undying Dynasties
 485 - Death Cult Hierarch, General, Divination, Sandstorm Cloak, Sacred Hourglass, Wizard Master 
@@ -234,7 +479,7 @@ Quentin Breton - Undying dynasties
 130 - 5 Skeleton Scouts 
 210 - 2x20 Skeletons, Standard Bearer, Banner of the Entombed 
 776 - 2x8 Shabtis, Champion, Musician, Standard Bearer, Flaming Standard, Paired Weapons 
-520 - 5 Tomb Cataphracts, Champion, Musician Total: 4498  
+520 - 5 Tomb Cataphracts, Champion, Musician Total: 4498
 <ARMY_BOOK>
 Darko “8” Brdareski - Undying Dynasties   210 - Tomb Architect, Crown of the Wizard King 
 225 - Nomarch, General, Crown of the Pharaohs 
@@ -246,7 +491,7 @@ Darko “8” Brdareski - Undying Dynasties   210 - Tomb Architect, Crown of the
 520 - 2x 5x Tomb Cataphracts, Standard Bearer, Musician 
 155 - 2x 3x Great Vultures 
 760 - 4x Tomb Reapers, Paired Weapons 
-4500 
+4500
 <ARMY_BOOK>
 Jaldert – Undying Dynasties 
 260– Nomarch, General, Skeleton Chariot, Shield, Heavy Armour, Aspen Bow, Death Mask of Teput, scroll of dessication. 
@@ -421,7 +666,7 @@ Emre “Firelance” Karakaş – Undying Dynasties
 430 - 4 x Tomb Cataphracts, Standard, Musician 
 685 - 8 x Shabti Archers, Standard, Musician, Rending Banner 
 685 - 8 x Shabti Archers, Standard, Musician, Rending Banner 
-4500 pts 
+4500 pts
 <ARMY_BOOK>
 Pavel Iukhno -Undying Dynasties 
 240 - Nomarch, General, Light Armour, Crown of the Pharaohs, Scroll of Desiccation 
@@ -436,7 +681,7 @@ Pavel Iukhno -Undying Dynasties
 200 - Charnel Catapult 
 160 - Sand Scorpion 
 160 - Sand Scorpion 
-160 - Sand Scorpion Total : 4500 
+160 - Sand Scorpion Total : 4500
 <ARMY_BOOK>
 Phil "Mr." Blake - Undying Dynasties 
  
@@ -464,7 +709,7 @@ Stephen “Slatch” Slatcher - Undying Dynasties
 130 - 2x 5x Skeleton Scouts 
 500 - 2x 5x Tomb Cataphracts, Musician 
 760 - 4x Tomb Reapers, Halberds 
-4500 
+4500
 <ARMY_BOOK>
 Raúl "Feytor" Vela - Undiying Dinasties
 525 death cult hierarch: general, soul conduit, wizard máster 4 spells divination, sacred hourglass, binding scroll
@@ -526,4 +771,21 @@ David Mesa (Undying Dynasties)
 190 - 20x Skeleton, Spears, Champion, Musician, 
 540 - 5x Tomb Cataphract, Champion, Musician, Standard Bearer, 
 605 - 7x Shabti Archer, Musician, Standard Bearer, Rending Banner
-705 - 8x Shabti Archer,  Champion, Musician, Standard 
+705 - 8x Shabti Archer,  Champion, Musician, Standard Bearer, Rending Banner
+160 – 1x Sand Scorpion 
+4,500pts
+<ARMY_BOOK>
+Omar Chocometa - (Undying Dynasties)
+580 Death Cult Hierarch: soul conduit, sacred hourglass, light armor, sandstorm cloack, wizard  master cosmology, hierophant.
+270 Death Cult Hierarch: wizard adept evocation, blinding scroll.                         
+515 Pharaon: general, comander of terracota army,  heavy armour, shield, skeleton chariot,  ghostly guard, lucky charm, scourge of kings, talisman of shielding.
+ 655 5 Skeleton Chariots: champion, standard bearer, legion charioters, sbanner's standard.       
+135 5 Skeleton Scouts.        
+135 5 Skeleton Scouts.   
+250 20 skeletons: champion, standard bearer.                             
+721 8 Shabtis: champion, standard bearer, paired weapons.                             
+320 3 Tomb Cataphacts: standard bearer.            
+435 Colossus.                
+480 Dread Sphinx.
+4496
+<ARMY_BOOK>

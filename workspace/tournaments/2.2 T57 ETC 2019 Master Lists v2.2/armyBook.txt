@@ -2,10 +2,10 @@ BH, 19
 WDG, 26
 DE, 11
 SE, 11
+VS, 27
 HBE, 10
-OK, 22
-DL, 19
-VS, 26
+DL, 20
+OK, 23
 VC, 23
 SA, 17
 KoE, 7

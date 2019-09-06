@@ -20,17 +20,23 @@ class ArmyBookWriterPool(val dir: Path) : Closeable {
         val writer = getWriter(armyBook)
         writer.write(payload)
         writer.write("\n<ARMY_BOOK>\n")
+        writer.flush()
     }
 
     private fun getWriter(armyBook: String): Writer {
 
         return armyBookToWriters.getOrPut(armyBook) {
-            Files.newBufferedWriter(dir.resolve(armyBook + ".txt"))
+            val file = dir.resolve(armyBook + ".txt")
+            Files.delete(file)
+            Files.newBufferedWriter(file, Charsets.UTF_8)
         }
     }
 
     override fun close() {
-        armyBookToWriters.values.forEach { it.close() }
+        armyBookToWriters.values.forEach {
+            it.flush()
+            it.close()
+        }
     }
 
 }

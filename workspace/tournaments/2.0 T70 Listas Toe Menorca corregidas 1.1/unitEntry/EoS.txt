@@ -1,0 +1,209 @@
+<Unit name="Artificer" 
+	Artefact="Crown of the Wizard King"
+>175 - Artificer, Crown of the Wizard King
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 - Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 - Imperial Rocketeer
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 – 1x Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 – 1x Imperial Rocketeer
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 - Artillery, Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 – 1x Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 – 1x Battery Rocket
+<Unit name="Electoral Cavalry" ModelCount=5 
+	Shield
+	CloseCombatWeapon=Lance
+>195 - 5x Electoral Cavalry, Shield, Lance
+<Unit name="Footer">Total: 4498 
+<Unit name="Footer">4499
+<Unit name="Footer">Total: 4498 
+<Unit name="Footer">4499 
+<Unit name="Header">Daniel “Uthred” Linares - Empire of Sonnstahl 
+<Unit name="Header">Dani Torres,  Empire of Sonnstahl  
+<Unit name="Header">Fernando Arcos - Empire of Sonnstahl 
+<Unit name="Header">Mario “Mariuss” Rodríguez,  Empire of Sonnstahl  
+<Unit name="Heavy Infantry" ModelCount=40 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Banner of Unity"
+>485 - 40 Heavy Infantry: Spears, M, S, C, Banner of Unity
+<Unit name="Heavy Infantry" ModelCount=20 
+	Command
+	BannerEnchantment="Household Standard"
+>225 - 20 Heavy infantry: C, S, Household Standard
+<Unit name="Heavy Infantry" EntryCount=2 ModelCount=20 
+	Command=MS
+>165 – 2x20 Heavy Infantry, M
+<Unit name="Heavy Infantry" ModelCount=42 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Rending Banner"
+>512 – 42x Heavy Infantry, Spears, S, M, C, Rending Banner
+<Unit name="Heavy Infantry" EntryCount=4 ModelCount=20 
+>145 - 4x20 Heavy Infantry
+<Unit name="Heavy Infantry" EntryCount=3 ModelCount=20 
+	Command=MS
+>165 – 3x20 Heavy Infantry, M
+<Unit name="Heavy Infantry" ModelCount=35 
+	CloseCombatWeapon=Halberd
+	Command
+	BannerEnchantment="Rending Banner"
+>435 – 35x Heavy Infantry, Halberds, S, M, C, Rending Banner
+<Unit name="Imperial Guard" ModelCount=32 
+	Command
+	BannerEnchantment="Rending Banner"
+>608 - 32 Imperial Guard: M, S, C, Rending Banner
+<Unit name="Imperial Guard" ModelCount=28 
+	Command
+	BannerEnchantment="Rending Banner"
+>532 – 28x Imperial Guard, S, M, C, Rending Banner
+<Unit name="Imperial Guard" ModelCount=27 
+	Command
+	BannerEnchantment="Household Standard"
+>508- 27x Imperial Guard, Household Standard, M, C, S
+<Unit name="Imperial Guard" ModelCount=30 
+	Command
+	BannerEnchantment="Household Standard"
+>565 – 30x Imperial Guard, S, M, C, Household Banner
+<Unit name="Imperial Rangers" EntryCount=2 ModelCount=5 
+>090 - 2x 5 Rangers
+<Unit name="Imperial Rangers" ModelCount=5 
+>90 - 5x Imperial Rangers
+<Unit name="Imperial Rangers" ModelCount=7 
+>114 – 7x Imperial Rangers
+<Unit name="Inquisitor" 
+	Shield
+	Artefact="Potion of Swiftness"
+	WeaponEnchantment="Hammer of Witches"
+>190 - Inquisitor, Shield, Hammer of Witches, Potion of Swiftness
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+	Command=M
+>310 – 3x Knights of he Sun Griffon, M
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+>290 - 3x Knights of the Sun Griffon
+<Unit name="Light Infantry" ModelCount=18 
+	Command=M
+>259 - 18 Light Infantry: Crossbow, M
+<Unit name="Light Infantry" ModelCount=17 
+>246 - 17 Light Infantry: Crossbow, M
+<Unit name="Light Infantry" ModelCount=15 
+>200 - 15x Light Infantry
+<Unit name="Light Infantry" EntryCount=2 ModelCount=15 
+	Command=M
+>220 – 2x15 Light Infantry, M
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	Title="Great Tactician"
+	Artefact="Binding Scroll"
+>280 - Marshall: General, Great Tactician, Shield, Binding Scroll
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>265 - Marshall: BSB, Shield, Blacksteel, Death Warrant
+<Unit name="Marshal" 
+	ArmourEnchantment="Imperial Seal"
+	Artefact="Obsidian Rock"
+>285 – Marshal, General, Imperial Seal, Obsidian Rock
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ArmourEnchantment=Blacksteel
+	Artefact="Binding Scroll"
+>265 – Marshal, BSB, Shield, Binding Scroll, Blacksteel
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	Title="Great Tactician"
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>325 - Marshal, BSB, Shield, Death Warrant, Blacksteel, Great Tactician
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Destiny's Call"
+>240 – Marshal, General, Great Weapon, Destiny's Call
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>265 – Marshal, BSB, Shield, Blacksteel, Death Warrant
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Basalt Infusion"
+	Artefact="Locket of Sunna"
+>305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+>275 – Prelate, Plate Armour, Shield, Death Warrant, Mantle of Ullor, Potion of Swiftness
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Imperial Seal"
+	Artefact="Locket of Sunna"
+>355 - Prelate, General, Shield, Plate Armour, Locket of Sunna, Imperial Seal
+<Unit name="Prelate" 
+	Shield
+	Mount="Altar of Battle"
+	ArmourEnchantment="Basalt Infusion"
+>600 – Prelate on Altar of Battle, Shield, Plate Armour, Basalt Infusion, Lucky Charm
+<Unit name="Reiters" EntryCount=2 ModelCount=5 
+>150 - 2x 5 Reiters
+<Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Repeater Gun"
+>195 – 5x Reiters, M, Repeater Gun
+<Unit name="Reiters" ModelCount=5 
+>150 - 5x Reiter
+<Unit name="State Militia" EntryCount=2 ModelCount=10 
+	Irregulars
+>150 – 2x10 State Militia, Irregulars
+<Unit name="State Militia" ModelCount=10 
+	Irregulars
+>150 - 10x State Militia, Irregulars
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 – 1x Steam tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 – 1x Steam tank
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Artefact="Binding Scroll"
+>460 - Wizard: Wizard Master, Piromancy/Alchemy, Binding Scroll, Essence of free mind
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Artefact="Binding Scroll"
+>460 – Wizard, Master, Essence of Free mind (Alchemy/Pyromancy), Binding Scroll
+<Unit name="Wizard" 
+	Wizard=Master
+	Artefact="Binding Scroll"
+>460 - Wizard, Binding Scroll, Essence of a Free Mind, Wizard Master, Divination, Pyromancy
+<Unit name="Wizard" 
+	Wizard=Adept
+	Path=Alchemy
+	Artefact="Binding Scroll"
+>255 - Wizard, Binding Scroll, Wizard Adept, Alchemy
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Artefact="Binding Scroll"
+>460 – Wizard, Master, Essence of Free Mind (Alchemy/Pyromancy), Binding Scroll

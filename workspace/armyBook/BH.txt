@@ -1,3 +1,261 @@
+Jonny “Lance Cookwood” Queija - Beast Herds 
+565 - Beast Lord: General, Razortusk Chariot, Beast Axe with Fatal Folly, Heavy Armour with Basalt infusion, Shield, Talisman of Shielding, Binding Scroll,Throwing weapons
+340 - Beast Chieftain: Destiny’s Call, BSB, Greater Totem Bearer, Beast Axe 
+525 - Soothsayer: paired weapons, Wizard Master, Druidism, Dark Rain, Seed of the Dark Forest 
+362 - 34 Mongrel herd: FCG, Spears, Banner of the Wild herd 
+115- 10 Mongrel Raiders: scout & ambush 
+230 - 2x 15 Wildhorn Herd: Paired Weapons, Throwing Weapons 
+292 - 8 Centaurs:  Musician, Paired Weapons 
+689 - 28 Longhorn Herd: FCG,Rending Banner, Black Wing Totem 
+100 - 2x 1 Razortusk Herd  
+475 - 2x Gortach  
+Total: 4498
+<ARMY_BOOK>
+Pep Forteza Ferrer - Beast Herds 
+535 - Soothsayer, General, Light Armour, Destiny´s Call, Binding Scroll, Crown of Horns, Wizard Master, Shamanism 
+380 - Beast Chieftain, BSB, Beast Axe, Shield, Heavy Armour, Talisman of Shielding, Lightning Vambraces, Great Totem Bearer 
+506 - 33x Wildhorn Herd, Paired Weapons, Banner of Speed, M, C, S 
+200 - 2x15 Wildhorn Herd, Throwing Weapons, Ambush 
+529 - 2x6 Minotaurs, Paired Weapons 
+200 - 2x5 Centaurs, Paired Weapons, Ambush 
+135 - 2x5 Gargoyles  
+475 - 2x1 Gortach 
+Total: 4499
+<ARMY_BOOK>
+Oscar “Egoman” Reina - Beast Herds 
+585 - Beast Lord: General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of 
+Shielding, Hunting Call 
+460 - Beast Chieftain: BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem, Greater 
+Totem Bearer 
+495 - Soothsayer: Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism 
+386 - 37 Mongrel Herd: Spear, Shield, M, C, S, Banner of the Wild Herd 
+220 - 15 Wildhorn Herd: Throwing Weapons (5+), M, Ambush 
+200 - 15 Wildhorn Herd: Throwing Weapons (5+), Ambush 
+104 - 8 Feral Hounds 
+564 - 6 Minotaurs: Paired Weapons, C, Totem Bearer (Black Wing Totem) 
+185 - 5 Centaurs: Paired Weapons 
+2x100 - 2x 1 Razortusk Herd 
+150 - 5 Gargoyles: Scout 
+2x475 - 2x 1 Gortach 
+Total: 4499
+<ARMY_BOOK>
+Alberto Ortega “Althanen” – Beasts Herds Total: 4500 
+555 – Beast Lord: General, Heavy Armour, Shield, Beast Axe, Razortusk Chariot, Hunting Call, Fatal Folly, 
+Basalt Infusion, Talisman of Shielding, Crown of Horns 
+460 – Beast Chieftain: Battle Standard Bearer, Greater Totem Bearer, Heavy Armour, Shield, Beast Axe, 
+Raiding Chariot, Alchemist’s Alloy, Dragonfire Gem, Dusk Forged.  
+400 – Minotaur Chieftain: Greater Totem Bearer, Heavy Armour, Shield, Obscuring Fog, Binding Scroll.  
+315 – Soothsayer: Raiding Chariot, Wizard Adept, Druidism, Seed of the Dark Forest 
+410 – 40 Mongrel Herd: Spear, FCG, Banner of the Wild Herd.  
+200 – 2x15 Wildhorn Herd: Throwing Weapons (5+), Ambush.  
+104 – 8 Feral Hounds.  
+536 – 5 Minotaurs: Paired Weapons, FCG, Flaming Standard.  
+100 – Razortusk Herd.  
+135 – 2x5 Gargoyles.  
+475 – 2x1 Gortach.  
+Guille Terrasa “Wargo” – Saurian Ancients Total: 4498
+<ARMY_BOOK>
+Diego Albert - Beast Herd 
+585 - Beast Lord, General, Razortusk Chariot, Hunting Call, Heavy armour, shield, beast axe, Basalt 
+infusion, Fatal Folly, talisman of shielding, Binding Scroll 
+460 - Beast Chieftain, BSB, Raiding Chariot, Great Totem Bearer, heavy armour, shield, beast axe, 
+alchemist's alloy, dusk forged, dragonfire gem 
+520 - Soothsayer, wizard master, Druidism, Dark Rain, Seed of the Dark Forest 
+115 - 10 Mongrel Raiders, Scout&Ambush 
+115 - 10 Mongrel Raiders, Scout&Ambush 
+200 - 15 Wildhorn Herd, Ambush, throwing weapons (5+) 
+200 - 15x Wildhorn Herd, Ambush, throwing weapons (5+) 
+300 - 20x Wildhorn Herd, C, M, S, Shield, Banner of the Relentless company 
+564 - 6x Minotaurs, Paired Weapons, C, totem Bearer, Black Wing Totem 
+285 - 3x Minotaurs, Paired Weapons, M 
+100 - 2x1 Razortusk Herd 
+475 - 2x1 Gortach 
+Total: 4494
+<ARMY_BOOK>
+Jon Ander "Tiraseises" Arteaga - Beast Herds 
+560 - Beast Lord, General, Hunting Call, Razortusk Chariot, Beast Axe, Heavy Armour, Shield, Basalt Infusion, Eye of 
+Dominance,Fatal Folly, Talisman of Shielding 
+475 - Beast Chieftain, BSB, Great Totem Bearer, Raiding Chariot, Beast Axe, Heavy Armour, Shield, Dark Rain, 
+Dragonfire Gem 
+435 - Soothsayer, Wizard Master, Druidism, Blinding Scroll 
+533 - 34 WildHorn Herd, FCG, Paired Weapons, Blooded Horn Totem, Banner of the Wild Herd 
+190 - 2*15 WildHorn Herd, Ambush, Shield, Musician 
+135 - 5 Gargolyes 
+100 - 2*1 Razortusk Herd 
+830 - 8 Minotaurs, FCG, Paired Weapons, Black Wing Totem, Banner of Speed 
+475 - 2*1 Gortach 
+4498 Pts
+<ARMY_BOOK>
+Beast Herds, Jorge Fernández "jorko" 
+585 - Beast Lord, General, Beast Axe, Heavy Armour, Hunting Call, Razortusk Chariot, Shield, Basalt Infusion, 
+Binding Scroll, Fatal Folly, Talisman of Shielding. 
+460 - Beast Chieftain, BSB, Beast Axe, Greater Totem Bearer, Heavy Armour, Raiding Chariot, Shield, Alchemist's 
+Alloy, Dragonfire Gem, Dusk Forged. 
+495 - Soothsayer, Druidism, Wizard Master, Binding Scroll, Seed of the Dark Forest. 
+322 - 34 Mongrel, Spears, S, Banner of the Wild Herd. 
+143 - 14 Mongrel Raider, C. 
+220 - 2x 15 Wildhorn Herd, Ambush, M, Throwing Weapons. 
+185 - 5 Centaur, Paired Weapons. 
+80 - 2x5 Feral Hound. 
+135 - 5 Gargoyle. 
+525 - 6 Minotaurs, Shield , C. 
+100 - Razortusk Herd. 
+475 - 2x1 Gortach. 
+4500pts
+<ARMY_BOOK>
+Hector Machacón - ''Er'Nexhtor'' - Beast herds 
+Soothsayer, Wizard Master Druidism, Binding Scroll, Seed of the Dark Forest 495pts 
+Beast Chieftain, BSB, Heavy Armour, Shield, Raiding Chariot, Greater Bearer Totem, Beast Axe, Alchemist’s Alloy, 
+Lucky Charm, Dusk Forged, Dragonfire Gem 460pts 
+Beast Lord, General, Heavy Armour, Shield, Razortusk Chariot, Beast Axe, Hunting Call, Basalt Infusion, Fatal 
+Folly, Binding Scroll, Talisman of Shielding 585pts 
+5x Centaurs, Paired Weapons 185pts 
+5x Gargoyles, Scout 150pts 
+6x Minotaurs, Paired Weapons, Champion (Black Wing Totem) 564 pts 
+2x1 Razortusk Herd 100pts
+8x Fetal Hounds
+1x15 Wildhorn Herd, Ambush, Throwing Weapons, Musician 220pts 
+1x15 Wildhorn Herd, Ambush, Throwing Weapons 200pts 
+37x Mongrel Herd, Spears, Ch, M, St., Banner of the Wild Herd 386 pts 
+2x1 Gortach 475pts
+<ARMY_BOOK>
+Miguel “CaaL" Calderón - Beast Herds
+585 - Beast Lord, General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of 
+Shielding, Hunting Call  
+460 - Beast Chieftain, BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem, 
+Greater Totem Bearer  
+495 - Soothsayer, 4 spells, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism  
+386 - 37x Mongrel Herd, Spear, Shield, M, C, S, Banner of the Wild Herd  
+220 - 15x Wildhorn Herd, Throwing Weapons (5+), M, Ambush  
+200 - 15x Wildhorn Herd, Throwing Weapons (5+), Ambush  
+104 - 8x Feral Hounds  
+564 - 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem)  
+185 - 5x Centaurs, Paired Weapons  
+100 - 2x1 Razortusk Herd  
+150 - 5x Gargoyles, Scout  
+475 - 2x1 Gortach  
+4499
+<ARMY_BOOK>
+Javier Alvarez de Eulate - Beast Herds 
+580 - Beast Lord on Raiding Chariot, General, Huntig Call, Shield, Heavy Armour, Death Cheater, Beast 
+Axe, Fatal Folly, Pillage Icon, Lucky Charm 
+465 - Beast Chieftain on Raiding Chariot, BSB, Greater Totem Bearer, Shield, Great Weapon, Heavy 
+Armour, Basalt Infusion,Talisman of Shielding, Potion of Strenght 
+520 - Soothsayer, Dark Rain, Seed of the Dark Forest,Wizard Master, Druidism 
+330 - 2x3 Raiding Chariot 
+270 - 15 Wildhorn Herd, Paired Weapons, S, M, Banner of the Wild Herd 
+80 - 5 Ferals Hounds 
+80 - 5 Ferals Hounds 
+150 - 5 Gargoyles 
+110 - 2x1 Raiding Chariot 
+230 - Razortusk Chariot 
+165 - 10 Longhorn Herd Ambush 
+165 - 10 Longhorn Herd Ambush 
+205 - 5 Centaur Lance 
+355 - 2x1 Cyclops 
+4500
+<ARMY_BOOK>
+Javier Centenera “Cente” – Beast Herds (C) 
+Characters: 1445/1800 ->32,1%; Core: 902/900 ->25%; Terrors of the Wild: 950/1800 -> 8,6%
+495 – Beast Lord on Razortusk Chariot: (General), Hunting call, Beast Axe, Heavy armour, shield, Talisman of shielding, Basalt Infusion. (Characters).
+490 – Soothsayer: Wizard Master, Druidism, 2x Binding Scroll (Characters). 
+460 – Beast Chieftain on Raiding Chariot: BSB, Great totem bearer, Beast Axe, Heavy armour, shield, Alchemist´s Alloy, Dragonfire Gem, Dusk Forged (Characters).
+386 –37 Mongrel herd: Spears, FCG, Banner of the wild herd (core). 
+216 – 16 Wildform herd. Ambush, Throwing weapons (core). 
+200 – 15 Wildform herd: Ambush, Throwing weapons (core). 
+104 – 8 Feral hounds (core). 
+135 – 5 gargoyles (special). 
+185 –5 Centaurs: Paired Weapons (special). 
+100 – Razortusk Herd (special). 
+783 – 8 Minotaurs: FCG, Shield, Flaming Standard, Black Wing Totem in Champion. (special). 
+475 – 2 x Gortach  (Terrors Of the Wild) 
+4.500
+<ARMY_BOOK>
+José Carlos “JC.Osuna” Osuna - Beast Herds  
+560 - Beast Lord, General, Razortusk Chariot, Beast Axe, Heavy Armour, Shield, Fatal Folly, Basalt Infusion, Talisman of 
+Shielding, Binding Scroll 
+460 - Beast Chieftain, BSB, Raiding Chariot, Beast Axe, Heavy Armour, Shield, Great Totem Bearer, Alchemist’s Alloy, Dusk 
+Forged, Dragonfire Gem  
+500 - Soothsayer, Paired Weapons, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism 
+104 - 2x8 Feral Hounds 
+170 - 2x15 Wildhorn Herd, Ambush  
+370 - 35x Mongrel Herd, Spear, M, C, S, Banner of the Wild Herd 
+100 - 2x1 Razortusk Herd 
+150 - 5x Gargoyles, Scout  
+760 - 8x Minotaurs, Paired Weapons, M, C, Black Wing Totem 
+475 - 2x1 Gortach  
+4498
+<ARMY_BOOK>
+Beast Herds - Sergio Fariñas “Fidras” 
+560 - Beast Lord, General, Razortusk Chariot, Shield, Heavy Armour, Basalt Infusion, Beast Axe, Fatal Folly, Binding Scroll, Talisman of Shielding
+500 - Soothsayer, Druidism, Wizard Master, Seed of the Dark Forest, Binding Scroll, Paired Weapons 
+460 - Beast Chieftain, BSB, Great Totem Bearer, Raiding Chariot, Shield, Dusk forged, Heavy Armour, Alchemist's Alloy, Beast Axe, Dragonfire Gem
+370 - 35 Mongrel Herd, Spears, S, M, C, Banner of the Wild Herd 
+170 - 2x15 Wildhorn Herd, Shields, Ambush 
+104 - 2x8 Feral Hounds 
+760 - 8 Minotaurs, Paired Weapons, M, C, Totem Bearer, Black Wing 
+150 - 5 Gargoyles, Scout 
+100 - 2x1 Razortusk Herd 
+475 - 2x1 Gortach 
+4.498
+<ARMY_BOOK>
+Alberto Pérez - Beast Herds  
+585 - Beast Lord, General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of Shielding, Hunting Call
+460 - Beast Chieftain, BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem,  Greater Totem Bearer
+495 - Soothsayer, 4 spells, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism  
+290 - 30x Mongrel Herd, Spear, Shield, S, Banner of the Wild Herd  
+95 - 10x Mongrel raiders 
+220 - 15x Wildhorn Herd, Throwing Weapons (5+), M, Ambush  
+200 - 15x Wildhorn Herd, Throwing Weapons (5+), Ambush  
+104 - 8x Feral Hounds  
+564 - 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem)  
+185 - 5x Centaurs, Paired Weapons  
+100 - 2x1 Razortusk Herd  
+150 - 5x Gargoyles, Scout  
+475 - 2x1 Gortach  
+4498
+<ARMY_BOOK>
+Jorge Vitoria- Beast Herds 
+585 - Beast Lord: General, Razortusk Chariot, Hunting Call, Heavy Armour, Shield, Beast Axe, Fatal Folly, Basalt Infusion, Talisman of Shielding, Binding Scroll
+485 – Soothsayer: Wizard Master (Evocation), Binding Scroll, Ancestral Carvings 
+475 - Centaur Chieftain: BSB, Ambush, Greater Totem Bearer, Paired Weapons, Dragon Staff, Destiny’s Call 
+421 - 23 Wildhorn Herd: C, M, S, Totem Bearer (Blooded Horn Totem), Banner of the Wild Herd, Paired Weapons, Ambush 
+104- 8 Feral Hounds 
+394 - 38 - Mongrel Herd, C, M, S, Banner of the Wild Herd, Spear 
+416 - 8 Centaurs: C, M, S, Tótem Bearer (Black Wing Totem), Paired Weapon, Rending Banner Ambush 
+150 x2 - 2x5 Gargoyles: scout 
+340 x2 – 2x1 Jabberwock 
+320 x2 – 2x1 Beast Giant: Beer Barrel 
+TOTAL: 4500
+<ARMY_BOOK>
+Manu Avilés “Man all in” Beast Herds 
+510 - Soothsayer, General, Evocation, Wizard Master, Crown of Autocracy, Seed of the Dark Forest 
+355 - Beast Chieftain, Great Totem Bearer, Battle Standard, Aether Icon, Shield, Heavy Armour, Lightning 
+Vambraces, Obsidian Rock 
+346 - 32x Mongrel Herd, Spears, Standard bearer, Banner of the Wild Herd, Musician, Champion 
+330 - 3x Raiding Chariots 
+170 - 15x Wildhorn Herd, Shields, Musician 
+104 - 8x Feral Hounds 
+560 - 6x Minotaurs, Shields, Musician, Champion, Totem Bearer, Black Wing 
+2x165 – 2x10x Longhorn Herd, Ambush 
+135 - 5x Gargoyles 
+2x 475 – 2x1Gortach 
+2x 355 – 2x1 Cyclop 
+4500
+<ARMY_BOOK>
+Pedor Garcia “Pinchador” - Beast Herds
+530 - Beast Lord, General, Hunting Call, Razortusk Chariot, Shield, Heavy Armour, Basalt Infusion, Beast Axe, Fatal Folly (Beast Axe), Talisman of Shielding
+485 - Soothsayer, Raiding Chariot, Druidism, Wizard Master, Light Armour, Dark Rain 
+375 - Beast Chieftain, Raiding Chariot, Battle Standard, Shield, Dusk forged, Heavy Armour, Alchemist's Alloy, Beast Axe, Dragonfire Gem
+284 - 2x 16 Wildhorn Herd, Paired Weapons and Throwing Weapons, Ambush, Musician, Champion 
+115 - 2x 10 Mongrel Raiders, Ambush and Scout 
+104 - 8x Feral Hounds 
+584 - 6x Minotaurs, Paired Weapons, Musician, Champion, Totem Bearer, Black Wing 
+496 - 5x Minotaurs, Paired Weapons, Musician, Champion, Totem Bearer, Black Wing 
+135 - 5x Gargoyles 
+330 - 3x 1Beast Giant, Giant Club 
+4497
+<ARMY_BOOK>
 Duncan
 Beast Lord, General, Hunting call, Beast axe, heavy armor, Shield, Willows Ward, Crown of Autocracy, Pillager Icon, Wild Form  460
 Soothsayer, Master, Druidism, Tricksters Cunning, Obsidian Rock, Talisman of the Void,                                 ancestral carvings 570
@@ -134,7 +392,7 @@ Tiferet ,BH
 659 7 x Minotaurs, Std, Champ, Shield, Aether Icon, Black Wing Totem 
 560 6 x Minotaurs, Std, Champ, Shield, Black Wing Totem 
 265 3 x Minotaurs, Paired Weapons 
-165 10 x Longhorn Herd, Ambush 
+165 10 x Longhorn Herd, Ambush
 <ARMY_BOOK>
 Kristyian Dimitrov - Beast Herds 
  
@@ -165,7 +423,7 @@ Jens “JensDK” Hollensen - Beast Herds -
 100 - 3 x 1x Razortusk Herd  
 110 - 2 x 1x Raiding Chariot  
 230 - Razortusk Chariot  
-4498  
+4498
 <ARMY_BOOK>
 Jan "Naz-ghul" Puš – Beast Herds 
 505 – Soothsayer, General, Shamanism, Wizard Master, Crown of Autocracy,  Binding Scroll 
@@ -240,7 +498,6 @@ Sune van der Loo - Beast Herds
 615 - 6x Minotaurs, Shield, Champion, Standard, Musician,Black Wing Totem, Flaming Standard 
 4500
 <ARMY_BOOK>
-
 Thomas "damsetoi" Mailer - Beast herds 
 705- Minotaur Warlord, General, Paired Weapons, Blessed Inscriptions, potion of swftness, crown of horn, Aagor's Affliction  
 495- Minotaur Chieftain, BSB, Greater Totem Bearer, Heavy Armour, Shield, Beast Axe, Willow’s Ward, Basalt Infusion, Talisman of Shielding  
@@ -293,7 +550,7 @@ Tim “TurboTT” Aasen - Beast Herds
 220 - 5x Centaurs, Ambush, Paired Weapons, Throwing Weapons 
 200 - 5x Centaurs, Ambush, Paired Weapons 
 320 - 3x 1x Beast Giant, Beer Barrel 
-4496  
+4496
 <ARMY_BOOK>
 Antoine "O Magnifico" – Beast Herds 
  
@@ -313,4 +570,114 @@ Antoine "O Magnifico" – Beast Herds
 4495
 <ARMY_BOOK>
 Tim “The Enchanter” Bohknecht - Beast Herds 
-700 - Minotaur Warlord, General, Paired Weapons, Aaghor's A
+700 - Minotaur Warlord, General, Paired Weapons, Aaghor's Affliction, Blessed Inscriptions (Hand Weapon), Eye of Dominance 
+495 - Minotaur Chieftain, Battle Standard Bearer, Greater Totem Bearer, Beast Axe, Shield, Heavy Armour, Obscuring Fog, Ghostly Guard, Crystal Ball 
+520 - Soothsayer, Shamanism, Dark Rain, Seed of the Dark Forest, Wizard Master 
+410 - 40x Mongrel Herd, Spears, Standard Bearer, Musician, Champion, Banner of the Wild Herd 
+330 - 30x Mongrel Herd, Spears, Standard Bearer, Musician, Champion, Banner of the Wild Herd 
+170 - 15x Wildhorn Herd, Musician 
+165 - 2x 10x Longhorn Herd, Ambush 
+120 - Briar Beast 
+100 - 2x 1x Razortusk Herd 
+80 - 2x 5x Feral Hounds 
+355 - 3x Cyclops 
+4500
+<ARMY_BOOK>
+Luke "Banter" Tranter - Beast Herds 
+575 - Beast Lord, General, Razortusk Chariot, Heavy Armour, Shield, Beast Axe, Fatal Folly, Death Cheater, Crown of Horns, Eye of Dominance 
+475 - Minotaur Chieftain, Battle Standard, Greater Totem Bearer, Great Weapon, Aaghor’s Affliction  
+520 - Soothsayer, Wizard Master, Druidism, Dark Rain, Seed of the Dark Forest 
+104 - 8x Feral Hounds 
+115 - 10x Mongrel Raiders, Scout & Ambush 
+330 - 3x Raiding Chariot 
+378 - 36x Mongrel Herd, Standard, Musician, Champion, Spears, Banner of the Wild Herd 
+150 - 5x Gargoyles, Scout 
+165 - 10x Longhorn Herd, Ambush, Halberds 
+560 - 6x Minotaurs, Champion, Musician, Totem Bearer, Black Wing Totem, Shields 
+465 - 10x Centaurs, Champion, Musician, Totem Bearer, Black Wing Totem, Lances, Throwing Weapons 
+330 - Beast Giant, Giant Club 
+330 - Beast Giant, Giant Club 
+4497
+<ARMY_BOOK>
+Miguel "CaaL" Calderón  - BH 
+585 - Beast Lord, General, Hunting Call, Razortusk Chariot, shield, heavy armour, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of Shielding 
+460 - Beast Chieftain, BSB, Greater Totem Bearer, Raiding chariot, shield, heavy armour, beast axe, Dragonfire Gem, Alchemist’s Alloy, Dusk Forged 
+495 - Soothsayer, Wizard Master, 4 spells, Seed of the Dark Forest, binding scroll, Druidism 
+306 - 27x Mongrel Herd, spear, M, S, C, Banner of the Wild Herd 
+104 - 8x Feral Hounds 
+220 - 15x Wildhorn Herd, Ambush, Throwing Weapons (5+), M 
+200 - 15x Wildhorn Herd, Ambush, Throwing Weapons (5+) 
+104 - 8x Feral Hounds 
+540 - 6x Minotaurs, shield, C, Totem Bearer (Black Wing Totem) 
+100 - 1x Razortusk Herd 
+100 - 1x Razortusk Herd 
+475 - 1x Gortach 
+475 - 1x Gortach 
+185 - 5x Centaurs, Paired weapons 
+150 - 5x Gargoyles, Scout 
+4499
+<ARMY_BOOK>
+Kostiantyn Volokhin - Beast Herds, Captain 
+585 Beast Lord, Razortusk Chariot, General, Heavy Armour, Shield, Beast Axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of Shielding, Hunting Call  
+460 Beast chieftain, Raiding Chariot, Bsb, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist's Alloy, Dragonfire Gem, Greater Totem Bearer 
+495 Soothsayer, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism 
+386 - 37x Mongrel Herd, Spear, Shield, Champion, Standard Bearer, Musician, Banner of the Wild Herd  
+220 - 15x Wildhorn Herd, Throwing Weapons, Musician, Ambush 
+200 - 15x Wildhorn Herd, Throwing Weapons, Ambush 
+104 - 8x Feral Hounds 
+564 - 6x Minotaurs, Paired Weapons, Champion, Black Wing Totem 
+185 - 5x Centaurs, Paired Weapons 
+100 - 1x Razortusk Herd  
+100 - 1x Razortusk Herd  
+150 - 5x Gargoyles, Scout 
+475 - Gortach 
+475 - Gortach
+Total: 4499
+<ARMY_BOOK>
+Diego Albert - Beast Herd 
+585 - Beast Lord, General, Razortusk Chariot, Heavy armour, shield, beast axe, Basalt infusion, Fatal Folly, talisman of shielding, Binding Scroll, Hunting Call 
+460 - Beast Chieftain, BSB, Raiding Chariot, Great Totem Bearer, heavy armour, shield, beast axe, alchemist's alloy, dusk forged, dragonfire gem 
+520 - Soothsayer, Druidism, Dark Rain, Seed of the Dark Forest, Master 
+104 - 8 Feral Hounds 
+115 - 10 Mongrel Raiders, Scout&Ambush 
+220 – 2x15 Wildhorn Herd, Ambush, M, throwing weapons 
+245 - 19 Wildhorn Herd, S, Shield, Banner of Discipline 
+80 - 5 Feral Hounds 
+564 - 6 Minotaurs, Paired Weapons, Champion, totem Bearer, Black Wing Totem 
+235 - 3 Minotaurs, M 
+100 – 2x1 Razortusk Herd 
+475 – 2x1 Gortach 
+4498
+<ARMY_BOOK>
+Alberto Pérez - Beast Herds
+585 - Beast Lord, General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll,Talisman of Shielding, Hunting Call
+460 - Beast Chieftain, BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem,Greater Totem Bearer
+495 - Soothsayer, 4 spells, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism
+290 - 30x Mongrel Herd, Spear, Shield, S, Banner of the Wild Herd
+95 - 10x Mongrel raiders
+220 - 15x Wildhorn Herd, Throwing Weapons (5+), M, Ambush
+200 - 15x Wildhorn Herd, Throwing Weapons (5+), Ambush
+104 - 8x Feral Hounds
+564 - 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem)
+185 - 5x Centaurs, Paired Weapons
+100 - 2x1 Razortusk Herd
+150 - 5x Gargoyles, Scout
+475 - 2x1 Gortach
+4498
+<ARMY_BOOK>
+GorG Metakinder - Beast Herds
+525 - Beast Lord, General, Hunting Call, Razortusk Chariot, Shield, Heavy Armour, Basalt  Infusion, Beast Axe, Talisman of Shielding, Eye of Dominance
+460 - Beast Chieftain, Great Totem Bearer, Raiding Chariot, Battle Standard, Shield, Dusk  forged, Heavy Armour, Alchemist's Alloy, Beast Axe, Dragonfire Gem
+380 - Soothsayer, Druidism, Wizard Master
+378 - 36x Mongrel Herd, Spears, Standard bearer, Banner of the Wild Herd, Musician, Champion
+220 - 15x Wildhorn Herd, Throwing Weapons, Ambush, Musician
+200 - 15x Wildhorn Herd, Throwing Weapons, Ambush
+104 - 8x Feral Hounds
+540 - 6x Minotaurs, Shields, Champion, Totem Bearer, Black Wing
+540 - 6x Minotaurs, Shields, Champion, Totem Bearer, Gnarled Hide
+100 - Razortusk Herd
+100 - Razortusk Herd
+475 - Gortach
+475 - Gortach
+4497
+<ARMY_BOOK>

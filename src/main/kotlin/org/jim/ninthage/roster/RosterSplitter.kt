@@ -20,7 +20,7 @@ object RosterSplitter {
         return object : Splitter {
             override fun split(value: String): Sequence<String> {
                 val splitValue =
-                    com.google.common.base.Splitter.on("\n\n\n")
+                    com.google.common.base.Splitter.onPattern("\n[ \t]*\n([ \t]*\n)+")
                         .omitEmptyStrings()
                         .split(value)
                         .filter { it.isNotBlank() }

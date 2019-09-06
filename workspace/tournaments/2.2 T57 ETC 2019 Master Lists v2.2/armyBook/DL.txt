@@ -1,3 +1,19 @@
+Luis "Asurnil" Muñoz", Daemonic Legions 
+695 – Sentinel of Nukuja on Throne of the Oracle, General (Greater Dominion), Divination, Mark of  Eternal Champion 
+275 – Harbinger of Father Chaos, Adept, Evocation 
+375 – 15x Lemures, S, M 
+375 – 2x15 Myrmidons, Whipcrack Tail, M 
+639 – 6 Clawed Fiends, Mesmerising Plumage, M 
+335 – 1x Hope Harvester, Mark of Eternal Champion 
+334 – 12x Hellhounds, Digestive Vomit 
+235 – 1x Threshing Engine, Horde Thresher 
+205 – 1xTitanslayer Chariot 
+186 – 2x Mageblight Gremlins, Living Shield 
+305 – 4x Veil Serpents 
+160 – 5x Furies 
+4494
+
+
 Stefano Ferrante - DL 
 655 - Kuulima's Deceiver, General, Greater Dominion, Master, Greenfire Eyes, Piercing Spike Dominant 
 789 - 29x Myrmidons, Bronze Backbone, C, M 
@@ -226,7 +242,8 @@ Florian Schulte - Daemon Legions
 350 - Hope Harvester, Chilling Yawn 
 300 - 4x Mageblight Gremlins, Venom Sacs 
 300 - 4x Mageblight Gremlins, Venom Sacs 
-300 - 4x Mageblight Gremlins, Venom Sacs Total: 4499
+300 - 4x Mageblight Gremlins, Venom Sacs
+Total: 4499
 
 
 Mike "The Wall" Smith - Daemon Legions 

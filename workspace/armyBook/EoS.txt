@@ -1,3 +1,317 @@
+Daniel “Uthred” Linares - Empire of Sonnstahl 
+280 - Marshall: General, Great Tactician, Shield, Binding Scroll 
+305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield 
+460 - Wizard: Wizard Master, Piromancy/Alchemy, Binding Scroll, Essence of free mind 
+265 - Marshall: BSB, Shield, Blacksteel, Death Warrant 
+485 - 40 Heavy Infantry: Spears, M, S, C, Banner of Unity  
+259 - 18 Light Infantry: Crossbow, M  
+246 - 17 Light Infantry: Crossbow, M  
+225 - 20 Heavy infantry: C, S, Household Standard  
+608 - 32 Imperial Guard: M, S, C, Rending Banner  
+475 - Steam Tank 
+250 - Cannon 
+160 - Imperial Rocketeer  
+150 - 2x 5 Reiters 
+090 - 2x 5 Rangers 
+Total: 4498
+<ARMY_BOOK>
+Dani Torres,  Empire of Sonnstahl  
+285 – Marshal, General, Imperial Seal, Obsidian Rock 
+265 – Marshal, BSB, Shield, Binding Scroll, Blacksteel 
+275 – Prelate, Plate Armour, Shield, Death Warrant, Mantle of Ullor, Potion of Swiftness 
+460 – Wizard, Master, Essence of Free mind (Alchemy/Pyromancy), Binding Scroll 
+165 – 2x20 Heavy Infantry, M 
+512 – 42x Heavy Infantry, Spears, S, M, C, Rending Banner 
+150 – 2x10 State Militia, Irregulars 
+532 – 28x Imperial Guard, S, M, C, Rending Banner 
+310 – 3x Knights of he Sun Griffon, M 
+195 – 5x Reiters, M, Repeater Gun 
+150 - 5x Reiter 
+250 – 1x Cannon 
+160 – 1x Imperial Rocketeer 
+475 – 1x Steam tank 
+4499
+<ARMY_BOOK>
+Fernando Arcos - Empire of Sonnstahl 
+355 - Prelate, General, Shield, Plate Armour, Locket of Sunna, Imperial Seal  
+325 - Marshal, BSB, Shield, Death Warrant, Blacksteel, Great Tactician 
+460 - Wizard, Binding Scroll, Essence of a Free Mind, Wizard Master, Divination, Pyromancy 
+255 - Wizard, Binding Scroll, Wizard Adept, Alchemy 
+175 - Artificer, Crown of the Wizard King 
+190 - Inquisitor, Shield, Hammer of Witches, Potion of Swiftness  
+145 - 4x20 Heavy Infantry
+200 - 15x Light Infantry 
+150 - 10x State Militia, Irregulars 
+195 - 5x Electoral Cavalry, Shield, Lance  
+508- 27x Imperial Guard, Household Standard, M, C, S 
+290 - 3x Knights of the Sun Griffon 
+90 - 5x Imperial Rangers 
+250 - Artillery, Cannon 
+475 - Steam Tank 
+Total: 4498
+<ARMY_BOOK>
+Mario “Mariuss” Rodríguez,  Empire of Sonnstahl  
+240 – Marshal, General, Great Weapon, Destiny's Call 
+265 – Marshal, BSB, Shield, Blacksteel, Death Warrant 
+600 – Prelate on Altar of Battle, Shield, Plate Armour, Basalt Infusion, Lucky Charm 
+460 – Wizard, Master, Essence of Free Mind (Alchemy/Pyromancy), Binding Scroll 
+220 – 2x15 Light Infantry, M 
+165 – 3x20 Heavy Infantry, M 
+435 – 35x Heavy Infantry, Halberds, S, M, C, Rending Banner 
+565 – 30x Imperial Guard, S, M, C, Household Banner 
+114 – 7x Imperial Rangers 
+250 – 1x Cannon 
+160 – 1x Battery Rocket 
+475 – 1x Steam tank 
+4499
+<ARMY_BOOK>
+Daniel “Uthred” Linares - Empire of Sonnstahl 
+280 - Marshall: General, Great Tactician, Shield, Binding Scroll [Character] 
+305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield [Character] 
+465 - Wizard: Wizard Master, Piromancy/Alchemy, Binding Scroll, Essence of free mind, light armour [Character] 
+265 - Marshall: BSB, Shield, Blacksteel, Death Warrant [Character] 
+485 - 40 Heavy Infantry: Spears, M, S, C, Banner of Unity [Core] 
+2x259 - 2x18 Light Infantry: Crossbow, M [Core] [Imperial Auxiliaries] 
+205- 20 Heavy infantry: S, Household Standard [Core] 
+608 - 32 Imperial Guard: M, S, C, Rending Banner [Special] 
+475 - Steam Tank [Sunna’s Fury] [Artillery] 
+250 - Cannon [Artillery] 
+160 - Imperial Rocketeer [Artillery] 
+2x150 - 2x5 Reiters [Imperial Auxiliaries] 
+2x090 - 2x5 Rangers [Imperial Auxiliaries] 
+Total: 4496
+<ARMY_BOOK>
+Samu Stanislaw “Palomita15” – Empire of Sonnstahl Total: 4499 
+235 - Marshal: General, Shield, death Warrant, willow's ward 
+330- Knight Commander on Young Griffon, hero's heart, basalt infusion, shield 
+220- Marshal: BSB, household standard, alchemist's alloy, shield 
+185- Prelate: plate armour, shield 
+405- Wizard: Master, Essence of Free Mind Alchemy/Cosmology 
+145 - 2x 20 Heavy infantry 
+135- 2x10 light infantry 
+155 - 5 Electoral Cavalry 
+412- 37 Heavy Infantry. FCG Spear 
+532- 28 Imperial Guard: FCG Stalker's Standard 
+290 – 2x3 Knight of the Sun Griffon  
+475- Steam Tank 
+250- Cannon 
+160- Imperial Rocketer
+<ARMY_BOOK>
+David “Stormmace” Varas - Empire of Sonnsthal 
+320 - Marshal, General, Shield, Death Warrant, Blacksteel, Binding Scroll  
+220 - Marshal, BSB, Shield, Willow’s Ward, Household Standard 
+680 - Prelate, Altar of Battle, Plate Armour, Alchemist’s Alloy, Shield, Shield of Volund, Dragonfire Gem, 
+Locket Of Sunna 
+250 - Wizard, Magical Heirloom, Wizard Adept, Cosmology 
+200 - Wizard, Wizard Adept, Alchemy 
+468 - 38x Heavy Infantry, M, S, C, Halberd, Rending Banner 
+145 - 20x Heavy Infantry, Hand Weapon 
+181 - 2x12 Light Infantry, M, Handgun 
+150 - 10x State Militia, Irregulars 
+665 - 35x Imperial Guard, M, S, C, Rending Banner 
+310 - 3x Knights of Sun Griffon, M 
+250 - Imperial Artillery, Cannon 
+475 - Steam Tank 
+4495
+<ARMY_BOOK>
+Lucas “ Superorko” Hidalgo- Empire of Sonnstahl 
+220 - Marshal, General, shield, death warrant 
+225 - Marshal, BSB, shield, crown of the wizard king, potion of strength 
+640 - Prelate, Altar of Battle, plate armour, shield, locket of sunna, alchemist alloy 
+250 - Wizard, Adept, cosmology, magical heirloom 
+450 - Marshal, Great Griffon, Pistol, lance, plate armour, shield, ghostly guard, wintercloak. 
+437 - 37x heavy infantry, Halberd, C,S, rending banner 
+145 – 2*20 heavy infantry 
+135 – 2*10 light infantry 
+165 – 5 electoral cavalry, great weapon 
+467 - 28 imperial guard, C,S 
+290 - 3 knights of the sun griffon 
+160 – 2*1 Artillery: imperial rocketeer 
+475 - Steam tank 
+4499 Pts
+<ARMY_BOOK>
+Empire of Sonnstahl, Joaquín Valls "ximeto" 
+275 - Marshal, General, blacksteel, shield, heros heart, Pistol. 
+255 - Marshal, BSB, shield, Death Warrant, basalt infusion. 
+260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane, Mastery. 
+250 - Wizard, Wizard Adept, Divination, Magical Heirloom. 
+275 - Inquisitor, blessed steel, shield, willow guard, hammer of witches, potion of switness. 
+195 - Prelate, shield, plate armour, potion of strenght. 
+510 - 10x Electoral Cavalry ,C, M, knightly orders + lance+shield. 
+150 - 10 State Militia, irregulars. 
+233 - 2x16 Ligth Infantry, M. 
+200 - 2x1 Artillery Volley Gun. 
+475 - Steam Tank. 
+150 - 5 Reiters. 
+346 - 3 Knigths of the Sun Griffon, lance,M. 
+489 - 26 Imperial Guard, CMS, Houseshold Standard. 
+4496
+<ARMY_BOOK>
+José Vicente Escobar “sevinum”  – Empire of Sonnstahl. 
+350 - Marshal: Army General,Great Weapon; Imperial Seal, Winter Cloak. 
+375 - Wizard: Cosmology, Wizard Master; Obsidian Rock 
+265 - Marshal: Battle Standard Bearer, Shield; Blacksteel, Death Warrant. 
+235 - Prelate: Plate Armour, Shield; Basalt Infusion, Willow's Ward - Models on Foot only 
+401 – 36 x Heavy Infantry,C,M,S, Spear. 
+150 – 2 x 10 State Militia,Gain Skiemisher. 
+150 – 10 x State Militia,Gain Skirmisher. 
+213 - 16 x Light Infantry Replace Crossbow with Handgun (4+) 
+213 - 16 x Light Infantry 
+853 – 39 x Imperial Guard, C,M,S, Replace Shield with Great Weapon,  Enchantment: Househod Standard. 
+346 – 3 x Knights of the Sun Griffon, M, Replace Halberd with Lance.  
+150 – 5 x Reiters. 
+160 – 2 x 1Imperial Rocketeer (4+). 
+475 - Steam Tank. 
+++ Total:[4496pts] ++
+<ARMY_BOOK>
+Dioscorides Marin Castro 'Diosko', Empire of Sonnstahl
+260- Marshal, Battle Standard Bearer, Blacksteel, Death Warrant 
+325- Marshal, Army General, Great Weapon, Binding Scroll, Imperial Seal 
+325- Prelate, Plate Armour, Shield, Binding Scroll, Locket of Sunna, Willow's Ward 
+480- Wizard, Alchemy, Cosmology, Light Armour, Wizard Master, Destiny's Call, Essence of a Free Mind 
+215- 5x Electoral cavalry, Lance, Musician, Shield 
+474- 39x Heavy Infantry, Halberds, MSC, Household Standard 
+220- 2x15 Light Infantry, crossbows, Musician 
+290- Arcane Shield 
+532- 28x Imperial Guard, MSC, Rending Banner 
+90- 3x5 Imperial Ranger 
+250- Cannon 
+160- Imperial Rocketeer 
+475- Steam Tank 
+Total:4496pts
+<ARMY_BOOK>
+Pablo "Prelate" Bernaldo de Quirós - Empire of Sonnstahl 
+220 - Marshal, General, Shield, Death Warrant, 
+205 - Marshal, BSB, Shield, Household Standard 
+195 - Prelate, Plate, Shield, Potion of Strenght 
+400 - Wizard, Wizard Master, Magical Heirloom, Alchemy 
+260 - Wizard, Wizard Adept, Book of Arcane Mastery, Cosmology 
+205 - 2x20 Heavy Infantry, C, S, M 
+215 - 21Heavy Infantry, C, S, M 
+246 - 17 Light Infantry, M 
+276 - 17 Light Infantry, S, M, marksman’s Pennant, Handgun 
+547 - 29 Imperial Guard, C, S, M, Flaming Standard 
+175 - 5 Reiters Brace of Pistols 
+150 - 10 Imperial Rangers 
+160 - 2x1 Rocket Battery 
+405 - 4 Knights of the Sun Griffon, M 
+475 - 1 Steam Tank 
+4499
+<ARMY_BOOK>
+David “Stormmace” Varas - Empire of Sonnsthal  
+320 - Marshal, General, Shield, Blacksteel, Death Warrant, Binding Scroll 
+220 - Marshal, BSB, Shield, Willow's Guard, Household Standard 
+660 - Prelate, Altar of Battle, Plate Armour, Shield, Alchemist's Alloy, Dragonfire Gem, Locket of Sunna 
+260 - Wizard, Potion of Strength, Magical Heirloom, Wizard Adept, Cosmology 
+200 - Wizard, Wizard Adept, Alchemy 
+145 - 20x Heavy Infantry 
+468 - 38x Heavy Infantry, Halberd, M, C, S, Rending Banner 
+181 - 2x12 Light Infantry, M 
+150 - 10x State Militia, Irregulars 
+627 - 33x Imperial guard, M, C, S Rending Banner 
+290 - 3x Knights of the Sun Griffon 
+160 - 2x1 Artillery, Imperial Rocketeer 
+475 - Steam tank 
+4497
+<ARMY_BOOK>
+JJ “Tarantino” - Empire of Sonnstahl 
+160 - Marshal. General 
+265 - Marshal. BSB. Shield. Blacksteel. Death Warrant. 
+125 - Artificer 
+695 - Prelate on Altar of Battle. Great weapon. Plate armour (Basalt infusion). Shield. Locket of Sunna, Mantle of Ullor.  
+350 - Wizard master (Cosmology) 
+454 - 39 Heavy infantry. Spear. S Banner of Unity, M 
+247 - 14 Light infantry. S,Household Standard 
+2 x 213 - 2 x 16 Light infantry 
+513 - 27 Imperial guard. FCG, Rending Banner 
+290 - 3 Knights of the Sun Griffon 
+2 x 150 - 2 x 5 Reiters 
+200 - Volley Gun 
+475 - Steam Tank 
+TOTAL 4500
+<ARMY_BOOK>
+Empire of Sonnstahl - Alvaro “eb7up” Herrera
+600 - Prelate, Altar of Battle, Shield, Plate Armour, Basalt Infusion, Lucky Charm 
+470 - Marshal, General, Great Griffon, Shield, Pistol, Shield of Volund, Lance, Ghostly Guard, Winter Cloak 
+255 - Wizard, Cosmology, Wizard adept, Binding Scroll 
+250 - Wizard, Pyromancy, Wizard adept, Magical Heirloom 
+215 - Marshal, Battle Standard, Shield, Crown of the Wizard King 
+436 - 41 Heavy Infantry, Spears, M, C 
+200 - 2x15 Light Infantry 
+145 - 2x20 Heavy Infantry 
+409 - 26 Imperial Guard, C 
+290 - Arcane Engine, Arcane Shield 
+90 - 5 Imperial Rangers 
+160 - 2x1 Artillery, Imperial Rocketeer 
+475 - Steam Tank 
+4.500
+<ARMY_BOOK>
+Jose “Goose” Pérez - Empire of Sonnstahl (Cartagena) 
+330 - Marshal, General, Great Tactician, Shield, Pistol, Death Warrant (Hand Weapon), Blacksteel  
+260 - Wizard, Alchemy, Wizard adept, Exemplar's Flame 
+200 - Wizard, Cosmology, Wizard adept 
+180 - Marshal, Battle Standard, Shield, Willow's Ward 
+165 -2X Prelate, Shield, Heavy Armour
+2 X 239 –  2X 18x Light Infantry, Crossbows 
+213 - 16x Light Infantry, Crossbows 
+155 - 5x Electoral Cavalry 
+2 X 145 – 2 X 20x Heavy Infantry, Support Unit 
+527 - 28x Imperial Guard, Standard bearer, Household Standard, Musician, Champion 
+522 - 28x Imperial Guard, Standard bearer, Flaming Standard, Musician, Champion 
+290 - 3x Knights of the Sun Griffon 
+250 - Artillery, Canon 
+475 - Steam Tank        
+ 4500
+<ARMY_BOOK>
+Empire of Sonnstahl. José Manuel Díaz.  
+165 – 1 Marshal: General, Shield [Characters] 
+165 – 1 Marshal: Battle Standard Bearer, shield [Characters] 
+250 – 1 Inquisitor: Blessed Steel, Hammer of Witches, Shield [Characters] 
+200 – 1 Wizard: Divination, Adept [Characters] 
+360 – 1 Knight Commander: The Light of Sonnstahl (hand weapon), shield [Characters] 
+2x165 –2x1 Prelate: Shield [Characters] 
+2x285 – 2x20 Light Infantry: Crossbow, M [Core] [Auxiliary] 
+305 – 5 Electoral Cavalry: Lance, Shield, S, Stalker’s Standard, Knightly Orders [Core]  
+2x140 – 2x10 State Militia [Core] [Auxiliary] 
+2x430 – 2x25 Imperial Guard: C, M, S [Special] 
+290 – 3 Knights of the Sun Griffon [Special] 
+250 – 1 Artillery: Canon [Imperial Armoury] 
+475 – 1 Steam Tank [Sunna's Fury] [Imperial Armoury] 
+TOTAL: 4500
+<ARMY_BOOK>
+Jose Delgado – Empire of Sonnstahl 
+265 - Marshal, General, shield, Death Warrant, Blacksteel 
+245 - Marshal, BSB, shield, Household Standard, Ghostly Guard 
+185 - Prelate, plate armour, shield 
+460 - Wizard, Wizard Master, Essence of a Free Mind: Cosmology-Alchemy, Binding Scroll 
+145 - 2 x 20 Heavy Infantry 
+213 - 2 x 16 Light Infantry 
+423 - 38 Heavy Infantry, spear, M, C, S 
+513 - 27 Imperial Guard, M, C, S, Rending Banner 
+326 - 2 x 3 Knights of the Sun Griffon, lance 
+150 - 5 Reiters 
+160 - Imperial Rocketeer 
+250 – Cannon 
+475 – Steam Tank 
+4494
+<ARMY_BOOK>
+4497 Rufino Martin Merino “RUFERFO” - Empire of Sonnstahl
+280 - Marshal, General, Great Weapon, Imperial Seal, Lucky Charm 
+270 - Marshal, BSB, Pistol (2+), Shield, Blacksteel, Death Warrant 
+290 - Prelate, Plate Armour, Shield, Basalt Infusion, Locket of Sunna 
+210 - Prelate, Plate Armour, Shield, Alchemist's Alloy, Potion of Strength 
+405 - Wizard, Wizard Master,  Alchemy, Binding Scroll 
+155 - 5x Electoral Cavalry 
+434 - 39x Heavy Infantry, C, M, S, Spear 
+165 - 2x 20 Heavy Infantry, S 
+213 - 16x Light Infantry 
+508 - 27x Imperial Guard, C, M, S, Household Standard 
+310 - 3x Knights of the Sun Griffon, M 
+150 - 2x 5 Reiters 
+160 - 2x 1 Artillery, Imperial Rocketeer  
+475 - Steam Tank 
+4500
+<ARMY_BOOK>
 Flint
 Prelate, General, Plate, GW, Potion of Strength, Locket of Sunna, Imperial Seal, 370
 Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
@@ -53,7 +367,7 @@ Zurdo, EoS
 330 - 20x Handgunners C(long rifle) , S, Marksman's pendant 
 570 - 30x Imperial Guard, M, C, S, Rending Banner 
 250- 1x Cannon 
-475 - 1x Steam Tank 
+475 - 1x Steam Tank
 <ARMY_BOOK>
 Marc - Empire of Sonnstahl 
   
@@ -70,7 +384,7 @@ Marc - Empire of Sonnstahl
 560 - 5x Knights of the Sun Griffon, Lances, Musician 
 475 - Steam Tank 
 250 - Cannon 
-4500 
+4500
 <ARMY_BOOK>
 Josip "HerrEckart" Ivani - Empire of Sonnstahl  
 400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,  
@@ -86,7 +400,7 @@ Josip "HerrEckart" Ivani - Empire of Sonnstahl
 550 - 30x Imperial Guard, Standard Bearer, Rending Banner, Champion  
 90 - 5x Imperial Rangers  
 475 - Steam Tank  
-4499  
+4499
 <ARMY_BOOK>
 Michal "Pudl" Bukvic - Empire of Sonnstahl 
 330 - Marshal, General, Great Tactician, Pistol, Binding Scroll, Crown  of the Wizard King 
@@ -180,4 +494,165 @@ Andrea B. "Taro" Sferrazza - EoS
 300 - Inquisitor, Shield, Horse, Hammer of Witches, Dusk Forged 
 130 - Artificer, Handgun 
 562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard 
-185 - 2x20 Heavy Infantry,
+185 - 2x20 Heavy Infantry, M, Halberd 
+207 - 14x Light Infantry, M 
+200 - 1x Artillery, Volley Gun 
+160 - 2x1 Artillery, Imperial Rocketeer 
+250 - 1x Artillery, Cannon 
+346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M 
+175 - 2x5 Reiters, Repeater Gun 
+90 - 5x Imperial Rangers 
+4495
+<ARMY_BOOK>
+Charles "Kiri" Oiknine - Empire of Sonnstahl
+235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm 
+405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock 
+465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame 
+260 - Wizard, Alchemy, Wizard Adept, Book of Arcane Mastery 
+165 - 5 électoral cavalry, Great Weapon 
+502 - 42 Heavy Infantry, Musician, Standard Bearer, Champion, Halberd Flaming Standard 
+161 -12 Light Infantry, crossbow 
+150 - 2x10 State Militia, skirmisher 
+290 - Arcane Engine, Arcane Shield 
+641 - 34 Imperial Guard, Musician, Standard Bearer, Champion, Household Standard 
+175 - 2x5 Reiter, Brace of Pistols 
+250 - Cannon 
+475 - Steam Tank
+Total: 4499
+<ARMY_BOOK>
+Sergey "Tror" Klimenko - Empire of Sonnstahl 
+425 - Knight Commander, Young Griffon, Shield, Shield of Volund, Hero's Heart (Hand Weapon), Death Cheater, Lucky Charm 
+405 - Wizard, Divination, Wizard master, Binding Scroll 
+340 - Prelate, General, Shield, Plate Armour, Imperial Seal, Death Warrant (Hand Weapon) 
+315 - Marshal, Great Tactician, Battle Standard, Household Standard, Shield, Pistol, Blacksteel 
+260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery 
+320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle 
+320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle 
+175 - 21x Heavy Infantry, Parent Unit, Musician 
+175 - 21x Heavy Infantry, Parent Unit, Musician 
+135 - 10x Light Infantry, Handguns 
+551 - 29x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion 
+175 - 5x Reiters, Repeater Guns 
+175 - 5x Reiters, Repeater Guns 
+250 - Artillery, Canon 
+475 - Steam Tank 
+4496
+<ARMY_BOOK>
+Mihael Špacapan - EOS 
+265 - Marshal, General, Death Warrant, Blacksteel, Shield 
+180 - Marshal, Willow's Ward, Shield, Battle Standard Bearer 
+665 - Prelate, Altar of Battle, Basalt Infusion, Locket of Sunna, Plate Armour, Great Weapon 
+405 - Wizard, Essence of a Free Mind, Wizard Master, Alchemy, Pyromancy 
+485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity 
+265 - 20x Light Infantry, Crossbow 
+265 - 20x Light Infantry, Crossbow 
+150 - 10x State Militia Irregulars 
+655 - 30x Imperial Guard, Champion, Musician, Standard Bearer, Household Standard 
+475 - Steam Tank 
+250 - Cannon 
+90 - 5x Imperial Rangers 
+175 - 5x Reiters, Brace of Pistols 
+175 - 5x Reiters, Brace of Pistols 
+4500
+<ARMY_BOOK>
+Peter Sundberg - Empire of Sonnstahl 
+375 - Prelate, General, Plate Armour, Shield, Imperial Seal, Witchfire Guard, Death Warrant (Hand Weapon)  
+280 - Marshal, BSB, Shield, Willow's Ward, Alchemist’s Alloy, Mantle of Ullor, Great Tactician 
+460 - Wizard, Pyromancy/Alchemy, Essence of a Free mind, Binding Scroll, Wizard Master 
+535 - 45x Heavy Infantry, Standard bearer, Musician, Champion, Halberds, Flaming Standard 
+305 - 20x Light Infantry, Musician, Standard Bearer 
+285 - 20x Light Infantry, Musician 
+290 - Arcane Engine, Arcane Shield 
+290 - Arcane Engine, Foresight 
+809 - 37x Imperial Guard, Standard bearer, Musician, Champion, Great Weapons, Household Standard 
+150 - 2 x 5x Reiters  
+250 - Artillery, Cannon 
+160 - 2 x 1x Artillery, Imperial Rocketeer 
+4499
+<ARMY_BOOK>
+Batı Safel - Empire of Sonnstahl 
+ 
+235 - Marshall , General, Shield, Crown of Authocracy 
+205 - Marshall , BSB, Shield, Household Banner 
+405 - Wizard , Wizard Master, Essence of Free Mind,Pyromancy/Alchemy 
+355 - Prelate , Plate, Shield, Blacksteel, Death Warrant,Locket of Sunna 
+165 - 20 x Heavy Infantry , Musician 
+165 - 20 x Heavy Infantry , Musician 
+220 - 15 x Light Infantry , Crossbow, Musician 
+403 - 38 x Heavy Infantry, Halberd, Musician, Champion 
+215 - 5 x Electoral Cavalry, Lance, Shield, Musician 
+722 - 38 x Imperial Guard , FC, Rending Banner 
+615 - 5 x Knights of Sun Griffon , Lance, Musician, Standard, Banner of Discipline 
+160 - Imperial Artillery, Rocket Battery 
+160 - Imperial Artillery, Rocket Battery 
+475 - Steam Tank 
+4500
+<ARMY_BOOK>
+Artem Kurhanskyi - Empire of Sonnstahl 
+265 - Marshal, Army General, Shield, Blacksteel, Death Warrant 
+255 - Marshal, Battle Standard Bearer, Shield, Crown of the Wizard King, Household Standard 
+725 - Prelate, Altar of Battle, Paired Weapons, Plate Armour, Shield, Basalt Infusion, Hero's Heart, Locket of Sunna 
+350 - Wizard, Divination, Wizard Master, 4 spells 
+200 - Wizard, Alchemy, Wizard Adept, 2 spells 
+600 - 50x Heavy Infantry, Halberd, Champion, Standard Bearer, Musician, Rending Banner 
+205 - 20x Heavy Infantry, Champion, Standard Bearer, Musician 
+205 - 20x Heavy Infantry, Champion, Standard Bearer, Musician 
+285 - 20x Light Infantry, Musician 
+684 - 36x Imperial Guard, Champion, Standard Bearer, Musician, Rending Banner 
+250 - Cannon 
+475 - Steam Tank
+Total: 4499
+<ARMY_BOOK>
+Gregory « Gregus » Mandelaire - Empire of Sonnstahl
+380 – Prelate, general, great weapon, plate armour, Imperial Seal, Locket of Sunna, Dragonfire Gem  
+270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant  
+185 – Artificer, repeater gun, Crown of the Wizzard King 
+460 – Wizard, Cosmology/Alchemy, Essence of a Free Mind, Binding Scroll, Master 
+500 – Wizard, Divination, Arcane Engine : Arcane Shield, light armour, Basalt Infusion, Book of Arcane Marstery, Adept  
+480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard 
+195 – 5x Electoral Cavalry, musician, shield 
+317 – 19x Light Infantry, handgun, champion : repeater gun, standard bearer, Marksman’s Penant 
+140 – 10x State Militia  
+598 – 32x Imperial Guard, champion, musician, standard bearer, Flaming Standard 
+150 – 2 x 5x Reiters  
+200 – 1x Volley Gun 
+475 – Steam Tank 
+4500
+<ARMY_BOOK>
+Empire of Sonnstahl Sergio Fernandez de Matauko
+660 - Prelate, General, Altar of Battle, Shield, Shield of Volund, Paired Weapons, Shield Breaker (Paired Weapons), Plate Armour, Dragon Staff, Potion of Swiftness
+305 - Wizard, Alchemy, Wizard adept, Light Armour, Talisman of the Void, Magical Heirloom 
+250 - Marshal, Battle Standard, Legion Standard, Shield, Willow's Ward, Paired Weapons, Ghostly Guard
+434 - 39x Heavy Infantry, Spears, Parent Unit, Standard bearer, Musician, Champion 
+150 - 10x State Militia, Irregulars 
+150 - 10x State Militia, Irregulars 
+135 - 10x Light Infantry, Handguns 
+135 - 10x Light Infantry, Handguns 
+135 - 10x Light Infantry, Handguns 
+366 - 3x Knights of the Sun Griffon, Lances, Standard bearer, Champion 
+330 - 3x Knights of the Sun Griffon, Standard bearer, Champion 
+175 - 5x Reiters, Braces of Pistals 
+175 - 5x Reiters, Braces of Pistals 
+175 - 5x Reiters, Braces of Pistals 
+250 - Artillery, Canon 
+200 - Artillery, Mortar 
+475 - Steam Tank
+4500
+<ARMY_BOOK>
+Pedro “Lord of Amorebieta”- empire of Sonnstahl
+385- Marshal, general, imperial prince, shield, blacksteel
+265- Marchal, battle Standard Bearre, shield, shield, death cheater.
+135- Artificer, long rifle
+275- Inquisitor, blessed Steel, shield, hammer of witches, potion of swiftness,  willow´s Ward
+285- Prelate, paired weapons, essence of Mithril, hero´s heart.
+410- wizard, wizard master, binding scroll, light armour (cosmology)
+474- 39x heavy infantry, C, M, S, banner of unity
+205- 20x heavy infantry, C, S, M
+294- 18x light infantry, long rifle, C, M
+311- 17x ligth infantry, long Rifle, C, S, M, marksman´s pennat
+608- 32x imperial guard, C,M,S, rending banner
+175- 5x reiters, brace of Pistols
+200- Artillery- Mortar
+475- Steam Tank
+4497
+<ARMY_BOOK>

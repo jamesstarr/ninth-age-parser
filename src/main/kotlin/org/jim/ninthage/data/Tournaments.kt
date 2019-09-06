@@ -16,7 +16,12 @@ object Tournaments {
             ),
             TournamentConfiguration(
                 "/org/jim/ninthage/rawlist/2.0 T71 Listas Zaragoza.pdf",
-                ParserConfiguration.PdfNewLineOnPage,
+                TextFile("/org/jim/ninthage/cookedList/2.0 T71 Listas Zaragoza.txt"),
+                isWellFormed = true
+            ),
+            TournamentConfiguration(
+                "/org/jim/ninthage/rawlist/2.1 T69 Listas Toe Aguilas corregidas.pdf",
+                TextFile("/org/jim/ninthage/cookedList/2.1 T69 Listas Toe Aguilas corregidas.txt"),
                 isWellFormed = true
             ),
             TournamentConfiguration(

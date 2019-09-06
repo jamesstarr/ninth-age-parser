@@ -1,3 +1,176 @@
+Bernardo “Cucogro” Calderón,  Ogre Khans (c) 
+585 – Shaman, General, Master, Iron Fist, Rottenjaw, Binding Scroll, Shamanism, Light Armour, Ligurs Tongue 
+410 – Khan, BSB, Trolleater, Banner of Gyengget, iron fist 
+979 – 12x Bruisers, S, M, C,  Pennant of the Great Grass Sky 
+155 – 3x Tribesmen 
+175 – 2x2 Yehtis 
+460 – 3x Tusker Cavalry, Great Weapon 
+475 – 2x1 Rock Auroch, Hunting Spear 
+80 – 1x Sabretooth Tiger
+175 – 3x1 Kin Eater 
+4494
+<ARMY_BOOK>
+Adri "Hardyc" Serra - Ogre Khans – Captain 
+580 - Shaman, General, Iron Fist, Crown of Autocracy, Ritual Bloodletter, Essence of a Free Mind, Wizard Master, Pyromancy, 
+Shamanism 
+435 - Khan, BSB, Iron Fist, Ogre Crossbow, Binding Scroll, Viper's Curse, Trolleater 
+155 - 2x3 Tribesmen 
+822 - 10x Bruisers, Stalker´s Standard, M, C, S 
+729 - 6x Mercenary Veterans, Brace of Ogre Pistols, Accurate, Poison Attacks, M, C 
+80 - 2×1 Sabretooth tigers 
+175 - Kin-Eater 
+320 - Thunder Cannon 
+245 - 2x1 Scratapult 
+475 - Rock Aurochs 
+Total: 4496
+<ARMY_BOOK>
+MUNDO FORJA-COACH: FRAN BARTOLOMÉ, RAUL GASQUE. 
+Ogre Khans, Fran Bartolomé "krádkaros" 
+525 - Shaman, General, Shamanism, Wizard Master, Iron fist, ritual bloodletter, lygur's tongue, potion of strenght, 
+light armour. 
+425 - Khan, BSB, great weapon, Banner of the gyengget,Trolleater. 
+360 - Mammoth Hunter, Iron Fist, Spinesplitter, Wrestler's belt, dragon staff, leader of the pack. 
+979 - 12 Bruisers, FCG, Pennant of the great grass sky. 
+155 - 3 Tribesmen. 
+80 - Sabretooth Tiger. 
+175 - 3x2 Yetis. 
+485 - 2x1 Rock aurochs, lance. 
+480 - 3 Tusker cavalry, great weapons, M. 
+Total 4499
+<ARMY_BOOK>
+Esteban Salcedo,- Ogre Khans 
+505 - Mammoth Hunter on Tusker, Army General, Wildheart, Great Weapon, Basalt Infusion, Talisman of Shielding, Lygurs Tongue (Characters)
+415 - Mammoth Hunter, Trolleater, Leader of the Pack, Iron Fist, Lucky Charm, Potion of Swiftness, Wrestler  Belt (Characters)
+575 - Shaman, Rottenjaw, Wizard Master, Thaumaturgy, Iron Fist, Magical Heirloom, Binding Scroll (characters) 
+2x155 - 2x3 Tribesmen (core) 
+590 - 8 Tribesmen, Iron Fists, C, M, S, Banner of Discipline (core) 
+175 - 3x1 Kin-Eater (special) 
+175 - 2 Yetis (special) 
+80 - 2x1 Sabretooth Tiger (special) 
+475 - 2x1 Rock Aurochs (chained beasts) 
+295 - Slave Giant, Great Weapon (chained beast) 
+Total 4500
+<ARMY_BOOK>
+Iván "Risitas" Salvador
+Ogre khans 
+600 - Shaman, General, Gutter roarer, Iron Fist, Thaumaturgy, Wizard Máster, Crown of autocracy, Talisman 
+of shielding 
+435 - Khan, BSB, Trolleater, Great Weapon, Heavy armour, Banner of the Gyengget 
+903 - 11 Bruisers, C, M, S, Pennant of the grass Sky 
+225 - 33 Scrapling, M, Scrapling Foreman, Throwing Weapons 
+175 - 3x 1 Kin-eater 
+80 - Sabretooth Tiger 
+680 - 4 Tuskers cavalry, Great weapon, M, S, Banner of discipline 
+245 - 2x 1 Scratapult 
+280 - 2x 1 Slave giant, Iron fist
+<ARMY_BOOK>
+Antonio Madueño “Madu”- Ogre Khans 
+555- Shaman, General, Wizard Master, Iron Fist, Crown of Autocracy, Magical Heirloom, Shamanism. 
+335-Khan, BSB, Iron Fist, Light Armour, Ogre Crossbow, Lygur´s Tongue, Obsidian Rock. 
+395- Mammoth Hunter, Iron Fist, Hunting Spear, Trolleater, Leader Of The Pack, Wrestler´s Belt, Scout. 
+827- 10 Bruisers, FCG, Pennant Of The Great Grass Sky. 
+155- 3 Tribesmen, Paired weapons. 
+145- 21 Scraplings, Scrapling Foreman, Throwing weapons. 
+80- 2x1 Sabretooth Tiger. 
+460- 3 Tusker Cavalry, Great Weapon. 
+175- 2x2 Yetis. 
+320- 2X1 Thunder Cannon. 
+475- Rock Aurochs (Ogre Crossbow).  
+4497
+<ARMY_BOOK>
+Wen “eco” Miralls – Ogre Khans (Murcia)
+555 - Shaman, General, Thaumaturgy, Wizard master, Paired Weapons, Crown of Autocracy, Binding Scroll 
+390 - Khan, Cult Leader, Battle Standard, Banner of Speed, Light Armour (Karkadan’s Resilience) Iron Fist 
+751 - 9x Bruisers, Standard Bearer, Pennant of the Great Grass Sky, Musician, Champion 
+190 - 3x Tribesmen, Standard Bearer, Skull of Qenghet 
+185 - 3x Tribesmen, Iron Fists 
+460 - 3x Tusker Cavalry, Great Weapons 
+80 - 1 Sabertooth Tiger 
+2x320 - 2x1 Thunder Canon 
+2x475 - 2x1 Rock Aurochs, Ogre Crossbow 
+295 - 1 Slave Giant, Great Weapon   
+4496
+<ARMY_BOOK>
+Javier Frutos Esteban “Malvar” – Ogre Khans 
+480 - Shaman, General, Master, Firebrand, 5 spells, Pyromancy. 
+350 - Khan, BSB, Paired Weapons, Ogre Crossbow, Viper's Curse, Obsidian Rock, Banner of Discipline. 
+375 - Mammoth Hunter, Spinesplitter, Leader of The Pack, Scout, Iron Fist, Wrestler's Belt, Dragonfire Gem, Potion of Swiftness. 
+425 - Mammoth Hunter, Trolleater, Leader of The Pack, Scout, Iron Fist, Heart-Ripper, Alchemist's Alloy, Aurochs Charm. 
+812 - 10x Bruisers, M, C, S, Banner of Discipline. 
+155 - 3x Tribesmen. 
+184 - 20x Scraplings, C with Halberd, Bow. 
+80  - 2x1 Sabretooth Tiger. 
+175 - 1 Kin-Eater. 
+744 - 6x Mercenary Veterans, S, M, Poisoned Attacks, Accurate, Brace of Ogre Pistols, Aether Icon. 
+320 - 2x1 Thunder Cannon. 
+Total, 4500
+<ARMY_BOOK>
+Ogre Khans, Esteban Salcedo  "EsteFAQS"
+560 – Shaman, General, Wizard Master, Shamanism, Iron Fist, Crown of Autocracy, Lygur's Tongue.
+330 – Khan, BSB, Iron Fist, Binding Scroll, Obsidian Rock.
+295 – Mammoth Hunter, Spinesplitter, Leader of the Pack, Iron Fist, Basalt Infusion.
+395 – Mammoth Hunter, Trolleater, Leader of the Pack, Scout, Iron Fist, Wrestler’s Belt  
+827 – 10 Bruisers, M,C,S, Pennant of the Great Grass Sky. 
+155 – 3 Tribesmen. 
+145 – 22 Scrapling, M. 
+304 – 3 Mercenary Veterans, Plate Armour, Swifstride, Iron Fist, M. 
+80 – 3x1 Sabretooth Tiger. 
+475 – 2x1 Rock Auroch. 
+295 – Slave Giant, Great Weapon. 
+TOTAL 4496
+<ARMY_BOOK>
+Antonio José Muñoz (Roy)-Ogre Khans
+380-Khan, BSB, Hoardmaster, Rending Banner, Yeti Furs 
+260-Mammoth Hunter, Hunting Spear, Iron Fist, Leader of the Pack, Basalt infusion  
+350-Mammoth Hunter, Hunting Spear, Iron Fist, Leader of the Pack, Spinesplitter, Dragonfire Gem, Wrestler's Belt  
+590-Shaman, General, Gut Roarer, Iron Fist, Light Armour , Shamanism, Wizard Master, Lygur's Tongue , Magical Heirloom 
+185-3xBruisers 
+785-13xTribesmen, GMC, Paired weapons, Banner Enchantment, Pennant of the Great Grass Sky  
+155-3xTribesmen, Paired Weapons 
+80-2x1Sabretooth Tigers  
+480-3xTusker Cavalry, Great Weapon, Musician 
+175-2x2Yetis 
+475-Rock Aurochs, Ogre Crossbow 
+330-Slave Giant, Big Brother, Great Weapon  
+4500
+<ARMY_BOOK>
+Francisco Javier Orbaneja “Jorbo” – Ogre Khans Total: 4498
+610 – Shaman: General, Light Armour, Iron Fist, Wizard Master, Shamanism, Gut Roarer, Lygur’s Tongue, Crown of Autocracy. 
+410 – Shaman: Light Armour, Iron Fist, Wizard Adept, Piromancy, Firebrand, Binding Scroll, Potion of Strength. 
+435 – Khan: Battle Standard Bearer, Heavy Armour, Great Weapon, Trolleater, Banner of Gyengget. 
+903 – 11 Bruiser: FCG, Pennant of the Great Grass Sky. 
+225 – 3 Bruiser: Musician, Champion. 
+80 – 1 Sabretooth Tigers. 
+175 – 2x2 Yetis. 
+185 – 2x3 Bombardiers. 
+320 – 2x1 Thunder Cannon. 
+475 – Rock Auroch’s.
+<ARMY_BOOK>
+Jose Andres Lopez Fernandez "WOFI”  – Ogre Khans ©
+395 - Khan, BSB, great weapon, cult leader, Banner of the Gyengget, heavy armour 
+515 - Shaman, general, wizard master (shamanism), ritual bloodletter, Binding Scroll, iron fist, light armour 
+225 - 3x 1Mammoth Hunter, Iron Fist, Leader of the Pack  
+944 -  12x Bruisers, C, M, S, Skull of Qenghet 
+185 - 3x Bruisers 
+919 - 8x Mercenary Veterans, M, S, C, Plate Armour, Vanguard, Paired Weapons, Pennant of the Great Grass Sky 
+625 - 4x Tusker Cavalry, M, Great Weapon,  
+80 - 3x 1 Sabretooth Tigers  
+4498
+<ARMY_BOOK>
+Majo “vmajo” Vives -Ogre Khans
+670 – Shaman. General, Wizard Master, Thaumaturgy, Rottenjaw, Crown of Autocracy, Lygur's tongue, iron fist, light armour, Wrestler’s Belt
+435 – Khan. BSB, Trolleater, heavy armour, iron fist, Banner of the gyengget, potion of swiftness, ogre crossbow 
+340 – Mammoth Hunter, Iron Fist, scout, death cheater 
+751 – 9x Bruisers, M, S, C, Pennant of the Great Grass Sky  
+205 – 3x Bruisers, M  
+175 – 3x Tribesmen, M  
+80 – 2x1 Sabretooth Tigers
+175 – 2x Kin Eater 
+320 – 2x Thunder Cannon 
+475 – 1x Rock Aurocks, hunting spear  
+295 – 1x Slave Giant, giant club 
+TOTAL: 4.496
+<ARMY_BOOK>
 Phelps
 Mammoth Hunter, General, Wildheart, Leader of the Pack, Ironfist, Hunting Spear, Heart Ripper, Alchemists Alloy, Lucky Charm, Talisman of Shielding, 390
 Mammoth Hunter, BSB, Ironfist, Leader of the Pack, Ironfist, Hunting Spear, Wrestlers Belt, Potion of swiftness, Trolleater 440
@@ -85,6 +258,19 @@ Mammoth Hunter, Ironfist, Hunting Spear, Leader of the Pack, Yeti Furs, Lygurs T
 Frost Mammoth 405
 Slave Giant 330
 <ARMY_BOOK>
+Ivan "Orion" Diaz, Ogre Khans 
+545 – Shaman, General, Master, Shamanism, Iron Fist, BInding Scroll, Lygur's Tongue 
+420 – Khan, BSB, Trolleater, Brace of Ogre Pistols, Viper's Curse, Flaming Standard, Potion of Swiftness 
+355 – Shaman, Adept, Thaumaturgy, Iron Fist, Book of Arcane Mastery, Potion of Strength 
+360 – Mammoth Hunter, Hunting Spear, Iron Fist, Leader of Pack, Wrestler's Belt, Dragonfire Gem, Lucky Charm,  Spinesplitter 
+736 – 9x Bruisers, M, S, C, Banner of Discipline 
+234 – 29x Scraplings,Spear, M, Scrapling Foreman 
+155 – 3x Tribesmen 
+585 – 5x Mercenary Veterans, M, Poison, Accurate,  Brace of Ogre Pistols 
+295 – 2x1 Slave Giant, Great Weapon  80 – 2x1 Sabretooth Tiger 
+175 – 2x2 Yetis 
+4500
+<ARMY_BOOK>
 Daniel Schaefer - OK 
 540 - Shaman, General, Thaumaturgy, Master, Iron Fist, Lygur’s Tongue, Magical Heirloom 
 380 - Khan, Hoardmaster, BSB, Banner of Discipline, Mammoth Hide Cloak 
@@ -110,7 +296,7 @@ Van Mal, OK
 205 - 3 x Bombardiers: m 
 205 - 3 x Bombardiers: m 
 405 - Frost Mammoth: Ogre Crossbow (3+) 
-475 - Rock Aurochs: Ogre Crossbow (3+) 
+475 - Rock Aurochs: Ogre Crossbow (3+)
 <ARMY_BOOK>
 Nico "PrinceCharming" Hermans - Ogre Khans 
  
@@ -219,7 +405,7 @@ Eugeny "Pilon4ik" - Ogre Khans
 320 - Thunder Canon 
 475 - Rock Aurochs, Ogre Crossbow 
 475 - Rock Aurochs, Ogre Crossbow 
-4496 
+4496
 <ARMY_BOOK>
 William "Will" Breton - Ogre Khans 
  
@@ -302,7 +488,7 @@ Mateusz Łapioski - OK
 185 - 2x3 Bombardiers 
 320 - 2x1 Thunder Cannon 
 295 - 2x1 Slave Giant, Great Weapon 
-4499 
+4499
 <ARMY_BOOK>
 Manuel « Eru » Berthet  - Ogres Khan 
 550 - Shaman, General, Rottenjaw, Thaumaturgy, Wizard master, Magical Heirloom, Sceptre of Power 
@@ -344,4 +530,81 @@ Aleš Krelj - Ogre Kingdoms
 405 - Khan, BSB, Cult Leader, Iron Fist, Heavy Armor, Death Cheater 
 410 - Mammoth Hunter, Trolleater, Iron Fist, Leader of the Pack, Hunting Spear, Heart-Ripper, Mammoth-Hide Cloak 
 350 - Mammoth Hunter, Rottenjaw, Iron Fist, Leader of the Pack, Hunting Spear, Dragonfire Gem, Wrestler's Belt 
-751 - 9x Bruisers, Standard Bearer, Musi
+751 - 9x Bruisers, Standard Bearer, Musician, Champion, Pennant of the Great Grass Sky 
+205 - 3x Bruisers, Musician 
+175 - 3x Tribesmen, Musician 
+175 - Kin Eater 
+175 - Kin Eater 
+80 - Sabretoth Tiger 
+80 - Sabretoth Tiger 
+287 - 4x Bombardiers, Musician 
+287 - 4x Bombardiers, Musician 
+485 - Rock Aurochs, Lance 
+4500
+<ARMY_BOOK>
+Adrian "The Mountain" Giner - OK 
+545 - Shaman, General, wizard master, 4 spells, iron fist, Lygur's tongue, Binding Scroll, shamanism 
+355 - Khan, BSB, Cult Leader, Banner of discipline, Flaming Standard 
+380 - Mammoth Hunter, Trolleater, Leader of the pack, iron fist, Wrestler's belt 
+325 - Mammoth Hunter, Leader of the pack, vanguard, iron fist, basalt infusion, Talisman of Shielding 
+655 - 8x Bruisers, S, C, Pennant of the great grass sky 
+155 - 3x tribesmen 
+155 - 3x tribesmen 
+160 - 29x Scraplings 
+80 - 1x Sabretooth tigers 
+475 - 1x Rock Aurochs 
+475 - 1x Rock Aurochs 
+295 - 1x slave giant, Great Weapon 
+269 - 3x Mercenary veterans, swiftstride, vanguard, paired weapons 
+175 - 2x Yetis 
+4499
+<ARMY_BOOK>
+Mathias Eriksson - Ogre Khans 
+640 - Shaman, General, Thaumaturgy, Gutroarer, Great Weapon, Light Armour, Karkadan’s Resilience, Lygurs Tongue, Magical Heirloom, Wizard Master 
+365 - Khan, BSB, Great Weapon,, Binding Scroll, Cult Leader  
+380 - Mammoth Hunter, Iron Fist, Hunting Spear, Wrestlers Belt, Leader of the pack, Troll Eater 
+345 - Mammoth Hunter, Iron Fist, Hunting Spear, Spinesplitter, Talisman of Shielding, Basalt Infusion, Leader of the pack 
+751 - 9x Bruisers, Standard bearer, Musician, Champion, Pennant of the Great Grass Sky 
+185 - 3x Bruisers  
+189- 25x Scraplings, Musician, Foreman (Great Weapon), Throwing Weapons 
+80 - 2 x 1x Sabretooth Tigers 
+175 - 2x Yetis 
+175 - 2 x 1x Kineater 
+485 - Rock Aurochs, Lance 
+475 - Rock Aurochs, Ogre Crossbow 
+4500
+<ARMY_BOOK>
+Ryan "Dr" Capps (c)- Ogres- Wildheart 
+ 
+415 - Mammoth Hunter, General, Wildheart, Ironfist, Heart Ripper, Death Cheater, Leader of the Pack 
+425 - Mammoth Hunter, BSB, Cult Leader, Ironfist, Talisman of Shielding, Yeti Furs, Vanguard 
+380 - Mammoth Hunter, Trolleater, Ironfist, Wrestlers Belt, Leader of the Pack 
+545 - Shaman, Ironfist, Light Armor, Lygurs Tongue, Magical Heirloom, Master, Shamanism 
+590 - 8x Tribesmen, Ironfist, M, C, S, Banner of Discipline 
+175 - 2x3 Tribesmen, M 
+80  - 2x1 Sabretooth Tiger 
+295 - 2x1 Slave Giant, Great Weapon 
+265 - 1x Slave Giant 
+305 - 4x Yeti 
+475 - 1x Rock Aurochs, Ogre Xbow 
+4500
+<ARMY_BOOK>
+Jokin Mestraitua, capitan (Ogre Khans)
+355 - Mammoth Hunter, General, Hunting Spear, Iron Fist, Leader of the Pack, Dragonfire Gem, Wrestler's Belt. Wildheart
+405 - Mammoth Hunter, BSB, Cult Leader, Hunting Spear, Iron Fist, Leader of the Pack, Basalt Infusion, Talisman of Shielding
+545 – Shaman, Firebrand, Iron Fist, Pyromancy, Wizard Master, Binding Scroll
+255 - 8x Sabertooth Tiger
+175 - 20x Scrapling, Bow, Musician, 
+299 - 5x Tribesman, M, S, Paired Weapons
+175 - 3x Tribesman, M, Paired Weapons, 
+175  - 1 Kin-Eater
+80 - 1 Sabertooth Tiger
+80 - 1 Sabertooth Tiger
+480 - 3x Tusker Cavalry, Great Weapon, M, 
+175 - 2x Yeti
+175 - 2x Yeti
+175 - 2x Yeti
+475 – 1 Rock Aurochs, Ogre Crossbow 
+Rock Aurochs [475pts]: Ogre Crossbow
+4,499pts
+<ARMY_BOOK>

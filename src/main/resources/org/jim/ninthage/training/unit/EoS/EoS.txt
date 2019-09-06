@@ -38,6 +38,14 @@
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - 2x1 Artillery, Imperial Rocketeer
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Artillery, Rocket Battery
 <Unit name="Artillery" ArtilleryWeapons="Imperial Rocketeer">160 - Imperial Rocketeer
+<Unit name="Electoral Cavalry">155 - 5x Electoral Cavalry
+<Unit name="Electoral Cavalry"
+	Shield
+	Command=S
+	CloseCombatWeapon=Lance
+	BannerEnchantment="Stalker's Standard"
+	KnightOrders
+>305 – 5 Electoral Cavalry: Lance, Shield, S, Stalker’s Standard, Knightly Orders [Core]
 <Unit name="Electoral Cavalry" 
     KnightOrders
     Shield
@@ -91,13 +99,50 @@
     Shield
     Command="M"
 >195 – 5x Electoral Cavalry, musician, shield
+<Unit name="Electoral Cavalry"
+    Command="M"
+>195 – 5x Electoral Cavalry, musician
+<Unit name="Electoral Cavalry"
+    Command="M"
+    CloseCombatWeapon=Lance
+>195 – 5x Electoral Cavalry, musician, Lance
+<Unit name="Electoral Cavalry"
+    Command
+    CloseCombatWeapon=Lance
+>195 – 5x Electoral Cavalry, Full Command, Lance
 <Unit name="Flagellants" >200 - 15x Flagellants
 <Unit name="Flagellants"  >200 - 3 x 15x Flagellants
+<Unit name="Heavy Infantry"
+	CloseCombatWeapon=Spear
+	Command=CM
+>436 - 41 Heavy Infantry, Spears, M, C
+<Unit name="Heavy Infantry">2 X 145 – 2 X 20x Heavy Infantry, Support Unit
+<Unit name="Heavy Infantry"
+	CloseCombatWeapon=Spear
+	Command
+>423 - 38 Heavy Infantry, spear, M, C, S
+<Unit name="Heavy Infantry"
+	Command
+	CloseCombatWeapon=Spear
+>434 - 39x Heavy Infantry, C, M, S, Spear
+<Unit name="Heavy Infantry"
+	CloseCombatWeapon=Halberd
+	Command
+	BannerEnchantment="Rending Banner"
+>468 - 38x Heavy Infantry, Halberd, M, C, S, Rending Banner
+<Unit name="Heavy Infantry"
+	Command=MS
+	CloseCombatWeapon=Spear
+	BannerEnchantment="Banner of Unity"
+>454 - 39 Heavy infantry. Spear. S Banner of Unity, M
 <Unit name="Heavy Infantry"
     CloseCombatWeapon=Halberd
     Command
     BannerEnchantment="Household Standard"
 >452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard
+<Unit name="Heavy Infantry"
+	Command
+>205- 20x heavy infantry, C, S, M
 <Unit name="Heavy Infantry"  Command=MS >315 - 33x Heavy Infantry M,S
 <Unit name="Heavy Infantry"
     Command
@@ -190,8 +235,27 @@
 	Shield
 	Title="Blessed Steel"
 	WeaponEnchantment="Hammer of Witches"
+>250 – 1 Inquisitor: Blessed Steel, Hammer of Witches, Shield [Characters]
+<Unit name="Inquisitor"
+	Shield
+	Title="Blessed Steel"
+	WeaponEnchantment="Hammer of Witches"
 	Mount=Horse
 >Inquisitor, blessed Steel, shield, hammer of witches, Horse
+<Unit name="Imperial Guard"
+	Command
+>2x430 – 2x25 Imperial Guard: C, M, S [Special]
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>513 - 27 Imperial Guard, M, C, S, Rending Banner
+<Unit name="Imperial Guard"
+	Command=C
+>409 - 26 Imperial Guard, C
+<Unit name="Imperial Guard"
+	Command
+	BannerEnchantment="Rending Banner"
+>627 - 33x Imperial guard, M, C, S Rending Banner
 <Unit name="Imperial Guard"
 	Command
 	BannerEnchantment="Household Standard"
@@ -260,6 +324,10 @@
 <Unit name="Imperial Rangers">102 - 6x Imperial Rangers
 <Unit name="Imperial Rangers">90 – 2 x 5x Imperial Range
 <Unit name="Knight Commander"
+	Shield
+	WeaponEnchantment="The Light of Sonnstahl"
+>360 – 1 Knight Commander: The Light of Sonnstahl (hand weapon), shield [Characters]
+<Unit name="Knight Commander"
 	General
 	Shield
 	WeaponEnchantment="The Light of Sonnstahl"
@@ -299,6 +367,13 @@
 	Command=M
 	ReplaceHalberdWithLance
 >2x3 Knights of Sun Griffon, Lance, M 346
+<Unit name="Knights of the Sun Griffon" >290 - 3x Knights of the Sun Griffon
+<Unit name="Knights of the Sun Griffon" >290 - 3 Knights of the Sun Griffon
+<Unit name="Knights of the Sun Griffon" >290 - 3x Knights of the Sun Griffon
+<Unit name="Knights of the Sun Griffon" >290 – 3 Knights of the Sun Griffon [Special]
+<Unit name="Knights of the Sun Griffon"
+    ReplaceHalberdWithLance
+>326 - 2 x 3 Knights of the Sun Griffon, lance
 <Unit name="Knights of the Sun Griffon"
 	Command=MS
 	ReplaceHalberdWithLance
@@ -326,6 +401,10 @@
 	ReplaceHalberdWithLance
 >346 - 3x Knights of the Sun Griffon, Replace Halberd with Lance, M
 <Unit name="Light Infantry">200 - 15x Light Infantry, Crossbow
+<Unit name="Light Infantry"
+    Command=S
+	BannerEnchantment="Household Standard"
+>247 - 14 Light infantry. S,Household Standard
 <Unit name="Light Infantry"
     RangedWeapon=Handgun
 >135 - 10x Light Infantry, Handguns
@@ -393,6 +472,12 @@
     Command=CM
     ChampionRangedWeapon="Long Rifle"
 >320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle
+<Unit name="Marshal"
+	Shield
+	BattleStandardBear
+	ArmourEnchantment="Blacksteel"
+	Artefact="Binding Scroll"
+>265 – Marshal, BSB, Shield, Binding Scroll, Blacksteel
 <Unit name="Marshal"
     BattleStandardBear
     Shield
@@ -584,6 +669,13 @@
     Armour="Plate Armour"
     ArmourEnchantment="Alchemist's Alloy"
 >570 – Prelate, Altar of Battle, Plate Armour, Shield, Alchemist alloy
+<Unit name="Prelate"
+	Shield
+>165 -2X Prelate, Shield, Heavy Armour
+<Unit name="Prelate"
+	Armour="Plate Armour"
+	Shield
+>185 - Prelate, plate armour, shield
 <Unit name="Prelate"
     Mount="Altar of Battle"
     Shield
@@ -794,19 +886,19 @@ FUnit name="Reiters">150 – 5x Reiters
     Wizard=Master
     Path=Divination
     Artefact="Binding Scroll"
-    Artefact="Exemplar’s Flame"
+    Artefact="Exemplar's Flame"
 >465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame
 <Unit name="Wizard"
     Wizard=Master
     Path=Divination
     Artefact="Binding Scroll"
-    Artefact="Exemplar’s Flame"
+    Artefact="Exemplar's Flame"
 >465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll
 <Unit name="Wizard"
     Wizard=Master
     Path=Divination
     Artefact="Binding Scroll"
-    Artefact="Exemplar’s Flame"
+    Artefact="Exemplar's Flame"
 >465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master
 <Unit name="Wizard"
     Wizard=Adept
@@ -911,6 +1003,30 @@ FUnit name="Reiters">150 – 5x Reiters
     Wizard=Adept
     Path=Alchemy
 >200 – Wizard, Alchemy, Wizard Adept
+<Unit name="Wizard"
+	Path=Alchemy
+	Armour="Light Armour"
+	Artefact="Talisman of the Void"
+	Artefact="Magical Heirloom"
+>305 - Wizard, Alchemy, Wizard adept, Light Armour, Talisman of the Void, Magical Heirloom
+<Unit name="Wizard"
+	Wizard=Master
+	Path=Alchemy
+	Path=Cosmology
+	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
+>460 - Wizard, Wizard Master, Essence of a Free Mind: Cosmology-Alchemy, Binding Scroll
+<Unit name="Wizard"
+	Wizard=Adept
+	Path=Alchemy
+	Artefact="Exemplar's Flame"
+>260 - Wizard, Alchemy, Wizard adept, Exemplar's Flame
+<Unit name="Wizard"
+	Wizard=Adept
+	Path=Cosmology
+	Artefact="Magical Heirloom"
+	Artefact="Potion of Strength"
+>260 - Wizard, Potion of Strength, Magical Heirloom, Wizard Adept, Cosmology
 <Unit name="Header">Andrea B. "Taro" Sferrazza - EoS
 <Unit name="Header">Artem Kurhanskyi - Empire of Sonnstahl
 <Unit name="Header">Batı Safel - Empire of Sonnstahl

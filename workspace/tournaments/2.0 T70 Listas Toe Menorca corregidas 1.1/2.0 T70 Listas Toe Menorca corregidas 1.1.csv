@@ -1,0 +1,110 @@
+Tourneys entered:,2.0 T70 Listas Toe Menorca corregidas 1.1,Number of EoS Lists:,4,Number of usages:,Number of armies taking this at least once
+"",special item,The Light of Sonnstahl,,0,0
+"",special item,Death Warrant,,3,3
+"",special item,Hammer of Witches,,1,1
+"",special item,Imperial Seal,,2,2
+"",special item,Blacksteel,,4,4
+"",special item,Witchfire Guard,,0,0
+"",special item,Shield of Volund,,0,0
+"",special item,Winter Cloak,,0,0
+"",special item,Locket of Sunna,,2,2
+"",special item,Exemplar’s Flame,,0,0
+"",special item,Karadon's Courser,,0,0
+"",special item,Mantle of Ullor,,0,0
+"",special item,Household Standard,,3,3
+"",special item,Banner of Unity,,1,1
+"",special item,Marksman’s Pennant,,0,0
+"",Marshal,base cost,,7,4
+"",Marshal,Battle Standard Bear,,5,4
+"",Marshal,Shield,,5,4
+"",Marshal,Paired Weapons,,0,0
+"",Marshal,Great Weapon,,1,1
+"",Marshal,Halberd,,0,0
+"",Marshal,Lance,,0,0
+"",Marshal,Pistol,,0,0
+"",Marshal,Great Tactician,,2,2
+"",Marshal,Imperial Prince,,0,0
+"",Marshal,Horse,,0,0
+"",Marshal,pegasus,,0,0
+"",Marshal,Great Griffon,,0,0
+"",Marshal,Dragon,,0,0
+"",Knight Commander,base cost,,0,0
+"",Knight Commander,Shield,,0,0
+"",Knight Commander,Calvary Pick,,0,0
+"",Knight Commander,Great Weapon,,0,0
+"",Knight Commander,Halberd,,0,0
+"",Knight Commander,Lance,,0,0
+"",Knight Commander,Young Griffon,,0,0
+"",Prelate,base cost,,4,4
+"",Prelate,Plate Armour,,3,3
+"",Prelate,Shield,,3,3
+"",Prelate,Great Weapon,,0,0
+"",Prelate,Paired Weapons,,0,0
+"",Prelate,Horse,,0,0
+"",Prelate,Altar of Battle,,1,1
+"",Wizard,base cost,,5,4
+"",Wizard,Adept,,1,1
+"",Wizard,Master,,4,4
+"",Wizard,Light Armour,,0,0
+"",Wizard,Horse,,0,0
+"",Wizard,Pegasus,,0,0
+"",Wizard,Great Griffon,,0,0
+"",Wizard,Arcane Engine,,0,0
+"",Wizard,Foresight,,0,0
+"",Wizard,Arcane Shield,,0,0
+"",Artificer,base cost,,1,1
+"",Artificer,Handgun,,0,0
+"",Artificer,Repeater Pistol,,0,0
+"",Artificer,Repeater Gun,,0,0
+"",Artificer,Long Rifle,,0,0
+"",Artificer,Horse,,0,0
+"",Inquisitor,base cost,,1,1
+"",Inquisitor,Shield,,1,1
+"",Inquisitor,Paired Weapons,,0,0
+"",Inquisitor,Great Weapon,,0,0
+"",Inquisitor,Halberd,,0,0
+"",Inquisitor,Crossbow,,0,0
+"",Inquisitor,Bracer of Pistols,,0,0
+"",Inquisitor,Repeater Pistol,,0,0
+"",Inquisitor,Blessed Steel,,0,0
+"",Inquisitor,Silver Shots,,0,0
+"",Heavy Infantry,small unit (20-30),,10,4
+"",Heavy Infantry,large unit (30-50),,3,3
+"",Heavy Infantry,Spear,,2,2
+"",Heavy Infantry,Halberd,,1,1
+"",Light Infantry,small unit (10-13),,0,0
+"",Light Infantry,large unit (13-20),,5,3
+"",Light Infantry,Handgun,,0,0
+"",Light Infantry,Repeater Gun,,0,0
+"",Light Infantry,Long Rifle,,0,0
+"",Electoral Cavalry,small unit (5-8),,1,1
+"",Electoral Cavalry,large unit (8-15),,0,0
+"",Electoral Cavalry,Shield,,1,1
+"",Electoral Cavalry,Lance,,1,1
+"",Electoral Cavalry,Great Weapon,,0,0
+"",Electoral Cavalry,Calvary Pick,,0,0
+"",Electoral Cavalry,Knight Orders,,0,0
+"",State Militia,small unit (10-15),,3,2
+"",State Militia,large unit (15-25),,0,0
+"",State Militia,Irregulars,,3,2
+"",Imperial Guard,small unit (15-23),,0,0
+"",Imperial Guard,large unit (23-40),,4,4
+"",Imperial Guard,Replace Shield with Great Weapon,,0,0
+"",Knights of the Sun Griffon,small unit (3-4),,2,2
+"",Knights of the Sun Griffon,large unit (4-6),,0,0
+"",Knights of the Sun Griffon,Replace Halberd with Lance,,0,0
+"",Imperial Rangers,small unit (5-7),,4,3
+"",Imperial Rangers,large unit (7-10),,0,0
+"",Reiters,small unit (5-7),,4,2
+"",Reiters,large unit (7-10),,0,0
+"",Reiters,Bracer of Pistols,,0,0
+"",Reiters,Repeater Gun,,1,1
+"",Reiters,Repeater Pistol,,0,0
+"",Artillery,base cost,,7,4
+"",Artillery,Mortar,,0,0
+"",Artillery,Volley Gun,,0,0
+"",Artillery,Imperial Rocketeer,,3,3
+"",Artillery,Cannon,,4,4
+"",Flagellants,small unit (15-20),,0,0
+"",Flagellants,large unit (20-30),,0,0
+"",Steam Tank,base cost,,4,4

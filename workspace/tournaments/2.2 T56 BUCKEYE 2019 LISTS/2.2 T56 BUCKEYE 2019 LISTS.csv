@@ -1,18 +1,18 @@
 Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of usages:,Number of armies taking this at least once
-"",special item,The Light of Sonnstahl,,0,0
+"",special item,The Light of Sonnstahl,,1,1
 "",special item,Death Warrant,,0,0
 "",special item,Hammer of Witches,,0,0
 "",special item,Imperial Seal,,2,2
 "",special item,Blacksteel,,3,3
-"",special item,Witchfire Guard,,0,0
+"",special item,Witchfire Guard,,1,1
 "",special item,Shield of Volund,,0,0
 "",special item,Winter Cloak,,1,1
 "",special item,Locket of Sunna,,1,1
 "",special item,Exemplar’s Flame,,0,0
 "",special item,Karadon's Courser,,0,0
 "",special item,Mantle of Ullor,,0,0
-"",special item,Household Standard,,0,0
-"",special item,Banner of Unity,,2,1
+"",special item,Household Standard,,1,1
+"",special item,Banner of Unity,,3,1
 "",special item,Marksman’s Pennant,,1,1
 "",Marshal,base cost,,4,3
 "",Marshal,Battle Standard Bear,,3,3
@@ -28,8 +28,8 @@ Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of us
 "",Marshal,pegasus,,0,0
 "",Marshal,Great Griffon,,1,1
 "",Marshal,Dragon,,0,0
-"",Knight Commander,base cost,,0,0
-"",Knight Commander,Shield,,0,0
+"",Knight Commander,base cost,,1,1
+"",Knight Commander,Shield,,1,1
 "",Knight Commander,Calvary Pick,,0,0
 "",Knight Commander,Great Weapon,,0,0
 "",Knight Commander,Halberd,,0,0
@@ -42,9 +42,9 @@ Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of us
 "",Prelate,Paired Weapons,,1,1
 "",Prelate,Horse,,1,1
 "",Prelate,Altar of Battle,,0,0
-"",Wizard,base cost,,4,3
+"",Wizard,base cost,,5,3
 "",Wizard,Adept,,2,2
-"",Wizard,Master,,2,2
+"",Wizard,Master,,3,3
 "",Wizard,Light Armour,,1,1
 "",Wizard,Horse,,0,0
 "",Wizard,Pegasus,,0,0
@@ -87,8 +87,8 @@ Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of us
 "",State Militia,small unit (10-15),,5,2
 "",State Militia,large unit (15-25),,0,0
 "",State Militia,Irregulars,,0,0
-"",Imperial Guard,small unit (15-23),,0,0
-"",Imperial Guard,large unit (23-40),,0,0
+"",Imperial Guard,small unit (15-23),,1,1
+"",Imperial Guard,large unit (23-40),,1,1
 "",Imperial Guard,Replace Shield with Great Weapon,,0,0
 "",Knights of the Sun Griffon,small unit (3-4),,2,1
 "",Knights of the Sun Griffon,large unit (4-6),,0,0
@@ -107,4 +107,4 @@ Tourneys entered:,2.2 T56 BUCKEYE 2019 LISTS,Number of EoS Lists:,3,Number of us
 "",Artillery,Cannon,,1,1
 "",Flagellants,small unit (15-20),,0,0
 "",Flagellants,large unit (20-30),,0,0
-"",Steam Tank,base cost,,0,0
+"",Steam Tank,base cost,,3,3

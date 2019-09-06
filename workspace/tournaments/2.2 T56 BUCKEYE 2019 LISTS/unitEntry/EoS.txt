@@ -10,7 +10,7 @@
 <Unit name="Electoral Cavalry" ModelCount=10 
 	Shield
 	CloseCombatWeapon=Lance
-	Command=S
+	Command
 	KnightOrders
 >10 Knights, Lance, Shield, FC 530
 <Unit name="Electoral Cavalry" ModelCount=5 
@@ -22,16 +22,24 @@
 	BannerEnchantment="Banner of Speed"
 	KnightOrders
 >15 Knightly Orders, Shield, Lance, FC, Banner of Speed 810
-<Unit name="Footer">Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
-<Unit name="Footer">25 Imperial Guard, FC, Shield, Banner of Unity 470
-<Unit name="Footer">1 Steam Tank 475
-<Unit name="Footer">23 Imperial Guard, FC, Shield, Household Standard 432
-<Unit name="Footer">1 Steam Tank 475
-<Unit name="Footer">Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
-<Unit name="Footer">Steam Tank 475
 <Unit name="Header">Flint
 <Unit name="Header">Murphy
 <Unit name="Header">Sadler
+<Unit name="Imperial Guard" ModelCount=25 
+	Command
+	BannerEnchantment="Banner of Unity"
+>25 Imperial Guard, FC, Shield, Banner of Unity 470
+<Unit name="Imperial Guard" ModelCount=23 
+	Command
+	BannerEnchantment="Household Standard"
+>23 Imperial Guard, FC, Shield, Household Standard 432
+<Unit name="Knight Commander" 
+	General
+	Shield
+	Artefact="Potion of Swiftness"
+	ShieldEnchantment="Witchfire Guard"
+	WeaponEnchantment="The Light of Sonnstahl"
+>Knight Commander, General, Plate, Shield, Light of Sonnastahl, Witchfire Guard, Potion of Swiftness, Horse 405
 <Unit name="Knights of the Sun Griffon" EntryCount=2 ModelCount=3 
 	ReplaceHalberdWithLance
 	Command=M
@@ -109,6 +117,19 @@
 >2x10 Militia 140
 <Unit name="State Militia" EntryCount=3 ModelCount=10 
 >3x10 Militia 140
+<Unit name="Steam Tank" 
+>1 Steam Tank 475
+<Unit name="Steam Tank" 
+>1 Steam Tank 475
+<Unit name="Steam Tank" 
+>Steam Tank 475
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Cosmology
+	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
+>Wizard master, Essence of a Free Mind (Alchemy/Cosmo), Binding Scroll 460
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Divination

@@ -1,0 +1,401 @@
+Jose Ibañez ''Killerdawn'' – Kingdom of Equitanie 
+685 - Duke : General in Pegasus, Shield, Questing  oath, Lance, Dragonfire Gem, Divine Judgement, 
+Crusader's Salvation, Might. 
+250 - Paladin : BSB, Questing oath, shield, Willow's ward, Lucky Charm. 
+425 - Damsel : Wizard Master Shamanism, Storm Clarion 
+195 - Damsel : Wizard Adept, Druidism 
+260 - x6 Knights of the realm 
+520 - x11 Knights of the realm C 
+2x 175 - x30 Peasant levy 
+660 - x8 Knights of the grail C 
+2x 125 - x5 Yeoman outriders (Bow) 
+535 - x23 Knights Forlon M 
+370 - x3 Pegasus knights skirmisher, vanguard 
+Total: 4500
+<ARMY_BOOK>
+Marc “Pechofuego” Ruiz - Kingdom of Equitaine 
+660 - Duke: General, Might, Lance, Pegasus, Divine judgement,Fortress of faith,Basalt infusion,Questing Oath, Shield 
+385 - Damsel: Wizard Master, Druidism, Barded Warhorse 
+295 - Paladin: Bsb, Questing Oath, Virtue Of Piety, Shield, Willow's Ward. 
+688 - 12 Knights Of The Realm: M, S, Banner Of The Last Charge 
+250 - 2x 5 Knights Aspirant: C 
+735 - 8 Knights Of The Grail: C, M, S, Flaming Standard 
+150 - Sacred Reliquary 
+375 - The Green Knight  
+710 - 25 Knights Forlon: C, M, S, Oriflamme 
+Total: 4498
+<ARMY_BOOK>
+Biel “Paintball” Orfila, Kingdom of Equitane 
+680 – Duke on Pegasus, General, Questing Oath, Shield, Lance, Might, Divine Judgement, Fortress of Faith, Potion of 
+Swiftness, Lucky Charm, Basalt Infusion 
+485 – Damsel on Barded on Warhorse, Master, Shamanism, Bindig Scroll, Rod of Battle 
+475 – Paladin on Pegasus, BSB, Daring, Questing Oath, Shield, Banner of Roland, Banner of Speed 
+852 – 15x Knights of the Realm, S, M,C, Banner of the Last Charge 
+175 – 30 xPeasant Levy 
+202 – 31x Peasant Levy, M 
+125 – 2x5 Yeoman Outriders 
+645 – 6x Pegasus Knights, C 
+735 – 8x Grail Knights, S, M, C Flaming Banner 
+4499
+<ARMY_BOOK>
+Jorge “Charming Stelar” Guerrini,  Kingdom  of Equitane 
+420 – Duke, General, Questing Oath, Shield, Willow Ward, Crusader Helm , Crown of Autocracy 
+315 – Duke, Humility Ghostly Guard, Shield, Potion of Swiftness ,Tristans Resolve 
+300 – Paladin, BSB, Questing Oath, Shield, Crown of Wizard King, Potion of Strengh, Alchemist’s Alloy 
+410 – Damsel, Master, Divination, Sceptre Power, Wafers of Penitence  
+245 – Damsel, Adept, Druidism, Talisman of Void 
+438 – 59x Peasant Levy, S, M, C 
+425 – 50x Peasant Levy, S, M, C, Halberd  
+175 – 30x Peasant Levy  
+170 – 15x Peasant Bowmen  
+650 – 2x26 Knights Forlorn, S, M, C 
+300 – 2x1 Sacred Reliquary  
+4498
+<ARMY_BOOK>
+Marc “Intervencion” Ruiz - Kingdom of Equitaine 
+555 - Duke [Character]: General, Might, lance, divine judgment, crusader's salvation, 
+dragonfire gem, questing oath, shield 
+130 - Pegasus [Character][Airborne Gallantry] 
+385 - Damsel [Character]: Wizard Master, Druidism, barded warhorse 
+330 - Paladin [Character]: BSB, Questing Oath, Virtue of Piety, Shield, willow's ward, basalt infusion 
+688 - 12 Knights of the realm [Core]: M, S, Banner of the Last Charge 
+230 - 5 Knights Aspirant [Core] 
+230 - 5 Knights Aspirant [Core] 
+715 - 8 Knights of the Grail [Special]: M, S, Flaming standard 
+150 - Sacred reliquary 
+375 - The Green Knight [Special] 
+710 - 25 Knigths forlon [Special]: C, M, S, Oriflamme 
+Total: 4498
+<ARMY_BOOK>
+Emmanuel Umendu “Manix” – Kingdom of Equitaine Total: 4500 
+685 – Duke: General, Heavy Armour, Shield, Lance, Questing Oath, Virtue of Might, Pegasus, Divine 
+Judgment, Black Knight’s Tabard, Basalt Infusion.  
+265 – Paladin: Battle Standard Bearer, Heavy Armour, Shield, Lance, Grail Oath, Barded Warhorse.  
+280 – Damsel: Barded Warhorse, Wizard Adept, Druidism, Lightning Vambraces 
+295 – Damsel: Barded Warhorse, Wizard Adept, Divination, Book of Arcane Mastery.  
+784 – 14 Knights of the Realm: Musician, Standard Bearer, Banner of the Last Charge.  
+175 – 2x30 Peasant Levy.  
+556 – 7 Knights of the Grail.  
+640 – 8 Knights of the Grail.  
+125 – 5 Yeoman Outriders.  
+130 – 5 Yeoman Outriders: Light Armour.  
+390 – 3 Pegasus Knights: Skirmish, Vanguard, Champion.
+<ARMY_BOOK>
+Joan “Scelus” Cartanyà - Kingdom of Equitaine 
+600 - Duke, General, Barded Warhorse, Grail Oath, Lance, Shield, Virtue of Might, Divine Judgment, Basalt 
+Infusion, Fortress of Faith, Potion of Swiftness 
+330 - Paladin, BSB, Shield, Questing Oath, Virtue of Piety, Banner of Roland 
+285 - Damsel, Barded Warhorse, Magical Heirloom, Wizard Adept, Divination 
+200 - Damsel, Storm Clarion, Wizard Apprentice, Shamanism  
+260 - 3x6 Knight of the Realm  
+175 - 2x30 Peasant Levy 
+125 - 5x Yeoman Outriders  
+510 - 22x Knights Forlon, M 
+660 - 2x8 Knights of the Grail, C 
+4500
+<ARMY_BOOK>
+Walter Ronceros "Ponti" - Kingdom of Equitaine  
+670 - Duke on Pegasus:  Divine Judgement, Fortress of Faith, Potion of Swiftness,  Basalt Infusion, Shield, 
+Questing Oath, Lance, Might 
+395 - Paladin on Barded Warhorse: Flaming Standard, Tristan Resolve, BSB, Shield, Grail Oath, Daring  
+525 - Damsel on Equitan Unicorn: Storm Clarion, general, Wizard Master, Druidism  
+230 - 5 Knights Aspirant 
+708 - 12 Knights of the Realm: Banner of the Last Charge, M, S, C 
+195 - 30 Peasant Levy, C 
+834 - 9 Knights of the Grail: Banner of Speed, M, S, C 
+135 -2x  5 Yeoman Outriders: Shield, Light Armour  
+670 - 5 Pegasus Knights: Oriflamme, Loose Formation, C, S 
+4497
+<ARMY_BOOK>
+Ivan "Blocsanchez" Sanchez - Kingdom of Equitaine 
+435 - Damsel, Wizard Master druidism, barded warhorse, Magical Heirloom 
+755 - Duke, General, Hippogriff, Might, Questing Oath & Bastard Sword, Shield, Lance, Basalt Infusion, 
+Divine Judgment (Lance), Fortress of Faith, Potion of Swiftness 
+345 - Paladin, BSB, Shield, Willow's Ward, Binding Scroll, Questing Oath & Bastard Sword, Daring 
+260 - 2x6 Knight of the Realm 
+280 - 1x6 Knight of the Realm, C 
+175 - 2x30 Peasant Levy 
+695 - 1x8 Knight of the Grail, C, S, Aether Icon 
+720 - 1x28 Knight Forlorn, C, S, Banner of the Relentless Company 
+150 - Sacred Reliquary 
+125 - 2x5 Yeoman Outrider 
+Total: 4500
+<ARMY_BOOK>
+KoE, Vicent Josep García "Thurvack" 
+560 - Duke, General, Questing Oath and Bastard Sword, Virtue Renown, Shield, Blessed Inscriptions, Crusader's 
+Salvation, Dragonfire Gem, Barded Warhorse. 
+590 - Duke, Grail Oath, Virtue Might, Shield, Lance, Divine Judgement, Basalt Infusion, Fortress of Faith, Barded 
+Warhorse. 
+240 - Paladin, BSB, Shield, Alchemist's Alloy, Barded Warhorse. 
+385 - Damsel, Druidism, Wizard Master, Barded Warhorse. 
+480 - 10 Knights Aspirants, C,M,S. 
+280 - 6 Knights of the Realm, C. 
+230 - 5 Knights Aspirants. 
+175 - 30 Peasant Levy. 
+125 - 5 Yeoman Outriders. 
+735 - 8 Knights of the Grail, C,M,S, Flaming Standard. 
+700 - 8 Knights of the Grail, CMS. 
+4500 pts
+<ARMY_BOOK>
+Jorge Guerrini ( Charming Stelar) - Kingdom  Equitania Favour of the King  
+420 - 1 Duke, General, Questing Oath and bastard Sword, Shield, Willow Ward,  Crusader Helm , Crown of Autocracy (characters)
+315 - 1 Duke, Humility Ghostly Guard, Shield, Potion of Swiftness Tristans Resolve (characters) 
+325 - 1 Paladin, BSB, Questing Oath and bastard Sword, Cleasing Light, Shield, Uther Conviction, Obsidian Rock (characters)
+410 - 1 Damsel, Wizard Master Druidism, Sceptre Power, Wafers of penitence (characters) 
+205 - 1 Damsel, Adept Shamanism, Potion Strengh (characters) 
+445 - 60 Peasant Levy, F.C.G (core). 
+425 -50 Peasant Levy, F.C.G.Halberd (core) 
+175 -30 Peasant Levy (core) 
+180 – 16 Peasant Bowmen (core) 
+650 -2 x 26 knights Forlorn, F.C.G.(special) 
+300 - 2 x 1 Sacred Reliquary (special) 
+Total: 4500
+<ARMY_BOOK>
+José Ibáñez “Killerdawn” – Kingdom of Equitaine  
+125 – Castellan : Horse, Sergeant(Master-at-Arms), Shield. 
+425 – Damsel : Wizard master, druidism, Storm Clarion  
+555 – Duke : general, Barded warhorse, Grail Oath, shield, divine judgement, lance, might, Fortress of faith.  
+300 – Paladin : BSB, Shield, Willow’s Ward, Questing oath and bastard sword,Virtue of Daring, Lucky charm  
+280 – x6 Knights of the realm : C  
+376 – x8 Knights of the realm : C  
+245 – x40 Peasant levy  
+224 – x37 Peasant levy  
+660 – x8 Knights of the grail : C,  
+625 – x25 Knights Forlon : C,M,S  
+125 – x5 Yeoman Outriders : bow  
+280 – Siege war machine : Trebuchet  
+280 – Siege war machine : Trebuchet  
+TOTAL 4500
+<ARMY_BOOK>
+Mario “Dadmon” Ortega - Kingdom of Equitaine
+670 - Duke, General, Questing Oath & Bastard Sword, Pegasus, Virtue of Might, Shield, Lance, 
+Divine Judgement, Basalt Infusion, Fortress of Faith, Potion of Swiftness 
+350 - Paladin, BSB, Grail Oath, Barded Warhorse, Virtue of Daring, Shield, Lance, Flaming Standard 
+385 - Damsel, Barded Warhorse, Wizard Master, Druidism 
+375 -. Paladín, Questing Oath & Bastard Sword, Pegasus, Shield, Crusader's Salvation 
+260 - 2x 6 Knights of the Realm 
+610 - 11 Knights of the Realm, M, C, S, Banner of Roland 
+125 -. 2x 5 Yeomans Outriders, bow 
+680 - 8 Knights of the Grial, M, C 
+660 - 8 Knights of the Grial, C 
+4500
+<ARMY_BOOK>
+Juan José “Juanjoe” Wu - Kingdom of Equitaine  
+610 - Duke, General, Barded Warhorse, Questing Oath & Bastard Sword, Shield, Lance, Divine Judgement, Basalt Infusion, 
+Fortress of Faith, Potion of Swiftness, Virtue of Might 
+295 - Paladin, BSB, Questing Oath & Bastard Sword, Shield, Willow’s Ward, Virtue of Piety 
+520 - Damsel, Barded Warhorse, Storm Clarion, Binding Scroll, Wizard Master, Divination 
+195 - Damsel, Wizard Adept, Druidism 
+464 - 9x Knights of the Realm, M, S, C 
+280 - 2x6 Knights of the Realm, C 
+175 - 2x30 Peasant Levy 
+125 - 2x5 Yeoman Outriders, Bows 
+575 - 23x Knights Forlon, M, S, C 
+680 - 8x Knights of the Grail, M, C 
+4499
+<ARMY_BOOK>
+Juan Antonio Marín Miñano "Sir Toño" - Kingdom of Equitaine
+550 - Duke, General, Grail Oath, Renown, Barded Warhorse, Paired Weapon (Hero's Heart), Crusader's Salvation, Obsidian Rock. 
+360 - Paladin, BSB, Piety, Barded Warhorse, Tristan Resolve, Aether Icon, Shield, Potion of Swiftness. 
+425 - Damsel, Wizard Master, Barded Warhorse, Crystal Ball, Divination. 
+295 - Damsel, Wizard Adept, Barded Warhorse, Book of Arcane Mastery, Druidism. 
+595 - 11 Knights of the Realm  FCG, Flaming Standard. 
+2 x 270 - 2 x 5 Knights Aspirant, S, M. 
+2 x 680 - 2 x 8 Knights of the Grail, M, C. 
+375 - The Green Knight  
+TOTAL 4500
+<ARMY_BOOK>
+Kingdom of Equitaine, Vicent Josep García Nieto "Thurvack" 
+560 - Duke, General, Questing Oath and Bastard Sword, Virtue Renown, Shield, Blessed Inscriptions, Crusader's Salvation, 
+Dragonfire Gem, Barded Warhorse. 
+565 - Duke, Questing Oath and Bastard Sword, Virtue Valour, Shield, Uther's Conviction, Dusk Forged, Black Knight's Tabard, 
+Barded Warhorse. 
+290 - Paladin, BSB, Shield, Questing Oath and Bastard Sword, Alchemist's Alloy, Lucky Charm, Barded Warhorse. 
+385 - Damsel, Wizard Master, Druidism, Barded Warhorse. 
+750 - 15 Knights Aspirant, M, S, Banner of the Last Charge. 
+250 - 5 Knights Aspirant, C. 
+175 - 30 Peasants Levy. 
+130 - 5 Yeoman Outriders, Shield. 
+680 - 12 Knights of the Quest, C, M, S, Banner of Roland. 
+715 - 8 Knights of the Grail, C, M, S, Aether Icon. 
+4500
+<ARMY_BOOK>
+Victor Benavente – Capitán – Kingdom of Equitania
+770 - Duke: Shield, General, Hippogriff, Questing Oath and Bastard Sword, Lance (Divine Judgment), Dragonfire Gem, Crusader´s Salvation, Might
+235 - Damsel: Barded Warhorse, wizard adept, Druidism   
+235 - Damsel: Barded Warhorse, wizard adept, Shamanism   
+265 - Paladin: Barded Warhorse, Shield, Grail Oath, Lance, Battle Standard Bearer   
+3x280 - 6x Knight of the Realm, Champion   
+2x195 - 30x Peasant Levy: Champion   
+2x631-7x Knight of the Grail: Champion, Standard Bearer: Flaming Banner   
+375 - The Green Knight   
+125 – Yeoman Outriders   
+Total: 4497pts
+<ARMY_BOOK>
+Fermín de Alarcón “Fer_Piloto” - Kingdom of Equitaine
+125 - Castellan, Horse, Light Armour, Master-at-Arms, Shield 
+425 - Damsel, Wizard Master (druidism), Storm Clarion 
+680 - Duke, pegasus, General, Lance, Might, Questing Oath, Shield, Basalt Infusion, Divine Judgement, Fortress of Faith, Lucky Charm, Potion of Swiftness
+335 - Paladin, BSB, Piety, Questing Oath, Shield, Alchemist's Alloy, Banner of the Relentless Company 
+190 - Paladin, Questing Oath, Shield, Willow's Ward 
+250 - 5x Knights Aspirant, C 
+416 - 8x Knights of the Realm, C, M, S 
+280- 6x Knights of the Realm, C 
+195 - 30x Peasant Levy, M 
+685 - 26x Knights Forlorn, C, M, S, Flaming Standard 
+150 - Sacred Reliquary 
+125 - 5x Yeoman Outriders, Bow 
+635 - 5x Pegasus Knights, C, S, Loose formation, Banner of Speed 
+4491
+<ARMY_BOOK>
+Pepe Bolinches “Feyasur”- Kingdom of Equitaine 
+755- Duke, General, Hipogrifo, Virtue Might, Questing Oath and Bastard Sword, Basalt Infusion, Lance, Divine Judgement,, Shield, Fortress of Faith, Oath Fealty,   Potion of Swiftness
+355 - Paladin BSB, Barded Warhorse, Oath Grial, Shield, Tristan´s Resolve, Stalker's Standard  
+425 - Damsel, Barded Warhorse, Wizard Master (Divination), Crystal Ball
+260 - Damsel, Barded Warhorse, Wizard Adept (Druidism), Wafer's of Penitence
+605 - 11 Knights Realm, Ch+M+Std, Stalker's Standard
+547 – 10 Knights Realm, Ch+M+Std, Banner Discipline
+135 – 2x5 Yeoman Outriders, Shield, Light Armour  
+525 - 9 Knights of the Quest, Ch+M+Std, Stalker's Standard
+750 – 8 Knights of the Grail, Ch+M+Std, Banner of Roland 
+Total: 4492
+<ARMY_BOOK>
+Bond
+Duke, General, Shield, Tristan's Resolve, Death Cheater, Virtue of Valor, Barded Warhorse 460
+Damsel, Master, Druidism, Wafers of Penitence Barded Warhorse 410
+Paladin BSB, lance, Shield, Crusaders Salvation, Barded Warhorse 335
+Paladin, Grail Oath, Lance, Touch of Greatness, Lucky Charm, Barded Warhorse 265
+12 Knights of the Realm, FC, Stalker Standard 605
+10 Knights of the Realm, FC, Stalker Standard 557
+16 Peasant Bowmen, M 200
+8 Knights of the Grail, FC, Stalker STandard 745
+3 Pegasus Knights, C,360
+2x1 Trebuchet 280
+<ARMY_BOOK>
+Coskun
+Duke, General, Questing, Bastard Sword, Heavy Armor, Shield, Hippogriff, Blessed Inscriptions, Dragonfire Gem, Crusaders Salvation, Virtue of Renown 705
+Duke, Questing, Bastard Sword, Heavy armor, Shield, Virtue of Might, Basalt infusion, Lucky Charm, Fortress of Faith, Pegasus 590
+Damsel, Master, Druidism, Talisman of the Void, Barded Warhorse 435
+12 Knights of the Realm, S, M, Banner of last Charge 688
+12 Knights of the Realm, S, M, Banner of Discipline 623
+9 Knights of the Grail, S, M, Banner of Roland, 814
+3 Knights of the Grail 220
+2x5 Yeomen Outriders 125
+10 Brigands 175
+<ARMY_BOOK>
+Paff
+Duke, General, Grail Oath, Lance, Shield, Divine Judgement, Virtue of Might, Basalt Infusion, Black Knights Tabard, Pegasus 675
+Paladin, BSB, Questing Oath, Bastard Sword, Shield, Banner of Discipline, Virtue of Valor, Tristan's Resolve, Barded Warhorse. 425
+Damsel Master, Master, Divination, Wafers of Penitence, Talisman of the Void, Barded Warhorse, 460
+10 Knights of the Realm, FC, Aether Icon 527
+12 Knights of the Realm, FC, Aether Icon, 623
+Green Knight 375
+3 Peg Knights, C, 389
+5 Yeomen Outriders 125
+2x15 Peasant Bowmen 170
+2x1 Trebuchet 280
+<ARMY_BOOK>
+Jamie Payne - KoE 
+670 - Duke, General, Virtue of Might, Questing Oath, Shield, Lance (Divine Judgement) Pegasus, Fortress Of Faith, Potion Of Speed, Basalt Infusions 
+455 - Paladin, Virtue of Renown, BSB, Paired Weapons (Hero’s Heart), Pegasus, Ghostly Guard 
+420 - Damsel, Master, Druidism, Barded Warhorse, Wafers of Penitence, Potion of Strength 
+235 - Damsel, Adept, Shamanism, Barded Warhorse 
+660 - 11x Knights of The Realm, FCG,  Banner of the Last Charge 
+404 - 8x Knight Aspirants, FCG 
+250 - 5 Knight Aspirants, C 
+530 - 10 Knights of the Quest, FCG 
+125 - 5 Yeoman Outriders 
+130 - 5 Yeoman Outriders, Light Armour 
+620 - 5x Pegasus Knights, C, S, Banner of Roland 
+4499
+<ARMY_BOOK>
+Lubart, KoE 
+650 - Duke, General, Grail Oath, Lance, Shield, Divine Judgement, Basalt Infusion, Virtue of Might, Fortress of Faith, Pegasus 
+385 - Damsel Master, Wizard Master, The Druidism, Barded Warhorse 
+305 - Paladin, Shield, Lance, Virtue of Humility, Ghosty Gard, Barded Warhorse, Wyrmwood Core 
+250 - Paladin, BSB, Shield, Lance, Alchemist’s Alloy, Barded Warhorse 
+105 - Castellan, Bannerman, Standard, Legion Standard 
+105 - Castellan, Bannerman, Standard, Legion Standard 
+417 - 56x Peasant Levy, S,M,C 
+250 - 5x Knights Aspirant, M 
+464 - 9x Knights of the Realm, S,M,C 
+635 - 5x Pegasus Knights, S,C, Skirmisher, Banner of Roland 
+135 - 5x Yeoman Outriders, Light Armour, Shield 
+135 - 5x Yeoman Outriders, Light Armour, Shield 
+661 - 7x Knights of the Grail, S,M,C, Stalker's
+<ARMY_BOOK>
+Jake Corteen - Kingdoms of Equitaine 
+ 
+635 – Duke on Pegasus, Questing Oath and Bastard Sword, Lance (Divine Judgement), Shield (Fortress of Faith), Potion of Swiftness, Might 
+350 – Duke, General, Barded Warhorse, Questing Oath and Bastard Sword, Shield, Basalt Infusion, Lucky Charm 
+280 – Paladin, BSB, Barded Warhorse, Questing Oath and Bastard Sword, Shield, Alchemist’s Alloy 
+465 – Damsel, Path of Druidism, Barded Warhorse, Storm Clarion, Wizard Master 
+708 – 12x Knights of the Realm, Standard Bearer, Musician, Champion, Banner of the Last Charge 
+250 – 2x 5x Knights Aspirant, Standard Bearer 
+135 – 2x 5x Yeomen Outriders, Shields, Light Armour  
+125 – 5x Yeomen Outriders 
+580 – 11x Knights of the Quest, Standard Bearer, Musician, Champion 
+585 – 5x Pegasus Knights, Standard Bearer, Champion, Loose Formation 
+4498
+<ARMY_BOOK>
+Yannic Titgemeyer – Kingdom of Equitaine 
+670 - Duke, General, Pegasus, Shield, Lance, Bastard Sword, Divine Judgement(Lance), Basalt Infusion, Potion of Swiftness, Fortress of Faith, Might, Questing Oath  
+280 - Paladin, BSB, Barded Warhorse , Shield, Bastard Sword, Alchemist's Alloy, Questing Oath 
+525 - Damsel, Druidism, Equitan Unicorn, Storm Clarion, Wizard Master  
+852 - 15x Knights of the Realm, M, S, C, Banner of the Last Charge  
+280 - 6x Knights of the Realm, M  
+715 - 13x Knights of the Quest, M, S, C , Flaming Standard  
+270 - 6x Knights of the Quest  
+135 – 2 x 5 Yeoman Outriders, Light Armour, Shields 
+635 - 5x Pegasus Knights, Loose Formation, S, C, Banner Of RolEquitaine
+<ARMY_BOOK>
+David Bowes - Kingdom of Equitaine 
+670 - Duke, General, Virtue of Might, Pegasus, Shield, Lance, Basalt Infusion, Potion of Swiftness, Fortress of Faith, Divine Judgment, Questing Oath 
+330 - Paladin, BSB, Virtue of Piety, Barded Warhorse, Shield, Lucky Charm, Questing Oath 
+440 - Damsel, Barded Warhorse, Binding Scroll, Master, Druidism 
+660 - 11x Knights of the Realm, Musician, Champion, Standard, Banner of the Last Charge 
+250 - 2 x 5x Knights Aspirant, Musician 
+580 - 11x Knights of the Quest, Musician, Champion, Standard 
+175 - 10x Brigands 
+120 - 2x Scorpion 
+135 - 2 x 5x Yeomen Outriders, Shields, Light Armour 
+635 - 5x Pegasus Knights, Champion, Standard, Banner of Roland, Loose Formation 
+4500
+<ARMY_BOOK>
+Francesco "Lord Ulric" Di Bonaventura - Kingdom 
+of Equitaine 
+670 - Duke, Pegasus, General, Lance, shield, Might, Questing Oath and Bastard Sword, Basalt Infusion, Divine Judgement, Potion of Swiftness, Fortress of Faith 
+335 - Paladin, Barded Warhorse, Battle Standard Bearer, Piety, Shield, Questing Oath and Bastard Sword, Alchemist's Alloy  
+525 - Damsel, Druidism, Wizard Master, Equitan Unicorn, Storm Clarion 
+852 - 15x Knight of the Realm, C, M, S, Banner of the Last Charge 
+280 - 6x Knight of the Realm, M 
+680 - 13x Knight of the Quest, M, S, C 
+270 - 6x Knight of the Quest 
+125 - 2x5 Yeoman Outriders 
+635 - 5x Pegasus Knights, C,S, Loose formation, Banner of Roland 
+4497
+<ARMY_BOOK>
+Hugh "Dr Love" Scarlin - Kingdom of Equitaine 
+ 
+445 - Damsel, Druidism, Equitan Unicorn, Wizard Master  
+670 - Duke, General, Pegasus, Lance, Shield, Basalt Infusion, Divine Judgement (Lance), Fortress of Faith, Potion of Swiftness, Might, Questing Oath 
+345  - Paladin, BSB, Barded Warhorse, Shield, Alchemist's Alloy, Potion of Strength, Piety, Questing Oath 
+288 - 6x Knights Aspirants, Standard Bearer  
+280 - 3 x 6x Knight of the Realm, Standard Bearer 
+630 - 12x Knight of the Quest, Champion, Musician, Standard Bearer  
+135 - 3 x 5x Yeoman Outriders, light armour, shield  
+635 - 5x Pegasus Knight, Skirmisher, Champion, Standard Bearer, Banner of Roland  
+120 - 2 x Scorpion  
+4498
+<ARMY_BOOK>
+Iban "Gorras Toretto" Eraña Kingdom of Equitaine
+680-Duke on Pegasus: General, questing oath,basalt infusion,divine judment, lucky charm, potion of swiftness, fortres of faith,virtue of might,shield,lance
+315-Paladin on barded warhorse: (bsb),questing oath,alchemist alloy, Flaming Stanford, shield
+490-Damsel on barded warhorse: wizard master,druidism, Magical Heirloom, binding scroll
+260x3 3x6 knights of realm
+175x2 2x30 peasant levy
+576-7 knights of the grail c
+490-10 knights of THE QUEST c
+125x2 2x5 Yeoman outriders Bow
+565-5 pegaso knights c skirmisher
+<ARMY_BOOK>

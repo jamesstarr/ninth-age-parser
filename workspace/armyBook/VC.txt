@@ -1,3 +1,335 @@
+Manuel Recasens“McManu's ” - Vampire Covenant - With a Vampiric Bloodline  
+1170 - Vampire Count Lamia, General, Commandment, Court Lamia of the Damned, Reaper's Harvest, 
+Cursed Medallion, Binding Scroll, The Dead Arise, Distracting, Wizard Adept, Witchcraft.  
+350 - Necromancer, Wizard Master, Evocation. 
+ 160 - 21x Zombies, Musician, Standard Bearer.  
+165 - 22x Zombies, Musician, Standard Bearer.  
+484 - 39x Skeletons, Halberd, Champion, Musician, Standard Bearer, Rending Banner.  
+105 - 2x Bat Swarm. 
+2x 113 - 8x Dire Wolves.  
+430 - Dark Coach. 
+160 - 2x Phantom Host.  
+2x 335 - Varkolak.  
+580 - 7x Vampire Spawn, Champion.  
+Total: 4500
+<ARMY_BOOK>
+Isi “Junon” Escudero – Vampire Covenant 
+455.- Necromancer, Wizard Master Evocation, Magical Heirloom, Binding Scroll 
+780.- Vampire Count Strigoi Bloodline, General, Wizard Adept Shamanism, Ghoul Lord, Hypnotic Pendant, Potion of Swiftness, 
+Paired Weapons (Touch of Greatness) 
+410.- Vampire Courtier Strigoi Bloodline, Wizard Apprentice Shamanism, Rod of Battle, Binding Scroll, Halberd 
+2x113.- 2x8 Dire Wolves 
+626.- 38x Ghouls, Champion 
+180.- 29x Zombies, Musician 
+135.- 20x Zombies, Musician 
+2x90.- 2x2 Great Bats 
+385.- 5x Phantom Host 
+2x560.- 2x7 Ghasts, Champion 
+Total: 4.497
+<ARMY_BOOK>
+Sergio “Seamrog” Ronda - Vampire Covenant 
+Vampiric Bloodline: Brotherhood of the Dragon Bloodline 
+455 - Necromancer: Evocation, Wizard Master, Binding Scroll, Magical Heirloom 
+200 - Necromancer: Alchemy, Wizard Adept, 
+1005 - Vampire Count: Army General, Brotherhood of the Dragon Bloodline, Crimson Rage, Great Weapon, Lance, Monstrous Revenant, Occultism, Paired Weapons, Plate Armour, Shield, Wizard Adept, Eternity Gem, Death Cheater, the dead arise
+440 - 39 Skeletons : C, M, S, Relentless Company 
+440 - 39 Skeletons: C, M, S, Relentless Company 
+250 - 39 Zombies: M, S 
+430 - Dark Coach  
+090 - 2x2 Great Bats  
+545 - 5 Vampire Knights: Blood Ties 
+545 - 5 Vampire Knights: Blood Ties 
+Total: 4500
+<ARMY_BOOK>
+Juan Martin “Capitán Pichón” Ruiz, Vampire Counts 
+725 – Vampire Count, General, Adept, Occulism, Dead Arise, Brotherhoof of  the Dragon, Etenal Duelist, True Thirst, 
+Legend of Black King, Shield 
+400 – Vampire Courtier, Brotherhoof of  the Dragon, Apprentice, Occulism,  BSB, Halberd, Shield, Death Cheater 
+250 – Necromancer, Adept,  Alchemy,  Magical Heirloom 
+575 – 35x Ghouls, C 
+415 – 38x Skeletons S, M,C Legion Banner 
+135 – 3x Bat Swarms 
+790 – 35x  Barrow Guard, S, M,C Shield, Rending Banner 
+605 – 2x5 Vampire Knights, S, M,C,  Blood Ties 
+4500
+<ARMY_BOOK>
+David “Nakkar” Milla - Vampire Covenant - Vampiric Bloodline: Strigoi Bloodline 
+790 - Vampire Count, General, the Dead Arise, Paired Weapons, Hypnotic Pedant, King Slayer, Potion of Swiftness, Strigoi Bloodline, 
+Ghoul Lord, Wizard Adept, Shamanism 
+450 - Vampire Courtier, BSB, True Thirst, Rending Banner, Strigoi Bloodline, Wizard Apprentice, Shamanism 
+255 - Necromancer, Binding Scroll, Wizard Adept, Evocation 
+255 - Necromancer, Binding Scroll, Wizard Adept, Alchemy 
+150 - 23x Zombies, S 
+340 - 29x Skeletons, Banner of the Relentless Company, M, C, S  
+645 - 35x Ghouls, Blood Ties: Vanguard, C 
+90 - 2x2 Great Bats 
+430 - Dark Coach 
+335 - 3x1 Varkolak 
+Total: 4500
+<ARMY_BOOK>
+Daniel “Humbolch”  Bonvehí, Vampiric Covenant, Strigoi Bloodline 
+250 – Necromancer, Evocation, Adept,  Magical Heirloom 
+785 – Vampire Count, General, Ghoul Lord, Shamanism, Strigoi Bloodline,  Adept, Night's Crown,  Potion of 
+Swiftness, Reaper's Harvest 
+475 – Vampire Courtier, BSB, Bestial Bulk, Halberd, Shamanism, Strigoi Bloodline, Apprentice, Rending Banner 
+105 – 2x2 Bat Swarms 
+660 – 40x Ghouls, C 
+135 – 2x20 Zombies, M 
+845 – 10 Ghasts, C 
+335 – 3x1 Varkolak 
+4500
+<ARMY_BOOK>
+Sergio “Chencho” Ronda - Vampire Covenant 
+Vampiric Bloodline: Brotherhood of the Dragon Bloodline 
+455 - Necromancer [Character]: Evocation, Wizard Master, Binding Scroll, Magical Heirloom 
+200 - Necromancer, Alchemy, Wizard Adept,  
+1005 - Vampire Count, Army General, Brotherhood of the Dragon Bloodline, Crimson Rage, Great Weapon, Lance, Monstrous 
+Revenant, Occultism, Paired Weapons, Plate Armour, Shield, Wizard Adept, Eternity Gem, Death Cheater 
+435 - 39 Skeletons [Core]: C, M, S, Relentless Company 
+435 - 39 Skeletons [Core]: C, M, S, Relentless Company 
+260 - 41 Zombies [Core]: M, S 
+430 - Dark Coach [Special] 
+2x090 - 2x2 Great Bats [Special] 
+545 - 5 Vampire Knights[Swift Death]: Blood Ties  
+545 - 5 Vampire Knights[Swift Death]: Blood Ties  
+Total: 4500p
+<ARMY_BOOK>
+Oriol “Rabanasta” Romeu - Vampire Covenant - Lamia Bloodline 
+1210 - Vampire Count, General, Lamia Bloodline, The Dead Arise, Court of the Damned, Aegis (4+), 
+Great Weapon, Blessed Inscriptions, Ancient Blood Power (Commandment), Wizard Master, Witchcraft 
+400 - Necromancer, Magical Heirloom, Wizard Master, Evocation 
+135 - 20 Zombies, M 
+180 - 29 Zombies, M 
+105 - 3x2 Bat Swarm 
+495 - 40x Skeletons, Spears, M, C, S, Rending Banner 
+645 - 25x Barrow Guard, Halberd, M, C, S, Black Standard of Zagvozd  
+380 - 10x Wraiths 
+740 - 4x Winged Reapers, Paired Weapons 
+4500
+<ARMY_BOOK>
+Alberto "Aguachu" - Vampire Covenant (Strigoi bloodline) 
+820 - Vampire count, General, Strigoi Bloodline, Wizard Adept, Dead Arise, Shamanism, Ghoul lord, Paired 
+Weapons, Touch of greatness, Magical Heirloom, Hypnotic pendant  
+405 - Vampire courier, Strigoi Bloodline, Wizard Apprendice, Shamanism, Bestial Bulk, Cursed Medallion  
+405 - Necromancer, Wizard Master, Evocation, Binding scroll  
+531 - 29 Ghouls, Vanguard, C  
+105 - 2x 2 Bat swarm  
+113 - 8 Dire Wolves  
+140 - 2x 21 Zombies, M  
+560 - 7 Ghasts, C  
+500 - 6 Vampire Spawn, C  
+335 - 2x Varkoalk  
+4494
+<ARMY_BOOK>
+Marcos “MCS” Chozas - Vampire Covenant (Lamia Bloodline) 
+1165 - Vampire Count, Lamia, General, Commandment, Wizard Adept (Witchcraft), Hand weapon, 
+Reaper’s Harvest, Cursed Medallion, Magical Heirloom, Court of the Damned, Blood Ties(Aegis 4+) 
+460 - Necromancer, Wizard Master(Evocation), 2x Binding Scroll 
+639 - 54x Skeletons, C, S, M, Spear & Shield, Flaming Standard 
+145 - 22x Zombies, M 
+115 - 20x Zombies 
+113 - 2x8 Dire Wolves 
+160 - 3x Ghasts 
+385 - 5x Phantom Host 
+370 - 4x Vampire Knights, C,M 
+335 - 1x Varkolak  
+500 - 6x Vampire Spawn, C 
+Total: 4500
+<ARMY_BOOK>
+Eric “Erkk” Renedo – Vampire Covenant 
+1095 - Vampire Count, Army General, The Dead Arise, Lamia Bloodline, Wizard Apprentice, Witchcraft, 
+Commandment, Binding Scroll, Cursed Medallion, Reaper´s Harvest, Court of the Damned, Blood Ties: 
+Aegis (4+)  
+350 - Necromancer, Wizard Master, Evocation 
+474 - 39 Skeletons, Spear, FCG, Flaming Standard 
+185 - 30 Zombies, Musician 
+115 - 20 Zombies 
+133 - 8 Dire Wolves, Champion 
+113 - 8 Dire Wolves 
+105 - 2 Bat Swarm 
+430 – 2*1 Dark Coach 
+400 - 5 Vampire Spawn 
+335 – 2*1 Varkolak 
+4500 Pts
+<ARMY_BOOK>
+Alex Valin Vampire Covenant [4499pts] 
+Necromancer [400pts]: Evocation, Wizard Master; Magical Heirloom - Dominant 
+Necromancer [205pts]: Evocation, Wizard Apprentice; Necromantic Staff - Wizards only - Dominant 
+Vampire Count [1115pts]: Army General, Commandment, Lamia Bloodline, Witchcraft, Wizard Adept; Court of the Damned; Court of 
+the Damned: Blood Ties: Lamia; Cursed Medallion, Reaper's Harvest 
+105 – 2 x Bat Swarms 
+113 – 2 x 8 Dire Wolves 
+418 – 33 x Skeletons; C; M; S; Spear; Rending Banner 
+265 – 25 x Skeletons; M; S; Spear 
+115 – 20 x Zombies 
+160 – 2 x 3 Ghasts 
+180 – 5 x Wraiths 
+490 - Shrieking Horror 
+330 – 2 x 4 Vampire Knights 
+++ Total: [4499pts] ++
+<ARMY_BOOK>
+Pablo "turtle" Vega García- Vampire Covenant
+1115- Vampire Count, General, The dead Arise, Lamia Bloodline, 2 Spells, Court of the Dammed, aegis(4+), Reaper´s Harvest, Crused 
+Medallion, Commandment, Wizzard Adept, Witchcraft 
+455 - Necromancer, 4 Spells, binding scroll, Unholy Tome, Wizard Master, Evocation 
+639 - 54x Skeletons, Spear, M, C, S, Flaming Standard 
+135 - 20x Zombies, M 
+135 - 20x Zombies, M 
+113 - 8x Dire wolves  
+113 - 8x Dire wolves 
+160 - 3x Ghast 
+160 - 2x Phantom Host 
+340 - 9x Wraiths 
+335 - 1x Varloak 
+560 - 7x Vampire Spawn 
+240 - 3x Vampire Knights 
+4500
+<ARMY_BOOK>
+Oriol “Rabanasta” Romeu - Vampire Covenant (Lamia Bloodline) 
+1130 - Vampire Count, General, Lamia Bloodline, The Dead Arise, Court of the Damned, Aegis (4+), Great Weapon, Blessed 
+Inscriptions, Dragonfire Gem, Magical Heirloom, Ancient Blood Power (Commandment), Wizard Adept, Witchcraft 
+485 - Necromancer, Necromantic Staff, Binding Scroll, Wizard Master, Evocation 
+133 - 2x8 Dire Wolves, C 
+135 - 20x Zombies, M 
+125 - 22x Zombies 
+616 - 51x Skeletons, Halberd, M, C, S, Rending Banner 
+090 - 2x Great Bats 
+300 - 8x Wraiths 
+420 - 5x Vampire Spawn, C 
+260 - 3x Vampire Knights, C 
+335 - 2x1 Varkolak 
+4497
+<ARMY_BOOK>
+Adrián "UZuhl" Martínez - Vampire Covenant (Lamia Bloodline) 
+1170 - Vampire Count: General, The Dead Arise, Lamia Bloodline, Court of the Damned, Blood Ties (aegis 4+), Ancient Blood Powers: Commandment, Wizard Adept, Witchcraft, Reaper's Harvest, Cursed Medallion, Binding Scroll.
+250 - Necromancer: Wizard Adept, Evocation,  Magical Heirloom. 
+105 - 2 Bat Swarms. 
+2 x 113 - 2 x 8 Dire Wolves. 
+474 - 39 Skeletons: Spear, C, M, S, Flaming Standard. 
+135 - 20 Zombies: M. 
+185 - 30 Zombies: M. 
+160 - 3 Ghast. 
+260 - 7 Wraiths. 
+160 - 2 Phantom Host. 
+190 - 5 Spectral Hunters. 
+545 - 3 Winged Reapers: Paired Weapons. 
+400 - 5 Vampire Spawn. 
+240 - 3 Vampire Knights. 
+Total: 4500
+<ARMY_BOOK>
+Vampire Covenant - Vicente “Wsoran” Palacio
+720 - Vampire Count, Strigoi, Flying Horror, Chamanism, Wizard Adept, Halberd, King Slayer, Binding Scroll, Potion of Swiftness  
+625 - Vampire Count, General (The Dead Arise), Strigoi, Chamanism, Wizard Apprentice, True Thirst, Binding Scroll, Magical Heirloom
+400 - Vampire Courtier, Strigoi, Chamanism, Wizard Apprentice, Paired Weapons, Touch of Greatness, Rod of Battle  
+607 - 33 Ghouls, Vanguard, C  
+115 - 2x20 Zombies 
+113 - 2x8 Dire Wolves  
+105 - 2 Bat Swarm 
+105 - 3x3 Great Bats  
+335 - 3x1 Varkolak  
+260 - 3 Vampire Knights, C  
+4.493
+<ARMY_BOOK>
+Marino Tejedor "Popy" - Vampire Covenant - Strigoi Bloodline 
+610 - Vampire Count, General, Strigoi Bloodline, Bestial bulk, Binding Scroll, Great Weapon , Wizzard Apprentice,  Shamanism 
+745 - Vampire Count, Strigoi Bloodline, Ghoul Lord, Hypnotic Pendant, Touch of Greatness, Paired Weapons, Wizzard Adept, Shamanism
+250 – Necromancer, Wizzard Adept, Evocation, Magical Heirloom 
+105 – 2 Batswarm 
+133 - 2x 8 Dire Wolves, C 
+140 - 21x Zombies, M 
+645 - 35x Ghouls, C, Vanguard 
+560 - 7x Ghast, C 
+420 - 2x 5 Vampire Spawn, C 
+335 - 1x Varkolak 
+4496
+<ARMY_BOOK>
+Alfonso Damián el Capi “Harpo” Cegarra – Vampire Counts (Cartagena) 
+1265 - Vampire Count, General (The Dead Arise), Lamia, Commandment, Witchcraft, Wizard Master, Court of the Damned, Blood ties (Lamia), Reaper’s Harvest (Hand Weapon), Cursed Medallion
+250 - Necromancer, Evocation, Wizard Adept, Magical Heirloom 
+550 - 45x Skeletons, Spears, Standard Bearer, Stalker's Standard, Musician, Champion 
+280 - 25x Skeletons, Standard Bearer, Banner of the Relentless Company, Champion 
+170 - 31x Zombies 
+133 - 8x Dire Wolves, Champion 
+160 - 3x Ghasts 
+2x90 - 2x2x Great Bats 
+310 - 4x Phantom Hosts 
+2x480 - 2x6x Vampiric spawns 
+240 - 3x Vampire Knights   
+4498
+<ARMY_BOOK>
+Marcos “MCS” Chozas - Vampire Covenant (Lamia Bloodline) 
+1165 - Vampire Count, Lamia, General, Court of the Damned, The Dead Arise, Commandment, Blood Ties(Aegis 4+), Wizard Adept , Hand Weapon, [Reaper’s Harvest], Cursed Medallion, Magical Heirloom, Witchcraft.
+460 - Necromancer, Wizard Master, 2x Binding Scroll, Evocation. 
+639 - 54x Skeletons, C, S, M, Spear & Shield, Flaming Standard. 
+145 - 22x Zombies, M. 
+115 - 20x Zombies. 
+113 - 2x8 Dire Wolves. 
+160 - 3x Ghasts. 
+385 - 5x Phantom Host. 
+370 - 4x Vampire Knights, C, M. 
+335 - 1x Varkolak . 
+500 - 6x Vampire Spawn, C. 
+Total, 4500
+<ARMY_BOOK>
+Vampire Covenant, Raúl Gasque "atrapaflancos" 
+1115 - Vampire count, General, The dead arise, Lamia bloodline, Wizard adept, Witchcraft, Court of the damned (aegis 4+), 
+Commandment, Cursed medallion, Reaper's harvest. 
+250 - Necromancer,  Wizard Adept, Magical heirloom, evocation. 
+255 - Necromancer, Wizard adept, Binding scroll, Alchemy. 
+397 - 32 skeletons, Spears, C, S, M, Flaming standard. 
+270 - 30 Skeletons, M. 
+135 - 20 Zombies, M. 
+113 - 2x8 Dire wolves. 
+105 - 2 Bat swarm. 
+635 - 8 Ghast. 
+440 - 5 Vampire knigths, M. 
+335 - 2x1 Varkolak. 
+4498
+<ARMY_BOOK>
+VAMPIRE COVENANT  EMY  
+1090-Vampire count.lamia  bloodline.court of the damed lamia bloodline, aegis 4+. Commandment wizard adept witchcraft. 
+Shield. Heavy armour. General the dead arise. Paired weapons. Touch of greatness. Basalt infusion.    
+280-Necromancer adept wizard necromantic staff alchemy    
+250-Necromancer adept wizard magic heirloom  evocation   
+105-2 bat swarm    
+113-8 dire wolves   
+165-26 zombies musician  
+340-29 skeletons champion musician .standard bearer banner of the relentless company .light armour. shield .  
+407-32 skeletons champion.musician.standar bearer.rending banner. Light armour. Shield. Halberd   
+430-Dark coach 
+160-2 phantom host  
+420-5 vampire knights  
+740-4 winged reapers paired weapons 
+4500 pts
+<ARMY_BOOK>
+Emmanuel Umendu “Manix” – Vampire Covenant Lamia Bloodline Total: 4496
+1115 – Vampire Count: General, The Dead Arise, Wizard Adept, Witchcraft, Commandment, Court of the Dammed (Blood Ties 
+(Lamia)), Reaper’s Harvest, Cursed Medallion. 
+455 – Necromancer: Wizard Master, Evocation, Binding Scroll, Unholy Tome. 
+650 – 55 Skeleton: FCG, Flaming Standard. 
+135 – 2x20 Zombies: Musician. 
+113 – 2x8 Dire Wolves. 
+160 – 3 Ghast. 
+160 – 2 Phantom Host. 
+340 – 9 Wraiths. 
+240 – 3 Vampire Knights. 
+335 – Varkolak. 
+545 – 3 Winged Reapers: Paired Weapons.
+<ARMY_BOOK>
+Julen Romero (Big Coach) Vampire Covenant 
+455 – Necromancer, Wizard Master, Evocation, Binding Scroll, Unholy Tome. 
+1265 – Vampire Count, General, The Dead Arise, Lamia Bloodline, Ancient Bloodpower: Commandment, Wizard Master, Witchcraft, Court of Damned, Lamia Blood Ties (Aegis 4+), Cursed Medallion, Reaper Harvest.
+105 – 2 Bat Swarm. 
+113 – 8 Dire Wolves (core) 
+638 – 53 Skeletons, Champion, Musician, Standard Bearer: Rending Banner, Spears. 
+135 – 2x20 Zombie, Musician. 
+80 – 5 Dire Wolves 
+180 – 3 Ghast, Champion. 
+300 – 8 Wraiths. 
+420 – 5 Vampire Spawn, Champion. 
+335 – 2x Varkolak. 
+Total: 4496pts
+<ARMY_BOOK>
 Amburn
 Vampire Count, General, Lamia, Adept, Witchcraft, Reapers Harvest, Cursed Medallion, Mask of innocence, Court of the Damned 1095
 Necromancer, Master, Evocation, Necromantic Staff, 430
@@ -141,7 +473,7 @@ Bigfish, VC
 440 - 5 Vampire Knights, M 
 430 - Dark Coach 
 335 - Varkolak 
-90 - 2 Great Bats 
+90 - 2 Great Bats
 <ARMY_BOOK>
 Michal "Houba" Malý - Vampire Covenant - Lamia 
 1285 – Vampire Count, General (The Dead Arise), Lamia, Commandment,  Witchcraft, Wizard Master, Court of the Damned, Blood ties (Lamia),  Reaper’s Harvest (Hand Weapon), Cursed Medallion, Dragonfire Gem
@@ -260,7 +592,7 @@ Gareth Barton, Vampire Covenant
 402 - 9x Barrow Knights, Musician, Champion 
 90 – 2x 2x Great Bats 
 460 - 5x Vampire Knights, Musician, Champion 
-4500 
+4500
 <ARMY_BOOK>
 Marek Gmyrek - VC 
 920 - Vampire Count Master on Skeletal steed, Skeletal steed, Wizard Master, The Occultism, Great Weapon, Heavy Armour, Shield, Death Cheater, Eternity Gem, Arcane Knowledge 
@@ -348,7 +680,7 @@ Kaj "Chosen of Sigmar" Geenen - Vampire Covenant
 560 - 7x Vampire spawns 
 335 - Varkolak 
 335 - Varkolak 
-4500  
+4500
 <ARMY_BOOK>
 Pablo "Turtle" Vega - Vampire Covenant 
 940 - Vampire Count, General, Wizzard Master, 5 spells, The dead Arise, Skeletal Steed, Great Weapon, Heavy armour, Eternity Gem, Death Cheater, Arcane Knowledge, Occultism 
@@ -367,4 +699,123 @@ Pablo "Turtle" Vega - Vampire Covenant
 430 - 1x Dark Coach 
 4498
 <ARMY_BOOK>
-Christian Wenn
+Christian Wennberg - Vampire Covenant - Lamia 
+Bloodline 
+515 - Necromancer, General, Alchemy, Binding Scroll, Necromantic staff, Wizard Master, The Dead Arise 
+855 - Vampire Courtier, BSB, Witchcraft, Court of the Damned (with blood ties upgrade), Paired weapon, King slayer (Paired weapon), Lamia, Wizard Adept 
+405 - Necromancer, Evocation, Binding scroll, Wizard Master 
+115 - 20x Zombies  
+135 - 20x Zombies, Musician 
+255 - 21x Skeletons, Standard bearer, Musician, Champion, Flaming standard 
+507 - 31x Ghouls, Champion 
+133 - 8x Dire Wolves, Champion 
+160 - 3x Ghasts 
+90 - 2 x 2x Great Bats 
+660 - 8x Vampire Spawn, Champion 
+580 - 7x Vampire Spawn, Champion 
+4500
+<ARMY_BOOK>
+Filip “Pulps” Grebac - Vampire Covenant 
+785 - Vampire Count, General, Occultism, Wizard Adept, Skeletal Steed, Great Weapon, Heavy Armour, Shield, Death Cheater, Eternity Gem, The Dead Arise, Hour of the wolf 
+485 - Necromancer, Evocation, Wizard Master, Necromantic Staff, Binding Scroll 
+175 - Necromancer, Alchemy, Wizard Apprentice, Unholy Tome  
+165 - 2x Banshee 
+250 - 2 x 20x Skeletons, Standard Bearer, Musician, Champion, Banner of the Relentless Company 
+135 - 2 x 20x Zombies, Musician 
+133 - 8x Dire Wolves, Champion 
+430 - 2 x Dark Coach 
+380 - 10x Wraiths 
+90  - 2x Great Bats 
+490 - Shrieking Horror 
+4498
+<ARMY_BOOK>
+Mesut Gültepe - Vampire Covenant- Bloodline 
+Army 
+775 - Vampire Count , General, Strigoi, True Thirst, Hypnotic Pendant, Potion of Swiftness, The Dead Arise, Wizard Adept, Ghoul Lord, Shamanism 
+450 - Vampire Courtier , BSB, Strigoi, Paired Weapons, Touch of Greatness, Rending Banner, Wizard Apprentice, Shamanism 
+645 – 35 x Ghouls , Vanguard, Champion 
+133 - 8 x Dire Wolves , Champion 
+133 - 8 x Dire Wolves , Champion 
+133 - 8 x Dire Wolves , Champion 
+115 - 20 x Zombies 
+190 - 5 x Barrow Knights , Musician 
+190 - 5 x Barrow Knights , Musician 
+365 - Altar of Undeath 
+365 - Altar of Undeath 
+335 - Varkolak 
+335 - Varkolak 
+335 - Varkolak 
+4499
+<ARMY_BOOK>
+Chris “eggsPR” Mince - Vampire Covenant - Independent 
+ 
+850 - Vampire Count, General, Heavy Armour, Shield, Willow's Ward, Legend of the Black King, True Thirst, Dragonfire Gem, Hour of the Wolf, The Dead Arise, Master, Evocation 
+830 - Vampire Count, Light Armour, Paired Weapons, Destiny's Call, Touch of Greatness, Necromantic Staff, Arcane Knowledge, Master, Occultism 
+626 - 38x Ghouls, C 
+150 - 23x Zombies, M 
+135 - 3x Bat Swarms 
+739 - 31x Barrow Guards, Shield, M, C, S, Black Standard of Zagvozd 
+90  - 2x Great Bats 
+80  - 2x5 Dire Wolves 
+660 - 8x Vampire Spawns, C 
+260 - 3x Vampire Knights, M 
+4500
+<ARMY_BOOK>
+Marcos "MCS" Chozas - Vampire Covenant- Independent 
+935 - Vampire Count, General, Ocultism, Squeletal Steed, Heavy Armour, Shield, Paired weapons, Death Cheater, Eternity Gem, Master, Arcane Knowledge 
+405 - Necromancer, Evocation, Binding Scroll, Master 
+410 - Barrow King, BSB, Skeletal Steed, Dusk Forged, Hero´s Heart, Basalt Infusion 
+430 - 38 Skeletons, Shield, M, S, C, Icon of the Relentless Company 
+105 – 2 Bat Swarm 
+135 - 10 Dire Wolves 
+115 – 2x20 Zombies 
+430 - Dark Coach 
+90 - 2 Great bats 
+80 - 5 Dire Wolves 
+580 - 7 Vampire Spawn, C 
+335 –2x1 Varkolak 
+4500
+<ARMY_BOOK>
+Condes vampiro Iñaki Fernández (capitán)
+1040 - Vampire Count, General (The Dead Arise), Lamia, Commandment, Evocation,  Wizard Apprentice, Court of the Damned, Blood ties (Lamia), Reaper’s Harvest (Hand Weapon),  Cursed Medallion
+350 - Necromancer, Evocation, Wizard Master 
+555 - 45x Skeletons, Spears, Standard Bearer, Banner of Speed, Musician, Champion 
+235 - 40x Zombies, Musician 
+225 - 38x Zombies, Musician 
+135 - 20x Zombies, Musician 
+430 - Dark Coach
+380 - 10x Wraiths
+480 - 5x Vampire Knights, Standard Bearer, Musician, Champion 
+335 - Varkolak
+335 - Varkolak
+4500
+<ARMY_BOOK>
+Ibon Icaza- Vampire Covenant
+1285- Vampire Count, General, The dead Arise, Lamia Bloodline, 4 Spells, Court of the  Dammed, aegis (4+), Reaper´s Harvest, Crused Medallion,Dragonfire Gem Commandment, Wizzard Master, Witchcraft
+405 - Necromancer, 4 Spells, binding scroll, Wizard Master, Evocation
+639 - 54x Skeletons, Spear, M, C, S, Flaming Standard
+135 - 2x20 Zombies, M
+113 - 2x8 Dire wolves
+160 - 3x Ghast
+380 - 10x Wraiths
+335 - 1x Varloak
+560 - 7x Vampire Spawn
+240 - 3x Vampire Knights
+4500
+<ARMY_BOOK>
+Demi Metachups -  Vampire Covenant
+795- Vampire Count, General, Ghoul Lord, Paired Weapons, Shamanism, Strigoi Bloodline,  Wizard Adept, Cursed Medallion, Hypnotic Pendant, Shield Breaker
+255 - Necromancer, Evocation, Wizard Adept, Binding Scroll
+525 - Vampire Courtier, BSB, Bestial Bulk, Great Weapon, Shamanism, Strigoi Bloodline,  Wizard Apprentice, Rending Banner, Talisman of the Void
+113 - 8x Dire Wolves
+113 - 8x Dire Wolves
+558 - 34x Ghoul, Champion
+150 - 20x Skeleton
+225 - 38x Zombie,  Musician
+560 - 7x Ghast, Champion
+90 - 2x Great Bat
+280 - 3x Vampire Knight, Champion, Musician
+500 - 6x Vampire Spawn, Champion
+335 - Varkolak
+4,499pts
+<ARMY_BOOK>

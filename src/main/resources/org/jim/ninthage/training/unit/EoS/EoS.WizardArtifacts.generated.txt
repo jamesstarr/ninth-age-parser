@@ -11,7 +11,7 @@
 <Unit name="Wizard" 
 	General="General"
 	Path="Alchemy"
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 >Wizard, General, Alchemy, Exemplar’s Flame
 <Unit name="Wizard" 
 	General="General"
@@ -126,7 +126,7 @@
 <Unit name="Wizard" 
 	General="General"
 	Path="Cosmology"
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 >Wizard, General, Cosmology, Exemplar’s Flame
 <Unit name="Wizard" 
 	General="General"
@@ -241,7 +241,7 @@
 <Unit name="Wizard" 
 	General="General"
 	Path="Divination"
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 >Wizard, General, Divination, Exemplar’s Flame
 <Unit name="Wizard" 
 	General="General"
@@ -356,7 +356,7 @@
 <Unit name="Wizard" 
 	General="General"
 	Path="Pyromancy"
-	Artefact="Exemplar’s Flame"
+	Artefact="Exemplar's Flame"
 >Wizard, General, Pyromancy, Exemplar’s Flame
 <Unit name="Wizard" 
 	General="General"

@@ -1,0 +1,410 @@
+<Unit name="Arcane Engine" 
+	Engine="Arcane Shield"
+>290- Arcane Shield
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 - Cannon [Artillery]
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 - Imperial Rocketeer [Artillery]
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250- Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160- Imperial Rocketer
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250 - Imperial Artillery, Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 – 2*1 Artillery: imperial rocketeer
+<Unit name="Artillery" EntryCount=2 
+	ArtilleryWeapons=Mortar
+>200 - 2x1 Artillery Volley Gun.
+<Unit name="Artillery" EntryCount=2 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 – 2 x 1Imperial Rocketeer (4+).
+<Unit name="Artillery" 
+	ArtilleryWeapons=Cannon
+>250- Cannon
+<Unit name="Artillery" 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160- Imperial Rocketeer
+<Unit name="Artillery" EntryCount=2 
+	ArtilleryWeapons="Imperial Rocketeer"
+>160 - 2x1 Rocket Battery
+<Unit name="Electoral Cavalry" ModelCount=5 
+>155 - 5 Electoral Cavalry
+<Unit name="Electoral Cavalry" ModelCount=5 
+	CloseCombatWeapon="Great Weapon"
+>165 – 5 electoral cavalry, great weapon
+<Unit name="Electoral Cavalry" ModelCount=10 
+	Shield
+	Command=M
+	KnightOrders
+>510 - 10x Electoral Cavalry ,C, M, knightly orders + lance+shield.
+<Unit name="Electoral Cavalry" ModelCount=5 
+	CloseCombatWeapon=Lance
+	Command=M
+>215- 5x Electoral cavalry, Lance, Musician, Shield
+<Unit name="Footer">Total: 4496 
+<Unit name="Footer">Samu Stanislaw “Palomita15” – Empire of Sonnstahl Total: 4499 
+<Unit name="Footer">4495 
+<Unit name="Footer">4499 Pts
+<Unit name="Footer">4496
+<Unit name="Footer">++ Total:[4496pts] ++ 
+<Unit name="Footer">Total:4496pts 
+<Unit name="Footer">4499
+<Unit name="Header">Daniel “Uthred” Linares - Empire of Sonnstahl 
+<Unit name="Header">David “Stormmace” Varas - Empire of Sonnsthal 
+<Unit name="Header">Lucas “ Superorko” Hidalgo- Empire of Sonnstahl 
+<Unit name="Header">Empire of Sonnstahl, Joaquín Valls "ximeto" 
+<Unit name="Header">José Vicente Escobar “sevinum”  – Empire of Sonnstahl. 
+<Unit name="Header">Dioscorides Marin Castro 'Diosko', Empire of Sonnstahl
+<Unit name="Header">Pablo "Prelate" Bernaldo de Quirós - Empire of Sonnstahl 
+<Unit name="Heavy Infantry" ModelCount=40 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Banner of Unity"
+>485 - 40 Heavy Infantry: Spears, M, S, C, Banner of Unity [Core]
+<Unit name="Heavy Infantry" ModelCount=20 
+	BannerEnchantment="Household Standard"
+>205- 20 Heavy infantry: S, Household Standard [Core]
+<Unit name="Heavy Infantry" EntryCount=2 ModelCount=20 
+>145 - 2x 20 Heavy infantry
+<Unit name="Heavy Infantry" ModelCount=37 
+	CloseCombatWeapon=Spear
+>412- 37 Heavy Infantry. FCG Spear
+<Unit name="Heavy Infantry" ModelCount=38 
+	CloseCombatWeapon=Halberd
+	Command
+	BannerEnchantment="Rending Banner"
+>468 - 38x Heavy Infantry, M, S, C, Halberd, Rending Banner
+<Unit name="Heavy Infantry" ModelCount=20 
+>145 - 20x Heavy Infantry, Hand Weapon
+<Unit name="Heavy Infantry" ModelCount=37 
+	CloseCombatWeapon=Halberd
+	Command
+	BannerEnchantment="Rending Banner"
+>437 - 37x heavy infantry, Halberd, C,S, rending banner
+<Unit name="Heavy Infantry" ModelCount=20 
+>145 – 2*20 heavy infantry
+<Unit name="Heavy Infantry" ModelCount=36 
+	CloseCombatWeapon=Spear
+	Command
+>401 – 36 x Heavy Infantry,C,M,S, Spear.
+<Unit name="Heavy Infantry" ModelCount=39 
+	CloseCombatWeapon=Halberd
+	Command=MS
+	BannerEnchantment="Household Standard"
+>474- 39x Heavy Infantry, Halberds, MSC, Household Standard
+<Unit name="Heavy Infantry" EntryCount=2 ModelCount=20 
+	Command
+>205 - 2x20 Heavy Infantry, C, S, M
+<Unit name="Heavy Infantry" ModelCount=21 
+	Command=C
+>215 - 21Heavy Infantry, C, S, M
+<Unit name="Imperial Guard" ModelCount=32 
+	Command
+	BannerEnchantment="Rending Banner"
+>608 - 32 Imperial Guard: M, S, C, Rending Banner [Special]
+<Unit name="Imperial Guard" ModelCount=28 
+	BannerEnchantment="Stalker's Standard"
+>532- 28 Imperial Guard: FCG Stalker's Standard
+<Unit name="Imperial Guard" ModelCount=35 
+	Command
+	BannerEnchantment="Rending Banner"
+>665 - 35x Imperial Guard, M, S, C, Rending Banner
+<Unit name="Imperial Guard" ModelCount=28 
+	Command=C
+>467 - 28 imperial guard, C,S
+<Unit name="Imperial Guard" ModelCount=26 
+	Command
+	BannerEnchantment="Household Standard"
+>489 - 26 Imperial Guard, CMS, Houseshold Standard.
+<Unit name="Imperial Guard" ModelCount=39 
+	ReplaceShieldWithGreatWeapon
+	Command=C
+	BannerEnchantment="Household Standard"
+>853 – 39 x Imperial Guard, C,M,S, Replace Shield with Great Weapon,  Enchantment: Househod Standard.
+<Unit name="Imperial Guard" ModelCount=28 
+	Command
+	BannerEnchantment="Rending Banner"
+>532- 28x Imperial Guard, MSC, Rending Banner
+<Unit name="Imperial Guard" ModelCount=29 
+	Command=C
+	BannerEnchantment="Flaming Standard"
+>547 - 29 Imperial Guard, C, S, M, Flaming Standard
+<Unit name="Imperial Rangers" EntryCount=2 ModelCount=5 
+>2x090 - 2x5 Rangers [Imperial Auxiliaries]
+<Unit name="Imperial Rangers" EntryCount=3 ModelCount=5 
+>90- 3x5 Imperial Ranger
+<Unit name="Imperial Rangers" ModelCount=10 
+>150 - 10 Imperial Rangers
+<Unit name="Inquisitor" 
+	Shield
+	Title="Blessed Steel"
+	WeaponEnchantment="Hammer of Witches"
+>275 - Inquisitor, blessed steel, shield, willow guard, hammer of witches, potion of switness.
+<Unit name="Knight Commander" 
+	Shield
+	Mount="Young Griffon"
+	ArmourEnchantment="Basalt Infusion"
+	ShieldEnchantment="Dusk Forge"
+	WeaponEnchantment="Hero's Heart"
+>330- Knight Commander on Young Griffon, hero's heart, basalt infusion, shield
+<Unit name="Knights of the Sun Griffon" EntryCount=2 ModelCount=3 
+>290 – 2x3 Knight of the Sun Griffon
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+	Command=M
+>310 - 3x Knights of Sun Griffon, M
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+>290 - 3 knights of the sun griffon
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+	ReplaceHalberdWithLance
+	Command=M
+>346 - 3 Knigths of the Sun Griffon, lance,M.
+<Unit name="Knights of the Sun Griffon" ModelCount=3 
+	ReplaceHalberdWithLance
+	Command=M
+>346 – 3 x Knights of the Sun Griffon, M, Replace Halberd with Lance.
+<Unit name="Knights of the Sun Griffon" ModelCount=4 
+	Command=M
+>405 - 4 Knights of the Sun Griffon, M
+<Unit name="Light Infantry" EntryCount=2 ModelCount=18 
+>2x259 - 2x18 Light Infantry: Crossbow, M [Core] [Imperial Auxiliaries]
+<Unit name="Light Infantry" EntryCount=2 ModelCount=10 
+>135- 2x10 light infantry
+<Unit name="Light Infantry" EntryCount=2 ModelCount=12 
+	RangedWeapon=Handgun
+	Command=M
+>181 - 2x12 Light Infantry, M, Handgun
+<Unit name="Light Infantry" ModelCount=10 
+>135 – 2*10 light infantry
+<Unit name="Light Infantry" EntryCount=2 ModelCount=16 
+	Command=M
+>233 - 2x16 Ligth Infantry, M.
+<Unit name="Light Infantry" ModelCount=16 
+>213 - 16 x Light Infantry Replace Crossbow with Handgun (4+)
+<Unit name="Light Infantry" ModelCount=16 
+>213 - 16 x Light Infantry
+<Unit name="Light Infantry" EntryCount=2 ModelCount=15 
+	Command=M
+>220- 2x15 Light Infantry, crossbows, Musician
+<Unit name="Light Infantry" ModelCount=17 
+	Command=M
+>246 - 17 Light Infantry, M
+<Unit name="Light Infantry" ModelCount=17 
+	Command=S
+	BannerEnchantment="Marksman’s Pennant"
+>276 - 17 Light Infantry, S, M, marksman’s Pennant, Handgun
+<Unit name="Marshal" 
+	Shield
+	Title="Great Tactician"
+	Artefact="Binding Scroll"
+>280 - Marshall: General, Great Tactician, Shield, Binding Scroll [Character]
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>265 - Marshall: BSB, Shield, Blacksteel, Death Warrant [Character]
+<Unit name="Marshal" 
+	Shield
+	ShieldEnchantment="Willow's Ward"
+	WeaponEnchantment="Death Warrant"
+>235 - Marshal: General, Shield, death Warrant, willow's ward
+<Unit name="Marshal" 
+	BattleStandardBear
+	ArmourEnchantment="Alchemist's Alloy"
+>220- Marshal: BSB, household standard, alchemist's alloy, shield
+<Unit name="Marshal" 
+	Shield
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>320 - Marshal, General, Shield, Death Warrant, Blacksteel, Binding Scroll
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ShieldEnchantment="Willow's Ward"
+>220 - Marshal, BSB, Shield, Willow’s Ward, Household Standard
+<Unit name="Marshal" 
+	Artefact="Locket of Sunna"
+>Locket Of Sunna
+<Unit name="Marshal" 
+	Shield
+	WeaponEnchantment="Death Warrant"
+>220 - Marshal, General, shield, death warrant
+<Unit name="Marshal" 
+	Shield
+	Artefact="Crown of the Wizard King"
+>225 - Marshal, BSB, shield, crown of the wizard king, potion of strength
+<Unit name="Marshal" 
+	ArmourEnchantment="Ghostly Guard"
+>450 - Marshal, Great Griffon, Pistol, lance, plate armour, shield, ghostly guard, wintercloak.
+<Unit name="Marshal" 
+	Shield
+	ArmourEnchantment=Blacksteel
+>275 - Marshal, General, blacksteel, shield, heros heart, Pistol.
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ArmourEnchantment="Basalt Infusion"
+	WeaponEnchantment="Death Warrant"
+>255 - Marshal, BSB, shield, Death Warrant, basalt infusion.
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+>350 - Marshal: Army General,Great Weapon; Imperial Seal, Winter Cloak.
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>265 - Marshal: Battle Standard Bearer, Shield; Blacksteel, Death Warrant.
+<Unit name="Marshal" 
+	BattleStandardBear
+	ArmourEnchantment=Blacksteel
+	WeaponEnchantment="Death Warrant"
+>260- Marshal, Battle Standard Bearer, Blacksteel, Death Warrant
+<Unit name="Marshal" 
+	CloseCombatWeapon="Great Weapon"
+	ArmourEnchantment="Imperial Seal"
+>325- Marshal, Army General, Great Weapon, Binding Scroll, Imperial Seal
+<Unit name="Marshal" 
+	Shield
+	WeaponEnchantment="Death Warrant"
+>220 - Marshal, General, Shield, Death Warrant,
+<Unit name="Marshal" 
+	BattleStandardBear
+	Shield
+	BannerEnchantment="Household Standard"
+>205 - Marshal, BSB, Shield, Household Standard
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Basalt Infusion"
+	Artefact="Locket of Sunna"
+>305 - Prelate: Locket of Sunna, Basalt Infusion, Willow’s Ward, Plate Armour, Shield [Character]
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Imperial Seal"
+>185- Prelate: plate armour, shield
+<Unit name="Prelate" 
+	Shield
+>680 - Prelate, Altar of Battle, Plate Armour, Alchemist’s Alloy, Shield, Shield of Volund, Dragonfire Gem,
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	Mount="Altar of Battle"
+	ArmourEnchantment="Alchemist's Alloy"
+	Artefact="Locket of Sunna"
+>640 - Prelate, Altar of Battle, plate armour, shield, locket of sunna, alchemist alloy
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	Artefact="Potion of Strength"
+>195 - Prelate, shield, plate armour, potion of strenght.
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	ArmourEnchantment="Basalt Infusion"
+>235 - Prelate: Plate Armour, Shield; Basalt Infusion, Willow's Ward - Models on Foot only
+<Unit name="Prelate" 
+	Armour="Plate Armour"
+	Shield
+	Artefact="Locket of Sunna"
+>325- Prelate, Plate Armour, Shield, Binding Scroll, Locket of Sunna, Willow's Ward
+<Unit name="Prelate" 
+	Shield
+	Artefact="Potion of Strength"
+>195 - Prelate, Plate, Shield, Potion of Strenght
+<Unit name="Reiters" EntryCount=2 ModelCount=5 
+>2x150 - 2x5 Reiters [Imperial Auxiliaries]
+<Unit name="Reiters" ModelCount=5 
+>150 - 5 Reiters.
+<Unit name="Reiters" ModelCount=5 
+>150 – 5 x Reiters.
+<Unit name="Reiters" ModelCount=5 
+	RangedWeapon="Bracer of Pistols"
+>175 - 5 Reiters Brace of Pistols
+<Unit name="State Militia" ModelCount=10 
+	Irregulars
+>150 - 10x State Militia, Irregulars
+<Unit name="State Militia" ModelCount=10 
+	Irregulars
+>150 - 10 State Militia, irregulars.
+<Unit name="State Militia" EntryCount=2 ModelCount=10 
+>150 – 2 x 10 State Militia,Gain Skiemisher.
+<Unit name="State Militia" ModelCount=10 
+>150 – 10 x State Militia,Gain Skirmisher.
+<Unit name="Steam Tank" 
+>475 - Steam Tank [Sunna’s Fury] [Artillery]
+<Unit name="Steam Tank" 
+>475- Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank.
+<Unit name="Steam Tank" 
+>475 - Steam Tank.
+<Unit name="Steam Tank" 
+>475- Steam Tank
+<Unit name="Steam Tank" 
+>475 - 1 Steam Tank
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+>465 - Wizard: Wizard Master, Piromancy/Alchemy, Binding Scroll, Essence of free mind, light armour [Character]
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Cosmology
+	Artefact="Essence of a Free Mind"
+>405- Wizard: Master, Essence of Free Mind Alchemy/Cosmology
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Cosmology
+	Artefact="Magical Heirloom"
+>250 - Wizard, Magical Heirloom, Wizard Adept, Cosmology
+<Unit name="Wizard" 
+	Wizard=Adept
+	Path=Alchemy
+>200 - Wizard, Wizard Adept, Alchemy
+<Unit name="Wizard" 
+	Wizard=Adept
+	Path=Cosmology
+	Artefact="Magical Heirloom"
+>250 - Wizard, Adept, cosmology, magical heirloom
+<Unit name="Wizard" 
+	Wizard=Adept
+	Path=Pyromancy
+	Artefact="Book of Arcane Mastery"
+>260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane, Mastery.
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Magical Heirloom"
+>250 - Wizard, Wizard Adept, Divination, Magical Heirloom.
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Cosmology
+	Artefact="Obsidian Rock"
+>375 - Wizard: Cosmology, Wizard Master; Obsidian Rock
+<Unit name="Wizard" 
+	Path=Alchemy
+>480- Wizard, Alchemy, Cosmology, Light Armour, Wizard Master, Destiny's Call, Essence of a Free Mind
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Artefact="Magical Heirloom"
+>400 - Wizard, Wizard Master, Magical Heirloom, Alchemy
+<Unit name="Wizard" 
+	Wizard=Adept
+	Path=Cosmology
+	Artefact="Book of Arcane Mastery"
+>260 - Wizard, Wizard Adept, Book of Arcane Mastery, Cosmology

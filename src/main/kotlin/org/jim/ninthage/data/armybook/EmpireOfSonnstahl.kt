@@ -59,7 +59,7 @@ object EmpireOfSonnstahl {
     ) : Enchantment {
         WinterCloak("Winter Cloak", 80),
         LocketOfSunna("Locket of Sunna", 70),
-        ExemplarsFlame("Exemplar’s Flame", 60),
+        ExemplarsFlame("Exemplar's Flame", 60),
         KaradonsCourser("Karadon's Courser", 50),
         MantleOfUllor("Mantle of Ullor", 25),
     }

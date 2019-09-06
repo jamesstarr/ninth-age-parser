@@ -5,22 +5,25 @@
 	ArtilleryWeapons=Cannon
 >250 - Artillery, Canon
 <Unit name="Artillery" 
-	ArtilleryWeapons=Cannon
+	ArtilleryWeapons=Mortar
 >200 - Artillery, Mortar
 <Unit name="Artillery" 
-	ArtilleryWeapons=Cannon
+	ArtilleryWeapons=Mortar
 >200- Artillery- Mortar
-<Unit name="Footer">434 - 39x Heavy Infantry, Spears, Parent Unit, Standard bearer, Musician, Champion 
-<Unit name="Footer">475 - Steam Tank
 <Unit name="Footer">4500 
-<Unit name="Footer">410- wizard, wizard master, binding scroll, light armour (cosmology)
-<Unit name="Footer">474- 39x heavy infantry, C, M, S, banner of unity
-<Unit name="Footer">475- Steam Tank
 <Unit name="Footer">4497
 <Unit name="Header">Empire of Sonnstahl Sergio Fernandez de Matauko
 <Unit name="Header">Pedro “Lord of Amorebieta”- empire of Sonnstahl
+<Unit name="Heavy Infantry" ModelCount=39 
+	CloseCombatWeapon=Spear
+	Command
+>434 - 39x Heavy Infantry, Spears, Parent Unit, Standard bearer, Musician, Champion
+<Unit name="Heavy Infantry" ModelCount=39 
+	Command
+	BannerEnchantment="Banner of Unity"
+>474- 39x heavy infantry, C, M, S, banner of unity
 <Unit name="Heavy Infantry" ModelCount=20 
-	Command=C
+	Command
 >205- 20x heavy infantry, C, S, M
 <Unit name="Imperial Guard" ModelCount=32 
 	Command
@@ -38,7 +41,6 @@
 	Command=M
 >366 - 3x Knights of the Sun Griffon, Lances, Standard bearer, Champion
 <Unit name="Knights of the Sun Griffon" ModelCount=3 
-	Command=M
 >330 - 3x Knights of the Sun Griffon, Standard bearer, Champion
 <Unit name="Light Infantry" ModelCount=10 
 	RangedWeapon=Handgun
@@ -94,7 +96,18 @@
 <Unit name="State Militia" ModelCount=10 
 	Irregulars
 >150 - 10x State Militia, Irregulars
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475- Steam Tank
 <Unit name="Wizard" 
 	Path=Alchemy
 	Armour="Light Armour"
+	Artefact="Magical Heirloom"
+	Artefact="Talisman of the Void"
 >305 - Wizard, Alchemy, Wizard adept, Light Armour, Talisman of the Void, Magical Heirloom
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Cosmology
+	Artefact="Binding Scroll"
+>410- wizard, wizard master, binding scroll, light armour (cosmology)

@@ -284,7 +284,8 @@ Kostiantyn Volokhin - Beast Herds, Captain
 100 - 1x Razortusk Herd  
 150 - 5x Gargoyles, Scout 
 475 - Gortach 
-475 - Gortach Total: 4499
+475 - Gortach
+Total: 4499
 
 
 Diego Albert - Beast Herd 

@@ -1,3 +1,82 @@
+Sergio Remon "Serwin" - Highborn Elves 
+1120 - Mage on Dragon, General, Wizard Master, Order of the fiery Heart, Essence of Free mind 
+(Piromancy/Alchemy), paired weapons, 
+Binding Scroll, Hero´s Heart 
+815 - Comander on Dragon, BSB, Queen´s Cavalier, Paired weapons, longbow, Shield breaker, Lucky charm, 
+Flaming standard, 
+Potion of swiftness 
+315 - Comander on Giant Eagle, Lance, longbow, Dragonforged armour, shield, Crown of the wizard King, 
+alchemist´s alloy. 
+320 - 3x15 Sea Guard, M 
+190 - Elein Reavers, Bow 
+100 - 2 x Giant Eagle 
+215 - 2 x Lion Chariot 
+110 - Reaver Chariot 
+360 - 5 x Knights of Ryma , M 
+4500
+<ARMY_BOOK>
+Arnau Fernandez ‘’Cobrita’’ – Highborn Elves
+Commander  great weapon, Dragonforged armour,  BSB ,Protection of Dorac,Master of tower of 
+Canreig: Druidism. 430 
+Mage : Divination, adept 225 
+High Prince :  great weapon,Dragonforged armour, lion chariot, royal hunter,Lucky Charm, Blessed 
+Inscriptions. 545 
+x15 Citizen Archers  C,M 300 
+x6 Highborn Lances 280 
+x25 Citizen Spears  C, M 360 
+x5 Elein Reaver ,bow (3+), 190 
+x10 Lion Guard, Skirmisher 245 
+x24 Flame Guardians : C, M, S 652 
+x1 Giant Eagle  100 
+X11 Queen's Guard 308 
+x1 Sky Loop  265 
+x1 Sea Guard Reaper 180 
+x1 Fire Phoenix 420 
+4500
+<ARMY_BOOK>
+Club Waaagh. 
+Coach: Morkito, Sergi. 
+Xavi “Elvis” Roca Aris – Highborn Elves 
+485 - High Prince, General, Dragonforged Armour, Shield, Spear, Diadem of Protection, Sliver of the 
+Blazing Dawn (spear), Willow’s Ward (shield) - {Characters} 
+520 - Mage, Wizard Master (divination), Binding Scroll, Asfad Scholar - {Characters} 
+260 - Commander, BSB, Queen’s Companion, Longbow (1+), Heavy Armour, Shield - {Characters} 
+587 - 29x Citizen Archers, M, S, Flaming Standard - {Core, Queen’s Bows} 
+190 - 5x Elein Reavers, Bow (3+) - {Core, Queen’s Bows} 
+190 - 5x Elein Reavers, Bow (3+) - {Core, Queen’s Bows} 
+190 - 5x Elein Reavers, Bow (3+) - {Core, Queen’s Bows} 
+732 - 24x Lion Guard, C, S, Navigator’s Banner - {Special} 
+641 - 22x Flame Wardens, C, S, Rending Banner - {Special} 
+340 - 5x Knights of Ryma - {Special} 
+180 - 2x Sea Guard Reaper - {Naval Ordnance} 
+4500
+<ARMY_BOOK>
+Antonio "Camarero, otra bocata de polla!!!" Santamaria - Highborn Elves 
+785 - High Prince, General, Dragon, Paired Weapons, Hero’s Heart, Lucky Charm 
+620 - Mage, Wizard Master, Divination, Asfad Scholar, Book of Meladys, Binding Scroll 
+395 - Commander, BSB, Master of Canreig Tower, Book of Arcane Mastery 
+300 - 15 Sea Guard 
+240 - 3x20 Citizen Spears 
+180 - 5 Elein Reavers 
+305 - 2x10 Queen’s Guard, M 
+180 - 2x1 Sea Guard Reaper 
+420 - 1 Phoenix, Fire Phoenix 
+110 - 1 Reaver Chariot Total 
+4500
+<ARMY_BOOK>
+John “Khatep” Shearn - Highborn Elves 
+425 - High Prince, General, Light Armour, Spear, Sliver of the Blazing Dawn, Destiny’s Call 
+415 - Commander, BSB, Light Armour, Great Weapon, Master of the Canreig Tower, Essence of Mithril, Potion of Strength  
+465 - Mage, Asfad Scholar, Wizard Master, Divination  
+760 - 45x Citizen Spears, M, S, C, War Banner of Ryma  
+180 - 5x Elein Reavers 
+190 - 5x Elein Reavers, Bow 
+760 - 25x Flame Wardens, M, S, C, War Banner of Ryma 
+340 - 5x Knights of Ryma  
+421 - 14x Queen’s Guard, M  
+180 - 3x1 Sea Guard Reaper  
+4496
+<ARMY_BOOK>
 Hetes
 High Prince, General, Master of Canreig Tower, Adept, Spear, heavy Armor, Shield, Death Cheater, Spear of Blazing Dawn 690
 Commander, BSB, Queens COmpanion, Spear, Longbow, Moonlight Arrows, Banner of Becalming 335
@@ -54,22 +133,6 @@ Mage, Master, Divination, Book of Meladys 565
 22 Lion Guard, M, C 601
 3x1 Reaper Bolt Thrower 180
 <ARMY_BOOK>
-Fernando “Nando” Arcos, Vermin Swarm 
-820 – Vermin Daemon, General 
-725 – Plague Patriarch on Plague Pendulum, Adept,Occultism, Light Armour, Putrid Protection, Plague Flail 
-255 – Magister, Adept, Witchcraft, Binding Scroll 
-511 – 31x Vermin Guard, S, C, Rending Banner 
-370 – 20x Vermin Guard, S, Lightning Rod 
-235 – 21x Plague Brotherhood, C 
-140 – 20x Giant rats 
-295 – 4x Vermin Hulks 
-238 – 12x Plague Disciples 
-305 – 2x1 Dreadmill 
-190 – 5x Jezails 
-110 – 3x Jezails 
-4499
-
-  
 Pablo “Serwin” Ahumada, Highborn Elves 
  
 1120 – Mage on Dragon, General, Master, Order of Fiery Heart, Essence Free Mind (Pyromancy/Alchemy),  Paired Weapons,(Hero's Heart), Binding Scroll 
@@ -84,36 +147,6 @@ Pablo “Serwin” Ahumada, Highborn Elves
 245 – 10x White Lions, Baleig Highlanders 
 340 – 5x Knights of Ryma 
 4500
-
-  
-Luis "Asurnil" Muñoz", Daemonic Legions 
-695 – Sentinel of Nukuja on Throne of the Oracle, General (Greater Dominion), Divination, Mark of  Eternal Champion 
-275 – Harbinger of Father Chaos, Adept, Evocation 
-375 – 15x Lemures, S, M 
-375 – 2x15 Myrmidons, Whipcrack Tail, M 
-639 – 6 Clawed Fiends, Mesmerising Plumage, M 
-335 – 1x Hope Harvester, Mark of Eternal Champion 
-334 – 12x Hellhounds, Digestive Vomit 
-235 – 1x Threshing Engine, Horde Thresher 
-205 – 1xTitanslayer Chariot 
-186 – 2x Mageblight Gremlins, Living Shield 
-305 – 4x Veil Serpents 
-160 – 5x Furies 
-4494
-
- 
-Ivan "Orion" Diaz, Ogre Khans 
-545 – Shaman, General, Master, Shamanism, Iron Fist, BInding Scroll, Lygur's Tongue 
-420 – Khan, BSB, Trolleater, Brace of Ogre Pistols, Viper's Curse, Flaming Standard, Potion of Swiftness 
-355 – Shaman, Adept, Thaumaturgy, Iron Fist, Book of Arcane Mastery, Potion of Strength 
-360 – Mammoth Hunter, Hunting Spear, Iron Fist, Leader of Pack, Wrestler's Belt, Dragonfire Gem, Lucky Charm,  Spinesplitter 
-736 – 9x Bruisers, M, S, C, Banner of Discipline 
-234 – 29x Scraplings,Spear, M, Scrapling Foreman 
-155 – 3x Tribesmen 
-585 – 5x Mercenary Veterans, M, Poison, Accurate,  Brace of Ogre Pistols 
-295 – 2x1 Slave Giant, Great Weapon  80 – 2x1 Sabretooth Tiger 
-175 – 2x2 Yetis 
-4500  
 <ARMY_BOOK>
 Hallvard "Fairhair" Haugen - Highborn Elves 
  
@@ -136,7 +169,7 @@ Thomas "Artur" Jacobs - Highborn Elves
 110 - 1x Reaver Chariot 
 615 - 20x Queen's Guard, Musician, Spears 
 180 - 3x 1x Sea Guard Reaper 
-4498  
+4498
 <ARMY_BOOK>
 Hristo Nikolov - Highborn Elves 
 465 - Mage, General, Asfad Scholar, Wizard Master, Divination 
@@ -183,3 +216,87 @@ Giulio "Falanor" Gatti - Highborn Elves
 425 - High Prince, Army General, Spear, Sliver of the Blazing Dawn, Destiny's Call 
 515 - Mage Master, Asfad Scholar, Master, Divination, Magical Heirloom 
 190 - 2x5 Elein Reavers, Bows 
+472 - 27 Citizen Spears, Champion, Musician, Standard Bearer, War Banner of Ryma 
+280 - 20 Citizen Spears, Champion, Musician 
+360 - 2x5 Knights of Ryma, Musician 
+747 - 24 Lion Guard, Champion, Musician, Standard Bearer, Banner of Becalming 
+180 - 3x1 Sea Guard Reaper Total: 4 499
+<ARMY_BOOK>
+Jerzy "Furion" Brzozowski - HbE 
+750 - High Prince on Dragon, Dragon, Great Weapon, Obsidian Rock 
+565 - Mage: Asfad Scholar, Master, Divination, Book of Meladys, 
+485 - High Prince: Queen's Companion, General, Spear, Sliver of the Blazing Dawn, Destiny's Call, Longbow, Moonlight Arrows 
+280 - 20x Citizen Spears, M, C 
+190 - 5x Elein Reavers, Bows 
+662 - 27x Sea Guard, M, S, C, Banner of Speed 
+360 - 5x Knights of Ryma, M 
+180 - 3x1 Sea Guard Reaper 
+663 - 21x Lion Guard, MCS, Banner of Becalming 
+4495
+<ARMY_BOOK>
+Mehmet Çamuroğlu - Highborn Elves 
+ 
+985 - High Prince , General, Queen's Cavalier, Dragon, Longbow, Lance, Nova Flare, Binding Scroll ,Binding Scroll 
+1065 - Mage , Wizard Master, Order of the Fiery Heart, Dragon, Paired Weapons, Hero's Heart, Essence of Free Mind, Pyromancy/Alchemy 
+260 - 5 x Highborn Lancers, Musician 
+260 - 5 x Highborn Lancers, Musician 
+260 - 5 x Highborn Lancers, Musician 
+180 - 5 x Elein Reavers 
+180 - 5 x Elein Reavers 
+110 - Reaver Chariot 
+110 - Reaver Chariot 
+543 - 7 x Knights of Ryma , FC, Banner of Discipline 
+543 - 7 x Knights of Ryma , FC, Banner of Discipline 
+4496
+<ARMY_BOOK>
+Nikita Volkov - Highborn Elves 
+700 - High Prince, General, 2 additionnal Learned Spells, Shield, Willow's Ward, Dragonforged Armour, Spear, Sliver of the Blazing Dawn (Spear), Diadem of Protection, adept, Master of Canreig Tower 
+320 - Commander, Queen’s Companion, Battle Standard, Longbow, Elu’s Heartwood, Light Armour 
+468 – 2x28 Citizen Spears, Standard Bearer, Banner of the Relentless Company, Musician, Champion 
+190 - 5 Elein Reavers, Bows 
+840 - 30 Sword Masters, Standard Bearer, Navigator’s Banner, Musician, Champion 
+100 -2x1 Giant Eagle 
+685 - 20 Queen's Guard, Standard Bearer, Banner of Becalming, Musician 
+265 - Sky Sloop 
+180 – 2x1 Sea Guard Reaper 
+4496
+<ARMY_BOOK>
+Bernardo “Cucogro” Calderón, Highborn Elves
+1000 – High Prince on Ancient Dragon, General, Queen's Cavalier, Great Weapon, Obsidian Rock
+545 – Mage on Giant Eagle, Master, Divination, Binding scroll, Light Armour, Basalt Infusion, Talisman of Shielding
+612 – 27x Sea Guard, S, M, C
+260 – 2x5 Highborn Lances, M
+788 – 26x Lion Guard, S, C, Navigator's Banner
+100 – 1x Giant Eagle
+360 – 2x5 Knights of Ryma, C
+215 – 1x Lion Chariot
+4500
+<ARMY_BOOK>
+José Andrés "drakaris" (Highborn Elves)
+310 - Mage: General, Order of the Fiery Heart, Wizard Adept, Essence of a Free Mind, Pyromancy/Alchemy
+315 - Commander: BSB, Longbow (1+), Queen's Companion, Moonlight Arrows, Binding Scroll
+535 - Mage: Asfad Scholar, Wizard Master, Divination, Amethyst Crystal
+4x240 - Citizen Spears
+180 - 5 Elein Reavers
+450 - 15 Flame Wardens: S, Banner of Becalming
+360 - 15 Flame Wardens
+2x215 - Lion Chariot
+210 - 2 Reaver Chariots
+305 - 10 Queen's Guard: M
+180 - Sea Guard Reaper
+265 - Sky Sloop
+Total: 4,500pts
+<ARMY_BOOK>
+Aingeru  Captain “Toper”- Highborn Elves
+570- High Prince, general, heavy armour, spear, sliver of the Blazing Dawn,  protection of Dorac, dragon staff, hig warden of the flame
+425- Commander, battle standar Bearer, Master of Canreig Tower, essence of  Mithril, great weapon, lucky charm
+465- Mage, wizard Master, asfad scholar (Divination)
+170- 10x citizen archers
+340- 2x6 highborn lances, C, S, M
+340- 20x citizen spears, M, S, war banner of Ryma
+864- 28x Lion guard, M, S, C, Navigator´s Banner
+356- 12x queen´s guard M
+265- Skyloop
+180- 2x1 sea guard reaper
+4495
+<ARMY_BOOK>

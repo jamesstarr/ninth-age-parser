@@ -1,3 +1,297 @@
+Miquel "GoldenDwarf" garcia - dwarven holds 
+130- Engineer, general, shield 
+130- Engineer, shield  
+360- Dragon seeker, rune of destruction, rune smashing, rune of fire  
+490- Clan marksmen x20 M, guild-crafeted handgun  
+235- Greybeards x10 M, throwing weapons  
+431- Greybeards x16 C,M, shield, throwing weapons  
+2x 350- Grudge buster  
+2x 130- Vengeance seeker 
+2x 210- Steam bomber  
+492- Rangers x20 C,M, shield, crossbow  
+207- Seekers x7 C, skirmisher, vanguard  
+2x 320- Organ gun, rune crafted  
+Total: 4495
+<ARMY_BOOK>
+Oriol “Atila” Garcia – The Dwarven Holds 
+130.- Engineer, Guild-crafted handgun  
+125.- Engineer, General 
+360.- Dragon Seeker, Rune of Smashing, Rune of Fire, Rune of Destruction 
+536.- 22x Clan Marksmen, Guild-crafted handgun, music 
+175.- 10x Greybeards 
+415.- 15x Greybeards, Musician, Shield, Throwing Weapons, Vanguard 
+233.- 8x Seekers, Champion, Brothers of Vengeance, Vanguard 
+392.- 18x Rangers, musician, crossbow 
+3x175.- 3x Steam Copters, Attack Copters 
+706.- 6x Hold Guardian, FCG (Runic Standard of Swiftness) 
+2x130.- 2x1 Vengeance Seeker 
+2x320.- 2x Field Artillery, Organ gun, Runecrafted 
+Total:4.497
+<ARMY_BOOK>
+Martí “Paketking” Vidal - Dwarven Holds 
+770 - King: General, Holdstone, Shield, War Throne, Rune of Destruction, 2x Rune of Might, Rune of Steel, Rune of Storms 
+185 - Anvil of Power 
+235 - Runic Smith: 3x Battle Runes, Shield 
+205 - Thane: BSB, Shield, Legion Standard 
+570 - 20 Clan Marksmen: Great Weapon, M, S, Runic Standard of Swiftness 
+555 - 31 Clan Warriors: M, C, S, Shields, Banner of the Relentless Company 
+626 - 6 Hold Guardians: C, M 
+492 - 20 Rangers: Crossbow (3+), Great Weapons, M 
+505 - 20 Seekers: M, Vanguard 
+175 - 2x 1 Steam Copters: Attack Copter 
+Total: 4493
+<ARMY_BOOK>
+Marti “Paketking” Vidal - Dwarven Holds 
+770 - King: General, Holdstone, Shield, War Throne, R of Destruction, 2x R of Might, R of Steel, R of Storms 
+185 - Anvil of Power 
+235 - Runic Smith: 3x Battle Runes, Shield 
+205 - Thane: BSB, Shield, Legion Standard 
+570 - 20 Clan Marksmen: Great Weapon, Musician, Standard Bearer, Runic Standard of Swiftness 
+555 - 31 Clan Warriors: FCG, Shields, Banner of the Relentless Company 
+626 - 6 Hold Guardians: Champion, Musician 
+492 - 20 Rangers: Crossbow (3+), Great Weapons, Musician 
+505 - 20 Seekers: Musician, Vanguard 
+2x175 - 2x 1 Steam Copters: Attack Copter 
+Total: 4493
+<ARMY_BOOK>
+Carlos Andreo “Karl” – Dwarven Holds Total: 4499 
+475 – King: General Plate Armour, Shield, Rune of Destruction, Rune of Smashing, Rune of Fire, Rune of 
+Iron, 2xRune of Shielding.  
+130 – Engineer: Plate Armour, Shield.  
+200 – Thane: Plate Armour, Shield, Battle Standard Bearer, Holdstone.  
+665 – 38 Clan Warriors: Shield, Stalker’s Standard, FCG.  
+160 – 2x10 Clan Warrior: Shield, Champion.  
+140 – 10 Clan Warrior: Shield.  
+798 – 7 Hold Guardians: Banner of Speed, FCG.  
+696 – 6 Hold Guardians: Banner of Speed, FCG.  
+175 – 2x1 Steam Copter: Attack Copter.  
+170 – Field Artillery: Flame Cannon, Rune Crafted.  
+255 – Field Artillery: Cannon.  
+300 – Field Artillery: Catapult, Rune Crafted.
+<ARMY_BOOK>
+Daniel “Humbolch” Bonvehí - Dwarven Holds 
+120 - Thane, General  
+536 - 22x Clan Marksmen, Guild-Crafted Handgun, M 
+359 - 14x Greybeards, Shield, Throwing Weapons, M 
+235 - 10x Greybeards, Throwing Weapons, M 
+350 - 2x1 Grudge Buster 
+205 - 2x10 Miners, Paired Weapons 
+412 - 20x Rangers, Crossbow 
+130 - 2x1 Vengeance Seeker 
+305 - 2x2 Steam Copters 
+300 - 2x1 Field Artillery, Catapult, Rune Crafted 
+255 - Field Artillery, Cannon 
+4497
+<ARMY_BOOK>
+Jorge Fuentes “Fulcrum” - Dwarven Holds. 
+260 – Engineer, General, shield, wyrm-slayer Rocket, Rune of Denial, Rune of the forge. 
+240 – 2 x 10 Clan Marksmen, shield, crossbow, M. 
+419 – 14 Greybeards, shield, throwing weapons, M, S, Banner of the Relentless Company. 
+255 – 10 Grey beards, shield, throwing weapons, M. 
+265 – 2 x 10 Miners, shield, throwing weapons, M. 
+487 – 2 x 22 Seekers, M. 
+445 – 20 Seekers, M. 
+175 – 2 x 1 Steam Copter, Attack Copter. 
+210 – 1 Steam Copter, Steam Bomber. 
+255 – Field Artillery, Cannon. 
+320 – Field Artillery, Organ Gun, Rune Crafted. 
+4498
+<ARMY_BOOK>
+Jose Andres "Drakaris" Borge - Dwarven Holds  
+645 - King, General, Shield, War Throne, Rune of Destruction, 2x Rune of Might  
+325 - Runic Smith, 3x Battle Runes, Shield, Rune of Denial  
+180 - Thane, BSB, Shield 
+185 - Anvil of Power 
+564 - 2x29 Clan Warriors, C, S, M, Shield, Spear, Banner of Speed  
+280 - 2x3 Hold Guardians 
+310 - 2x15 King's Guard 
+225 - 10x Miners, Throwing Weapons 
+245 - 10x Miners, shields, Throwing Weapons 
+175 - 1x Steam Copters, Attack Copter 
+210 - 1x Steam Copters, Steam Bomber 
+Total: 4498
+<ARMY_BOOK>
+Dwarven holds - Dani Casanova "karag" 
+490 - King, general, 2x Rune of Shielding,  2x Rune of Iron, Rune of Destruction, Rune of Smashing, shield, pistol. 
+235 - Runic Smith, 3x Battle Runes, Shield. 
+235 - Thane, BSB, Rune of Shielding, Rune of Iron, shield. 
+185 - Anvil of Power. 
+563 - 24 Greybeards, Shield, CSM. 
+563 - 24 Greybeards, Shield, CSM. 
+485 - 20 Deep Watch, CS. 
+606 - 6 Hold Guardians, C. 
+404 - 19 Seeker. 
+383 - 18 Seeker. 
+175 - 2x1 Steam Copters, Attack Copter. 
+4499pts
+<ARMY_BOOK>
+Rafael  Medina -  Dwarven Holds  
+430 - Runic Smith, Army General, 3x Battle Runes, Shield,  Rune of Denial, Rune of Dragon's Breath, 2x Rune of 
+Iron (characters) 
+395 – Thane, Battle Standard Bearer, Holdstone, Shield, Shield Bearers, 3x Rune of Lightning (characters) 
+185 - Anvil of Power (caracters) 
+130 -2x1 Engineer, Shield (characters) ( engines of war) 
+260 – 2x10 Clan Marksmen, Guild-Crafted Handgun, Shield  (core) ( clan´s thunder) 
+610 – 35 Clan Warriors, Shield, Spear, FCG (core) 
+175 – 2x1 Steam Copters (clan´s thunder)  
+320 – 2x1 Field Artillery, Organ Gun, Rune Crafted (engines of war) 
+850 – 8 Hold Guardians, Standard Bearer, Banner of the Relentless Company: (special) 
+130 – 2x1 Vengeance seeker (special) 
+Total 4500pts
+<ARMY_BOOK>
+Quim "Prime" Cots - Dwarven Holds 
+King: General, Holdstone, Shield, Rune of Fury, 2x Rune of Migth, 2x Rune of Iron, 2x Rune of 
+Shielding 495 
+Thane: BSB, Shield, Runic Standard of Shielding 260 
+Runic Smith: Shield, Rune of Oaths, Rune of Gleaming, Rune of Resilience 235 
+Anvil of Power: Rune of Oaths, Rune of Gleaming, Rune of Resilience 185 
+10x Clan Warriors: Shield 140 
+10x Clan Warriors: Shield 140 
+10x Clan Warriors 120 
+30x Greybeards: CMS, Shield, Rending Banner 740 
+Vengance Seeker 130 
+Vengance Seeker 130 
+7x Hold Guardians: M 708 
+Grudge Buster 350 
+Steam Copters: Attack Copter 175 
+Steam Copters: Attack Copter 175 
+Field Artillery: Cannon 255 
+Field Artillery: Cannon 255 
+TOTAL: 4493
+<ARMY_BOOK>
+Raul "oRu84" Sanchez - Dwarven Holds 
+400 - Dragon Seeker, Monster Seeker, Weapon Runes (R. of Precision, R. of Quickening, R. of Smashing 
+250 - Engineer, General, Shield, Wyrm-Slayer Rocket, Talismanic Runic (R. of Denial) 
+280 – 2 x 10 Clan Marksmen, Guild-Crafted Handgun, Shield, M. 
+351 – 12 x Greybeards, Shield, Throwing Weapons, Vanguard C, S. 
+215 – 10 x Greybeards, Shield, Vanguard 
+350 – 2 x 1Grudge Buster 
+280 – 3 x Hold Guardians 
+295 – 10 x Miners, Great Weapons, Pistol, M, S. 
+229 – 10 x Rangers, Crossbow, Shields 
+259 – 9 x Seekers, Skirmisher, Vanguard, C. 
+130 – 2 x 1 Vengeance Seeker 
+210 - Steam Copter, Steam Bomber 
+170 - Field Artillery, Flame Cannon: Rune Crafted 
+320 - Field Artillery, Organ Gun: Rune Crafted 
+Total: [4499pts]
+<ARMY_BOOK>
+Jesús Garza "Garza" Dwarven Holds 
+225 - Engineer; General, Rune of Denial; Shield; Crossbow (3+) 
+140 - 10 Clan Warriors; Vanguard; Paired Weapons  
+120 - 2x10 Clan Warriors; Paired Weapons;  
+359 - 14 Greybeards; Shield; Throwing Weapons (5+); Musician;  
+195 - 10 Greybeards; Shield  
+200 - 10 Clan Marksmen;  
+310 - 15 King's Guard;  
+225 - 10 Miners; Throwing Weapons (5+);  
+312 - 15 Rangers; Crossbow (3+); 
+130 - 2x1 Vengeance Seeker;  
+280 - 3 Hold Guardians;  
+350 - Grudge Buster;  
+210 - 1 Steam Bomber;  
+305 - 2×2 Steam Copters; Attack Copter  
+255 - Field Artillery; Cannon (4+);  
+320 - Field Artillery; Organ Gun (4+); Rune Crafted (50);  
+4491
+<ARMY_BOOK>
+Julio Elipe “Moxaz” – Dwarven Holds
+Characters: 125 (2.7%≤40%) Core: 1145 (25,4%≥25%) Clan´s thunders: 1529 (33.97%≤35%) Engines of war: 870 (19.3%≤20%) Special: 955 (No limit)
+125 – Engineer, General (Characters) (Engines of war) 
+910 –30 Greybeard, Great weapon, throwings weapons, M,C,S runic standard(Flaming standard)  (Core) 
+235 –10 Greybeard, throwings weapons ,  M (Core) 
+312 – 14 Ranger, M, crossbow (Clan´s thunders) 
+432– 20 Ranger, M, crossbow (Clan´s thunders) 
+225 – Miners , Pistol (Clan´s thunders) 
+205 – Miners , Shield (Special) 
+310 – King´s guard (Speacial) 
+310 – King´s guard (Speacial) 
+130 – Vengeance seerker (Special) 
+175- Steam copters attack copter (Clan´s thunders) 
+175- Steam copters  attack copter (Clan´s thunders) 
+210- Steam copters  attack bomber (Clan´s thunders) 
+170 - Flame cannon, rune crafted (Engines of war) 
+320 - Orgun gun, rune crafted (Engines of war) 
+255- Cannon (Engines of war) 
+4.499
+<ARMY_BOOK>
+Dwarven Holds - Tomás “tomisky” García  
+765 - King, General, War Throne, Shield, Rune of Resistance, Rune of Destruction, 2 Rune of Might, Rune of Shielding, Holdstone  
+365 - Thane, BSB, Runic Standard of Wisdom, Shield, 2 Rune of Iron, 2 Rune of Shielding, Holdstone, Guild-Crafted Handgun 
+185 - Anvil of Power  
+155 - 2x1 Engineer, Wyrm-Slayer Rocket  
+608 - 24 Greybeards, Shields, S, M, C, Runic Standard of Dismay  
+260 - 2x10 Clan Marksmen, Guild-Crafted Handgun, Shields  
+547 - 21 Deep Watch, S, M, C, Aether Icon 
+130 - 2x1 Vengeance Seeker  
+175 - 2x1 Steam Copters, Attack Copter 
+320 - Field Artillery, Organ Gun, Rune Crafted  
+270 - Field Artillery, Organ Gun 
+4.500
+<ARMY_BOOK>
+Dwarves Holds, Jose Ramón Rico “ grimgor_piel_hierro” 
+715 - King ,General, Shield, War Throne. Rune of Destruction, 2x Rune of Might, 2x Rune of Shielding, Rune of the Forge. 
+260 - Runic Smith 3x Battle Runes, Shield, Rune of Iron. 
+375 - Dragon Seeker, Monster Seeker ,Rune of Fire, Rune of Quickening, Rune of Smashing. 
+265 - Thane ,BSB, Pistol, Shield, Flaming Standard, Rune of Iron, Rune of Mining. 
+185 - Anvil of Power. 
+120 – 10 Clan Warriors. 
+494 - 28 Clan Warrior, Great Weapon, Vanguard. 
+515 – 20 Greybeards, Great Weapon, S, Banner of Relentless Company 
+565 – 20 Deep Watch, C,M,S, Runic Standard of Swiftness. 
+501 – 2x19 Seekers C,M, Vanguard. 
+4496pts
+<ARMY_BOOK>
+Jesus Velasco - “ CHUS”- Dwarven Holds
+750p- 1 king: general, Holdstone, Shield, War Throne, Rune of the Forge, Rune of Destruction, 2X Rune of Might, 2x Rune of Shielding
+295p – 1 Runic Smith: shield, Rune of Devouring, Rune of Grounding 
+130p- 2 x Engineer: shield  
+510p- 20 x Greybeards: shield, command group, Runic Standard of the Hold  
+304p- 14 x Clan Marksmen: shield  
+160p- 2 x 10 Clan Warriors: shield, musician  
+175p- 2x 1 Steam Copters: copter attack  
+130p- 2 x1 Vengeance Seeker  
+404p- 2 x 19 Seekers  
+320p- 2 x 1 organ cannon: Craft rune  
+TOTAL: 4497
+<ARMY_BOOK>
+Carlos Andreo “Karl” – Dwarven Holds Total: 4497
+250 - Engineer, General, Plate Armour, Shield, Wyrm-Slayer Rocket (3+), Rune of Denial.  
+255 - 10 Greybeards: Shield, Musician, Throwing Weapons (5+). 
+405 - 15 Greybeards: Shield, Champion, Musician, Throwing Weapons (5+).  
+240 - 10 Clan Marksmen: Shield, Musician. 
+240 - 10 Clan Marksmen: Shield, Musician. 
+310 - 15 King's Guard. 
+310 - 15 King's Guard.  
+205 - 10 Miners: Paired Weapons. 
+205 - 10 Miners: Paired Weapons. 
+332 - 15 Rangers: Musician, Crossbow (3+). 
+130 - Vengeance Seeker.  
+130 - Vengeance Seeker. 
+350 - Grudge Buster. 
+210 - Steam Bomber. 
+175 - Attack Copter. 
+175 - Attack Copter. 
+255 - Field Artillery: Cannon. 
+330 - Field Artillery: Organ Gun, Rune Crafted.
+<ARMY_BOOK>
+Jorge “Fuyur” Alamar - Dwarven Holds
+130 - Engineer, General, Guild Crafted Handgun. 
+240 - 10x Clan Marksman, Guild-Crafted Handgun. 
+140 - 10x Clan Warrior, Paired Weapons, Vanguard. 
+120 - 2x10 Clan Warrior, Paired Weapons. 
+255 - 2x10 Greybeard, Musician, Shield, Throwing Weapons. 
+350 - 2x Grudge Buster. 
+310 - 2x15 King's Guard. 
+205 - 10x Miners, Paired Weapons. 
+120 - 5x Seekers, Brothers of Vengeance. 
+130 - 2x Vengeance Seeker. 
+305 - 2x Steam Copters, Attack Copter, Additional Copter. 
+255 - Field Artillery, Cannon. 
+320 - Field Artillery, Organ Gun, Rune Crafted. 
+150 - Field Artillery, Flame Cannon. 
+Total: 4500pts
+<ARMY_BOOK>
 LeRoy
 King, General, Holdstone, Plate armor, Shield, Rune of Iron, Rune of Destruction, Rune of Fury, Rune of Smashing, Run of Shielding X2, 525
 Thane, BSB, Shield, Rune of Lightning x 3, Rune of Dragon Breath, Shield Bearers 420
@@ -157,7 +451,7 @@ Holds
 849 - 29 Greybeards, Shield, Throwing Weapons, Musician, Standard Bearer, Champion, Runic Standard of Swiftness  
 140 - 2x 10 Clan Warriors, Shield  
 577 - 2x23 Seekers, Musician, Vanguard  
-305 - 2x2 Steam Copters, Attack Copters Total: 4498  
+305 - 2x2 Steam Copters, Attack Copters Total: 4498
 <ARMY_BOOK>
 Rik 'Rungni' de Meij – Dwarven Holds 
 260 – 1x Engineer: General, Wyrm slayer rocket (3+), shield, rune of the forge, rune of denial   
@@ -171,4 +465,116 @@ Rik 'Rungni' de Meij – Dwarven Holds
 529 – 24x Seekers: musician 
 529 – 24x Seekers: musician 
 305 – 2x Attack copter 
-175 
+175 – 1x Attack copter 
+320 – 1x Organ Gun: Runecrafted 
+320 – 1x Organ Gun: Runecrafted 
+4497
+<ARMY_BOOK>
+Simon Wood, Dwarven Holds 
+415 - Runic Smith, General, Ancestral Memory, Shield, 2x Runes of Iron, Rune of Dragon’s Breath, 
+2 Rune of Mastery, 2 Battle Runes 
+345 - Runic Smith, Shield, Rune of Iron, Rune of the Forge, Rune of Devouring, Rune of Mastery, 2 Battle Runes 
+340 - Thane, Battle Standard Bearer, Shield, 2x Legion Standards, Rune of Iron, Rune of Dragon’s Breath, Holdstone 
+185 - Anvil of Power 
+690 - 40x Clan Warriors, Shields, Standard Bearer, Musician, Champion, Banner of the Relentless Company 
+220 – 2x 10x Clan Marksmen, Shields 
+885 - 2x 8x Hold Guardians, Standard Bearer, Musician, Champion, Runic Standard of the Hold 
+105 – 3x 1x Field Artillery, Dwarf Ballista 
+4500
+<ARMY_BOOK>
+Erikson « Komikaz » de Azevedo – Dwarven Holds 
+ 
+130 - Engineer, General, Shield  
+155 - Engineer, Wyrm-Slayer Rocket (3+)  
+180 – 10x Clan Warriors, Throwing Weapons (5+), Shields, M 
+180 – 10x Clan Warriors, Throwing Weapons (5+), Shields, M 
+255 – 10x Greybeards, Throwing Weapons (5+), Shields, M 
+255 – 10x Greybeards, Throwing Weapons (5+), Shields, M 
+255 – 10x Greybeards, Throwing Weapons (5+), Shields, M 
+646 – 6x Hold Guardians, C, M, S 
+681 – 6x Hold Guardians, C, M, S, Flaming Standard  
+350 - Grudge Buster  
+350 - Grudge Buster  
+210 - Steam Copters Bomber  
+210 - Steam Copters Bomber  
+320 - Organ Gun, Rune Crafted  
+320 - Organ Gun, Rune Crafted  
+4 497
+<ARMY_BOOK>
+David “Papa Deej” Johnson - Dwarven Holds 
+490 - King, General, Shield, Rune of Iron, Rune of Destruction (Hand Weapon), Rune of Smashing (Hand Weapon), Rune of Fury (Hand Weapon), 2x Runes of Shielding 
+400 - Thane, Battle Standard Bearer, Shield, Runic Standard of Shielding, 2x Runes of Lightning (Hand Weapon), Holdstone, Rune of Resonance 
+375 - Dragon Seeker, Rune of Might (Paired Weapons), Rune of Quickening (Paired Weapons), Rune of Fury (Paired Weapons), Monster Hunter 
+185 - Anvil of Power 
+650 - 35x Clan Warriors, Spears and Shields, Standard Bearer, Musician, Champion, Banner of the Relentless Company 
+240 - 2x 10x Clan Marksman, Shields, Musician 
+681 - 6x Hold Guardians, Standard Bearer, Musician, Champion, Runic Standard of Wisdom. 
+233 - 8x Seekers, Brothers of Vengeance, Vanguard, Champion 
+245 - 2x 10x Miners, Throwing Weapons, Paired Weapons 
+130 - 2x Vengeance Seeker 
+255 - Field Artillery, Cannon 
+4499
+<ARMY_BOOK>
+Nebojša “Šlos” Milid - Dwarven Holds 
+ 
+770 - King, General, War Throne, Shield, Holdstone, Rune of Destruction, Rune of Might x2, Rune of Steel, Rune of Shielding 
+420-Thane, BSB, Shield Bearers, Shield, Runic Standard of Swiftness, Rune of Steel, Rune of the Forge, Rune of Mining 
+719 - 39x Clan Warriors, Spear, Shield, M, C, S, Stalker's Standard 
+215 - 10x Greybeards, Shield, Vanguard 
+195 - 10x Greybeards, Shield 
+605 - 3x25 Seekers, Vanguard 
+183 - 2x9 Rangers, Throwing Weapons, Shield 
+4500
+<ARMY_BOOK>
+Paul “Polux” Berclaz - Dwarven Holds 
+220 - Engineer, General, Shield, Rune of Denial 
+255 - 2x 10x Greybeards, Throwing Weapons, Shield, Musician 
+160 - 10x Clan Warriors, Shields, Musician 
+180 - 10x Clan Warriors, Vanguard, Shields, Musician 
+280 - 10x Guild Marksmen, Guild-Crafted Handguns, Shields, Musician 
+265 - 10x Miners, Shields, Throwing Weapons, Musician 
+330 - 2 x 15x King's Guard, Musician 
+130 - Vengeance Seeker 
+210 - Steam Bomber 
+305 - 2 x 2x Steam Attack Copters 
+350 - 2 x Grudge Buster 
+255 - Cannon 
+320 - Organ Gun, Rune Crafted 
+4500
+<ARMY_BOOK>
+Can Adatepe - Dwarven Holds 
+ 
+215 - Engineer , General, Rune of Denial 
+185 - Anvil of Power , 3 Battle Runes 
+160 - 10 x Warriors , Paired Weapons, Musician, Throwing Axe 
+160 - 10 x Warriors , Paired Weapons, Musician, Throwing Axe 
+160 - 10 x Warriors , Paired Weapons, Musician, Throwing Axe 
+160 - 10 x Warriors , Paired Weapons, Musician, Throwing Axe 
+160 - 10 x Warriors , Paired Weapons, Musician, Throwing Axe 
+160 - 10 x Warriors , Paired Weapons, Musician, Throwing Axe 
+180 - 10 x Warriors - Paired Weapons, Musician, Throwing Axe, Vanguard 
+570 - 25 x Seekers , Musician, Champion 
+570 - 25 x Seekers , Musician, Champion 
+350 - Grudge Buster 
+350 - Grudge Buster 
+305 - 2 x Attack Copter 
+305 - 2 x Attack Copter 
+255 - Cannon 
+255 - Cannon 
+4500
+<ARMY_BOOK>
+Andrii “Scoty” Baranovskyi - Dwarven Holds 
+450 - Runic Smith, General, Ancestral Memory, Battle Runes Taken (x3), Shield, Rune of Grounding, Rune of Shielding (x2), Rune of Iron (x2), Rune of the Forge 
+305 - Thane, Shield, Battle Standard Bearer, Rune of Iron (x2), Rune of Lightning (x2), Aether Icon 
+130 - Engineer, Shield 
+320 - Organ Gun, Rune Crafted 
+300 - Catapult, Rune Crafted 
+150 - Flame Cannon 
+305 - 11x Clan Marksmen, Guild-Crafted Handgun (4+), Heavy Armour, Shield, Musician 
+834 - 29x Greybeards, Throwing Weapons (5+), Heavy Armour, Shield, Champion, Standard Bearer, Musician, Rending Banner 
+774 - 27x King's Guard, Champion, Standard Bearer, Musician, Runic Standard of Shielding, Great Weapon, Plate Armour, Shield 
+265 - 10x Miners, Throwing Weapons, Musician, Paired Weapons 
+175 - 1x Steam Attack Copter 
+305 - 2x Steam Attack Copter 
+185 - Anvil of Power Total: 4498
+<ARMY_BOOK>

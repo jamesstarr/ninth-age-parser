@@ -82,7 +82,7 @@
 >200 – 1x Volley Gun
 <Unit name="Electoral Cavalry" ModelCount=5 
 	Shield
-	Command=S
+	CloseCombatWeapon=Lance
 >215 - 5x Electoral Cavalry lance, shield, S
 <Unit name="Electoral Cavalry" EntryCount=2 ModelCount=5 
 	Shield
@@ -108,56 +108,20 @@
 >200 - 15x Flagellants
 <Unit name="Flagellants" EntryCount=3 ModelCount=15 
 >200 - 3 x 15x Flagellants
-<Unit name="Footer">405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind 
-<Unit name="Footer">475 - 1x Steam Tank 
-<Unit name="Footer">405 - Wizard, Essence of a Free Mind, Wizard Master, Divination, Pyromancy 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4500 
-<Unit name="Footer">400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,  
-<Unit name="Footer">400 Wizard, Alchemy, Wizard Master, Magical Heirloom  
-<Unit name="Footer">475 - Steam Tank  
 <Unit name="Footer">4499  
-<Unit name="Footer">445 - Wizard, Divination, Wizard master, Binding Scroll, Sceptre of Power 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4499
-<Unit name="Footer">465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master  
-<Unit name="Footer">475 – Steam Tank  
 <Unit name="Footer">Total Army Cost: 4496
-<Unit name="Footer">452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard 
-<Unit name="Footer">453 - 4 Knights of the Sun Griffon, Lances, M 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4499
-<Unit name="Footer">494 - 26x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4497
-<Unit name="Footer">405 – Wizard, Divination, Binding Scroll, Wizard Master  
-<Unit name="Footer">447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard 
-<Unit name="Footer">475 – Steam Tank 
 <Unit name="Footer">4498
-<Unit name="Footer">465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll 
 <Unit name="Footer">4495
-<Unit name="Footer">405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock 
-<Unit name="Footer">465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame 
-<Unit name="Footer">475 - Steam Tank
 <Unit name="Footer">Total: 4499
-<Unit name="Footer">425 - Knight Commander, Young Griffon, Shield, Shield of Volund, Hero's Heart (Hand Weapon), Death Cheater, Lucky Charm 
-<Unit name="Footer">405 - Wizard, Divination, Wizard master, Binding Scroll 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4496
-<Unit name="Footer">405 - Wizard, Essence of a Free Mind, Wizard Master, Alchemy, Pyromancy 
-<Unit name="Footer">485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4500  
-<Unit name="Footer">460 - Wizard, Pyromancy/Alchemy, Essence of a Free mind, Binding Scroll, Wizard Master 
 <Unit name="Footer">4499
-<Unit name="Footer">405 - Wizard , Wizard Master, Essence of Free Mind,Pyromancy/Alchemy 
-<Unit name="Footer">403 - 38 x Heavy Infantry, Halberd, Musician, Champion 
-<Unit name="Footer">475 - Steam Tank 
 <Unit name="Footer">4500
-<Unit name="Footer">475 - Steam Tank Total: 4499
-<Unit name="Footer">460 – Wizard, Cosmology/Alchemy, Essence of a Free Mind, Binding Scroll, Master 
-<Unit name="Footer">480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard 
-<Unit name="Footer">475 – Steam Tank 
+<Unit name="Footer">Total: 4499
 <Unit name="Footer">4500
 <Unit name="Header">Zurdo, EoS
 <Unit name="Header">Marc - Empire of Sonnstahl 
@@ -176,10 +140,9 @@
 <Unit name="Header">Artem Kurhanskyi - Empire of Sonnstahl 
 <Unit name="Header">Gregory « Gregus » Mandelaire - Empire of Sonnstahl
 <Unit name="Heavy Infantry" ModelCount=33 
-	Command=M
+	Command
 >315 - 33x Heavy Infantry M,S
 <Unit name="Heavy Infantry" ModelCount=20 
-	Command=M
 >165 - 20x Heavy Infantry support unit, Musician
 <Unit name="Heavy Infantry" ModelCount=20 
 >165 - 20x Heavy Infantry, Standard
@@ -192,18 +155,27 @@
 	BannerEnchantment="Banner of Unity"
 >529 – 44x Heavy Infantry, M, S, C, Halberds, Banner of unity
 <Unit name="Heavy Infantry" ModelCount=20 
-	Command=MS
 >165 – 20x Heavy infantry, M
+<Unit name="Heavy Infantry" ModelCount=37 
+	CloseCombatWeapon=Halberd
+	Command
+	BannerEnchantment="Household Standard"
+>452 - 37 Heavy Infantry, Halberds, C, M, SB, Household Standard
 <Unit name="Heavy Infantry" ModelCount=35 
 	Command=S
 >315 - 35x Heavy Infantry, Parent Unit, Standard bearer
+<Unit name="Heavy Infantry" ModelCount=37 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Flaming Standard"
+>447 – 37x Heavy Infantry, Spears, Standard Bearer, Musician, Champion, Flaming Standard
 <Unit name="Heavy Infantry" ModelCount=21 
 	Command=MS
 	BannerEnchantment="Household Standard"
 >235 – 21x Heavy Infantry, Standard Bearer, Musician, Household Standard
 <Unit name="Heavy Infantry" ModelCount=47 
 	CloseCombatWeapon=Halberd
-	Command=M
+	Command
 	BannerEnchantment="Household Standard"
 >562 - 47x Heavy Infantry, Halberd, M, C, S, Household Standard
 <Unit name="Heavy Infantry" EntryCount=2 ModelCount=20 
@@ -221,6 +193,11 @@
 <Unit name="Heavy Infantry" ModelCount=21 
 	Command=M
 >175 - 21x Heavy Infantry, Parent Unit, Musician
+<Unit name="Heavy Infantry" ModelCount=40 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Banner of Unity"
+>485 - 40x Heavy Infantry, Spear, Champion, Musician, Standard Bearer, Banner of Unity
 <Unit name="Heavy Infantry" ModelCount=45 
 	CloseCombatWeapon=Halberd
 	Command
@@ -232,6 +209,10 @@
 <Unit name="Heavy Infantry" ModelCount=20 
 	Command=M
 >165 - 20 x Heavy Infantry , Musician
+<Unit name="Heavy Infantry" ModelCount=38 
+	CloseCombatWeapon=Halberd
+	Command=CM
+>403 - 38 x Heavy Infantry, Halberd, Musician, Champion
 <Unit name="Heavy Infantry" ModelCount=50 
 	CloseCombatWeapon=Halberd
 	Command
@@ -243,8 +224,13 @@
 <Unit name="Heavy Infantry" ModelCount=20 
 	Command
 >205 - 20x Heavy Infantry, Champion, Standard Bearer, Musician
+<Unit name="Heavy Infantry" ModelCount=40 
+	CloseCombatWeapon=Halberd
+	Command
+	BannerEnchantment="Flaming Standard"
+>480 – 40x Heavy Infantry, halberd, standard bearer, musician, champion, Flaming Standard
 <Unit name="Imperial Guard" ModelCount=30 
-	Command=M
+	Command
 	BannerEnchantment="Rending Banner"
 >570 - 30x Imperial Guard, M, C, S, Rending Banner
 <Unit name="Imperial Guard" ModelCount=36 
@@ -259,6 +245,10 @@
 <Unit name="Imperial Guard" ModelCount=24 
 	Command=C
 >391 - 24 Imperial Guard, C, M
+<Unit name="Imperial Guard" ModelCount=26 
+	Command
+	BannerEnchantment="Rending Banner"
+>494 - 26x Imperial Guard, Standard bearer, Rending Banner, Musician, Champion
 <Unit name="Imperial Guard" ModelCount=28 
 	Command
 	BannerEnchantment="Rending Banner"
@@ -309,6 +299,7 @@
 >90 - 5x Imperial Rangers
 <Unit name="Inquisitor" 
 	Shield
+	Mount=Horse
 	ShieldEnchantment="Dusk Forge"
 	WeaponEnchantment="Hammer of Witches"
 >300 - Inquisitor, Shield, Horse, Hammer of Witches, Dusk Forged
@@ -333,6 +324,14 @@
 	ShieldEnchantment="Dusk Forge"
 	WeaponEnchantment="Hero's Heart"
 >380 - Knight Commander, Young Griffon, Shield, Dusk forged, Hero's Heart (Hand Weapon), Basalt Infusion
+<Unit name="Knight Commander" 
+	Shield
+	Mount="Young Griffon"
+	ArmourEnchantment="Death Cheater"
+	Artefact="Lucky Charm"
+	ShieldEnchantment="Shield of Volund"
+	WeaponEnchantment="Hero's Heart"
+>425 - Knight Commander, Young Griffon, Shield, Shield of Volund, Hero's Heart (Hand Weapon), Death Cheater, Lucky Charm
 <Unit name="Knights of the Sun Griffon" ModelCount=5 
 	ReplaceHalberdWithLance
 	Command=M
@@ -346,6 +345,10 @@
 	ReplaceHalberdWithLance
 	Command=M
 >667 – 6x Knights of the Sun Griffon, Lance, Shield, M
+<Unit name="Knights of the Sun Griffon" ModelCount=4 
+	ReplaceHalberdWithLance
+	Command=M
+>453 - 4 Knights of the Sun Griffon, Lances, M
 <Unit name="Knights of the Sun Griffon" ModelCount=3 
 	ReplaceHalberdWithLance
 	Command=M
@@ -447,6 +450,14 @@
 	Artefact="Binding Scroll"
 >285 - Marshal, General, Crown of Autocracy, Binding Scroll
 <Unit name="Marshal" 
+	General
+	CloseCombatWeapon="Great Weapon"
+	Title="Great Tactician"
+	ArmourEnchantment="Imperial Seal"
+	Artefact="Lucky Charm"
+	WeaponEnchantment="King Slayer"
+>400 Marshal, General, Great Tactician, Great Weapon, King Slayer (Great Weapon), Imperial Seal, Lucky Charm,
+<Unit name="Marshal" 
 	BattleStandardBear
 	Shield
 	ArmourEnchantment=Blacksteel
@@ -514,6 +525,13 @@
 	ArmourEnchantment=Blacksteel
 	Artefact="Lucky Charm"
 >235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm
+<Unit name="Marshal" 
+	Shield
+	Title="Great Tactician"
+	ArmourEnchantment="Imperial Seal"
+	Artefact="Binding Scroll"
+	Artefact="Obsidian Rock"
+>405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock
 <Unit name="Marshal" 
 	BattleStandardBear
 	Shield
@@ -636,7 +654,6 @@
 	Armour="Plate Armour"
 	Shield
 	ArmourEnchantment="Imperial Seal"
-	WeaponEnchantment="Death Warrant"
 >375 - Prelate, General, Plate Armour, Shield, Imperial Seal, Witchfire Guard, Death Warrant (Hand Weapon)
 <Unit name="Prelate" 
 	Armour="Plate Armour"
@@ -709,17 +726,75 @@
 >150 - 10x State Militia Irregulars
 <Unit name="State Militia" ModelCount=10 
 >140 – 10x State Militia
+<Unit name="Steam Tank" 
+>475 - 1x Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 – Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 – Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 - Steam Tank
+<Unit name="Steam Tank" 
+>475 – Steam Tank
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Pyromancy
+	Artefact="Essence of a Free Mind"
+>405 - Wizard, Alchemy or Pyromancy, 4 spells, Essence of free mind
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Alchemy
 >200 - Wizard, Wizard Adept, Alchemy
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Path=Pyromancy
+	Artefact="Essence of a Free Mind"
+>405 - Wizard, Essence of a Free Mind, Wizard Master, Divination, Pyromancy
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Artefact="Magical Heirloom"
+>400 Wizard, Alchemy, Wizard Master, Magical Heirloom
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Binding Scroll"
+	Artefact="Sceptre of Power"
+>445 - Wizard, Divination, Wizard master, Binding Scroll, Sceptre of Power
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Pyromancy
 	Artefact="Book of Arcane Mastery"
 >260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery
 <Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Exemplar’s Flame"
+	Artefact="Binding Scroll"
+>465 – Wizard,  Divination, Exemplar’s Flame, Binding Scroll, Wizard Master
+<Unit name="Wizard" 
 	Wizard=Adept
+	Path=Pyromancy
 	Artefact="Book of Arcane Mastery"
 	Artefact="Sceptre of Power"
 >300 – Wizard,  Alchemy, Book of Arcane Mastery, Scepter of Power, Wizard Adept
@@ -746,20 +821,61 @@
 	Path=Alchemy
 >200 – Wizard, Alchemy, Wizard Adept
 <Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Binding Scroll"
+>405 – Wizard, Divination, Binding Scroll, Wizard Master
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Exemplar’s Flame"
+	Artefact="Binding Scroll"
+>465 - Wizard, Wizard Master, Divination, Exemplar's Flame, Binding Scroll
+<Unit name="Wizard" 
 	Wizard=Adept
 	Path=Pyromancy
 	Artefact="Book of Arcane Mastery"
 >260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane Mastery
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Exemplar’s Flame"
+	Artefact="Binding Scroll"
+>465 - Wizard, Divination, Wizard Master, Binding Scroll, Exemplar’s Flame
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Alchemy
 	Artefact="Book of Arcane Mastery"
 >260 - Wizard, Alchemy, Wizard Adept, Book of Arcane Mastery
 <Unit name="Wizard" 
+	Wizard=Master
+	Path=Divination
+	Artefact="Binding Scroll"
+>405 - Wizard, Divination, Wizard master, Binding Scroll
+<Unit name="Wizard" 
 	Wizard=Adept
 	Path=Pyromancy
 	Artefact="Book of Arcane Mastery"
 >260 - Wizard, Pyromancy, Wizard adept, Book of Arcane Mastery
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Pyromancy
+	Artefact="Essence of a Free Mind"
+>405 - Wizard, Essence of a Free Mind, Wizard Master, Alchemy, Pyromancy
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Pyromancy
+	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
+>460 - Wizard, Pyromancy/Alchemy, Essence of a Free mind, Binding Scroll, Wizard Master
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Pyromancy
+	Artefact="Essence of a Free Mind"
+>405 - Wizard , Wizard Master, Essence of Free Mind,Pyromancy/Alchemy
 <Unit name="Wizard" 
 	Wizard=Master
 	Path=Divination
@@ -768,6 +884,13 @@
 	Wizard=Adept
 	Path=Alchemy
 >200 - Wizard, Alchemy, Wizard Adept, 2 spells
+<Unit name="Wizard" 
+	Wizard=Master
+	Path=Alchemy
+	Path=Cosmology
+	Artefact="Binding Scroll"
+	Artefact="Essence of a Free Mind"
+>460 – Wizard, Cosmology/Alchemy, Essence of a Free Mind, Binding Scroll, Master
 <Unit name="Wizard" 
 	Wizard=Adept
 	Path=Divination

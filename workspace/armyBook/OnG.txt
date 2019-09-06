@@ -1,3 +1,216 @@
+Eugeni Pruñonosa ''Xurxu'' - Orcs and goblins 
+120- Goblin Chief, BSB, common goblin. 
+120- Goblin Chief, common goblin, Wolf. 
+615- Goblin King, forest goblin, gargantula, paired weapons, hero’s heart. 
+190- Goblin Witch Doctor, wizard adept, common goblin, pyromancy. 
+190- Goblin Witch Doctor, wizard adept, common goblin, thaumaturgy. 
+550- Orc Shaman, common orc, shamanism, wizard master,, binding scroll, Crown of autocracy, army general.
+447- 38xGoblins, CMS, spear and shield, forest goblin, rending banner. 
+631- 29xOrc ‘Eadbashers, CMS, paired weapons, common orc, rending banner. 
+195- 20xOrcs, muician, common orc. 
+2x 276- 23xGnasher herd 
+2x 264- 22xGnasher herd 
+4x 90-Skewerer 
+Total: 4498
+<ARMY_BOOK>
+Max “Chorizo” Tio 
+120.- Common Goblin Chief, BSB 
+615.- Forest Goblin King, Paired Weapons (Hero’s Heart), Gargantula 
+250.- Forest Goblin Witch Doctor, Wizard Adept Piromancy, Book of Arcane Mastery 
+465.- Forest Goblin Witch Doctor, Wizard Master Thaumaturgy, Talisman of the Void, Binding Scroll 
+345.- Common Orc Shaman, General, Wizard Adept Shamanism, Crown of Autocracy 
+461.- 44x Forest Goblin, Standard Bearer (Rending Banner), Spear & Shield 
+630.- 30x Orc ‘Eadbasher, Champion, Standard Bearer (Rending Banner), Paired Weapons 
+195.- 20x Orcs, Musician 
+4x264.- 4x22 Gnasher Herd 
+4x90.- 4x Skewerer 
+Total: 4.500
+<ARMY_BOOK>
+Manu “Fantu” Garcia - Orcs & Goblins 
+325 - Goblin King, General, Warcry!, Shield, Crown of the Cavern King, Crown of Autocracy, Common Goblin King 
+175 - Goblin Chief, BSB, Binding Scroll, Common Goblin Chief 
+120 - Goblin Chief, Wolf, Common Goblin Chief 
+120 - Goblin Chief, Wolf, Common Goblin Chief 
+415 - Goblin Witch Doctor, Binding Scroll, Common Goblin Witch Doctor, Wizard Master, Thaumaturgy 
+190 - Goblin Witch Doctor, Common Goblin Witch Doctor, Wizard Adept, Pyromancy 
+160 - 5x Orc Boar Riders, Shields, Feral Orc Boar Rider 
+575 - 45x Goblins, Bows, Cave Goblins, 3 Mad Gits, M 
+422 - 34x Goblins, Bows, Cave Goblins, 2 Mad Gits, M 
+140 - 20x Goblins, Shields, Cave Goblins, M 
+642 - 8x Trolls, Cave Troll 
+90 - 3x1 Skewerer 
+315 - 3x1 Giant, Giant Club 
+Total: 4499
+<ARMY_BOOK>
+Borja“ Bob Esponja”- Orcs and Goblins 
+345 - Orc Shaman  Army General, warcry, Common Orc, Shamanism, Wizard Adept, Crown of Autocracy (Characters)
+120 - Goblin Chief ,Battle Standard Bearer, Common Goblin (Characters) 
+140 - 2x1Goblin Chief  Cave Gnasher, Cave Goblin, Light Lance  (Characters) 
+260 - Goblin King, Forest Goblin, Great Weapon, Heavy Armour, Huntsmen Spider, Shield, Basalt Infusion, Dragon Staff (Characters)
+360 - Goblin Witch Doctor  Common Goblin, Thaumaturgy, Wizard Master (Characters) 
+175 -  8Goblin Raiders, Bow (Core) 
+168 – 2x21Goblins, Cave Goblin Bow (Core) 
+615 – 40 Orcs, Common Orc,  Bow, Spear, FCG, Banner Enchantment: Banner of the Relentless Company (Core) 
+295 - 15 Iron Orcs (Special) 
+550 – Gargantula, Web Launcher (Big n nasty) 
+285 - 2x1Giant  (Big n nasty) 
+205 - 2x1Greenhide Catapults, Git Launcher  Orc Overseer (Death from above) 
+90 - 2x1 Skewerer (Death from above) 
+Total 4496
+<ARMY_BOOK>
+Sergi ´´Mirmi`` Hernández - Orcs and Goblins 
+345 - Orc Shaman, Common Orc Shaman, General, War Cry!, Wizard Adept, Shamanism, Crown of Autocracy 
+460 - Goblin Wich Doctor, Cave Goblin Witch Doctor, Wizard Master, Thaumaturgy, Skull Fetish 
+625 - Goblin King, Forest Goblin, Garantula, Paired Weapon (Hero´s Hearth), Potion of Swiftness 
+250 - Goblin Wich Doctor, Forest Goblin Witch Doctor, Wizard Adept, Pyromancy, Book of A. Mastery 
+120 - Goblin Chief, Cave Goblin Chief, Bsb 
+434 - 41 Goblin, Forest Goblin, Spear and Shield, S, Rending Banner 
+630 - 30 Orc ‘Eadbashers, Common Orc ‘Eadbasher, Paired Weapons, C, S, Rending Banner 
+215 - 20 Orc, Common Orc, M, Bow 
+264 - 4x22 Gnasher Herd 
+90 - 4x1 Skewerer 
+4495
+<ARMY_BOOK>
+Jorge "Orombi" García - Orcs & Goblins
+550 - Common Orc Shaman, General, War Cry!, Wizard Master, Crown of Autocracy, Essence of a Free Mind, Pyromancy/Shamanism 
+540 - Iron Orc Warlord, Warboar, Shield, Omen of the Apocalypse, Dusk Forged, Dragonfire gem, Potion of Swiftness 
+210 - Common Goblin Chief, BSB, Crown of the Cavern King 
+070 - Common Goblin Chief 
+245 - Forest Goblin Witch Doctor, Wizard Adept, Binding Scroll, Witchcraft 
+195 - 20x Common Orcs, Musician 
+380 - 40x Forest Goblins, Spear & Shield, C 
+396 - 31x Cave Goblins, Shield, 2 Mad Git, M,S, Banner of the Relentless Company 
+159- 8x Forest Goblin Raider 
+295 - 15 Iron Orcs 
+144 - 12 Gnaser Herd  
+185 - 2x1 Git Launcher  
+090 - 1x Skewerer 
+345 - 1x Giant, Nets  
+510 - 1x Gargantula  
+Total 4499
+<ARMY_BOOK>
+Julián "Parsons" Asensio - Orcs & Goblins 
+585 - Iron Orc Warlord, General, War Cry!, Warboar, Shield, Omen of the Apocalypse, Dusk Forged, 
+Dragonfire Gem, Potion of Swiftness 
+245 - Iron Orc Chief, BSB, Shield, Alchemist ́s Alloy, Willow ́s ward 
+475 - Common Orc Shaman, Scepter of Power, Binding Scroll, Wizard Master, Thaumaturgy 
+226 - 21x Common Orcs, M, C 
+610 - 35x Feral Orcs, Spear, Mammoth Stabber, C, S, M, Rending Banner 
+140 - 5x Feral Orc Board Riders 
+159 - 8x Forest Goblin Raiders 
+315 - 2x15 Iron Orcs, C 
+205 - 2x1 Greenhide Catapult, Git Launcher, Orc Overseer 
+510 - 2x1 Gargantula 
+4500
+<ARMY_BOOK>
+Antonio Cazalla “Cazalla” – Orcs and Goblins 
+Characters: 1615 (35,90%≤40%) Core: 1153 (25,6%≥25%) Special: 415 (No limit) Big 'n Nasty: 855 (19,04%≤30%) 
+Death from Above: 460 (10,22%≤15%) 
+550 – Common Orc Shaman, General, 4 spells, War Cry!, light armor, Crown of Autocracy, Essence of a Free Mind, 
+Wizard Master, Pyromancy/Shamanism. (Characters). 
+540- Orc Warlord: Iron Orc, Shield, plate armor, War Boar, Special Equipment: Dragonfire Gem, Dusk Forged, 
+Omen of the Apocalypse, Potion of Swiftness (Characters). 
+210 – Common goblin Chief, BSB, light armor, shield, crown of the cavern king (Characters). 
+245 – Goblin witch doctor, common, adept, witchcraft, Binding scroll  (Character) 
+70 – Goblin chief, common goblin chief, light armor, shield (characters) 
+215 – 20x Common Orcs, M, bow (core). 
+389 – 41xForest Goblins, M, Spear & Shield, (core). 
+390 – 30 x Cave goblins, shield, 2 mad gits, M, S, banner of the relentless company (core) 
+159 - 8x forest goblin raider, (core). 
+120- 10x Gnasher Herd (special). 
+295 – 15x Iron orcs (Special). 
+185- Greenhide Catapults]: Git Launcher (4+), (Death from Above). 
+185-Greenhide Catapults]: Git Launcher (4+), (Death from Above). 
+90 – Skewerer (Death from Above) 
+345 – Giant, nets (Big 'n Nasty). 
+510 – Gargantula (Big 'n Nasty). 
+4498
+<ARMY_BOOK>
+José Hernández – Orcs & Goblins 
+620 - Orc Shaman Master. General. War Cry! Shamanism. Paired Weapons. Crown of Autocracy. Destiny´s Call. Magical Heirloom.
+175 - Common Goblin Chief. BSB. Binding Scroll. 
+235 - Forest Goblin Witch Doctor. Adept. Thaumaturgy. Rod of Battle. 
+360 - Forest Goblin King. Huntsmen Spider. Hand Weapon (Hero´s Heart), Heavy Armour (Basalt Infusion), Shield (Dusk Forged). Troll Ale Flask.
+2 x 135 - Common Goblin Chief. Goblin Wolf Chariot. Light Lance. 
+140 - Common Goblin Chief. Wolf Chariot. Lance. 
+465 - 40 Forest Goblins: Standard [Rending Banner] M, C. Spears & Shields. 
+669 - 31 Common Orcs Eadbasher: Standard [Rending Banner] M, C. Paired Weapons. 
+562 - 21 Iron Orcs. Standard [Green Tide], M, C. 
+2 x 240 - 2 x 20  Gnasher Herd. 
+252 - 21  Gnasher Herd. 
+3 x 90 - 3 x Skewerer. 
+TOTAL  4498 
+ 
+José David Robles “DARKLORD” –Undying Dynasties 
+610 – Death Cult Hierarch on Ark of Ages: General, Wizard Master, Evocation, Light Armour, Alchemist’s Alloy, Sacred Hourglass. 
+275 – Death Cult Hierarch: Wizard Adept, Divination, Hierophant, Binding Scroll. 
+160 – Tomb Architect. 
+2x130 – 2x5 Skeleton Scouts. 
+680 – 6 Skeleton Chariots: FCG, Rending Banner, Legion Charioteers. 
+190 – 20 Skeletons: M,C. 
+480 – 4 Tomb Cataphracts: S, M, Banner of Speed. 
+2x200 – 2x1 Charnel Catapult. 
+685 – 8 Shabti Archers: S, M, Rending Banner. 
+760 – 4 Tomb Reapers: Paired Weapons. 
+Total: 4500
+<ARMY_BOOK>
+Orcs and Goblins - David “Repullito” Repullo
+550 - Common Orc Shaman, General, War Cry!, Shamanism, Wizard Master, Crown of Autocracy, Binding Scroll 
+455 - Feral Orc Warlord, Light Armour, Essence of Mithril, Omen of the Apocalypse, Potion of Swiftness 
+415 - Common Goblin Witch Doctor, Pyromancy, Wizard Master, Binding Scroll 
+245 - Feral Orc Chief, BSB, Great Weapon, Shield, Pan of Protection Pinchin 
+586 - 23 Feral Orc 'Eadbashers, Shields, S, M, C, Green Tide 
+456 - 39 Forest Goblins, Spears & Shields, S, M, C, Rending Banner 
+195 - 20 Common Orcs, Shield 
+252 - 4x21 Gnasher Herd 
+205 - 2x1 Greenhide Catapult, Git Launcher, Orc Overseer 
+90 - 2x1 Skewerer 
+4.500
+<ARMY_BOOK>
+Sergio Belda “Budy” - Orcs and Goblins 
+570 – Feral Orc Shaman: General, War Cry!, Wizard Master Shamanism, Crown of Autocracy, Binding Scroll, Paired Weapons. 
+540 – Iron Orc Warlord: War Boar, Shield, Dusk Forged, Dragonfire Gem, Potion of Swiftness, Omen of the apocalypse. 
+330 – Forest Goblin King: Huntsmen Spider, Heavy armour, Shield, Talisman of shielding, Basalt Infusion, Hero’s Heart.  
+145 – 2x 1Cave Goblin Chief: Lance, Cave Gnasher. 
+535 – 33 Feral Orcs: spears, Champion, Standard Bearer, Green Tide. 
+592 – 28 Common Orc Eadbashers: Paired weapons, Champion, Standard Bearer, Green Tide. 
+295 – 15 Iron Orcs. 
+185 – 2x 1Greenhide Catapult: Git Launcher. 
+510 – Gargantula. 
+465 – Great Green Idol: Battle Standard Bearer. 
+4.497
+<ARMY_BOOK>
+Antonio “The Special 5+” Iván Pastor - Orcs and Goblins (Alicante) 
+585 - Orc Warlord, General (War Cry!), Iron Orc Warlord, War Boar, Plate Armour, Shield, Dusk forged, Omen of 
+the Apocalypse (Hand Weapon), Dragonfire Gem, Potion of Swiftness 
+230 - Orc Shaman, Common Orc Shaman, Shamanism, Wizard Adept 
+220 - Orc Chief, Iron Orc Chief, Battle Standard, Plate Armour, Shield, Paired Weapons 
+190 - Goblin Witch Doctor, Common Goblin Witch Doctor, Witchcraft, Wizard Adept, Light Armour 
+505 - 31x Orcs, Feral Orcs, Spears, Standard Bearer, Green Tide, Champion 
+308 - 32x Goblins, Forest Goblins, Spears and Shields, Champion 
+2x159 – 2x8x Goblin Raiders, Forest Goblin 
+295 - 15x Iron Orcs 
+3x276 – 3x23x Gnasher Herd 
+2x510 – 2x1x Gargantula                           
+ 4499
+<ARMY_BOOK>
+Orcs and Goblins, Jorge Fernández “Jorko” 
+560 - Common Orc Shaman, General, War Cry, Wizard Master, Shamanism  
+Destinys Call, Potion of Strengh, Magical Heirloom, paired weapons. 
+230 - Common Chief Ork, BSB, Shield, Binding Scroll. 
+540 - Iron Orc Warlord, war boar, shield, Omen of the apocalypse, Potion Swiftness, Dragonfire Gem, Dusk Forged. 
+140 - 2x1 Chief Common goblin, Lance, Goblin Wolf Chariot. 
+159 - 8 Forest Goblin Raiders. 
+435 - 30 Common Orks, Spear, Bow, C, S, M. 
+546 - 29 Eadbashers Orcs ,Common Ork, Paired Weapons, C. 
+295 - 15 Iron Orcs. 
+120 - 5 Common Goblin Raiders. 
+550 - Gargantula ,Web Launcher. 
+285 - Giant. 
+205 - 2x1 Greenhide Catapults, Git Launcher, Ork Overseer. 
+90 - Skewerer. 
+4500
+<ARMY_BOOK>
 Phelps
 Feral Orc Warlord, General, PW, Shady Shanking, Essence of Mithril, Troll Ale Flask, War Boar 490
 Feral Orc Chief, PW, Shield, BSB, Basalt Infusion, Hero’s Heart, War Boar 330
@@ -78,7 +291,7 @@ Orcs and Goblins
 185 - Greenhide Catapult, Git Launcher 
 185 - Greenhide Catapult, Git Launcher 
 90 - Skewerer 
-4500  
+4500
 <ARMY_BOOK>
 Cedric "Mallak" van Belle - Orcs and Goblins 
  
@@ -92,7 +305,7 @@ Cedric "Mallak" van Belle - Orcs and Goblins
 288 - 3x 24x Gnasher Herd 
 670 - 25x Iron Orcs, FCG, Green Tide  
 185 - 2x 1x Greenhide Catapults, Git Launcher 
-4500  
+4500
 <ARMY_BOOK>
 Stilian Stoyanov - Orcs and Goblins 
 520 - Feral orc Shaman, General, Warcry, Wizard Master, Shamanism, Crown of Autocracy, Potion of Strength  
@@ -150,7 +363,7 @@ Vincent "vince3310" Bernat - OG
 120 – 10x Gnashers Herd 
 348 – 29x Gnashers Herd 
 365 - Great Green Idol 
-4500  
+4500
 <ARMY_BOOK>
 Alberto “Kelly” Petrosino - Orcs and Goblins
 550 - Orc Shaman, General, Common Orc, War Cry, Binding Scroll, Crown of Autocracy, Wizard Master, Shamanism 
@@ -226,7 +439,7 @@ Jetro Dam – Orcs and Goblins
 510 - 2x1 Gargantula  
 185 - 2x1 Git Launcher 
 90 - Skewerer  
-4500 
+4500
 <ARMY_BOOK>
 Simon ‘’Radagast’’ Turner (VC), Orcs & Goblins 
 550 - Orc Shaman, General (War Cry!), Feral Orc Shaman, Shamanism, Wizard Master, Paired Weapons, Skull Fetish, Crystal Ball 
@@ -273,7 +486,7 @@ Stanislav Flam Fesenko - Orcs and Goblins
 170 - Greenhide Catapult, Splatterer 
 510 - Gargantula 
 510 - Gargantula 
-4499  
+4499
 <ARMY_BOOK>
 Edward “Scottish Knight” Murdoch (C) - Orcs and 
 Goblins 
@@ -310,4 +523,105 @@ Aleksandar “Pixi” Piksiades - Orcs and Goblins
 <ARMY_BOOK>
 Marko "Ravbar" Črnigoj - Orcs & Goblins 
 535 - Iron Orc Warlord, General, Omen of the Apocalypse, Destiny's Call, Potion of Swiftness, Shield, War Cry! 
-315 - Iron Orc Chief, Talisman of Shielding, Paired Weapon, Shield, Battle Standard Bearer, 
+315 - Iron Orc Chief, Talisman of Shielding, Paired Weapon, Shield, Battle Standard Bearer, Stalker's Standard 
+510 - Feral Orc Shaman, Essence of a Free Mind, Binding Scroll, Paired Weapons, Wizard Master, Shamanism, Thaumaturgy 
+255 - Common Goblin Witch Doctor, Goblin Wolf Chariot, Alchemist's Alloy, Dragonfire Gem, Wizard Adept, Pyromancy 
+355 - 24x Common Orcs, Shield, Bow, Spear, Musician, Standard Bearer, Green Tide 
+772 - 29x Feral Orc 'Eadbashers, Paired Weapons, a Mammoth Stabber, Champion, Musician, Standard Bearer, Green Tide 
+616 - 23x Iron Orcs, Champion, Musician, Standard Bearer, Green Tide 
+140 - 5x Common Goblin Raiders, Light Lance, Shield, Bow 
+276 - 23x Gnasher Herd 
+210 - 5x Mounted Common Orc 'Eadbashers, Shield, Musician 
+510 - Gargantula 
+4494
+<ARMY_BOOK>
+Morgan Andersson – Orcs and Goblins 
+495 – Iron Orc Warlord, General, War Cry!, Shady Shanking (Paired Weapons), Tuktek’s Guard (Plate Armour), Pan of Protection Pinchin’, Potion of Swiftness 
+435 – Common Orc Shaman, Shamanism, Paired Weapons, Magical Heirloom, Wizard Master 
+250 – Common Goblin Witch Doctor, Witchcraft, Book of Arcane Mastery, Wizard Adept 
+215 – Common Goblin Chief, BSB, Bow, Crown of the Cavern King 
+395 - 20x Common Orcs, Crossbow, Heavy Armour, Shield, Standard Bearer, Musician, Banner of the Relentless Company 
+395 - 35x Common Goblins, Bows, Shields, Standard bearer, Musician, Champion, 2 Shady Gits, Legion Standard 
+180 - 20x Forest Goblins, Bows, Creepers 
+159 - 8x Common Goblin Raiders 
+288 - 24x Gnasher Herd 
+666 - 23x Iron Orcs, Standard bearer, Musician, Champion, Mikinok’s Totem 
+510 - 2x 1x Gargantula 
+4498
+<ARMY_BOOK>
+Dimitri "Dim" Zaganidis - Orcs and Goblins 
+320 - Common Goblin King, General, War Cry!, Crown of the Cavern King, Crown of Autocracy 
+175 - Common Goblin Chief, BSB, Binding Scroll 
+450 - Cave Goblin Witch Doctor, Thaumaturgy, Wizard Master, Binding Scroll 
+330 - Forest Goblin King, Huntsmen Spider, Shield, Heavy Armour, Dusk forged, Alchemist's Alloy, Hero's Heart (Hand Weapon), Dragonfire Gem 
+180 - Common Orc Shaman, Shamanism, Wizard Apprentice, Boar Chariot  
+180 - Common Orc Shaman, Pyromancy, Wizard Apprentice, Boar Chariot 
+545 - 45x Cave Goblins, 3 Mad Gits, Shields, Musician, Standard Bearer, Banner of the Relentless Company 
+330 - 30x Cave Goblins, 2 Mad Gits, Shields, Musician 
+140 - 20x Common Goblins, Shields, Musician 
+159 - 8x Common Goblin Raiders 
+150 - 3 x Orc Boar Chariot 
+510 - Gargantula 
+365 - 2 x Great Green Idol 
+4499
+<ARMY_BOOK>
+Yevgen “littlecow” Zapolskiy -  Orcs & Goblins 
+550 - Common Orc Shaman Master, General, War Cry!, 4 spells, Crown of Autocracy, Essence of Free Mind, The Shamanism/Pyromancy 
+245 - Common Goblin Witch Doctor Adept, 2 spells, Binding Scroll, The Witchcraft 
+200 - Forest Goblin Chief, BSB, Bow, Shield, Maza's Zappin 
+645 - Forest Goblin King, Gargantula, Paired Weapons, Hero's Heart, Troll Ale Flask 
+461 - 2 x 44x Forest Goblins, Standard Bearer, Spear, Shield, Green Tide 
+215 - 20x Orcs, Musician, Bow 
+295 - 15x Iron Orcs 
+120 - 5x Goblin Raiders 
+90 - 3 x 3x Grotlings 
+288 - 2 x 24x Gnasher Herd 
+185 - 2 x 1 Greenhide Catapult - Git Launcher 
+90 - 3 x 1 Skewerer Total: 4498
+<ARMY_BOOK>
+Nikolaï Volkov – Orcs & Goblins 
+680 - Orc Warlord, General (War Cry!), Iron Orc Warlord, Wyvern, Plate Armour, Basalt Infusion, Shield, Dusk forged, Shady Shanking, Potion of Swiftness 
+435 - Orc Shaman, Common Orc Shaman, Shamanism, Paired Weapons, Magical Heirloom, Master 
+105 - Goblin Chief, Forest Goblin Chief, Scuttler Spider 
+685 - 40x Orcs, Feral Orcs, Spears, Standard Bearer, Musician, Champion, Mammoth Stabber, Green Tide 
+430 - 30x Goblins, Cave Goblins, Bows, 2 Mad Gits, Standard Bearer, Musician, Champion 
+180 - 5x Orc Board Riders, Common Orcs, Shields, Musician 
+523 - 7x Trolls, Bridge Troll 
+140 - Gnasher Wrecking Team 
+140 - Gnasher Wrecking Team 
+205 - Greenhide Catapult, Git Launcher, Orc Overseer 
+510 - Gargantula 
+465 - Great Green Idol, Battle Standard 
+4498
+<ARMY_BOOK>
+Alejandro 'KBB' – Orcos 
+360 - Goblin Witch Doctor, Common Goblin Witch Doctor, Thaumaturgy,  Wizard Master and +1HP, Light Armour
+360 - Goblin King, Forest Goblin King, Huntsmen Spider, Shield, Dusk forged, Heavy Armour,  Basalt Infusion, Hero's Heart (Hand Weapon), Troll Ale Flask
+275 - Orc Shaman, General (War Cry!), Common Orc Shaman, Shamanism, Wizard Adept 
+210 - Goblin Chief, Cave Goblin Chief, Battle Standard, Crown of the Cavern King 
+610 - 30x Orc 'Eadbashers, Common Orcs, Paired Weapons, Standard Bearer, Green Tide 
+525 - 45x Goblins, Cave Goblins, Shields, 3 Mad Gits, Standard Bearer,  Banner of the Relentless Company
+120 - 20x Goblins, Common Goblins 
+300 - 25x Gnasher Herd 
+288 - 24x Gnasher Herd 
+288 - 24x Gnasher Herd 
+288 - 24x Gnasher Herd 
+510 - Gargantula 
+365 - Great Green Idol
+4499
+<ARMY_BOOK>
+Álvaro “Gorko es dios”- Orcs and Goblins
+685- Iron orc Warlord, wyvern,  death cheater,  shady shanking, war cry!,  shield,  general
+495- Iron orc warlord, shield, omen of the apocalypse, basalt infusión, dusk  forged
+450- cave goblin witch doctor, binding scroll, wizard master (pyromancy)
+465- Great Green idol, Batlle standard bearer
+510- Gargantula
+85- Scrap wagon
+140- Gnasher wrecking team
+125- Globin Wolf chariot
+150- ork boar chariot
+120- 2x5 goblins raiders
+510- 40x cave goblins, 2x mad gits, nets, M,S,C
+637- 27x Orc´Eadbashers, spear, shield,flaming standard, M, S, C
+4492
+<ARMY_BOOK>

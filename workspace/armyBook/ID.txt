@@ -1,3 +1,216 @@
+Javier “Korsa” Amat - Infernal Dwarfs 
+565 - Prophet: General, Wizard Master, Engineer, Shield, Piromancy/Alchemy, Binding Scroll, Essence of Free Mind 
+420 - Chosen of Lugar: BSB, Lugar's Dice, Obsidian Rock, Aether Icon, Paired Weapons (Shield Breaker) 
+325 - Prophet: Wizard Adept, Occultism, Besheluk's Mechanism 
+125 - Hobgoblin Chieftain: Wolf, Throwing Weapons 
+375 - 20 Infernal Warriors: Shield, C, M, S, Banner of Shamut 
+300 - 2x 10 Citadel Guard: Flintlock Axe, Shield, M 
+155 - 20 Orc Slaves: Shield 
+130 - 5 Hobgoblin Wolf Riders  
+300 - Titan Mortar 
+480 - 17 Disciples of Lugar: Paired Weapons, M, C 
+450 - Infernal Engine: Shrapnel Guns 
+575 - Kadim Titan 
+Total: 4500
+<ARMY_BOOK>
+Ignasi “Nasi” Gelabert, Infernal Dwarves 
+510 – Prophet, General, Engineer, Master, Shield, Essence Free Mind (Alchemy/Pyromancy) 
+360 – Chosen of Lugar, Hero’s Heart, Paired Weapons, Lugar’s Dice, Potion of Swiftness 
+120 – Hobgoblin Chieftain on Wolf 
+275 – Vizier, BSB, Icon of the Inferno 
+300 – 2x10 Citadel guard, Flintlock Axe, Shield, M 
+115 – 20 Orc Slaves 
+420 – 40x Hobgoblins, Bows, Spear and Shield, M,C 
+290 – 15x Immortals, Great Weapon 
+300 – 1x Titan Mortar 
+575 – 1x Kadim Titan 
+450 – 1x Infernal Engine, Shrapnel Guns 
+485 – 18x Disciples of Lugar, Paired Weapons, C 
+4500
+<ARMY_BOOK>
+Juan José “Juanjoe” Wu - Infernal Dwarves 
+545 - Prophet, General, Flintlock Axe, Binding Scroll, Essence of Free Mind, Wizard Master 
+(Pyromancy/Alchemy) 
+290 - Vizier, BSB, Flintlock Axe, Icon of the Inferno 
+355 - Chosen of Lugar, Paired Weapons, Hero’s Heart, Ring od Desiccation 
+320 - 2x11 Citadel Guard, M, Flintlock Axe 
+290 - 10x Citadel Guard, M, Flintlock Axe 
+115 - 2x20 Orc Slaves 
+165 - 2x5 Taurukh, Great Weapon 
+535 - 20x Disciples of Lugar, C, Paired Weapons 
+130 - 2x1 Gunnery Team, Flamethrower  
+575 - Kadim Titan  
+450 - Infernal Engine, Shrapnel Guns 
+4500
+<ARMY_BOOK>
+David “Davidar” de los Ángeles - Infernal Dwarves 
+605 - Prophet, General, 4 spells, Wizard Master, Tablet of Ashuruk, Binding Scroll, Essence of a Free 
+Mind (Alchemy/Pyromancy) 
+360 - Chosen of Lugar, Lugar´s Dice, Hero´s Heart, Potion of Swiftness  
+275 - Vizier, BSB, Icon of the Inferno 
+564 - 27x Infernal Warriors, M,C,S, Banner of the Relentless Company, shield, Great Weapon 
+300 - 2x10 Citadel Guard, M, shield, Flintlock Axe  
+130 - 5x Hobgoblin Wolf Riders 
+165 - 5x Taurukh, Great Weapon 
+340 - 10x Taurukh, Shield, Infernal Weapon 
+575 - 1x Kadim Titan 
+435 - 16x Disciples of Lugar, C  
+450 - 1x Infernal Engine, Shrapnel Guns  
+Total: 4499
+<ARMY_BOOK>
+Infernal Dwarfs, César Beltrán "skrak" 
+480 - Prophet, General, Piromancy, Alchemy, Wizard Master, Essence of a Free Mind. 
+280 - Vizier, BSB, Shield, Icon of the Inferno. 
+360 - Chosen of Lugar, Paired Weapons, Hero's Hearth, Lugar's Dice, Potion of Swiftness. 
+290 - 3x10 Citadel Guard, Flintlock Axe, M. 
+140 - 20 Hobgoblins, Spear, Shield. 
+115 - 20 Orc Slaves. 
+615 - 5 Taurukh Anointed, Shield, M. 
+135 - 5 Hobgoblin Wolf Raiders, Shield. 
+480 - 17 Disciples of Lugar, C, M. 
+450 - Infernal Engine, Shrapnel Guns. 
+575 - 5 Kadim Incarnates. 
+4500 pts
+<ARMY_BOOK>
+Isma Enanos Infernales 
+120 - Cacique Hobgoblin; Lobo 
+125 - Cacique Hobgoblin; Lobo; escudo 
+405 - Elegido del Lugar; Armas Emparejadas; BSB; corazón de Héroe; Estandarte de Shamut; Guanteletes de Madzhab 
+535 – Profeta; General; Maestro Hechicero; Senda de la Alquimia; Senda de la Piromancia; Esencia de la Mente Libre; Pergamino de Vinculación (Binding Scroll)
+135 – 20 x Esclavos Orcos; M 
+331 – 3 x 11 Guardia de la Ciudadela; Hachas de Pedernal (3+); M; escudos 
+311 – 9 x Taurukhs; Armas a dos manos; C; Escudos 
+150 – 2 x 1 Equipo Artillero; Cañón de Salvas (4+) 
+550 – 18 x Discípulos del Lugar; Armas Emparejadas; C; S; Estandarte Perforante (Rending Banner) 
+450 - Máquina Infernal; Armas de Metralla (4+) 
+575 - Titán Kadim 
+++ Total: [4499pts] ++
+<ARMY_BOOK>
+Manuel "Manué Puños de Acero" Gil - Infernal Dwarves 
+555 - Prophet, General, Engineer, 4 spells, Essence of a 
+free mind, Binding Scroll, Wizard Master, Alchemy/pyromancy 
+280 - Vizier BSB, Icon of the Inferno, shield 
+360 - Chosen of Lugar, Hero's Heart, Lugar's dice, Potion of 
+swiftness 
+300 - 10x Citadel Guard, M, Take FlintlockAxe (3+) 
+300 - 10x Citadel Guard, M, Take FlintlockAxe (3+) 
+300 - 10x Citadel Guard, M, Take FlintlockAxe (3+) 
+115 - 20x Orc Slaves  
+115 - 20x Orc Slaves 
+290 - 15 Inmortals, great weapon 
+130 - 5x Hobgoblin Wolf Riders 
+430 - 15x Disciples of Lugar, C,S paired weapons 
+575 - 1x Kadim titan 
+450 - 1x Infernal Engine, Shrapnel Guns 
+300 – 1x Titan Mortar 
+4500
+<ARMY_BOOK>
+Jordi "Kratos" Payerols - Infernal Dwarves
+360 - Chosen of Lugar, Hero's Heart, Lugar's Dice, Potion of Swiftness 
+125 - Hobgoblin Chieftan, Wolf, Light Armour 
+575 - Prophet, General, Wizard, Shield, Alchemist's Alloy, Tablet of Ashuruk, Essence of a Free Mind, 
+Wizard Master, Pyromancy, Alchemy 
+350 - Vizier, BSB, Shield, Icon of the Inferno, Willow's Ward 
+413 - 13x Citadel Guard, CM, Take FlintlockAxe (3+) 
+393 - 13x Citadel Guard, M, Take FlintlockAxe (3+) 
+204 - 28x Hobgoblins, Spear and Shield 
+115 - 20x Orc Slaves 
+130 - 5x Hobgoblin Wolf Riders 
+340 - 10x Taurukh, Infernal Weapons, Shields 
+525 - 17x Disciples of Lugar, CS, Paired weapons, Rending Banner 
+575 - 1x Kadim titan 
+450 - 1x Infernal Engine, Shrapnel Guns 
+Total 4500
+<ARMY_BOOK>
+Miguel Moreno Barona - Infernal Dwarfs 
+545 - Prophet, General, wizard master, essence of a free mind, alchemy/pyro, binding scroll, shield 
+330 - Vizier, BSB, Icon of The inferno, talisman of the void, shield 
+360 - Chosen of lugar, heros heart, lugars dice, potion of swiftness 
+120 - Hobgoblin chieftain, wolf 
+290 - 3x10 citadel guard, flintock axe, M 
+115 - 20 Orcs 
+220 - 15 infernal warriors, shield, C 
+130 - 5 hobgoblin raiders 
+374 - 12 tauruks, great weapon, C 
+575 - 1 Kdaai 
+450 - 1 Infernal engine, shrapnel guns 
+410 - 15 lugars, C 
+4499
+<ARMY_BOOK>
+Infernal Dwarves - Ángel “Tui-Tui” López  
+520 - Overlord, General, Onyx Core, Death Cheater, Shield, Gauntlets of Madzhab  
+325 - Vizier, BSB, Shield, Alchemist's Alloy, Banner of the Relentless Company, Flaming Standard, Binding Scroll  
+610 - Prophet, Wizard Master, Alchemy, Shield, Kadim Bindigns, Mask of the Furnance, Potion of Swiftness, Supernatural Dexterity
+670 - 35 Infernal Warriors: C, M, S, Great Weapon, Stalker's Standard  
+200 - 20 Hobgoblins, Backstabbers: C  
+140 - 20 Hobgoblins, Spear & Shield  
+115 - 20 Orc Slaves  
+135 - 2x5 Hobgoblin Wolf Riders, shield  
+130 - 2x1 Gunnery Team: Flame Thrower  
+365 - Armoured Gigant: Big Brother, Giant Club  
+450 - Infernal Engine, Shrapnel Guns  
+575 - Kadim Titan  
+4.500
+<ARMY_BOOK>
+Joel Alberto “Reapers” - Infernal dwarves 
+535 - Prophet [Characters]: General,  Binding Scroll, Essence of a Free Mind, Wizard Master, Alchemy/Pyro. 
+400 - Chosen of lugar [Characters]: BSB, Hero´s Heart, Lugar´s Dice. 
+120 - Hobgoblin Chieftain on Wolf [Characters] 
+485 - Taurukh Subjugator [Characters]: Infernal Weapons, Shield, Kadim Bindings, Mask of the furnace.  
+300 - 3x 10 Citadel Guard [Core, Hail of the gods] M, Flintlock Axe, shield 
+115 - 2x 20 Orc Slaves [Core]  
+340 - 10 Taurukh [Special] Infernal Weapon, Shields.  
+460 - 17 Disciples of lugar [Bound and Binders] C, Paired Weapons 
+575 - 1 Kadim Titan. [Bound and Binders] 
+450 - Infernal Engine [Bound and Binders, Barrage] Shrapnel guns 
+4495
+<ARMY_BOOK>
+Pablo "pablo.urban88" Urban Izquierdo – Infernal Dwarves (Murcia) 
+560 - Prophet, Wizard Master, Alchemy-Pyromancy, Shield, Tablet of Ashuruk, Essence of a Free Mind 
+360 - Chosen of Lugar, Hero's Heart (Hand Weapon), Lugar's Dice, Potion of Swiftness 
+280 - Vizier, Battle Standard, Icon of the Inferno, Shield 
+120 - Hobgoblin Chieftain, Wolf 
+433 - 13x Citadel Guards, Shields, Flintock Axes, Standard Bearer, Musician, Champion 
+300 - 10x Citadel Guards, Shields, Flintock Axes, Musician 
+290 - 10x Citadel Guards, Flintock Axes, Musician 
+115 - 20x Orc Slaves 
+360 - 10x Taurukh, Shields, Infernal Weapons, Champion 
+130 - 5x Hobgoblin Wolf Riders 
+575 - Kadim Titan 
+525 - 17x Disciples of Lugar, Paired Weapons, Standard Bearer, Rending Banner, Champion 
+450 - Infernal Engine, Shrapnel Guns   
+4498
+<ARMY_BOOK>
+Juan carlos Alvarez Piqué " Chuky " - Infernal Dwarfs- 
+425 - Prophet, General, Wizard Master, Pyromancy. 
+505 - Taurukh Subjugator BSB, Paired Weapons[Hero's Heart], Infernal Armor[Steel Skin]. 
+730 - Overlord, Bull of Shamut, Hand Weapon[Onyx Core], Inf. Armor[Basalt Infusion], Shield, Lugar's Dice. 
+290 - 10x Citadel Guard, M, Flintlock Axe- 
+300 - 10x Citadel Guard, M, Flintlock Axe, Shield. 
+362 - 12x Citadel Guard, M, Flintlock Axe, Shield. 
+180 - 20x Hobgoblins, M, Bows. 
+680 - 5x Taurukh Anointed, M, S, C,  Banner of Shamut, Paired Weapons. 
+450 - Infernal Engine, Shrapnel Guns. 
+575 - Kadim Titan  
+Total, 4497
+<ARMY_BOOK>
+Fran Macías “Miguelito”Infernal Dwarves 
+550 - Prophet, General, Wizard, Wizard, Alchemy/pyromancy, Wizard Master, Tablet of Ashuruk, Essence of a Free Mind 
+215 - Vizier, Battle Standard, Aether Icon, Obsidian Rock 
+120 - Hobgoblin Chieftain, Wolf 
+300 - 10x Citadel Guards, Shields, Flintock Axes, Musician 
+280 - 10x Citadel Guards, Shields, Flintock Axes 
+190 - 10x Citadel Guard, Shields 
+275 - 15x Infernal Warriors, Shields, Standard Bearer, Aether Icon, Musician, Champion 
+200 - 20x Hobgoblins, Bows, Spears and Shields, Musician 
+115 - 20x Orc Slaves 
+2x 360 – 2x10x Taurukh, Shields, Infernal Weapons, Musician 
+350 – 1 Infernal Artillery, Volcano Cannon, Bound Daemon 
+150 – 1 Infernal Artillery, Volcano Cannon 
+575 - Kadim Titan 
+450 - Infernal Engine, Steam Hammers 
+4490
+<ARMY_BOOK>
 Burgy
 Prophet, General, Master, Alchemy, Tablet of Ashuruk, Shield 505
 Prophet, Adept, Pyromancy, Book of Arcane Mastery, Shield 345
@@ -91,7 +304,6 @@ James McDonnell - Infernal Dwarves
 575 - 5x Kadim Incarnates 
 4500
 <ARMY_BOOK>
- 
 Joseph "Karak Angor" Abel - Infernal Dwarfs 
 825 - Overlord,  General, Great Bull of Shamut , Hand Weapon, Obsidian Rock, Onyx Core 
 535 - Prophet,  Alchemy, Pyromancy, Master, Binding Scroll, Essence of a Free Mind 
@@ -102,7 +314,7 @@ Joseph "Karak Angor" Abel - Infernal Dwarfs
 705 - 5x Taurukh Anointed: Infernal Weapon, Shields, Musician  
 450 - Infernal Engine: Shrapnel Guns 
 575 - Kadim Titan 
-4500 pts 
+4500 pts
 <ARMY_BOOK>
 Miljan “Ota” Otovid – Infernal Dwarves  
 525 – Overlord, General, Shield, Onix Core, Willows Ward, Talisman of Shielding, Mask of Furnace 
@@ -141,7 +353,7 @@ Fraser “Cam” Campbell - Infernal Dwarves
 130 - Gunnery Team, Flamethrower 
 575 - 5x Kadim Incarnates 
 575 - Kadim Titan 
-4497 
+4497
 <ARMY_BOOK>
 Aleksandar “Alf” Ristid - Infernal Dwarves 
  
@@ -169,9 +381,49 @@ Justin “Pretty Princess” Burgy - Infernal Dwarves
 695 - 6x Kadim Incarnates 
 335 - 3x Kadim Incarnates 
 450 - 1x Infernal Engine, Shrapnel Guns 
-4496   
+4496
 <ARMY_BOOK>
 Dušan Živkovid - Infernal Dwarves 
  
 540 - Prophet, General, Engineer, Wizard Master, Pyromancy, Obsidian Rock, Tablet of Ashuruk  
-355 - Prophet, Engineer,Wizar
+355 - Prophet, Engineer,Wizard Adept, Alchemy, Book of Arcane Mastery 
+275 - Vizier, BSB, Icon of the Inferno 
+362 - 12x Citadel Guard, Flintlock Axe, Musician, Shield 
+300 - 10x Citadel Guard, Flintlock Axe, Musician, Shield 
+240 - 24x Hobgoblin, Musician, Bow, Spear & Shield 
+233 - 16x Infernal Warrior, Musician, Shields 
+130 – 2x5 Hobgoblin Wolf Rider 
+285 - Rocket Battery (4+) 
+285 - Rocket Battery (4+) 
+455 - 3x4 Kadim Incarnate  
+4500
+<ARMY_BOOK>
+Oli Mather - Infernal Dwarves 
+ 
+560 - Prophet, General, Alchemy/Pyromancy, Shield, Tablet of Ashuruk, Essence of a Free Mind, Wizard Master 
+330 - Vizier, BSB, Shield, Icon of the Inferno, Talisman of the Void 
+120 - 3x1 Hobgoblin Chieftain, Wolf 
+527 - 21x Citadel Guards, Shields, Standard Bearer, Musician, Champion, Flaming Banner 
+300 - 2x10x Citadel Guards, Shields, Flintock Axes, Musician 
+705 - 5x Taurukh Anointed, Shields, Infernal Weapons, Musician 
+390 - Titan Mortar, Bound Daemon 
+575 - 5x Kadim Incarnates 
+450 - Infernal Engine, Shrapnel Guns 
+4497
+<ARMY_BOOK>
+Infernal Dwards Unai Atxa
+490 - Prophet, General, Wizard, Wizard, Alchemy, Pyromancy, Wizard Master, Shield,  Essence of a Free Mind
+360 - Chosen of Lugar, Hero's Heart (Hand Weapon), Lugar's Dice, Potion of Swiftness
+295 - Vizier, Battle Standard, Icon of the Inferno, Shield, Alchemist's Alloy
+120 - Hobgoblin Chieftain, Wolf
+120 - Hobgoblin Chieftain, Wolf
+300 - 10x Citadel Guards, Shields, Flintock Axes, Musician
+300 - 10x Citadel Guards, Shields, Flintock Axes, Musician
+300 - 10x Citadel Guards, Shields, Flintock Axes, Musician
+300 - 10x Citadel Guards, Shields, Flintock Axes, Musician
+365 - 3x Taurukh Anointed, Shields
+575 - Kadim Titan
+525 - 18x Disciples of Lugar, Paired Weapons, Standard Bearer, Musician, Champion
+450 - Infernal Engine, Shrapnel Guns
+4500
+<ARMY_BOOK>

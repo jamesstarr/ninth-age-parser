@@ -1,0 +1,15 @@
+KoE, 4
+SA, 5
+OnG, 3
+VS, 4
+DH, 3
+VC, 6
+DL, 3
+WDG, 4
+DE, 3
+ID, 2
+BH, 2
+EoS, 4
+OK, 2
+SE, 1
+UD, 1
