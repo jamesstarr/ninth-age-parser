@@ -1,35 +1,35 @@
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Imperial Seal"
->Knight Commander, Calvary Pick, Imperial Seal
+>Knight Commander, Cavalry Pick, Imperial Seal
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Blacksteel"
->Knight Commander, Calvary Pick, Blacksteel
+>Knight Commander, Cavalry Pick, Blacksteel
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Death Cheater"
->Knight Commander, Calvary Pick, Death Cheater
+>Knight Commander, Cavalry Pick, Death Cheater
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Destiny's Call"
->Knight Commander, Calvary Pick, Destiny's Call
+>Knight Commander, Cavalry Pick, Destiny's Call
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Essence of Mithril"
->Knight Commander, Calvary Pick, Essence of Mithril
+>Knight Commander, Cavalry Pick, Essence of Mithril
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Ghostly Guard"
->Knight Commander, Calvary Pick, Ghostly Guard
+>Knight Commander, Cavalry Pick, Ghostly Guard
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Basalt Infusion"
->Knight Commander, Calvary Pick, Basalt Infusion
+>Knight Commander, Cavalry Pick, Basalt Infusion
 <Unit name="Knight Commander" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	ArmourEnchantment="Alchemist's Alloy"
->Knight Commander, Calvary Pick, Alchemist's Alloy
+>Knight Commander, Cavalry Pick, Alchemist's Alloy
 <Unit name="Knight Commander" 
 	CloseCombatWeapon="Great Weapon"
 	ArmourEnchantment="Imperial Seal"

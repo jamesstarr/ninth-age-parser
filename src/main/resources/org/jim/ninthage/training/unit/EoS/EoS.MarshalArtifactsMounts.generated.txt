@@ -79,85 +79,85 @@
 	Artefact="Potion of Swiftness"
 >Marshal, Horse, Potion of Swiftness
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Winter Cloak"
->Marshal, pegasus, Winter Cloak
+>Marshal, Pegasus, Winter Cloak
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Locket of Sunna"
->Marshal, pegasus, Locket of Sunna
+>Marshal, Pegasus, Locket of Sunna
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Karadon's Courser"
->Marshal, pegasus, Karadon's Courser
+>Marshal, Pegasus, Karadon's Courser
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Mantle of Ullor"
->Marshal, pegasus, Mantle of Ullor
+>Marshal, Pegasus, Mantle of Ullor
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Crown of Autocracy"
->Marshal, pegasus, Crown of Autocracy
+>Marshal, Pegasus, Crown of Autocracy
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Binding Scroll"
->Marshal, pegasus, Binding Scroll
+>Marshal, Pegasus, Binding Scroll
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Crown of the Wizard King"
->Marshal, pegasus, Crown of the Wizard King
+>Marshal, Pegasus, Crown of the Wizard King
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Talisman of Shielding"
->Marshal, pegasus, Talisman of Shielding
+>Marshal, Pegasus, Talisman of Shielding
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Talisman of the Void"
->Marshal, pegasus, Talisman of the Void
+>Marshal, Pegasus, Talisman of the Void
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Lightning Vambraces"
->Marshal, pegasus, Lightning Vambraces
+>Marshal, Pegasus, Lightning Vambraces
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Ranger's Boot"
->Marshal, pegasus, Ranger's Boot
+>Marshal, Pegasus, Ranger's Boot
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Rod of Battle"
->Marshal, pegasus, Rod of Battle
+>Marshal, Pegasus, Rod of Battle
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Crystal Ball"
->Marshal, pegasus, Crystal Ball
+>Marshal, Pegasus, Crystal Ball
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Sceptre of Power"
->Marshal, pegasus, Sceptre of Power
+>Marshal, Pegasus, Sceptre of Power
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Dragon Staff"
->Marshal, pegasus, Dragon Staff
+>Marshal, Pegasus, Dragon Staff
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Obsidian Rock"
->Marshal, pegasus, Obsidian Rock
+>Marshal, Pegasus, Obsidian Rock
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Dragonfire Gem"
->Marshal, pegasus, Dragonfire Gem
+>Marshal, Pegasus, Dragonfire Gem
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Lucky Charm"
->Marshal, pegasus, Lucky Charm
+>Marshal, Pegasus, Lucky Charm
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Potion of Strength"
->Marshal, pegasus, Potion of Strength
+>Marshal, Pegasus, Potion of Strength
 <Unit name="Marshal" 
-	Mount="pegasus"
+	Mount="Pegasus"
 	Artefact="Potion of Swiftness"
->Marshal, pegasus, Potion of Swiftness
+>Marshal, Pegasus, Potion of Swiftness
 <Unit name="Marshal" 
 	Mount="Great Griffon"
 	Artefact="Winter Cloak"

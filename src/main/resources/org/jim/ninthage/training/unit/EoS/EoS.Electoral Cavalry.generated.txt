@@ -2416,1212 +2416,1212 @@
 >Electoral Cavalry, Shield, Great Weapon, CMS
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
->Electoral Cavalry, Shield, Calvary Pick
+	CloseCombatWeapon="Cavalry Pick"
+>Electoral Cavalry, Shield, Cavalry Pick
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
-	Command="C"
-	BannerEnchantment="Household Standard"
-	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Household Standard, Knight Orders
-<Unit name="Electoral Cavalry" 
-	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, C, Household Standard
+	KnightOrders="Knight Orders"
+>Electoral Cavalry, Shield, Cavalry Pick, C, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Electoral Cavalry, Shield, Cavalry Pick, C, Household Standard
+<Unit name="Electoral Cavalry" 
+	Shield="Shield"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, C, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, C, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, C, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, C, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, C, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, C, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, C, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, C, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, C, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, C, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, C, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, C, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, C, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, C, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, C, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, C, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
->Electoral Cavalry, Shield, Calvary Pick, C
+>Electoral Cavalry, Shield, Cavalry Pick, C
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, M, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, M, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, M, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, M, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, M, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, M, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, M, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, M, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, M, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, M, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, M, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, M, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, M, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, M, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, M, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, M, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, M, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, M, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
->Electoral Cavalry, Shield, Calvary Pick, M
+>Electoral Cavalry, Shield, Cavalry Pick, M
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, S, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, S, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, S, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, S, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, S, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, S, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, S, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, S, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, S, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, S, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, S, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, S, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, S, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, S, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, S, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, S, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, S, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, S, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
->Electoral Cavalry, Shield, Calvary Pick, S
+>Electoral Cavalry, Shield, Cavalry Pick, S
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, CM, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, CM, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, CM, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, CM, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, CM, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, CM, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, CM, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, CM, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CM, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CM, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
->Electoral Cavalry, Shield, Calvary Pick, CM
+>Electoral Cavalry, Shield, Cavalry Pick, CM
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, CS, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, CS, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, CS, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, CS, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, CS, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, CS, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, CS, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, CS, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CS, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CS, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
->Electoral Cavalry, Shield, Calvary Pick, CS
+>Electoral Cavalry, Shield, Cavalry Pick, CS
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, MS, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, MS, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, MS, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, MS, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, MS, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, MS, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, MS, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, MS, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, MS, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, MS, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
->Electoral Cavalry, Shield, Calvary Pick, MS
+>Electoral Cavalry, Shield, Cavalry Pick, MS
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Household Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Household Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Household Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of Unity, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of Unity
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of Unity
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Marksman’s Pennant
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of Speed, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of Speed
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of Speed
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Rending Banner, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Rending Banner
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Rending Banner
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Stalker's Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Stalker's Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of the Relentless Company
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Banner of Discipline
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Banner of Discipline
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Flaming Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Flaming Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Flaming Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Legion Standard, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Legion Standard
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Legion Standard
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Aether Icon, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Aether Icon
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Aether Icon
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Shield, Calvary Pick, CMS, Knight Orders
+>Electoral Cavalry, Shield, Cavalry Pick, CMS, Knight Orders
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
->Electoral Cavalry, Shield, Calvary Pick, CMS
+>Electoral Cavalry, Shield, Cavalry Pick, CMS
 <Unit name="Electoral Cavalry" 
 	Shield="Shield"
 	BannerEnchantment="Household Standard"
@@ -6671,1021 +6671,1021 @@
 	Command="CMS"
 >Electoral Cavalry, Great Weapon, CMS
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, Household Standard
+>Electoral Cavalry, Cavalry Pick, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, Rending Banner
+>Electoral Cavalry, Cavalry Pick, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, Legion Standard
+>Electoral Cavalry, Cavalry Pick, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, Aether Icon
+>Electoral Cavalry, Cavalry Pick, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, Knight Orders
+>Electoral Cavalry, Cavalry Pick, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
->Electoral Cavalry, Calvary Pick
+	CloseCombatWeapon="Cavalry Pick"
+>Electoral Cavalry, Cavalry Pick
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
-	Command="C"
-	BannerEnchantment="Household Standard"
-	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Household Standard, Knight Orders
-<Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, C, Household Standard
+	KnightOrders="Knight Orders"
+>Electoral Cavalry, Cavalry Pick, C, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
+	Command="C"
+	BannerEnchantment="Household Standard"
+>Electoral Cavalry, Cavalry Pick, C, Household Standard
+<Unit name="Electoral Cavalry" 
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, C, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, C, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, C, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, C, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, C, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, C, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, C, Rending Banner
+>Electoral Cavalry, Cavalry Pick, C, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, C, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, C, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, C, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, C, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, C, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, C, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, C, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, C, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, C, Legion Standard
+>Electoral Cavalry, Cavalry Pick, C, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, C, Aether Icon
+>Electoral Cavalry, Cavalry Pick, C, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, C, Knight Orders
+>Electoral Cavalry, Cavalry Pick, C, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="C"
->Electoral Cavalry, Calvary Pick, C
+>Electoral Cavalry, Cavalry Pick, C
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, M, Household Standard
+>Electoral Cavalry, Cavalry Pick, M, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, M, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, M, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, M, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, M, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, M, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, M, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, M, Rending Banner
+>Electoral Cavalry, Cavalry Pick, M, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, M, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, M, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, M, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, M, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, M, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, M, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, M, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, M, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, M, Legion Standard
+>Electoral Cavalry, Cavalry Pick, M, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, M, Aether Icon
+>Electoral Cavalry, Cavalry Pick, M, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, M, Knight Orders
+>Electoral Cavalry, Cavalry Pick, M, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="M"
->Electoral Cavalry, Calvary Pick, M
+>Electoral Cavalry, Cavalry Pick, M
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, S, Household Standard
+>Electoral Cavalry, Cavalry Pick, S, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, S, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, S, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, S, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, S, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, S, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, S, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, S, Rending Banner
+>Electoral Cavalry, Cavalry Pick, S, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, S, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, S, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, S, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, S, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, S, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, S, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, S, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, S, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, S, Legion Standard
+>Electoral Cavalry, Cavalry Pick, S, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, S, Aether Icon
+>Electoral Cavalry, Cavalry Pick, S, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, S, Knight Orders
+>Electoral Cavalry, Cavalry Pick, S, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="S"
->Electoral Cavalry, Calvary Pick, S
+>Electoral Cavalry, Cavalry Pick, S
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, CM, Household Standard
+>Electoral Cavalry, Cavalry Pick, CM, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, CM, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, CM, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, CM, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, CM, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, CM, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, CM, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, CM, Rending Banner
+>Electoral Cavalry, Cavalry Pick, CM, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, CM, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, CM, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, CM, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, CM, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, CM, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, CM, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, CM, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, CM, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, CM, Legion Standard
+>Electoral Cavalry, Cavalry Pick, CM, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, CM, Aether Icon
+>Electoral Cavalry, Cavalry Pick, CM, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CM, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CM, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CM"
->Electoral Cavalry, Calvary Pick, CM
+>Electoral Cavalry, Cavalry Pick, CM
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, CS, Household Standard
+>Electoral Cavalry, Cavalry Pick, CS, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, CS, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, CS, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, CS, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, CS, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, CS, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, CS, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, CS, Rending Banner
+>Electoral Cavalry, Cavalry Pick, CS, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, CS, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, CS, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, CS, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, CS, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, CS, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, CS, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, CS, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, CS, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, CS, Legion Standard
+>Electoral Cavalry, Cavalry Pick, CS, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, CS, Aether Icon
+>Electoral Cavalry, Cavalry Pick, CS, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CS, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CS, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CS"
->Electoral Cavalry, Calvary Pick, CS
+>Electoral Cavalry, Cavalry Pick, CS
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, MS, Household Standard
+>Electoral Cavalry, Cavalry Pick, MS, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, MS, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, MS, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, MS, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, MS, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, MS, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, MS, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, MS, Rending Banner
+>Electoral Cavalry, Cavalry Pick, MS, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, MS, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, MS, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, MS, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, MS, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, MS, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, MS, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, MS, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, MS, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, MS, Legion Standard
+>Electoral Cavalry, Cavalry Pick, MS, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, MS, Aether Icon
+>Electoral Cavalry, Cavalry Pick, MS, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, MS, Knight Orders
+>Electoral Cavalry, Cavalry Pick, MS, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="MS"
->Electoral Cavalry, Calvary Pick, MS
+>Electoral Cavalry, Cavalry Pick, MS
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Household Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Household Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Household Standard"
->Electoral Cavalry, Calvary Pick, CMS, Household Standard
+>Electoral Cavalry, Cavalry Pick, CMS, Household Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Unity"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Banner of Unity, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of Unity, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Unity"
->Electoral Cavalry, Calvary Pick, CMS, Banner of Unity
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of Unity
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Marksman’s Pennant"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Marksman’s Pennant, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Marksman’s Pennant, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Marksman’s Pennant"
->Electoral Cavalry, Calvary Pick, CMS, Marksman’s Pennant
+>Electoral Cavalry, Cavalry Pick, CMS, Marksman’s Pennant
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Speed"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Banner of Speed, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of Speed, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Speed"
->Electoral Cavalry, Calvary Pick, CMS, Banner of Speed
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of Speed
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Rending Banner"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Rending Banner, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Rending Banner, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Rending Banner"
->Electoral Cavalry, Calvary Pick, CMS, Rending Banner
+>Electoral Cavalry, Cavalry Pick, CMS, Rending Banner
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Stalker's Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Stalker's Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Stalker's Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Stalker's Standard"
->Electoral Cavalry, Calvary Pick, CMS, Stalker's Standard
+>Electoral Cavalry, Cavalry Pick, CMS, Stalker's Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of the Relentless Company"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Banner of the Relentless Company, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of the Relentless Company, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of the Relentless Company"
->Electoral Cavalry, Calvary Pick, CMS, Banner of the Relentless Company
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of the Relentless Company
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Discipline"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Banner of Discipline, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of Discipline, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Banner of Discipline"
->Electoral Cavalry, Calvary Pick, CMS, Banner of Discipline
+>Electoral Cavalry, Cavalry Pick, CMS, Banner of Discipline
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Flaming Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Flaming Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Flaming Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Flaming Standard"
->Electoral Cavalry, Calvary Pick, CMS, Flaming Standard
+>Electoral Cavalry, Cavalry Pick, CMS, Flaming Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Legion Standard"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Legion Standard, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Legion Standard, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Legion Standard"
->Electoral Cavalry, Calvary Pick, CMS, Legion Standard
+>Electoral Cavalry, Cavalry Pick, CMS, Legion Standard
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Aether Icon"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Aether Icon, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Aether Icon, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	BannerEnchantment="Aether Icon"
->Electoral Cavalry, Calvary Pick, CMS, Aether Icon
+>Electoral Cavalry, Cavalry Pick, CMS, Aether Icon
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
 	KnightOrders="Knight Orders"
->Electoral Cavalry, Calvary Pick, CMS, Knight Orders
+>Electoral Cavalry, Cavalry Pick, CMS, Knight Orders
 <Unit name="Electoral Cavalry" 
-	CloseCombatWeapon="Calvary Pick"
+	CloseCombatWeapon="Cavalry Pick"
 	Command="CMS"
->Electoral Cavalry, Calvary Pick, CMS
+>Electoral Cavalry, Cavalry Pick, CMS
 <Unit name="Electoral Cavalry" 
 	BannerEnchantment="Household Standard"
 	KnightOrders="Knight Orders"

@@ -1,10 +1,6 @@
 package org.jim.ninthage.data.armybook
 
 import org.jim.ninthage.data.armybook.dsl.Enchantment
-import org.jim.ninthage.data.armybook.dsl.option
-import org.jim.ninthage.data.armybook.dsl.selection
-import org.jim.ninthage.models.ArmyBookEntryOption
-import org.jim.ninthage.models.ArmyBookEntryOptionSelection
 
 interface ArcaneCompendium {
     val armourEnchantment: List<Enchantment>
@@ -36,7 +32,7 @@ object ArcaneCompendiums {
     val WizardLevel = "Wizard"
     val Apprentice = "Apprentice"
     val Adept = "Adept"
-    val Master= "Master"
+    val Master = "Master"
     val Artifact = "Artefact"
     val MagicPath = "Path"
 
@@ -112,40 +108,6 @@ object ArcaneCompendiums {
         FlamingStandard("Flaming Standard", 35),
         LegionStandard("Legion Standard", 25),
         AetherIcon("Aether Icon", 15);
-
-        companion object {
-            fun getForUnit(
-                vararg enchantments: ArmyBookEntryOptionSelection
-            ): ArmyBookEntryOption {
-                return option(
-                    BannerEnchantment,
-                    "None"
-                ) {
-                    ArrayList<ArmyBookEntryOptionSelection>()
-                        .apply {
-                            addAll(values().map { selection(it.label, it.points) })
-                            addAll(enchantments)
-                        }
-                }
-            }
-
-            fun getForBsb(
-                vararg enchantments: ArmyBookEntryOptionSelection
-            ): ArmyBookEntryOption {
-                return ArmyBookEntryOption(
-                    BannerEnchantment,
-                    ArrayList<ArmyBookEntryOptionSelection>()
-                        .apply {
-                            values().map { selection(it.label, it.points) }
-                            addAll(enchantments)
-                        },
-                    null,
-                    null,
-                    1,
-                    2
-                )
-            }
-        }
     }
 
     enum class MagicPaths {

@@ -1,17 +1,30 @@
 package org.jim.ninthage.data.armybook
 
 object MainBook {
+
     val None: String = "None"
 
     val General = "General"
-    val Title: String = "Title"
-    val BattleStandardBear: String = "BattleStandardBear"
-    val Shield: String = "Shield"
-    val CloseCombatWeapon: String ="CloseCombatWeapon"
+    val Title = "Title"
+    val BattleStandardBear = "BattleStandardBear"
+
+    val CloseCombatWeapon ="CloseCombatWeapon"
+    val HandWeapon = "Hand Weapon"
+    val PairedWeapons = "Paired Weapons"
+    val LightLance = "Light Lance"
+    val Lance = "Lance"
+    val Spear = "Spear"
+    val Halberd = "Halberd"
+    val GreatWeapon = "Great Weapon"
+
     val RangedWeapon = "RangedWeapon"
+    val ThrowingWeapon = "Throwing Weapon"
+
+    val Shield = "Shield"
+
     val Armour = "Armour"
     val LightArmour = "Light Armour"
     val HeavyArmour = "Heavy Armour"
-    val PlateArmour: String = "Plate Armour"
+    val PlateArmour = "Plate Armour"
     val Mount = "Mount"
 }

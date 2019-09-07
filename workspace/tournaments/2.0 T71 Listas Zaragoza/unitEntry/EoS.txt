@@ -371,7 +371,7 @@
 	Artefact="Essence of a Free Mind"
 >405- Wizard: Master, Essence of Free Mind Alchemy/Cosmology
 <Unit name="Wizard" 
-	Wizard=Master
+	Wizard=Adept
 	Path=Cosmology
 	Artefact="Magical Heirloom"
 >250 - Wizard, Magical Heirloom, Wizard Adept, Cosmology
@@ -380,7 +380,7 @@
 	Path=Alchemy
 >200 - Wizard, Wizard Adept, Alchemy
 <Unit name="Wizard" 
-	Wizard=Master
+	Wizard=Adept
 	Path=Cosmology
 	Artefact="Magical Heirloom"
 >250 - Wizard, Adept, cosmology, magical heirloom
@@ -390,7 +390,7 @@
 	Artefact="Book of Arcane Mastery"
 >260 - Wizard, Wizard Adept, Pyromancy, Book of Arcane, Mastery.
 <Unit name="Wizard" 
-	Wizard=Master
+	Wizard=Adept
 	Path=Divination
 	Artefact="Magical Heirloom"
 >250 - Wizard, Wizard Adept, Divination, Magical Heirloom.

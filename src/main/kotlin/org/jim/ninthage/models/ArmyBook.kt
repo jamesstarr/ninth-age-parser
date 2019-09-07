@@ -29,10 +29,11 @@ data class ArmyBookEntry(
 data class ArmyBookEntryOption(
     val name: String,
     val selections: List<ArmyBookEntryOptionSelection>,
-    val default: String?,
+    val default: String? = null,
     val implicit: String? = null,
     val minSelection: Int = 1,
-    val maxSelection: Int = 1
+    val maxSelection: Int = 1,
+    val costPerModel:Boolean = true
 ) {
     val isSimple: Boolean = maxSelection == 1
     val defaultValue: String
