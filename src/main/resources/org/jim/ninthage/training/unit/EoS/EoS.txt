@@ -481,12 +481,12 @@
 >320 - 20x Light Infantry, Crossbows, Musician, Champion, Long Rifle
 <Unit name="Marshal"
 	Shield
-	BattleStandardBear
+	BattleStandardBearer
 	ArmourEnchantment="Blacksteel"
 	Artefact="Binding Scroll"
 >265 – Marshal, BSB, Shield, Binding Scroll, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     BannerEnchantment="Household Standard"
     WeaponEnchantment="Death Warrant"
@@ -504,20 +504,20 @@
     Shield
 >515 - Marshal, Great Griffon, Shield, Shield of Volund, Hero's Heart, Ghostly Guard, Winter Cloak
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Title="Great Tactician"
     Shield
     Artefact="Binding Scroll"
     ArmourEnchantment="Blacksteel"
 >Marshal BSB, Great Tactician, Pl"ate, Shield, Binding Scroll, Black Steel 325
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     ArmourEnchantment="Blacksteel"
     BannerEnchantment="Rending Banner"
 >Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Title="Great Tactician"
     ArmourEnchantment="Blacksteel"
     BannerEnchantment="Stalker's Standard"
@@ -537,7 +537,7 @@
 >
 265 - Marshal, Army General, Shield, Blacksteel, Death Warrant
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
     Shield
@@ -548,26 +548,26 @@
     Shield
 >265 - Marshal, General, Death Warrant, Blacksteel, Shield
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
     Shield
 >265 Marshal, Battle Standard, Shield, Death Warrant (Hand Weapon) Blacksteel,
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
     Shield
 >265 – Marshal, Battle Standard Bearer, Shield, Black steel, Death Warrant (Hand Weapon)
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
     Shield
     RangedWeapon=Pistol
 >270 – Marshall, BSB, pistol, shield, Blacksteel, Death Warrant
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     ShieldEnchantment="Willow's Ward"
     ArmourEnchantment="Alchemist's Alloy"
@@ -575,13 +575,13 @@
     Title="Great Tactician"
 >280 - Marshal, BSB, Shield, Willow's Ward, Alchemist’s Alloy, Mantle of Ullor, Great Tactician
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
     Shield
 >265 – Marshal, Battle Standard Bearer, Shield, Death warrant, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     RangedWeapon=Pistol
     BannerEnchantment="Household Standard"
     ArmourEnchantment="Blacksteel"
@@ -590,14 +590,14 @@
 
 >315 - Marshal, Great Tactician, Battle Standard, Household Standard, Shield, Pistol, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     Title="Great Tactician"
     ArmourEnchantment="Blacksteel"
     WeaponEnchantment="Death Warrant"
 >325 - Marshal, BSB, Great Tactician, Shield, Death Warrant, Blacksteel
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Title="Great Tactician"
     Shield
     ArmourEnchantment="Blacksteel"
@@ -632,17 +632,17 @@
     ArmourEnchantment="Imperial Seal"
 >405 - Marshal, Army General, Great Tactician, Shield, Binding Scroll, Imperial Seal, Obsidian Rock
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     BannerEnchantment="Household Standard"
 >205 - Marshal, Shield, Battle Standard Bearer, Household Standard
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     BannerEnchantment="Household Standard"
     Shield
 >205 - Marshall , BSB, Shield, Household Banner
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     ShieldEnchantment="Willow's Ward"
 >180 - Marshal, Willow's Ward, Shield, Battle Standard Bearer
@@ -651,19 +651,19 @@
     Artefact="Crown of the Wizard King"
 >210 – Marshal, General, Crown of the Wizard King
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Artefact="Crown of the Wizard King"
     BannerEnchantment="Household Standard"
 >255 - Marshal, Battle Standard Bearer, Shield, Crown of the Wizard King, Household Standard
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     Shield
     BannerEnchantment="Aether Icon"
     Artefact="Lucky Charm"
     ArmourEnchantment=Blacksteel
 >235 - Marshal, Battle Standard Bearer, Shield, Aether Icon, Blacksteel, Lucky charm
 <Unit name="Marshal"
-    BattleStandardBear
+    BattleStandardBearer
     BannerEnchantment="Banner of Discipline"
     BannerEnchantment="Household Standard"
 >235 - Marshal, Battle Standard, Banner of Discipline, Household Standard

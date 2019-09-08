@@ -122,7 +122,7 @@ class TournamentReportPrinter(
         armyBookStr: String,
         unit: RosterUnit
     ): String {
-        return if (armyBookStr != "EoS") {
+        return if (null == ArmyBooks.All.find { it.shortLabel ==armyBookStr }) {
             "<Unit name=\"${unit.label}\">"
         } else if (unit.label == "Header" || unit.label == "Footer") {
             "<Unit name=\"${unit.label}\">${unit.raw}"

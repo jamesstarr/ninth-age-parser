@@ -1,22 +1,76 @@
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
+<Unit name="Beast Chieftain" 
+	BattleStandardBearer
+	GreaterTotemBearer
+	CloseCombatWeapon="Beast Axe"
+	ArmourEnchantment="Destiny's Call"
+>340 - Beast Chieftain: Destiny’s Call, BSB, Greater Totem Bearer, Beast Axe
+<Unit name="Beast Chieftain" 
+	BattleStandardBearer
+	GreaterTotemBearer
+	Shield
+	Armour="Heavy Armour"
+	CloseCombatWeapon="Beast Axe"
+	Mount="Raiding Chariot"
+	ShieldEnchantment="Dusk Forge"
+>380 - Beast Chieftain, BSB, Beast Axe, Shield, Heavy Armour, Talisman of Shielding, Lightning Vambraces, Great Totem Bearer
+<Unit name="Beast Lord" 
+>565 - Beast Lord: General, Razortusk Chariot, Beast Axe with Fatal Folly, Heavy Armour with Basalt infusion, Shield, Talisman of Shielding, Binding Scroll,Throwing weapons
+<Unit name="Centaurs" ModelCount=8 
+	RangedWeapon="Throwing Weapons"
+	CloseCombatWeapon="Paired Weapons"
+>292 - 8 Centaurs:  Musician, Paired Weapons
+<Unit name="Centaurs" EntryCount=2 ModelCount=5 
+	Ambush
+	RangedWeapon="Throwing Weapons"
+	CloseCombatWeapon="Paired Weapons"
+>200 - 2x5 Centaurs, Paired Weapons, Ambush
+<Unit name="Footer">Total: 4498
+<Unit name="Footer">Total: 4499 
+<Unit name="Gargoyles" EntryCount=2 ModelCount=5 
+>135 - 2x5 Gargoyles
+<Unit name="Gortach" EntryCount=2 
+>475 - 2x Gortach
+<Unit name="Gortach" EntryCount=2 
+>475 - 2x1 Gortach
+<Unit name="Header">Jonny “Lance Cookwood” Queija - Beast Herds 
+<Unit name="Header">Pep Forteza Ferrer - Beast Herds 
+<Unit name="Longhorn Herd" ModelCount=28 
+	Command
+	BannerEnchantment="Aether Icon"
+>689 - 28 Longhorn Herd: FCG,Rending Banner, Black Wing Totem
+<Unit name="Minotaurs" EntryCount=2 ModelCount=6 
+	CloseCombatWeapon="Paired Weapons"
+>529 - 2x6 Minotaurs, Paired Weapons
+<Unit name="Mongrel Herd" ModelCount=34 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Banner of the Wild Herd"
+>362 - 34 Mongrel herd: FCG, Spears, Banner of the Wild herd
+<Unit name="Mongrel Raiders" ModelCount=10 
+	AmbushAndScout
+>115- 10 Mongrel Raiders: scout & ambush
+<Unit name="Razortusk Herd" EntryCount=2 
+>100 - 2x 1 Razortusk Herd
+<Unit name="Soothsayer" 
+	Wizard=Master
+	Artefact="Dark Rain"
+	Artefact="Seed of the Dark Forest"
+>525 - Soothsayer: paired weapons, Wizard Master, Druidism, Dark Rain, Seed of the Dark Forest
+<Unit name="Soothsayer" 
+	Wizard=Master
+	Path=Shamanism
+	Artefact="Binding Scroll"
+>535 - Soothsayer, General, Light Armour, Destiny´s Call, Binding Scroll, Crown of Horns, Wizard Master, Shamanism
+<Unit name="Wildhorn Herd" EntryCount=2 ModelCount=15 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+>230 - 2x 15 Wildhorn Herd: Paired Weapons, Throwing Weapons
+<Unit name="Wildhorn Herd" ModelCount=33 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+	Command=S
+>506 - 33x Wildhorn Herd, Paired Weapons, Banner of Speed, M, C, S
+<Unit name="Wildhorn Herd" EntryCount=2 ModelCount=15 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+>200 - 2x15 Wildhorn Herd, Throwing Weapons, Ambush

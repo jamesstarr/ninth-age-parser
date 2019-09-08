@@ -6,7 +6,7 @@ object MainBook {
 
     val General = "General"
     val Title = "Title"
-    val BattleStandardBear = "BattleStandardBear"
+    val BattleStandardBearer = "BattleStandardBearer"
 
     val CloseCombatWeapon ="CloseCombatWeapon"
     val HandWeapon = "Hand Weapon"
@@ -18,7 +18,7 @@ object MainBook {
     val GreatWeapon = "Great Weapon"
 
     val RangedWeapon = "RangedWeapon"
-    val ThrowingWeapon = "Throwing Weapon"
+    val ThrowingWeapon = "Throwing Weapons"
 
     val Shield = "Shield"
 
@@ -26,5 +26,6 @@ object MainBook {
     val LightArmour = "Light Armour"
     val HeavyArmour = "Heavy Armour"
     val PlateArmour = "Plate Armour"
+
     val Mount = "Mount"
 }

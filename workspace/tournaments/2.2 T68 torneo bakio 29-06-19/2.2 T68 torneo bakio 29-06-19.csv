@@ -15,7 +15,7 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",special item,Banner of Unity,,1,1
 "",special item,Marksman’s Pennant,,1,1
 "",Marshal,base cost,,3,2
-"",Marshal,Battle Standard Bear,,1,1
+"",Marshal,Battle Standard Bearer,,1,1
 "",Marshal,Shield,,3,2
 "",Marshal,Paired Weapons,,0,0
 "",Marshal,Great Weapon,,0,0
@@ -25,17 +25,18 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",Marshal,Great Tactician,,0,0
 "",Marshal,Imperial Prince,,0,0
 "",Marshal,Horse,,0,0
-"",Marshal,pegasus,,0,0
+"",Marshal,Pegasus,,0,0
 "",Marshal,Great Griffon,,0,0
 "",Marshal,Dragon,,0,0
 "",Knight Commander,base cost,,0,0
 "",Knight Commander,Shield,,0,0
-"",Knight Commander,Calvary Pick,,0,0
+"",Knight Commander,Cavalry Pick,,0,0
 "",Knight Commander,Great Weapon,,0,0
 "",Knight Commander,Halberd,,0,0
 "",Knight Commander,Lance,,0,0
 "",Knight Commander,Young Griffon,,0,0
 "",Prelate,base cost,,2,2
+"",Prelate,Heavy Armour,,0,0
 "",Prelate,Plate Armour,,0,0
 "",Prelate,Shield,,0,0
 "",Prelate,Great Weapon,,0,0
@@ -82,7 +83,7 @@ Tourneys entered:,2.2 T68 torneo bakio 29-06-19,Number of EoS Lists:,2,Number of
 "",Electoral Cavalry,Shield,,0,0
 "",Electoral Cavalry,Lance,,0,0
 "",Electoral Cavalry,Great Weapon,,0,0
-"",Electoral Cavalry,Calvary Pick,,0,0
+"",Electoral Cavalry,Cavalry Pick,,0,0
 "",Electoral Cavalry,Knight Orders,,0,0
 "",State Militia,small unit (10-15),,2,1
 "",State Militia,large unit (15-25),,0,0

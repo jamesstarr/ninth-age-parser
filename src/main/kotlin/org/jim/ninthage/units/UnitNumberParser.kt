@@ -6,8 +6,8 @@ import java.util.regex.Pattern
 import kotlin.streams.toList
 
 class UnitNumberParser {
-    val entryCountAndModelCount = Pattern.compile("(\\d+)\\s*[xX]\\s*(\\d+)")
-    val numberPattern = Pattern.compile("(\\d+)([xX]?)")
+    val entryCountAndModelCount = Pattern.compile("(\\d+)\\s*[xX*]\\s*(\\d+)")
+    val numberPattern = Pattern.compile("(\\d+)([xX*]?)")
 
     data class UnitNumber(
         val points: Int?,
@@ -113,6 +113,8 @@ class UnitNumberParser {
                 val v2 = m.group(2).toInt()
                 if (v2 in armyBookEntry.run { minCount.rangeTo(maxCount) }) {
                     return Pair(v1, v2)
+                } else if(v2 == armyBookEntry.points && armyBookEntry.minCount == 1 && armyBookEntry.maxCount == 1){
+                    return Pair(v1, 1)
                 }
             } while (m.find())
             throw ParseException(value)

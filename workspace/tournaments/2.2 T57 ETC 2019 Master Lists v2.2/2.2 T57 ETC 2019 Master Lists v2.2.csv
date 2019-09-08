@@ -15,7 +15,7 @@ Tourneys entered:,2.2 T57 ETC 2019 Master Lists v2.2,Number of EoS Lists:,16,Num
 "",special item,Banner of Unity,,2,2
 "",special item,Marksman’s Pennant,,4,4
 "",Marshal,base cost,,26,16
-"",Marshal,Battle Standard Bear,,16,16
+"",Marshal,Battle Standard Bearer,,16,16
 "",Marshal,Shield,,19,15
 "",Marshal,Paired Weapons,,0,0
 "",Marshal,Great Weapon,,2,2
@@ -25,17 +25,18 @@ Tourneys entered:,2.2 T57 ETC 2019 Master Lists v2.2,Number of EoS Lists:,16,Num
 "",Marshal,Great Tactician,,7,7
 "",Marshal,Imperial Prince,,0,0
 "",Marshal,Horse,,0,0
-"",Marshal,pegasus,,0,0
+"",Marshal,Pegasus,,0,0
 "",Marshal,Great Griffon,,1,1
 "",Marshal,Dragon,,0,0
 "",Knight Commander,base cost,,4,4
 "",Knight Commander,Shield,,4,4
-"",Knight Commander,Calvary Pick,,0,0
+"",Knight Commander,Cavalry Pick,,0,0
 "",Knight Commander,Great Weapon,,0,0
 "",Knight Commander,Halberd,,0,0
 "",Knight Commander,Lance,,0,0
 "",Knight Commander,Young Griffon,,4,4
 "",Prelate,base cost,,14,13
+"",Prelate,Heavy Armour,,0,0
 "",Prelate,Plate Armour,,14,13
 "",Prelate,Shield,,9,8
 "",Prelate,Great Weapon,,5,5
@@ -80,9 +81,9 @@ Tourneys entered:,2.2 T57 ETC 2019 Master Lists v2.2,Number of EoS Lists:,16,Num
 "",Electoral Cavalry,small unit (5-8),,7,6
 "",Electoral Cavalry,large unit (8-15),,0,0
 "",Electoral Cavalry,Shield,,6,5
-"",Electoral Cavalry,Lance,,2,2
+"",Electoral Cavalry,Lance,,1,1
 "",Electoral Cavalry,Great Weapon,,1,1
-"",Electoral Cavalry,Calvary Pick,,0,0
+"",Electoral Cavalry,Cavalry Pick,,0,0
 "",Electoral Cavalry,Knight Orders,,0,0
 "",State Militia,small unit (10-15),,11,7
 "",State Militia,large unit (15-25),,0,0

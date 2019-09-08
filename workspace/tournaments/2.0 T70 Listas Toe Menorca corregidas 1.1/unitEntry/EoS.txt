@@ -111,7 +111,7 @@
 	Artefact="Binding Scroll"
 >280 - Marshall: General, Great Tactician, Shield, Binding Scroll
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"
@@ -121,13 +121,13 @@
 	Artefact="Obsidian Rock"
 >285 – Marshal, General, Imperial Seal, Obsidian Rock
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	Artefact="Binding Scroll"
 >265 – Marshal, BSB, Shield, Binding Scroll, Blacksteel
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	Title="Great Tactician"
 	ArmourEnchantment=Blacksteel
@@ -138,7 +138,7 @@
 	ArmourEnchantment="Destiny's Call"
 >240 – Marshal, General, Great Weapon, Destiny's Call
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"

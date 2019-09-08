@@ -1,30 +1,106 @@
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
-<Unit name="Unknown">
+<Unit name="Beast Chieftain" 
+	BattleStandardBearer
+	GreaterTotemBearer
+	Shield
+	Armour="Heavy Armour"
+	CloseCombatWeapon="Beast Axe"
+	Mount="Raiding Chariot"
+	ArmourEnchantment="Alchemist's Alloy"
+	Artefact="Dragonfire Gem"
+	ShieldEnchantment="Dusk Forge"
+>460 - Beast Chieftain, BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem,Greater Totem Bearer
+<Unit name="Beast Chieftain" 
+	BattleStandardBearer
+	GreaterTotemBearer
+	Shield
+	Armour="Heavy Armour"
+	CloseCombatWeapon="Beast Axe"
+	Mount="Raiding Chariot"
+	ArmourEnchantment="Alchemist's Alloy"
+	Artefact="Dragonfire Gem"
+	ShieldEnchantment="Dusk Forge"
+>460 - Beast Chieftain, Great Totem Bearer, Raiding Chariot, Battle Standard, Shield, Dusk  forged, Heavy Armour, Alchemist's Alloy, Beast Axe, Dragonfire Gem
+<Unit name="Beast Lord" 
+>585 - Beast Lord, General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll,Talisman of Shielding, Hunting Call
+<Unit name="Beast Lord" 
+>525 - Beast Lord, General, Hunting Call, Razortusk Chariot, Shield, Heavy Armour, Basalt  Infusion, Beast Axe, Talisman of Shielding, Eye of Dominance
+<Unit name="Centaurs" ModelCount=5 
+	CloseCombatWeapon="Paired Weapons"
+>185 - 5x Centaurs, Paired Weapons
+<Unit name="Feral Hounds" ModelCount=8 
+>104 - 8x Feral Hounds
+<Unit name="Feral Hounds" ModelCount=8 
+>104 - 8x Feral Hounds
+<Unit name="Footer">4498
+<Unit name="Footer">4497
+<Unit name="Gargoyles" ModelCount=5 
+>150 - 5x Gargoyles, Scout
+<Unit name="Gortach" EntryCount=2 
+>475 - 2x1 Gortach
+<Unit name="Gortach" 
+>475 - Gortach
+<Unit name="Gortach" 
+>475 - Gortach
+<Unit name="Header">Alberto Pérez - Beast Herds
+<Unit name="Header">GorG Metakinder - Beast Herds
+<Unit name="Minotaurs" ModelCount=6 
+	CloseCombatWeapon="Paired Weapons"
+	Command=C
+	TotemBearer="Black Wing Totem"
+>564 - 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem)
+<Unit name="Minotaurs" ModelCount=6 
+	Shield
+	Command=C
+	TotemBearer="Black Wing Totem"
+>540 - 6x Minotaurs, Shields, Champion, Totem Bearer, Black Wing
+<Unit name="Minotaurs" ModelCount=6 
+	Shield
+	Command=C
+	TotemBearer="Black Wing Totem"
+>540 - 6x Minotaurs, Shields, Champion, Totem Bearer, Gnarled Hide
+<Unit name="Mongrel Herd" ModelCount=30 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Banner of the Wild Herd"
+>290 - 30x Mongrel Herd, Spear, Shield, S, Banner of the Wild Herd
+<Unit name="Mongrel Herd" ModelCount=36 
+	CloseCombatWeapon=Spear
+	Command
+	BannerEnchantment="Banner of the Wild Herd"
+>378 - 36x Mongrel Herd, Spears, Standard bearer, Banner of the Wild Herd, Musician, Champion
+<Unit name="Mongrel Raiders" ModelCount=10 
+>95 - 10x Mongrel raiders
+<Unit name="Razortusk Herd" EntryCount=2 
+>100 - 2x1 Razortusk Herd
+<Unit name="Razortusk Herd" 
+>100 - Razortusk Herd
+<Unit name="Razortusk Herd" 
+>100 - Razortusk Herd
+<Unit name="Soothsayer" 
+	Wizard=Master
+	Path=Druidism
+	Artefact="Seed of the Dark Forest"
+	Artefact="Binding Scroll"
+>495 - Soothsayer, 4 spells, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism
+<Unit name="Soothsayer" 
+	Wizard=Master
+	Path=Druidism
+	Artefact="Binding Scroll"
+>380 - Soothsayer, Druidism, Wizard Master
+<Unit name="Wildhorn Herd" ModelCount=15 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+>220 - 15x Wildhorn Herd, Throwing Weapons (5+), M, Ambush
+<Unit name="Wildhorn Herd" ModelCount=15 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+>200 - 15x Wildhorn Herd, Throwing Weapons (5+), Ambush
+<Unit name="Wildhorn Herd" ModelCount=15 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+	Command=M
+>220 - 15x Wildhorn Herd, Throwing Weapons, Ambush, Musician
+<Unit name="Wildhorn Herd" ModelCount=15 
+	Ambush
+	CloseCombatWeapon="Throwing Weapon"
+>200 - 15x Wildhorn Herd, Throwing Weapons, Ambush

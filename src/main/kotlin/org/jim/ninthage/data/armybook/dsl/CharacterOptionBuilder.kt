@@ -15,7 +15,7 @@ class CharacterOptionBuilder(
 
 
     fun battleStandardBearer(points: Int = 50) {
-        implicitOption(MainBook.BattleStandardBear, points, "Battle Standard Bear")
+        implicitOption(MainBook.BattleStandardBearer, points, "Battle Standard Bearer")
         bannerEnchantmentBSBOption()
     }
 

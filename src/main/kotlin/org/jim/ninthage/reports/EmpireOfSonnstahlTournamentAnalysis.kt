@@ -31,7 +31,7 @@ class EmpireOfSonnstahlTournamentAnalysis(
                 countEnchantments(ArcaneCompendiums.Artifact, EmpireOfSonnstahl.Artefacts.values()),
                 countEnchantments(ArcaneCompendiums.BannerEnchantment, EmpireOfSonnstahl.BannerEnchantments.values()),
                 countUnitEntry(marshal),
-                countOptions(marshal, MainBook.BattleStandardBear,MainBook.Shield, MainBook.CloseCombatWeapon, MainBook.RangedWeapon, "Title", MainBook.Mount),
+                countOptions(marshal, MainBook.BattleStandardBearer,MainBook.Shield, MainBook.CloseCombatWeapon, MainBook.RangedWeapon, "Title", MainBook.Mount),
                 countUnitEntry(knightCommander),
                 countOptions(knightCommander, MainBook.Shield, MainBook.CloseCombatWeapon,MainBook.Mount),
                 countUnitEntry(prelate),

@@ -57,16 +57,16 @@
 	BannerEnchantment="Marksman’s Pennant"
 >20 Light Infantry, handguns, S, M, Marksman Pennant 315
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	Title="Great Tactician"
 	ArmourEnchantment=Blacksteel
 	Artefact="Binding Scroll"
 >Marshal BSB, Great Tactician, Plate, Shield, Binding Scroll, Black Steel 325
 <Unit name="Marshal" 
-	BattleStandardBear
-	Shield
+	BattleStandardBearer
 	BannerEnchantment="Rending Banner"
+	Shield
 	ArmourEnchantment=Blacksteel
 >Marshal BSB, Great Tactician, Plate, Shield, Black Steel, Rending Banner 315
 <Unit name="Marshal" 
@@ -77,10 +77,10 @@
 	WeaponEnchantment="Hero's Heart"
 >Marshal, Plate, hero's heart, Ghostly Guard, Winter Cloak, Lucky Charm, Great Griffon 505
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
+	BannerEnchantment="Stalker's Standard"
 	Mount=Horse
 	Title="Great Tactician"
-	BannerEnchantment="Stalker's Standard"
 	ArmourEnchantment=Blacksteel
 >Marshal, BSB, Great Tactician, Death Warrant, Stalker Standard, Horse 395
 <Unit name="Prelate" 

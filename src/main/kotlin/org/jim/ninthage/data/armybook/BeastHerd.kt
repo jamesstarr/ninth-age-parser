@@ -82,6 +82,7 @@ class BeastHeard2_0 : StandardArmyBook {
 
     val BeastLord =
         character(name = "Beast Lord", points = 160) {
+            general()
             implicitOption("HuntingCall", 25, "Hunting Call")
             shield(5)
             armour {
@@ -105,6 +106,7 @@ class BeastHeard2_0 : StandardArmyBook {
 
     val BeastChieftain =
         character("Beast Chieftain", 120) {
+            general()
             ambush(10)
             implicitOption("HuntingCall", 25, "Hunting Call")
             battleStandardBearer()
@@ -128,10 +130,12 @@ class BeastHeard2_0 : StandardArmyBook {
             )
         }
     val Soothsayer = character("Soothsayer", 155) {
+        general()
         ambush(5)
         armour {
             lightArmour(5)
         }
+        mount(BeastHerd.Mounts.RaidingChariot(20))
         wizard()
         pathsOfMagicOption(
             ArcaneCompendiums.MagicPaths.Druidism,
@@ -140,6 +144,7 @@ class BeastHeard2_0 : StandardArmyBook {
         )
     }
     val MinotaurWarlord = character("Minotaur Warlord", 490){
+        general()
         armour {
             lightArmour { default() }
             heavyArmour(10)
@@ -152,6 +157,7 @@ class BeastHeard2_0 : StandardArmyBook {
         }
     }
     val MinotuarChieftain = character("Minotaur Chieftain", 220) {
+        general()
         battleStandardBearer()
         implicitOption("GreaterTotemBearer", 85, "Greater Totem Bearer")
         shield(10)
@@ -166,6 +172,7 @@ class BeastHeard2_0 : StandardArmyBook {
         }
     }
     val CentuarChieftain = character("Centaur Chieftain", 220) {
+        general()
         ambush(10)
         battleStandardBearer()
         implicitOption("GreaterTotemBearer", 85, "Greater Totem Bearer")
@@ -185,12 +192,12 @@ class BeastHeard2_0 : StandardArmyBook {
         }
     }
 
-    val WildhornHeard = troop("Wildhorn Heard", 150, 10, 15, 50){
+    val WildhornHeard = troop("Wildhorn Herd", 150, 10, 15, 50){
         ambush(20)
         closeCombatWeapon {
             pairedWeapons(2)
-            throwingWeapon(2)
-            selection("Paired Weapons and Throwing Weapons")
+            selection("Throwing Weapon", 2)
+            selection("Paired Weapons and Throwing Weapon", 4)
         }
         command()
         totemBearer()
@@ -273,7 +280,7 @@ class BeastHeard2_0 : StandardArmyBook {
     val Cyclops = singleModel("Cyclops", 355)
     val Gortach = singleModel("Gortach", 475)
     val Jabberwock = singleModel("Jabberwock", 340)
-    val BeastGaint= singleModel("Beast Gaint", 300) {
+    val BeastGaint= singleModel("Beast Giant", 300) {
         implicitOption("BigBrother", 35, "Big Brother")
         closeCombatWeapon {
             selection("Uprooted Tree", 10)
@@ -293,12 +300,15 @@ class BeastHeard2_0 : StandardArmyBook {
             WildhornHeard,
             MongrelHerd,
             MongrelRaiders,
+            FeralHounds,
             LonghornHerd,
             Minotaurs,
             Centaurs,
             RaidingChairot,
             RazortuskHerd,
             RazortuskChariot,
+            BriarBeast,
+            Gargoyles,
             Cyclops,
             Gortach,
             Jabberwock,
@@ -311,5 +321,10 @@ fun OptionBuilder.ambush(points: Int) {
 }
 
 fun OptionBuilder.totemBearer(){
-    implicitOption("TotemBearer", 15, "Totem Bearer")
+    optionWithDefault("TotemBearer", "None"){
+        selection("Black Wing Totem", 15)
+        selection("Blooded Horn Totem", 15)
+        selection("Clouded Eye Totem " , 15)
+        selection("Gnarled Hide Totem", 15)
+    }
 }

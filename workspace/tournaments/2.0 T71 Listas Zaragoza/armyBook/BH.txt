@@ -1,8 +1,6 @@
 Oscar “Egoman” Reina - Beast Herds 
-585 - Beast Lord: General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of 
-Shielding, Hunting Call 
-460 - Beast Chieftain: BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem, Greater 
-Totem Bearer 
+585 - Beast Lord: General, Razortusk Chariot, Heavy armour, shield, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of Shielding, Hunting Call
+460 - Beast Chieftain: BSB, Raiding Chariot, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist’s Alloy, Dragonfire Gem, Greater Totem Bearer
 495 - Soothsayer: Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism 
 386 - 37 Mongrel Herd: Spear, Shield, M, C, S, Banner of the Wild Herd 
 220 - 15 Wildhorn Herd: Throwing Weapons (5+), M, Ambush 

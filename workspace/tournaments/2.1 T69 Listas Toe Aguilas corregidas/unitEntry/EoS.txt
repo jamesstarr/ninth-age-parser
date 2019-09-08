@@ -166,7 +166,7 @@
 	WeaponEnchantment="Death Warrant"
 >320 - Marshal, General, Shield, Blacksteel, Death Warrant, Binding Scroll
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ShieldEnchantment="Willow's Ward"
 >220 - Marshal, BSB, Shield, Willow's Guard, Household Standard
@@ -174,7 +174,7 @@
 	General
 >160 - Marshal. General
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"
@@ -184,7 +184,7 @@
 	ArmourEnchantment="Ghostly Guard"
 >470 - Marshal, General, Great Griffon, Shield, Pistol, Shield of Volund, Lance, Ghostly Guard, Winter Cloak
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 >215 - Marshal, Battle Standard, Shield, Crown of the Wizard King
 <Unit name="Marshal" 
@@ -194,7 +194,7 @@
 	WeaponEnchantment="Death Warrant"
 >330 - Marshal, General, Great Tactician, Shield, Pistol, Death Warrant (Hand Weapon), Blacksteel
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ShieldEnchantment="Willow's Ward"
 >180 - Marshal, Battle Standard, Shield, Willow's Ward
@@ -202,7 +202,7 @@
 	Shield
 >165 – 1 Marshal: General, Shield [Characters]
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 >165 – 1 Marshal: Battle Standard Bearer, shield [Characters]
 <Unit name="Marshal" 
@@ -211,9 +211,9 @@
 	WeaponEnchantment="Death Warrant"
 >265 - Marshal, General, shield, Death Warrant, Blacksteel
 <Unit name="Marshal" 
-	BattleStandardBear
-	Shield
+	BattleStandardBearer
 	BannerEnchantment="Household Standard"
+	Shield
 >245 - Marshal, BSB, shield, Household Standard, Ghostly Guard
 <Unit name="Marshal" 
 	CloseCombatWeapon="Great Weapon"
@@ -221,7 +221,7 @@
 	Artefact="Lucky Charm"
 >280 - Marshal, General, Great Weapon, Imperial Seal, Lucky Charm
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"

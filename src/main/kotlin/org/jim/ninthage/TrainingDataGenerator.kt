@@ -377,7 +377,7 @@ fun createMarshal() {
         marshalEntry,
         listOf(
             ArcaneCompendiums.BannerEnchantment,
-            MainBook.BattleStandardBear,
+            MainBook.BattleStandardBearer,
             MainBook.Shield
         ),
         listOf(

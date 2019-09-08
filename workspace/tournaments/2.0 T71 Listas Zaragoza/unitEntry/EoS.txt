@@ -16,7 +16,7 @@
 <Unit name="Artillery" 
 	ArtilleryWeapons=Cannon
 >250 - Imperial Artillery, Cannon
-<Unit name="Artillery" 
+<Unit name="Artillery" EntryCount=2 
 	ArtilleryWeapons="Imperial Rocketeer"
 >160 – 2*1 Artillery: imperial rocketeer
 <Unit name="Artillery" EntryCount=2 
@@ -88,7 +88,7 @@
 	Command
 	BannerEnchantment="Rending Banner"
 >437 - 37x heavy infantry, Halberd, C,S, rending banner
-<Unit name="Heavy Infantry" ModelCount=20 
+<Unit name="Heavy Infantry" EntryCount=2 ModelCount=20 
 >145 – 2*20 heavy infantry
 <Unit name="Heavy Infantry" ModelCount=36 
 	CloseCombatWeapon=Spear
@@ -181,7 +181,7 @@
 	RangedWeapon=Handgun
 	Command=M
 >181 - 2x12 Light Infantry, M, Handgun
-<Unit name="Light Infantry" ModelCount=10 
+<Unit name="Light Infantry" EntryCount=2 ModelCount=10 
 >135 – 2*10 light infantry
 <Unit name="Light Infantry" EntryCount=2 ModelCount=16 
 	Command=M
@@ -207,7 +207,7 @@
 	Artefact="Binding Scroll"
 >280 - Marshall: General, Great Tactician, Shield, Binding Scroll [Character]
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"
@@ -218,7 +218,7 @@
 	WeaponEnchantment="Death Warrant"
 >235 - Marshal: General, Shield, death Warrant, willow's ward
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	ArmourEnchantment="Alchemist's Alloy"
 >220- Marshal: BSB, household standard, alchemist's alloy, shield
 <Unit name="Marshal" 
@@ -227,7 +227,7 @@
 	WeaponEnchantment="Death Warrant"
 >320 - Marshal, General, Shield, Death Warrant, Blacksteel, Binding Scroll
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ShieldEnchantment="Willow's Ward"
 >220 - Marshal, BSB, Shield, Willow’s Ward, Household Standard
@@ -250,7 +250,7 @@
 	ArmourEnchantment=Blacksteel
 >275 - Marshal, General, blacksteel, shield, heros heart, Pistol.
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment="Basalt Infusion"
 	WeaponEnchantment="Death Warrant"
@@ -260,13 +260,13 @@
 	ArmourEnchantment="Imperial Seal"
 >350 - Marshal: Army General,Great Weapon; Imperial Seal, Winter Cloak.
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"
 >265 - Marshal: Battle Standard Bearer, Shield; Blacksteel, Death Warrant.
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	ArmourEnchantment=Blacksteel
 	WeaponEnchantment="Death Warrant"
 >260- Marshal, Battle Standard Bearer, Blacksteel, Death Warrant
@@ -279,9 +279,9 @@
 	WeaponEnchantment="Death Warrant"
 >220 - Marshal, General, Shield, Death Warrant,
 <Unit name="Marshal" 
-	BattleStandardBear
-	Shield
+	BattleStandardBearer
 	BannerEnchantment="Household Standard"
+	Shield
 >205 - Marshal, BSB, Shield, Household Standard
 <Unit name="Prelate" 
 	Armour="Plate Armour"

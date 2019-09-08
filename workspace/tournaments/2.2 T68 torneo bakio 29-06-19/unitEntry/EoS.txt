@@ -68,7 +68,7 @@
 	ArmourEnchantment=Blacksteel
 >385- Marshal, general, imperial prince, shield, blacksteel
 <Unit name="Marshal" 
-	BattleStandardBear
+	BattleStandardBearer
 	Shield
 	ArmourEnchantment="Death Cheater"
 >265- Marchal, battle Standard Bearre, shield, shield, death cheater.

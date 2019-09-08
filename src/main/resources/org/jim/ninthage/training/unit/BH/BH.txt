@@ -1,17 +1,118 @@
-<Unit name="Beast Chieftain">170 - Beast Chieftain, BSB
-<Unit name="Beast Chieftain">190 – Beast Chieftain, General, Shield, Throwing Weapons, Crown of Horns, Hunting Call, Ambush
-<Unit name="Beast Chieftain">220 - Beast Chieftain, Battle Standard, Banner of Discipline, Shield, Heavy Armour
-<Unit name="Beast Chieftain">255 – Beast Chieftain, Great Totem Bearer, Light Armour, Battle Standard
-<Unit name="Beast Chieftain">365 - Beast chieftan, BSB, Greater Totem Bearer, Obsidian Rock, Beast Axe, Destiny's Call
-<Unit name="Beast Chieftain">460 - Beast Chieftain, BSB, Greater Totem Bearer, Raiding chariot, shield, heavy armour, beast axe, Dragonfire Gem, Alchemist’s Alloy, Dusk Forged
-<Unit name="Beast Chieftain">460 - Beast Chieftain, BSB, Raiding Chariot, Great Totem Bearer, heavy armour, shield, beast axe, alchemist's alloy, dusk forged, dragonfire gem
-<Unit name="Beast Chieftain">460 - Beast Chieftain, BSB, Raiding Chariot, Shield, Heavy Armour, Beast Axe, Dragonfire Gem, Alchemist's Alloy, Dusk Forged, Greater Totem Bearer
-<Unit name="Beast Chieftain">460 Beast chieftain, Raiding Chariot, Bsb, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist's Alloy, Dragonfire Gem, Greater Totem Bearer
-<Unit name="Beast Chieftain">460 – Beast Chieftain on Raiding Chariot, BSB, Greater Totem Bearer, Shield, Heavy Armour, Beast Axe, Dragonfire Gem, Alchemist’s Alloy, Dusk Forged
-<Unit name="Beast Chieftain">470 - Beast Chieftain, BSB, Raiding Chariot, Shield, Heavy Armour, Beast Axe, Basalt Infusion (Heavy Armour), Seed of the Dark Forest, Greater Totem Bearer
-<Unit name="Beast Giant">320 - 3x 1x Beast Giant, Beer Barrel
-<Unit name="Beast Giant">330 - Beast Giant, Giant Club
-<Unit name="Beast Giant">330 - Beast giant, Giant Club
+<Unit name="Beast Chieftain"
+    BattleStandardBearer
+>170 - Beast Chieftain, BSB
+<Unit name="Beast Chieftain"
+    General
+    Shield
+    Ambush
+    RangedWeapon="Throwing Weapons"
+    HuntingCall
+    Artefact="Crown of Horns"
+>190 – Beast Chieftain, General, Shield, Throwing Weapons, Crown of Horns, Hunting Call, Ambush
+<Unit name="Beast Chieftain"
+    Shield
+    Armour="Heavy Armour"
+    BattleStandardBearer
+    BannerEnchantment="Banner of Discipline"
+>220 - Beast Chieftain, Battle Standard, Banner of Discipline, Shield, Heavy Armour
+<Unit name="Beast Chieftain"
+    GreaterTotemBearer
+    BattleStandardBearer
+>255 – Beast Chieftain, Great Totem Bearer, Light Armour, Battle Standard
+<Unit name="Beast Chieftain"
+    GreaterTotemBearer
+    BattleStandardBearer
+    Artefact="Obsidian Rock"
+    CloseCombatWeapon="Beast Axe"
+    ArmourEnchantment="Destiny's Call"
+>365 - Beast chieftan, BSB, Greater Totem Bearer, Obsidian Rock, Beast Axe, Destiny's Call
+<Unit name="Beast Chieftain"
+    BattleStandardBearer
+    GreaterTotemBearer
+    Mount="Raiding Chariot"
+    Shield
+    ShieldEnchantment="Dusk Forge"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Alchemist's Alloy"
+    CloseCombatWeapon="Beast Axe"
+    Artefact="Dragonfire Gem"
+>460 - Beast Chieftain, BSB, Greater Totem Bearer, Raiding chariot, shield, heavy armour, beast axe, Dragonfire Gem, Alchemist’s Alloy, Dusk Forged
+<Unit name="Beast Chieftain"
+     BattleStandardBearer
+     GreaterTotemBearer
+     Mount="Raiding Chariot"
+     Shield
+     ShieldEnchantment="Dusk Forge"
+     Armour="Heavy Armour"
+     ArmourEnchantment="Alchemist's Alloy"
+     CloseCombatWeapon="Beast Axe"
+     Artefact="Dragonfire Gem"
+>460 - Beast Chieftain, BSB, Raiding Chariot, Great Totem Bearer, heavy armour, shield, beast axe, alchemist's alloy, dusk forged, dragonfire gem
+<Unit name="Beast Chieftain"
+    BattleStandardBearer
+    GreaterTotemBearer
+    Mount="Raiding Chariot"
+    Shield
+    ShieldEnchantment="Dusk Forge"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Alchemist's Alloy"
+    CloseCombatWeapon="Beast Axe"
+    Artefact="Dragonfire Gem"
+>460 - Beast Chieftain, BSB, Raiding Chariot, Shield, Heavy Armour, Beast Axe, Dragonfire Gem, Alchemist's Alloy, Dusk Forged, Greater Totem Bearer
+<Unit name="Beast Chieftain"
+BattleStandardBearer
+    GreaterTotemBearer
+    Mount="Raiding Chariot"
+    Shield
+    ShieldEnchantment="Dusk Forge"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Alchemist's Alloy"
+    CloseCombatWeapon="Beast Axe"
+    Artefact="Dragonfire Gem"
+>460 Beast chieftain, Raiding Chariot, Bsb, Heavy Armour, Shield, Beast Axe, Dusk Forged, Alchemist's Alloy, Dragonfire Gem, Greater Totem Bearer
+<Unit name="Beast Chieftain"
+    BattleStandardBearer
+    GreaterTotemBearer
+    Mount="Raiding Chariot"
+    Shield
+    ShieldEnchantment="Dusk Forge"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Alchemist's Alloy"
+    CloseCombatWeapon="Beast Axe"
+    Artefact="Dragonfire Gem"
+>460 – Beast Chieftain on Raiding Chariot, BSB, Greater Totem Bearer, Shield, Heavy Armour, Beast Axe, Dragonfire Gem, Alchemist’s Alloy, Dusk Forged
+<Unit name="Beast Chieftain"
+BattleStandardBearer
+    GreaterTotemBearer
+    Mount="Raiding Chariot"
+    Shield
+    ShieldEnchantment="Dusk Forge"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Basalt Infusion"
+    CloseCombatWeapon="Beast Axe"
+    Artefact="Seed of the Dark Forest"
+>470 - Beast Chieftain, BSB, Raiding Chariot, Shield, Heavy Armour, Beast Axe, Basalt Infusion (Heavy Armour), Seed of the Dark Forest, Greater Totem Bearer
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Beer Barrel"
+>320 - 3x 1x Beast Giant, Beer Barrel
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Beer Barrel"
+>320 - 3x 1x Beast Giant, BeerBarrel
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Beer Barrel"
+>320 - Giant, Beer Barrel
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Giant Club"
+>330 - Beast Giant, Giant Club
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Giant Club"
+>330 - Beast giant, Giant Club
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Giant Club"
+>330 - Beast giant, Club
+<Unit name="Beast Giant"
+    CloseCombatWeapon="Giant Club"
+>Giant, Club
 <Unit name="Beast Lord">570 - Beast Lord, General, Razortusk Chariot, Shield, Heavy Armour, Beast Axe, Pillager Icon, Death Cheater (Heavy Armour), Eye of Dominance,
 <Unit name="Beast Lord">575 - Beast Lord, General, Razortusk Chariot, Heavy Armour, Shield, Beast Axe, Fatal Folly, Death Cheater, Crown of Horns, Eye of Dominance
 <Unit name="Beast Lord">585 - Beast Lord, General, Hunting Call, Razortusk Chariot, shield, heavy armour, beast axe, Fatal Folly, Basalt Infusion, Binding Scroll, Talisman of Shielding
@@ -26,18 +127,56 @@
 <Unit name="Centaur Chieftain">295 – Centaur Chieftain, Shield, Heavy Armour, Seed of the Dark Forest
 <Unit name="Centaur Chieftain">300 – Centaur Chieftain, Paired Weapons, Throwing Weapons, Binding Scroll, Ambush
 <Unit name="Centaur Chieftain">325 – Centaur Chieftain, Battle Standard Bearer, Paired Weapons, Throwing Weapons, Dragon Staff, Ambush
-<Unit name="Centaurs">185 - 5x Centaurs, Paired Weapons
-<Unit name="Centaurs">185 - 5x Centaurs, Paired weapons
-<Unit name="Centaurs">185 – 5x Centaurs, Paired Weapons
-<Unit name="Centaurs">200 - 5x Centaurs, Ambush, Paired Weapons
-<Unit name="Centaurs">205 - 5x Centaurs, Paired Weapons, M
-<Unit name="Centaurs">205 – 5x Centaurs, Lance
-<Unit name="Centaurs">220 - 5x Centaurs, Ambush, Paired Weapons, Throwing Weapons
-<Unit name="Centaurs">220 – 5x Centaurs, Ambush, Lance
-<Unit name="Centaurs">256 - 6x Centaurs, Ambush, Paired Weapons, Throwing Weapons
-<Unit name="Centaurs">377 - 9x Centaurs, Lance, Musician, Champion
-<Unit name="Centaurs">465 - 10x Centaurs, Champion, Musician, Totem Bearer, Black Wing Totem, Lances, Throwing Weapons
-<Unit name="Centaurs">480 - 10x Centaurs, Lances, MSC, Flaming Standard, Black Wing Totem
+<Unit name="Centaurs"
+    CloseCombatWeapon="Paired Weapons"
+>185 - 5x Centaurs, Paired Weapons
+<Unit name="Centaurs"
+    CloseCombatWeapon="Paired Weapons"
+>185 - 5x Centaurs, Paired weapons
+<Unit name="Centaurs"
+    CloseCombatWeapon="Paired Weapons"
+>185 – 5x Centaurs, Paired Weapons
+<Unit name="Centaurs"
+    Ambush
+    CloseCombatWeapon="Paired Weapons"
+>200 - 5x Centaurs, Ambush, Paired Weapons
+<Unit name="Centaurs"
+    CloseCombatWeapon="Paired Weapons"
+    Command=M
+>205 - 5x Centaurs, Paired Weapons, M
+<Unit name="Centaurs"
+    CloseCombatWeapon=Lance
+>205 – 5x Centaurs, Lance
+<Unit name="Centaurs"
+    Ambush
+    CloseCombatWeapon="Paired Weapons"
+    RangedWeapon="Throwing Weapons"
+>220 - 5x Centaurs, Ambush, Paired Weapons, Throwing Weapons
+<Unit name="Centaurs"
+    Ambush
+    CloseCombatWeapon=Lance
+>220 – 5x Centaurs, Ambush, Lance
+<Unit name="Centaurs"
+    Ambush
+    CloseCombatWeapon="Paired Weapons"
+    RangedWeapon="Throwing Weapons"
+>256 - 6x Centaurs, Ambush, Paired Weapons, Throwing Weapons
+<Unit name="Centaurs"
+    CloseCombatWeapon="Lance"
+    Command=CM
+>377 - 9x Centaurs, Lance, Musician, Champion
+<Unit name="Centaurs"
+    Command=CMS
+    TotemBearer="Black Wing Totem"
+    RangedWeapon="Throwing Weapons"
+    CloseCombatWeapon="Lance"
+>465 - 10x Centaurs, Champion, Musician, Totem Bearer, Black Wing Totem, Lances, Throwing Weapons
+<Unit name="Centaurs"
+    Command=CMS
+    TotemBearer="Black Wing Totem"
+    CloseCombatWeapon="Lance"
+    BannerEnchantment="Flaming Standard"
+>480 - 10x Centaurs, Lances, MSC, Flaming Standard, Black Wing Totem
 <Unit name="Cyclops">355 - 3x Cyclops
 <Unit name="Feral Hounds">104 - 8 Feral Hounds
 <Unit name="Feral Hounds">104 - 8x Feral Hounds
@@ -91,84 +230,360 @@
 <Unit name="Header">Jens “JensDK” Hollensen - Beast Herds -
 <Unit name="Header">Kostiantyn Volokhin - Beast Herds, Captain
 <Unit name="Header">Kristyian Dimitrov - Beast Herds
+<Unit name="Header">Lamb
 <Unit name="Header">Lionel “wingaal” PALUDETTO – Beast Herds
 <Unit name="Header">Luke "Banter" Tranter - Beast Herds
+<Unit name="Header">Meyer
 <Unit name="Header">Miguel "CaaL" Calderón  - BH
 <Unit name="Header">Neil "Neez" Hamilton - Beast Herds
 <Unit name="Header">Peter “Borgio” Ridder - Beast Herds
+<Unit name="Header">Rapmund
+<Unit name="Header">Ro Nevarez
 <Unit name="Header">Sune van der Loo - Beast Herds
+<Unit name="Header">Szatkowski
 <Unit name="Header">Thomas "damsetoi" Mailer - Beast herds
 <Unit name="Header">Tiferet ,BH
 <Unit name="Header">Tim “The Enchanter” Bohknecht - Beast Herds
 <Unit name="Header">Tim “TurboTT” Aasen - Beast Herds
 <Unit name="Header">Troels Hugo Cederholm - Beast Herds
 <Unit name="Longhorn Herd">165 - 10x Longhorn Herd, Ambush, Halberds
-<Unit name="Longhorn Herd">165 - 2x 10x Longhorn Herd, Ambush
-<Unit name="Longhorn Herd">165 10 x Longhorn Herd, Ambush
-<Unit name="Longhorn Herd">529- 23x Longhorns, Halberds, MSC, Aether Icon
-<Unit name="Longhorn Herd">935 - 40x Longhorn Herd, Great weapons, Champion, Standard, Musician,Gnarled hide Totem, Aether icon
-<Unit name="Minotaur Chieftain">385 Minotaur Chieftain, BSB, Beast Axe, HA, Shield, Wild Form, Obsidian Rock, Willow's Ward
-<Unit name="Minotaur Chieftain">445 - Minotaur Chieftain, Great Totem Bearer, Battle Standard, Shield, Obscuring Fog, Light Armour, Trickster's Cunning
-<Unit name="Minotaur Chieftain">475 - Minotaur Chieftain, BSB, Greater Totem Bearer, Death Cheater, Great Weapon,
-<Unit name="Minotaur Chieftain">475 - Minotaur Chieftain, Battle Standard, Great Weapon, Aaghor’s Affliction, Greater Totem Bearer
-<Unit name="Minotaur Chieftain">475 - Minotaur Chieftain, Battle Standard, Greater Totem Bearer, Great Weapon, Aaghor’s Affliction
-<Unit name="Minotaur Chieftain">495 - Minotaur Chieftain, Battle Standard Bearer, Greater Totem Bearer, Beast Axe, Shield, Heavy Armour, Obscuring Fog, Ghostly Guard, Crystal Ball
-<Unit name="Minotaur Chieftain">495 - Minotaur chieftain, Battle Standard Bearer, Greater Totem Bearer, Beast Axe, Heavy Armor, Shield, Willow's Ward, Basalt Infusion, Talisman of Shielding
-<Unit name="Minotaur Chieftain">495- Minotaur Chieftain, BSB, Greater Totem Bearer, Heavy Armour, Shield, Beast Axe, Willow’s Ward, Basalt Infusion, Talisman of Shielding
-<Unit name="Minotaur Warlord">680 - Minotaur Warlord, General, Paired Weapons, Aaghor’s Affliction, Potion of Swiftness, Blessed Inscriptions (PW)
-<Unit name="Minotaur Warlord">680 - Minotaur Warlord, General, paired weapons with Blessed Inscription, Aagor's Affliction, Potion of Swiftness
-<Unit name="Minotaur Warlord">700 - Minotaur Warlord, General, Light Armour, Aaghor's Affliction, Paired Weapons, Blessed Inscriptions (Paired Weapons), Eye of Dominance
-<Unit name="Minotaur Warlord">700 - Minotaur Warlord, General, Light Armour, Aaghor’s Af liction, Paired Weapons, Blessed inscriptions (Paired Weapons), Eye of Dominance
-<Unit name="Minotaur Warlord">700 - Minotaur Warlord, General, Paired Weapons, Aaghor's Affliction, Blessed Inscriptions (Hand Weapon), Eye of Dominance
-<Unit name="Minotaur Warlord">705 - Minotaur Warlord, General, Great Weapon, Blessed Inscriptions, Trickster’s Cunning, Crown of Horns, Talisman of Shielding
-<Unit name="Minotaur Warlord">705 - Minotaur Warlord, General, Paired Weapons, Aaghors Affliction, Blessed Inscriptions, Potion of Swiftness, Crown of Horns
-<Unit name="Minotaur Warlord">705- Minotaur Warlord, General, Paired Weapons, Blessed Inscriptions, potion of swftness, crown of horn, Aagor's Affliction
-<Unit name="Minotaurs">235 - 3 Minotaurs, M
-<Unit name="Minotaurs">265 3 x Minotaurs, Paired Weapons
-<Unit name="Minotaurs">525 – 3 x 6x Minotaurs, Shields, Musician
-<Unit name="Minotaurs">540 - 6x Minotaurs, shield, C, Totem Bearer (Black Wing Totem)
-<Unit name="Minotaurs">560 - 6x Minotaurs, Champion, Musician, Totem Bearer, Black Wing Totem, Shields
-<Unit name="Minotaurs">560 6 x Minotaurs, Std, Champ, Shield, Black Wing Totem
-<Unit name="Minotaurs">560- 6x Minotaurs, Shields, Musician, Champion, Black Wing Totem
-<Unit name="Minotaurs">564 - 6 Minotaurs, Paired Weapons, Champion, totem Bearer, Black Wing Totem
-<Unit name="Minotaurs">564 - 6x Minotaurs, Paired Weapons, Champion, Black Wing Totem
-<Unit name="Minotaurs">564 – 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem)
-<Unit name="Minotaurs">600 – 6x minotaures, Shield, Champion, Musician, Standard bearer, Flaming Standard
-<Unit name="Minotaurs">615 - 6 minos, shield, MSC, black wing totem, flaming standard
-<Unit name="Minotaurs">615 - 6x Minotaurs, Shield, Champion, Standard, Musician,Black Wing Totem, Flaming Standard
-<Unit name="Minotaurs">615 - 6x Minotaurs, Totem Bearer (Black Wing Totem), Shield, M, S, C, Flaming Standard
-<Unit name="Minotaurs">659 7 x Minotaurs, Std, Champ, Shield, Aether Icon, Black Wing Totem
-<Unit name="Minotaurs">664 - 7x Minotaurs, C, M, S, Shields, Gnarled Hide Totem
-<Unit name="Minotaurs">694 - 7x Minotaurs, Shields, Standard bearer, Banner of Speed, Champion, Totem Bearer, Black Wing
-<Unit name="Minotaurs">748 - 8x Minotaurs, Shield, Standard bearer, Musician, Champion, Totem Bearer, Black Wing Totem
-<Unit name="Minotaurs">783 - 8x Minotaurs, Shield, Standard bearer, Musician, Champion, Totem Bearer, Black Wing Totem, Flaming Standard
+<Unit name="Longhorn Herd"
+    Ambush
+>165 - 2x 10x Longhorn Herd, Ambush
+<Unit name="Longhorn Herd"
+    Ambush
+>165 10 x Longhorn Herd, Ambush
+<Unit name="Longhorn Herd"
+    Command
+    BannerEnchantment="Aether Icon"
+>529- 23x Longhorns, Halberds, MSC, Aether Icon
+<Unit name="Longhorn Herd"
+    CloseCombatWeapon="Great Weapon"
+    Command
+    TotemBearer="Gnarled Hide Totem"
+    BannerEnchantment="Aether Icon"
+>935 - 40x Longhorn Herd, Great weapons, Champion, Standard, Musician,Gnarled hide Totem, Aether icon
+<Unit name="Minotaur Chieftain"
+    BattleStandardBearer
+    CloseCombatWeapon="Beast Axe"
+    Armour="Heavy Armour"
+    Shield
+    ArmourEnchantment="Wild Form"
+    Artefact="Obsidian Rock"
+    ShieldEnchantment="Willow's Ward"
+>385 Minotaur Chieftain, BSB, Beast Axe, HA, Shield, Wild Form, Obsidian Rock, Willow's Ward
+<Unit name="Minotaur Chieftain"
+    GreaterTotemBearer
+    BattleStandardBearer
+    Shield
+    ShieldEnchantment="Obscuring Fog"
+    Armour="Light Armour"
+    ArmourEnchantment="Trickster's Cunning"
+>445 - Minotaur Chieftain, Great Totem Bearer, Battle Standard, Shield, Obscuring Fog, Light Armour, Trickster's Cunning
+<Unit name="Minotaur Chieftain"
+    BattleStandardBearer
+>475 - Minotaur Chieftain, BSB, Greater Totem Bearer, Death Cheater, Great Weapon,
+<Unit name="Minotaur Chieftain"
+    BattleStandardBearer
+    CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Aaghor's Affliction"
+    GreaterTotemBearer
+>475 - Minotaur Chieftain, Battle Standard, Great Weapon, Aaghor’s Affliction, Greater Totem Bearer
+<Unit name="Minotaur Chieftain"
+    BattleStandardBearer
+    CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Aaghor's Affliction"
+    GreaterTotemBearer
+>475 - Minotaur Chieftain, Battle Standard, Greater Totem Bearer, Great Weapon, Aaghor’s Affliction
+<Unit name="Minotaur Chieftain"
+BattleStandardBearer
+    CloseCombatWeapon="Beast Axe"
+    Shield
+    Armour="Heavy Armour"
+    ArmourEnchantment="Ghostly Guard"
+    ShieldEnchantment="Obscuring Fog"
+    GreaterTotemBearer
+    Artefact="Crystal Ball"
+>495 - Minotaur Chieftain, Battle Standard Bearer, Greater Totem Bearer, Beast Axe, Shield, Heavy Armour, Obscuring Fog, Ghostly Guard, Crystal Ball
+<Unit name="Minotaur Chieftain"
+    BattleStandardBearer
+    GreaterTotemBearer
+    CloseCombatWeapon="Beast Axe"
+    Shield
+    ShieldEnchantment="Willow's Ward"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Basalt Infusion"
+    Artefact="Talisman of Shielding"
+>495 - Minotaur chieftain, Battle Standard Bearer, Greater Totem Bearer, Beast Axe, Heavy Armor, Shield, Willow's Ward, Basalt Infusion, Talisman of Shielding
+<Unit name="Minotaur Chieftain"
+    BattleStandardBearer
+    GreaterTotemBearer
+    CloseCombatWeapon="Beast Axe"
+    Shield
+    ShieldEnchantment="Willow's Ward"
+    Armour="Heavy Armour"
+    ArmourEnchantment="Basalt Infusion"
+    Artefact="Talisman of Shielding"
+>495- Minotaur Chieftain, BSB, Greater Totem Bearer, Heavy Armour, Shield, Beast Axe, Willow’s Ward, Basalt Infusion, Talisman of Shielding
+<Unit name="Minotaur Warlord"
+    General
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Potion of Swiftness"
+
+>680 - Minotaur Warlord, General, Paired Weapons, Aaghor’s Affliction, Potion of Swiftness, Blessed Inscriptions (PW)
+<Unit name="Minotaur Warlord"
+    General
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Potion of Swiftness"
+>680 - Minotaur Warlord, General, paired weapons with Blessed Inscription, Aagor's Affliction, Potion of Swiftness
+<Unit name="Minotaur Warlord"
+    General
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Eye of Dominance"
+>700 - Minotaur Warlord, General, Light Armour, Aaghor's Affliction, Paired Weapons, Blessed Inscriptions (Paired Weapons), Eye of Dominance
+<Unit name="Minotaur Warlord"
+    General
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Eye of Dominance"
+>700 - Minotaur Warlord, General, Light Armour, Aaghor’s Af liction, Paired Weapons, Blessed inscriptions (Paired Weapons), Eye of Dominance
+<Unit name="Minotaur Warlord"
+    General
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Eye of Dominance"
+>700 - Minotaur Warlord, General, Paired Weapons, Aaghor's Affliction, Blessed Inscriptions (Hand Weapon), Eye of Dominance
+<Unit name="Minotaur Warlord"
+    General
+    CloseCombatWeapon="Great Weapon"
+    ArmourEnchantment="Trickster's Cunning"
+    WeaponEnchantment="Blessed Inscriptions"
+    Artefact="Crown of Horns"
+    Artefact="Talisman of Shielding"
+>705 - Minotaur Warlord, General, Great Weapon, Blessed Inscriptions, Trickster’s Cunning, Crown of Horns, Talisman of Shielding
+<Unit name="Minotaur Warlord"
+General
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Crown of Horns"
+    Artefact="Potion of Swiftness"
+>705 - Minotaur Warlord, General, Paired Weapons, Aaghors Affliction, Blessed Inscriptions, Potion of Swiftness, Crown of Horns
+<Unit name="Minotaur Warlord"
+    CloseCombatWeapon="Paired Weapons"
+    WeaponEnchantment="Blessed Inscriptions"
+    ArmourEnchantment="Aaghor's Affliction"
+    Artefact="Crown of Horns"
+    Artefact="Potion of Swiftness"
+>705- Minotaur Warlord, General, Paired Weapons, Blessed Inscriptions, potion of swftness, crown of horn, Aagor's Affliction
+<Unit name="Minotaurs" Command=M >235 - 3 Minotaurs, M
+<Unit name="Minotaurs"
+    CloseCombatWeapon="Paired Weapons"
+>265 3 x Minotaurs, Paired Weapons
+<Unit name="Minotaurs"
+    Shield
+    Command=M
+>525 – 3 x 6x Minotaurs, Shields, Musician
+<Unit name="Minotaurs"
+    Shield
+    Command=C
+    TotemBearer="Black Wing Totem"
+>540 - 6x Minotaurs, shield, C, Totem Bearer (Black Wing Totem)
+<Unit name="Minotaurs"
+    Command=C
+    Shield
+    TotemBearer="Black Wing Totem"
+>560 - 6x Minotaurs, Champion, Musician, Totem Bearer, Black Wing Totem, Shields
+<Unit name="Minotaurs"
+    Command=CM
+    Shield
+    TotemBearer="Black Wing Totem"
+>560 6 x Minotaurs, Std, Champ, Shield, Black Wing Totem
+<Unit name="Minotaurs"
+    Command=CS
+    Shield
+    TotemBearer="Black Wing Totem"
+>560- 6x Minotaurs, Shields, Musician, Champion, Black Wing Totem
+<Unit name="Minotaurs"
+    Command=C
+    CloseCombatWeapon="Paired Weapons"
+    TotemBearer="Black Wing Totem"
+>564 - 6 Minotaurs, Paired Weapons, Champion, totem Bearer, Black Wing Totem
+<Unit name="Minotaurs"
+    Command=C
+    CloseCombatWeapon="Paired Weapons"
+    TotemBearer="Black Wing Totem"
+>564 - 6x Minotaurs, Paired Weapons, Champion, Black Wing Totem
+<Unit name="Minotaurs"
+    Command=C
+    CloseCombatWeapon="Paired Weapons"
+    TotemBearer="Black Wing Totem"
+>564 – 6x Minotaurs, Paired Weapons, C, Totem Bearer (Black Wing Totem)
+<Unit name="Minotaurs"
+    Command=CMS
+    Shield
+    BannerEnchantment="Flaming Standard"
+>600 – 6x minotaures, Shield, Champion, Musician, Standard bearer, Flaming Standard
+<Unit name="Minotaurs"
+    Command
+    Shield
+    TotemBearer="Black Wing Totem"
+    BannerEnchantment="Flaming Standard"
+>615 - 6 minos, shield, MSC, black wing totem, flaming standard
+<Unit name="Minotaurs"
+    Command
+    Shield
+    TotemBearer="Black Wing Totem"
+    BannerEnchantment="Flaming Standard"
+>615 - 6x Minotaurs, Shield, Champion, Standard, Musician,Black Wing Totem, Flaming Standard
+<Unit name="Minotaurs"
+    Command
+    Shield
+    TotemBearer="Black Wing Totem"
+    BannerEnchantment="Flaming Standard"
+>615 - 6x Minotaurs, Totem Bearer (Black Wing Totem), Shield, M, S, C, Flaming Standard
+<Unit name="Minotaurs"
+    Command=CS
+    Shield
+    TotemBearer="Black Wing Totem"
+    BannerEnchantment="Aether Icon"
+>659 7 x Minotaurs, Std, Champ, Shield, Aether Icon, Black Wing Totem
+<Unit name="Minotaurs"
+    Command
+    Shield
+    TotemBearer="Gnarled Hide Totem"
+>664 - 7x Minotaurs, C, M, S, Shields, Gnarled Hide Totem
+<Unit name="Minotaurs"
+    Command=CS
+    Shield
+    TotemBearer="Black Wing Totem"
+    BannerEnchantment="Banner of Speed"
+>694 - 7x Minotaurs, Shields, Standard bearer, Banner of Speed, Champion, Totem Bearer, Black Wing
+<Unit name="Minotaurs"
+    Command
+    Shield
+    TotemBearer="Black Wing Totem"
+>748 - 8x Minotaurs, Shield, Standard bearer, Musician, Champion, Totem Bearer, Black Wing Totem
+<Unit name="Minotaurs"
+    Command
+    Shield
+    TotemBearer="Black Wing Totem"
+    BannerEnchantment="Flaming Standard"
+>783 - 8x Minotaurs, Shield, Standard bearer, Musician, Champion, Totem Bearer, Black Wing Totem, Flaming Standard
 <Unit name="Mongrel Herd">140 - 2 x 20x Mongrel Herd
-<Unit name="Mongrel Herd">160- 20 Mongrel Herd , Ambush
-<Unit name="Mongrel Herd">160- 20 Mongrel Herd, M
-<Unit name="Mongrel Herd">240 - 20x Mongrel Herd, Standard Bearer, Banner of the Relentless Company, Musician, Champion
-<Unit name="Mongrel Herd">306 - 27x Mongrel Herd, spear, M, S, C, Banner of the Wild Herd
-<Unit name="Mongrel Herd">330 - 30x Mongrel Herd, Spears, Standard Bearer, Musician, Champion, Banner of the Wild Herd
-<Unit name="Mongrel Herd">330 – 30x Mongrel Herd, Ambush, Spears, M, S, Banner of the Wild Herd
-<Unit name="Mongrel Herd">346 - 32x Mongrel Herd, Spear, M, S, C, Banner of the Wild Herd
-<Unit name="Mongrel Herd">346 – 32x Mongrel Herd, Champion, Musician, Standard bearer, Spear, Banner of the Wild Herd
-<Unit name="Mongrel Herd">350 – 30x Mongrel Herd, Ambush, Spears, M, S, C, Banner of the Wild Herd
-<Unit name="Mongrel Herd">354 – 33x Mongrel Herd, Spear, M, S, C, Banner of the Wild Herd
-<Unit name="Mongrel Herd">370 35 x Mongrel Herd, FCG, Spear, Banner of the Wild Herd
-<Unit name="Mongrel Herd">370- 35x Mongrels, Spear, MSC, Banner of the Wild Herd
-<Unit name="Mongrel Herd">378 - 36x Mongrel Herd, Standard, Musician, Champion, Spears, Banner of the Wild Herd
-<Unit name="Mongrel Herd">386 - 37x Mongrel Herd, Spear, Shield, Champion, Standard Bearer, Musician, Banner of the Wild Herd
-<Unit name="Mongrel Herd">410 - 40x Mongrel Herd, Spears, Standard Bearer, Musician, Champion, Banner of the Wild Herd
-<Unit name="Mongrel Herd">427- 44x Mongrel Herd, Spear, Standard Bearer, Flaming Standard, Musician, Champion
-<Unit name="Mongrel Herd">450 - 2x 45x Mongrel Herd, Spear, Champion, Musician, Standard, Banner of the Wild Herd
-<Unit name="Mongrel Herd">450 - 45 mongrel Herd, Spears, M, S, C, banner of the wild herd
-<Unit name="Mongrel Herd">450 -45x Mongrel Herd, Spear, Standard Bearer, Banner of the Wild Herd, Musician, Champion
-<Unit name="Mongrel Herd">490 - 50x Mongrel Herd, Champion, Standard, Musician, spears, Banner of the Wild Herd
-<Unit name="Mongrel Raider">115 - 10 Mongrel Raiders, Scout&Ambush
-<Unit name="Mongrel Raider">115 - 10x Mongrel Raiders, Scout & Ambush
-<Unit name="Mongrel Raider">115 10 x Mongrel Raiders, Ambush, Scout
-<Unit name="Mongrel Raider">95 - 10 x Mongrel Raiders
-<Unit name="Mongrel Raider">95 - 10x Mongrel Raiders
-<Unit name="Mongrel Raider">95 10 x Mongrel Raiders
+<Unit name="Mongrel Herd"
+    Ambush
+>160- 20 Mongrel Herd , Ambush
+<Unit name="Mongrel Herd"
+    Command=M
+>160- 20 Mongrel Herd, M
+<Unit name="Mongrel Herd"
+    Command
+    BannerEnchantment="Banner of the Relentless Company"
+>240 - 20x Mongrel Herd, Standard Bearer, Banner of the Relentless Company, Musician, Champion
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>306 - 27x Mongrel Herd, spear, M, S, C, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>330 - 30x Mongrel Herd, Spears, Standard Bearer, Musician, Champion, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Ambush
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>330 – 30x Mongrel Herd, Ambush, Spears, M, S, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>346 - 32x Mongrel Herd, Spear, M, S, C, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>346 – 32x Mongrel Herd, Champion, Musician, Standard bearer, Spear, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Ambush
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>350 – 30x Mongrel Herd, Ambush, Spears, M, S, C, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>354 – 33x Mongrel Herd, Spear, M, S, C, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>370 35 x Mongrel Herd, FCG, Spear, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>370- 35x Mongrels, Spear, MSC, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>378 - 36x Mongrel Herd, Standard, Musician, Champion, Spears, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>386 - 37x Mongrel Herd, Spear, Shield, Champion, Standard Bearer, Musician, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>410 - 40x Mongrel Herd, Spears, Standard Bearer, Musician, Champion, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Flaming Standard"
+>427- 44x Mongrel Herd, Spear, Standard Bearer, Flaming Standard, Musician, Champion
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>450 - 2x 45x Mongrel Herd, Spear, Champion, Musician, Standard, Banner of the Wild Herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>450 - 45 mongrel Herd, Spears, M, S, C, banner of the wild herd
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>450 -45x Mongrel Herd, Spear, Standard Bearer, Banner of the Wild Herd, Musician, Champion
+<Unit name="Mongrel Herd"
+    Command
+    CloseCombatWeapon=Spear
+    BannerEnchantment="Banner of the Wild Herd"
+>490 - 50x Mongrel Herd, Champion, Standard, Musician, spears, Banner of the Wild Herd
+<Unit name="Mongrel Raiders"
+    AmbushAndScout
+>115 - 10 Mongrel Raiders, Scout&Ambush
+<Unit name="Mongrel Raiders" AmbushAndScout>115 - 10x Mongrel Raiders, Scout & Ambush
+<Unit name="Mongrel Raiders" AmbushAndScout>115 10 x Mongrel Raiders, Ambush, Scout
+<Unit name="Mongrel Raiders">95 - 10 x Mongrel Raiders
+<Unit name="Mongrel Raiders">95 - 10x Mongrel Raiders
+<Unit name="Mongrel Raiders">95 10 x Mongrel Raiders
 <Unit name="Raiding Chariot">110 - 2 x 1x Raiding Chariot
 <Unit name="Raiding Chariot">110 - 2x 1x Raiding Chariot
 <Unit name="Raiding Chariot">330 - 2 x 3x Raiding Chariots
@@ -183,53 +598,233 @@
 <Unit name="Razortusk Herd">100 – 1x Razortusk Herd
 <Unit name="Razortusk Herd">100 – 2x1 Razortusk Herd
 <Unit name="Razortusk Herd">410 - 2 x 6x Razortusk Herd
-<Unit name="Soothsayer">165 - Soothsayer, The Shamanism, Potion of Strength, Wizard Apprentice
-<Unit name="Soothsayer">230 – Soothsayer, Raiding Chariot, Evocation, Wizard Apprentice, Light  Armour, Ancestral Carvings (Hand Weapon)
-<Unit name="Soothsayer">255 - Soothsayer, Evocation, Adept, Raiding Chariot, Light armor
-<Unit name="Soothsayer">255 - Soothsayer, Shamanism, Adept, Raiding Chariot, Light armor
-<Unit name="Soothsayer">285 Soothsayer, Adept, Druidism, Binding Scroll
-<Unit name="Soothsayer">380 - Soothsayer, Shamanism, Wizard Master
-<Unit name="Soothsayer">435 - Soothsayer, Binding Scroll, Wizard Master, Druidism
-<Unit name="Soothsayer">435 - Soothsayer, Evocation, Wizard Master, Pillager Icon
-<Unit name="Soothsayer">435 – Soothsayer, Shamanism, Binding Scroll, Master Wizard
-<Unit name="Soothsayer">440 - Soothsayer, Shamanism, Wizard Master, Seed of the Dark Forest
-<Unit name="Soothsayer">440 - Soothsayer, The Druidism, Seed of the Dark Forest, Wizard Master
-<Unit name="Soothsayer">440 - Soothsayer,Evocation, Wizard Master, Seed of the Dark Forest
-<Unit name="Soothsayer">440- Soothsayer, Druidism, Master, Seed of the Dark Forest,
-<Unit name="Soothsayer">495 - Soothsayer, Druidism, Seed of the Dark Forest, Binding Scroll, Wizard Master
-<Unit name="Soothsayer">495 - Soothsayer, Shamanism, Wizard Master, Seed of the Dark Forest, Binding Scroll
-<Unit name="Soothsayer">495 - Soothsayer, Wizard Master, 4 spells, Seed of the Dark Forest, binding scroll, Druidism
-<Unit name="Soothsayer">495 Soothsayer, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism
-<Unit name="Soothsayer">495 – Soothsayer, Master, Druidism, Seed of the Dark Forest, Binding Scroll
-<Unit name="Soothsayer">495-Soothsayer, Wizard Master, paired weapon, DRUIDISM, binding scroll, binding scroll
-<Unit name="Soothsayer">505 – Soothsayer, General, Shamanism, Wizard Master, Crown of Autocracy,  Binding Scroll
-<Unit name="Soothsayer">515 - Soothsayer, Wizard Master, Druidism, Dark Rain, Binding Scroll
-<Unit name="Soothsayer">520 - Soothsayer, Druidism, Dark Rain, Seed of the Dark Forest, Master
-<Unit name="Soothsayer">520 - Soothsayer, Shamanism, Dark Rain, Seed of the Dark Forest, Wizard Master
-<Unit name="Soothsayer">520 - Soothsayer, Wizard Master, Druidism, Dark Rain, Seed of the Dark Forest
-<Unit name="Soothsayer">570 Soothsayer, Master, Shamanism, Raiding Chariot, LA, Ancestral Carvings, Trickster’s Cunning, Binding Scroll
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Artefact="Potion of Strength"
+>165 - Soothsayer, The Shamanism, Potion of Strength, Wizard Apprentice
+<Unit name="Soothsayer"
+    Mount="Raiding Chariot"
+    Path=Evocation
+    Armour="Light Armour"
+    WeaponEnchantment="Ancestral Carvings"
+>230 – Soothsayer, Raiding Chariot, Evocation, Wizard Apprentice, Light  Armour, Ancestral Carvings (Hand Weapon)
+<Unit name="Soothsayer"
+    Mount="Raiding Chariot"
+    Path=Evocation
+    Armour="Light Armour"
+    Wizard=Adept
+>255 - Soothsayer, Evocation, Adept, Raiding Chariot, Light armor
+<Unit name="Soothsayer"
+    Mount="Raiding Chariot"
+    Wizard=Adept
+    Path=Shamanism
+    Armour="Light Armour"
+>255 - Soothsayer, Shamanism, Adept, Raiding Chariot, Light armor
+<Unit name="Soothsayer"
+    Wizard=Adept
+    Path=Druidism
+    Artefact="Binding Scroll"
+>285 Soothsayer, Adept, Druidism, Binding Scroll
+<Unit name="Soothsayer"
+    Wizard=Master
+    Path=Shamanism
+>380 - Soothsayer, Shamanism, Wizard Master
+<Unit name="Soothsayer"
+    Wizard=Master
+    Path=Druidism
+    Artefact="Binding Scroll"
+>435 - Soothsayer, Binding Scroll, Wizard Master, Druidism
+<Unit name="Soothsayer"
+    Wizard=Master
+    Path=Evocation
+    Artefact="Pillager Icon"
+>435 - Soothsayer, Evocation, Wizard Master, Pillager Icon
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Artefact="Binding Scroll"
+>435 – Soothsayer, Shamanism, Binding Scroll, Master Wizard
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+>440 - Soothsayer, Shamanism, Wizard Master, Seed of the Dark Forest
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+>440 - Soothsayer, The Druidism, Seed of the Dark Forest, Wizard Master
+<Unit name="Soothsayer"
+    Path=Evocation
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+>440 - Soothsayer,Evocation, Wizard Master, Seed of the Dark Forest
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+>440- Soothsayer, Druidism, Master, Seed of the Dark Forest,
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+    Artefact="Binding Scroll"
+>495 - Soothsayer, Druidism, Seed of the Dark Forest, Binding Scroll, Wizard Master
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+    Artefact="Binding Scroll"
+>495 - Soothsayer, Shamanism, Wizard Master, Seed of the Dark Forest, Binding Scroll
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+    Artefact="Binding Scroll"
+>495 - Soothsayer, Wizard Master, 4 spells, Seed of the Dark Forest, binding scroll, Druidism
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+    Artefact="Binding Scroll"
+>495 Soothsayer, Seed of the Dark Forest, Binding Scroll, Wizard Master, Druidism
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+    Artefact="Binding Scroll"
+>495 – Soothsayer, Master, Druidism, Seed of the Dark Forest, Binding Scroll
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Seed of the Dark Forest"
+    Artefact="Binding Scroll"
+>495-Soothsayer, Wizard Master, paired weapon, DRUIDISM, binding scroll, binding scroll
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Artefact="Crown of Autocracy"
+    Artefact="Binding Scroll"
+>505 – Soothsayer, General, Shamanism, Wizard Master, Crown of Autocracy,  Binding Scroll
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Artefact="Dark Rain"
+    Artefact="Binding Scroll"
+>515 - Soothsayer, Wizard Master, Druidism, Dark Rain, Binding Scroll
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Dark Rain"
+    Artefact="Seed of the Dark Forest"
+>520 - Soothsayer, Druidism, Dark Rain, Seed of the Dark Forest, Master
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Artefact="Dark Rain"
+    Artefact="Seed of the Dark Forest"
+>520 - Soothsayer, Shamanism, Dark Rain, Seed of the Dark Forest, Wizard Master
+<Unit name="Soothsayer"
+    Path=Druidism
+    Wizard=Master
+    Artefact="Dark Rain"
+    Artefact="Seed of the Dark Forest"
+>520 - Soothsayer, Wizard Master, Druidism, Dark Rain, Seed of the Dark Forest
+<Unit name="Soothsayer"
+    Path=Shamanism
+    Wizard=Master
+    Mount="Raiding Chariot"
+    Armour="Light Armour"
+    WeaponEnchantment="Ancestral Carvings"
+    ArmourEnchantment="Trickster's Cunning"
+    Artefact="Binding Scroll"
+>570 Soothsayer, Master, Shamanism, Raiding Chariot, LA, Ancestral Carvings, Trickster’s Cunning, Binding Scroll
 <Unit name="Longhorn Herd">364 - 16x Longhorns, Halberd, Musician, Champion, Totem bearer, Blooded Horn Totem, Ambush
 <Unit name="Soothsayer">540 - Soothsayer, Raiding Chariot, Path of Evocation, Light Armour, Paired Weapons, Dark Rain, Talisman of Shielding, Wizard Master
 <Unit name="Beast Lord">560 - Beastlord, General, Razortusk Chariot, Heavy Armour, Shield, Lance, Blessed Inscriptions, Basalt Infusions, Talisman of Shielding, Eye of Dominance
 <Unit name="Beast Lord">560 Beast Lord, General, Razortusk Chariot, Hunting Call, Beast Axe, HA, Shield, Talisman of Shielding, Eye of Dominance, Basalt Infusion, Fatal Folly
 <Unit name="Wildhorn Herd">150 - 2x 15x Wildhorn Herd
 <Unit name="Wildhorn Herd">150 – 15x Wildhorn Herd
-<Unit name="Wildhorn Herd">170 - 15x Wildhorn Herd, Musician
+<Unit name="Wildhorn Herd"
+    Command=M
+>170 - 15x Wildhorn Herd, Musician
 <Unit name="Wildhorn Herd">170 - 17x Wildhorn Herd
-<Unit name="Wildhorn Herd">200 - 15 wildhorn herd, throwing weapon, Ambush
-<Unit name="Wildhorn Herd">200 - 15x Wildhorn Herd, Ambush, Throwing Weapons (5+)
-<Unit name="Wildhorn Herd">200 - 15x Wildhorn Herd, Throwing Weapons, Ambush
-<Unit name="Wildhorn Herd">200 - 15x Wildhorns, Ambush, Throwing Weapons
-<Unit name="Wildhorn Herd">220 - 15x Wildhorn Herd, Ambush, Throwing Weapons (5+), M
-<Unit name="Wildhorn Herd">220 - 15x Wildhorn Herd, Ambush, Throwing Weapons, M
-<Unit name="Wildhorn Herd">220 - 15x Wildhorn Herd, Throwing Weapons, Musician, Ambush
-<Unit name="Wildhorn Herd">220 - 2x 15x  Wildhorn Herd, Throwing Weapons,  Musician,  Ambush
-<Unit name="Wildhorn Herd">220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, M
-<Unit name="Wildhorn Herd">220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, S
-<Unit name="Wildhorn Herd">220 – 2x15 Wildhorn Herd, Ambush, M, throwing weapons
-<Unit name="Wildhorn Herd">232 - 16x Wildhorn Herd, Ambush, Throwing Weapons, M
-<Unit name="Wildhorn Herd">232 16 x Wildhorn Herd, Mus, TW, Ambush
-<Unit name="Wildhorn Herd">240 – 16x Wildhorn Herd, Shields, Standard bearer, Banner of the  Relentless Company, Musician
-<Unit name="Wildhorn Herd">245 - 19 Wildhorn Herd, S, Shield, Banner of Discipline
-<Unit name="Wildhorn Herd">2x 200 - 2x 15xWildhorn Herd, Ambush, Throwing Weapons
-<Unit name="Wildhorn Herd">335 - 20x Wildhorn Herd, Standard, Musician, banner of Discipline, ambush, throwing weapons
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+>200 - 15 wildhorn herd, throwing weapon, Ambush
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+>200 - 15x Wildhorn Herd, Ambush, Throwing Weapons (5+)
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+>200 - 15x Wildhorn Herd, Throwing Weapons, Ambush
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+>200 - 15x Wildhorns, Ambush, Throwing Weapons
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>220 - 15x Wildhorn Herd, Ambush, Throwing Weapons (5+), M
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>220 - 15x Wildhorn Herd, Ambush, Throwing Weapons, M
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>220 - 15x Wildhorn Herd, Throwing Weapons, Musician, Ambush
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>220 - 2x 15x  Wildhorn Herd, Throwing Weapons,  Musician,  Ambush
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, M
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=S
+>220 – 15x Wildhorn Herd, Ambush, Throwing Weapons, S
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>220 – 2x15 Wildhorn Herd, Ambush, M, throwing weapons
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>232 - 16x Wildhorn Herd, Ambush, Throwing Weapons, M
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=M
+>232 16 x Wildhorn Herd, Mus, TW, Ambush
+<Unit name="Wildhorn Herd"
+    Command=MS
+    BannerEnchantment="Banner of the Relentless Company"
+>240 – 16x Wildhorn Herd, Shields, Standard bearer, Banner of the Relentless Company, Musician
+<Unit name="Wildhorn Herd"
+    Command=S
+    BannerEnchantment="Banner of Discipline"
+>245 - 19 Wildhorn Herd, S, Shield, Banner of Discipline
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+>2x 200 - 2x 15xWildhorn Herd, Ambush, Throwing Weapons
+<Unit name="Wildhorn Herd"
+    Ambush
+    CloseCombatWeapon="Throwing Weapon"
+    Command=MS
+    BannerEnchantment="Banner of Discipline"
+>335 - 20x Wildhorn Herd, Standard, Musician, banner of Discipline, ambush, throwing weapons
